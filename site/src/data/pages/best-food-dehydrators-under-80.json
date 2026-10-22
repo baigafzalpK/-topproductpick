@@ -1,0 +1,123 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Food Dehydrators Under $80",
+  "h1": "The 5 Best Food Dehydrators Under $80",
+  "metaDescription": "Our 5 picks for food dehydrators under $80, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at food dehydrators under $80 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-food-dehydrators",
+  "related": [
+    "best-food-dehydrators"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "NESCO FD-75A Snackmaster Pro Food Dehydrator",
+        "brand": "NESCO",
+        "asin": "B0BRMJDR9R",
+        "blurb": "Key specs: Adjustable thermostat, 95°F to 160°F, 5 trays included, expandable to 12, 600W top-mounted fan with Converga-Flow.",
+        "strengths": [
+          "160°F ceiling covers jerky, fruit, vegetables, and herbs in one machine",
+          "Expandable tray system scales up without replacing the whole unit",
+          "One of the best-selling and longest-running dehydrators on the market",
+          "Compact footprint fits easily on a counter or in a cabinet"
+        ],
+        "limitations": [
+          "5-tray starting capacity is modest without buying add-on trays",
+          "Top-mounted fan needs tray rotation for even drying",
+          "No digital display, uses an analog dial for temperature"
+        ],
+        "features": [
+          "Adjustable thermostat, 95°F to 160°F",
+          "5 trays included, expandable to 12",
+          "600W top-mounted fan with Converga-Flow",
+          "Compact stackable design",
+          "Typically $60 to $80"
+        ]
+      },
+      {
+        "name": "Presto 06301 Dehydro Digital Electric Food Dehydrator",
+        "brand": "Presto",
+        "asin": "B008H2OEKK",
+        "blurb": "Key specs: Digital thermostat and timer, 90°F to 165°F, 6 trays included, expandable to 12, Bottom-mounted fan.",
+        "strengths": [
+          "Digital timer and thermostat are easier to read and set precisely than an analog dial",
+          "165°F ceiling covers meat safe-start temperatures with room to spare",
+          "Nesting trays make this the most compact of the budget picks to store",
+          "Includes mesh screens and fruit roll sheets in the box, no extra accessory purchase"
+        ],
+        "limitations": [
+          "Bottom-mounted fan means the lowest tray dries fastest",
+          "6-tray starting capacity, similar limitation to the NESCO for larger batches",
+          "Slightly higher typical price than the NESCO"
+        ],
+        "features": [
+          "Digital thermostat and timer, 90°F to 165°F",
+          "6 trays included, expandable to 12",
+          "Bottom-mounted fan",
+          "Nesting trays, over 40% smaller footprint stored",
+          "Includes mesh screens and fruit roll sheets"
+        ]
+      },
+      {
+        "name": "Elite Gourmet EFD319 Food Dehydrator, 5 Trays",
+        "brand": "Elite Gourmet",
+        "asin": "B08BSQZ2LS",
+        "blurb": "",
+        "strengths": [
+          "Low price",
+          "Adjustable temperature up to about 158°F",
+          "Dishwasher-safe trays (top rack)",
+          "Compact for small kitchens"
+        ],
+        "limitations": [
+          "Vertical airflow means rotating trays for even drying",
+          "Five trays limit batch size",
+          "No timer"
+        ],
+        "features": []
+      },
+      {
+        "name": "Elite Gourmet EFD3321 Food Dehydrator with Stainless Trays",
+        "brand": "Elite Gourmet",
+        "asin": "B08FVNF6KV",
+        "blurb": "",
+        "strengths": [
+          "Stainless steel tray bottoms",
+          "Simple adjustable temperature",
+          "Compact",
+          "Affordable"
+        ],
+        "limitations": [
+          "Low wattage dries slowly",
+          "Needs tray rotation",
+          "No timer or auto shutoff"
+        ],
+        "features": []
+      },
+      {
+        "name": "NESCO FD-37A 4-Tray Food Dehydrator",
+        "brand": "NESCO",
+        "asin": "B00CS5ZI6G",
+        "blurb": "",
+        "strengths": [
+          "No tray rotation needed",
+          "Expandable to 7 trays",
+          "Trays and base are dishwasher safe",
+          "Low price"
+        ],
+        "limitations": [
+          "No temperature control",
+          "Small 4-tray starting capacity",
+          "Fixed 160°F is hot for delicate herbs"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

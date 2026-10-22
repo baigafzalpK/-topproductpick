@@ -1,0 +1,115 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Leaf Blowers Under $100",
+  "h1": "The 5 Best Leaf Blowers Under $100",
+  "metaDescription": "Our 5 picks for leaf blowers under $100, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at leaf blowers under $100 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-leaf-blowers",
+  "related": [
+    "best-leaf-blowers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Toro PowerJet F700 Corded Electric Leaf Blower",
+        "brand": "Toro",
+        "asin": "B00TNCJU3E",
+        "blurb": "Key specs: 725 CFM airflow, 140 MPH air speed, 12-amp motor, No battery required.",
+        "strengths": [
+          "No battery to buy separately keeps the total cost fixed at the sticker price",
+          "Unlimited runtime as long as it's plugged in"
+        ],
+        "limitations": [
+          "Cord limits range without an extension cord",
+          "Not ideal for ladder-based gutter work"
+        ],
+        "features": [
+          "725 CFM airflow, 140 MPH air speed",
+          "12-amp motor",
+          "No battery required",
+          "Variable-speed dial"
+        ]
+      },
+      {
+        "name": "Greenworks 40V 185 MPH 340 CFM Cordless Blower/Vacuum",
+        "brand": "Greenworks",
+        "asin": "B00DRBBRVU",
+        "blurb": "Key specs: 185 MPH / 340 CFM brushless motor, Includes 4.0Ah battery and charger, 2-in-1 blower and vacuum with bag.",
+        "strengths": [
+          "No cord management, easiest option for smaller yards",
+          "Vacuum mode adds real utility beyond just blowing"
+        ],
+        "limitations": [
+          "340 CFM is the lowest airflow figure in this category's core lineup",
+          "Best for light to moderate leaf volume, not heavy piles",
+          "Battery doesn't share a platform with EGO or Ryobi"
+        ],
+        "features": [
+          "185 MPH / 340 CFM brushless motor",
+          "Includes 4.0Ah battery and charger",
+          "2-in-1 blower and vacuum with bag",
+          "7.3 lb lightweight design"
+        ]
+      },
+      {
+        "name": "Ryobi 40V HP Brushless Whisper Series 650 CFM Leaf Blower (Tool Only)",
+        "brand": "Ryobi",
+        "asin": "B07N2XRHKM",
+        "blurb": "Key specs: 40V HP Brushless motor, 650 CFM / 160 MPH, Sold tool-only in most budget listings, Whisper Series low-noise housing.",
+        "strengths": [
+          "650 CFM is the highest airflow among the budget-priced options here",
+          "Quieter operation than most blowers in this price range"
+        ],
+        "limitations": [],
+        "features": [
+          "40V HP Brushless motor, 650 CFM / 160 MPH",
+          "Sold tool-only in most budget listings",
+          "Whisper Series low-noise housing",
+          "Cruise control trigger lock"
+        ]
+      },
+      {
+        "name": "WORX WG547 20V Cordless Turbine Leaf Blower",
+        "brand": "WORX",
+        "asin": "B07MFW7PNC",
+        "blurb": "",
+        "strengths": [
+          "Light and easy to handle",
+          "Turbine fan design",
+          "Battery and charger included",
+          "PowerShare battery platform"
+        ],
+        "limitations": [
+          "Not for big wet leaf piles",
+          "Short runtime on high",
+          "Small battery"
+        ],
+        "features": []
+      },
+      {
+        "name": "BLACK+DECKER 20V MAX Cordless Leaf Blower (LSW221)",
+        "brand": "BLACK+DECKER",
+        "asin": "B01BNMP6CU",
+        "blurb": "",
+        "strengths": [
+          "Very light and easy to use",
+          "Battery and charger included",
+          "Good for sweeping hard surfaces",
+          "Affordable"
+        ],
+        "limitations": [
+          "Low airflow for lawns full of leaves",
+          "Short runtime",
+          "Not for wet leaves"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

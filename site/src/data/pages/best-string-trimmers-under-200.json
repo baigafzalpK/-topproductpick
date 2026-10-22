@@ -1,0 +1,142 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 6 Best String Trimmers Under $200",
+  "h1": "The 6 Best String Trimmers Under $200",
+  "metaDescription": "Our 6 picks for string trimmers under $200, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at string trimmers under $200 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-string-trimmers",
+  "related": [
+    "best-string-trimmers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "EGO Power+ ST1521S 15-Inch String Trimmer",
+        "brand": "EGO",
+        "asin": "B07BBW8P9Y",
+        "blurb": "Key specs: 15-inch cutting swath with POWERLOAD auto-feed, 56V ARC Lithium battery, 2.5Ah included, Carbon fiber split shaft.",
+        "strengths": [
+          "POWERLOAD auto-feed removes the most annoying part of trimmer maintenance",
+          "Carbon fiber shaft keeps weight down despite the larger battery and motor"
+        ],
+        "limitations": [
+          "Near the top of this price band once accessories are added",
+          "56V battery doesn't interchange with more common 40V ecosystems"
+        ],
+        "features": [
+          "15-inch cutting swath with POWERLOAD auto-feed",
+          "56V ARC Lithium battery, 2.5Ah included",
+          "Carbon fiber split shaft",
+          "Brushless motor",
+          "Typically $170 to $200"
+        ],
+        "badge": "Best overall"
+      },
+      {
+        "name": "Husqvarna 128LD Gas String Trimmer",
+        "brand": "Husqvarna",
+        "asin": "B004Q0HUYO",
+        "blurb": "Key specs: 28cc 2-cycle gas engine, 17-inch cutting swath, Straight shaft with Tap 'n Go head.",
+        "strengths": [
+          "More raw cutting power than any battery trimmer at this price",
+          "17-inch swath and unlimited runtime suit larger properties",
+          "Click-on attachment compatibility adds versatility for edging and blowing"
+        ],
+        "limitations": [
+          "Requires mixed fuel, oil, and periodic carburetor maintenance",
+          "Heavier and louder than the EGO or any cordless model"
+        ],
+        "features": [
+          "28cc 2-cycle gas engine",
+          "17-inch cutting swath",
+          "Straight shaft with Tap 'n Go head",
+          "Smart Start recoil system",
+          "Typically $180 to $220"
+        ]
+      },
+      {
+        "name": "Worx WG183 40V String Trimmer",
+        "brand": "Worx",
+        "asin": "B08RW9X1QM",
+        "blurb": "Key specs: 13-inch dual-exit cutting head, 40V PowerShare, 2 x 2.0Ah batteries included, Under 5 pounds.",
+        "strengths": [
+          "Two batteries included covers most yards without a runtime concern",
+          "Lightest trimmer in this comparison"
+        ],
+        "limitations": [
+          "Less motor power and swath width than the EGO or Husqvarna",
+          "Not the pick if maximum cutting performance is the goal at this budget"
+        ],
+        "features": [
+          "13-inch dual-exit cutting head",
+          "40V PowerShare, 2 x 2.0Ah batteries included",
+          "Under 5 pounds",
+          "Pivoting head",
+          "Typically under $100, leaving room in a $200 budget for accessories"
+        ]
+      },
+      {
+        "name": "Greenworks 40V 12-Inch Cordless String Trimmer",
+        "brand": "Greenworks",
+        "asin": "B01GEW1AJC",
+        "blurb": "Key specs: 12-inch cutting swath, 40V lithium battery, 2.0Ah included, Dual line auto-feed.",
+        "strengths": [
+          "3-year warranty adds confidence at a budget price",
+          "Adequate performance for small to medium yards"
+        ],
+        "limitations": [
+          "Narrowest swath and smallest battery in this comparison"
+        ],
+        "features": [
+          "12-inch cutting swath",
+          "40V lithium battery, 2.0Ah included",
+          "Dual line auto-feed",
+          "3-year warranty",
+          "Typically $80 to $100"
+        ]
+      },
+      {
+        "name": "EGO Power+ ST1511T 15\" Cordless String Trimmer",
+        "brand": "EGO",
+        "asin": "B08VRVVFHJ",
+        "blurb": "",
+        "strengths": [
+          "Gas-like power for thick weeds",
+          "PowerLoad winds line automatically",
+          "Telescopic shaft",
+          "Battery and charger included"
+        ],
+        "limitations": [
+          "Heavier than 20V trimmers",
+          "EGO battery platform lock-in",
+          "Premium price"
+        ],
+        "features": []
+      },
+      {
+        "name": "Greenworks 40V 16\" Cordless String Trimmer (4.0Ah Kit)",
+        "brand": "Greenworks",
+        "asin": "B0BF9ZK3QB",
+        "blurb": "",
+        "strengths": [
+          "Wide 16-inch cutting path",
+          "4.0Ah battery for longer runs",
+          "Shares the Greenworks 40V platform",
+          "Quieter than gas"
+        ],
+        "limitations": [
+          "Heavier than 24V trimmers",
+          "Bump feed needs occasional rewinding",
+          "Not as powerful as 56V+ models"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

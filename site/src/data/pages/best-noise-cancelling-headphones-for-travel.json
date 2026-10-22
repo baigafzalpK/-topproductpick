@@ -1,0 +1,75 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Noise Cancelling Headphones for Travel 2026",
+  "h1": "The 3 Best Noise Cancelling Headphones for Travel 2026",
+  "metaDescription": "Our 3 picks for noise cancelling headphones for travel 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at noise cancelling headphones for travel 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "noise-cancelling-headphones",
+  "related": [
+    "noise-cancelling-headphones"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Sony WH-1000XM5",
+        "brand": "Sony WH-1000XM5",
+        "asin": "B09XS7JWHH",
+        "blurb": "",
+        "strengths": [
+          "Industry-leading ANC for aircraft cabin noise (100-200 Hz range)",
+          "30-hour battery handles transatlantic flights with margin",
+          "Auto-pause when you remove the headphones saves battery mid-flight",
+          "Wear detection means music stops when you take them off for announcements"
+        ],
+        "limitations": [
+          "Does not fold flat like XM4, takes more bag space",
+          "Ear cups less comfortable than Bose QC45 on 10+ hour flights"
+        ],
+        "features": [],
+        "badge": "Best overall",
+        "bestFor": "travel"
+      },
+      {
+        "name": "Apple AirPods Max",
+        "brand": "Apple AirPods",
+        "asin": "B09JQMJHXY",
+        "blurb": "",
+        "strengths": [
+          "Best ANC available for Apple ecosystem users with Siri integration",
+          "Transparency mode is the most natural-sounding of any headphone",
+          "Spatial audio with head tracking works on Apple devices"
+        ],
+        "limitations": [
+          "Metal construction adds significant weight for travel use",
+          "20-hour battery is shorter than Sony and Bose competitors",
+          "High price hard to justify vs Sony XM5 for non-Apple users"
+        ],
+        "features": [],
+        "bestFor": "travel"
+      },
+      {
+        "name": "Plantronics BackBeat Pro 5100",
+        "brand": "Plantronics BackBeat",
+        "asin": "B07Q9MJKBV",
+        "blurb": "",
+        "strengths": [
+          "True flat-fold design for maximum bag efficiency",
+          "Strong call quality for business travel",
+          "Compatible with Poly Lens app for enterprise management"
+        ],
+        "limitations": [
+          "ANC coverage narrower than Sony and Bose flagships",
+          "Less refined audio for music listening"
+        ],
+        "features": [],
+        "bestFor": "travel"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

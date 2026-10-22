@@ -1,0 +1,145 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 6 Best Automatic Pet Feeders for Cats on Diets",
+  "h1": "The 6 Best Automatic Pet Feeders for Cats on Diets",
+  "metaDescription": "Our 6 picks for automatic pet feeders for cats on diets, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at automatic pet feeders for cats on diets using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-automatic-pet-feeders",
+  "related": [
+    "best-automatic-pet-feeders"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "PetSafe Smart Feed Automatic Dog & Cat Feeder",
+        "brand": "PetSafe",
+        "asin": "B073WYP317",
+        "blurb": "Key specs: Portions from 1/8 cup to 4 cups per meal, Up to 12 scheduled meals per day, Slow Feed setting releases food over about 15 minutes.",
+        "strengths": [
+          "1/8-cup increments allow closer matching to a vet-prescribed portion than half-cup feeders",
+          "Slow Feed setting addresses fast eating alongside portion control",
+          "Frequent small meals (up to 12/day) can be programmed to reduce begging between feedings"
+        ],
+        "limitations": [
+          "No mechanism to stop a housemate pet from also eating the diet cat's portion",
+          "Auger accuracy can drift with very small kibble or crumbly diet formulas",
+          "Requires periodic manual verification against a measuring cup"
+        ],
+        "features": [
+          "Portions from 1/8 cup to 4 cups per meal",
+          "Up to 12 scheduled meals per day",
+          "Slow Feed setting releases food over about 15 minutes",
+          "App alerts when the hopper is running low",
+          "24-cup / 6L capacity"
+        ],
+        "bestFor": "cats on diets"
+      },
+      {
+        "name": "SureFeed Microchip Pet Feeder Connect",
+        "brand": "SureFeed",
+        "asin": "B07RHZHHGN",
+        "blurb": "Key specs: Microchip and RFID collar tag recognition, Sealed lid prevents access between registered visits, Training mode for gradual lid-opening introduction.",
+        "strengths": [
+          "Guarantees the diet cat's bowl stays off-limits to a food-motivated housemate",
+          "Sealed lid also keeps wet prescription food fresher between small meals",
+          "3-year warranty reflects durability built for daily long-term use"
+        ],
+        "limitations": [
+          "Doesn't measure or schedule portions on its own; portioning is still manual per fill",
+          "Connect app features need a separately sold hub",
+          "Higher price than a standard hopper feeder"
+        ],
+        "features": [
+          "Microchip and RFID collar tag recognition",
+          "Sealed lid prevents access between registered visits",
+          "Training mode for gradual lid-opening introduction",
+          "Suitable for both wet and dry prescription diets"
+        ],
+        "bestFor": "cats on diets"
+      },
+      {
+        "name": "Cat Mate C500 Digital 5-Meal Automatic Feeder",
+        "brand": "Cat Mate",
+        "asin": "B01AUYLVU8",
+        "blurb": "Key specs: 5 individual pre-portioned compartments, Digital timer with an initial feed plus 4 scheduled meals, Included ice packs keep wet food cold for hours.",
+        "strengths": [
+          "Pre-portioning each of the 5 compartments by hand guarantees exact serving sizes, no auger drift possible",
+          "Ice packs make it genuinely usable for a wet-food weight-management diet, not just dry kibble",
+          "Lower price than an app-connected feeder for a single diet cat"
+        ],
+        "limitations": [
+          "Caps out at 5 meals total before it needs refilling and resetting",
+          "No app, so there's no remote alert if a meal fails to dispense"
+        ],
+        "features": [
+          "5 individual pre-portioned compartments",
+          "Digital timer with an initial feed plus 4 scheduled meals",
+          "Included ice packs keep wet food cold for hours",
+          "Runs on 3 AA batteries"
+        ],
+        "bestFor": "cats on diets"
+      },
+      {
+        "name": "PETLIBRO Granary 5L Automatic Pet Feeder (Button Model)",
+        "brand": "PETLIBRO",
+        "asin": "B0986RKZN6",
+        "blurb": "",
+        "strengths": [
+          "No app or Wi-Fi needed; set it on the unit",
+          "Up to 6 meals a day with small 20 ml portions for portion control",
+          "Runs on D batteries as power backup",
+          "Large 5-liter hopper"
+        ],
+        "limitations": [
+          "No remote monitoring",
+          "Dry food only",
+          "Programming via buttons is less intuitive than an app"
+        ],
+        "features": []
+      },
+      {
+        "name": "Closer Pets 5-Meal Automatic Pet Feeder",
+        "brand": "Closer Pets",
+        "asin": "B0BBMDHL27",
+        "blurb": "",
+        "strengths": [
+          "Five timed meals for portion control",
+          "Works with wet or dry food",
+          "Stainless steel bowls",
+          "Tamper-resistant lid"
+        ],
+        "limitations": [
+          "Small 330 g per bowl",
+          "Bowls need refilling individually",
+          "Battery powered"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "Cat Mate C3000 Automatic Dry Food Feeder",
+        "brand": "Cat Mate",
+        "asin": "B004BLVFSK",
+        "blurb": "",
+        "strengths": [
+          "Portion-controlled meals",
+          "Battery powered",
+          "Simple digital timer",
+          "Dishwasher-safe bowl"
+        ],
+        "limitations": [
+          "Dry food only",
+          "Small capacity",
+          "No app or alerts"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

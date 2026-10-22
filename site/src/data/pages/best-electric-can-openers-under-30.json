@@ -1,0 +1,66 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 2 Best Electric Can Openers Under $30",
+  "h1": "The 2 Best Electric Can Openers Under $30",
+  "metaDescription": "Our 2 picks for electric can openers under $30, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at electric can openers under $30 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-electric-can-openers",
+  "related": [
+    "best-electric-can-openers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Hamilton Beach Smooth Touch Electric Can Opener",
+        "brand": "Hamilton Beach",
+        "asin": "B000SAS5GI",
+        "blurb": "Key specs: Typically $25 to $30, Push-down lever, Smooth-edge cutting.",
+        "strengths": [
+          "Typically the least expensive pick here that still includes extra-tall can capacity",
+          "Includes a pair of stainless steel scissors as a genuine bonus, not just packaging filler"
+        ],
+        "limitations": [
+          "No automatic stop or digital feedback of any kind",
+          "Basic black-and-chrome finish rather than a premium look",
+          "Corded design needs a nearby outlet"
+        ],
+        "features": [
+          "Typically $25 to $30",
+          "Push-down lever",
+          "Smooth-edge cutting",
+          "Extra-tall opening",
+          "Stainless steel scissors included"
+        ],
+        "badge": "Top pick"
+      },
+      {
+        "name": "Cuisinart Deluxe Electric Can Opener CCO-50N",
+        "brand": "Cuisinart",
+        "asin": "B001D9B2R2",
+        "blurb": "Key specs: Typically $35 to $45, Single-touch automatic operation, Nonslip wide base.",
+        "strengths": [
+          "Automatic stop and nonslip base are usually reserved for pricier models",
+          "3-year warranty is longer than most budget competitors offer",
+          "Worth stretching the budget slightly for the added convenience features"
+        ],
+        "limitations": [
+          "Bulkier footprint than the more compact budget picks",
+          "Fewer long-term reviews than the two cheaper options here"
+        ],
+        "features": [
+          "Typically $35 to $45",
+          "Single-touch automatic operation",
+          "Nonslip wide base",
+          "Automatic stop",
+          "3-year limited warranty"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

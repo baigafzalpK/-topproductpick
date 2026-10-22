@@ -1,0 +1,91 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Luggage for Business Trips",
+  "h1": "The 3 Best Luggage for Business Trips",
+  "metaDescription": "Our 3 picks for luggage for business trips, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at luggage for business trips using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-luggage",
+  "related": [
+    "best-luggage"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Briggs & Riley Baseline 22-Inch Carry-On Spinner",
+        "brand": "Briggs & Riley",
+        "asin": "B00XDI6SJ8",
+        "blurb": "Key specs: 22-inch expandable softside carry-on, Internal garment system for suits and dresses, One-touch compression packing system.",
+        "strengths": [
+          "Internal garment system keeps a suit jacket meaningfully flatter than a standard packing cube layout",
+          "Double-swivel wheels hold up to weekly airport use better than basic caster wheels",
+          "Lifetime guarantee is the strongest warranty of any bag in this category, valuable for a bag used every week"
+        ],
+        "limitations": [
+          "No dedicated front laptop compartment, laptop shares the main compartment",
+          "Understated black and navy colorways only, no bright options for quick identification on a crowded jet bridge"
+        ],
+        "features": [
+          "22-inch expandable softside carry-on",
+          "Internal garment system for suits and dresses",
+          "One-touch compression packing system",
+          "Double-swivel spinner wheels",
+          "Simple As That lifetime guarantee"
+        ],
+        "badge": "Top pick",
+        "bestFor": "business trips"
+      },
+      {
+        "name": "Monos Carry-On Pro 22-Inch Hardside Spinner",
+        "brand": "Monos",
+        "asin": "B0FP46BTQN",
+        "blurb": "Key specs: Padded front compartment fits a 16-inch laptop, 36L polycarbonate hardshell, 360-degree spinner wheels.",
+        "strengths": [
+          "Front laptop compartment is the fastest at-gate access of any bag in this list",
+          "Highest owner rating in this category at 4.8 out of 5",
+          "Hardshell resists scuffing from repeated overhead bin loading better than softside"
+        ],
+        "limitations": [
+          "No built-in garment suiter, suits need to be rolled or laundry-bagged",
+          "Fixed 36L capacity with no expansion panel"
+        ],
+        "features": [
+          "Padded front compartment fits a 16-inch laptop",
+          "36L polycarbonate hardshell",
+          "360-degree spinner wheels",
+          "TSA-accepted lock",
+          "Lifetime warranty"
+        ],
+        "bestFor": "business trips"
+      },
+      {
+        "name": "Travelpro Platinum Elite 29-Inch Checked Spinner",
+        "brand": "Travelpro",
+        "asin": "B07DL4DYMW",
+        "blurb": "Key specs: 29-inch expandable softside shell, Fold-out garment suiter, 8 MagnaTrac spinner wheels.",
+        "strengths": [
+          "Fold-out suiter keeps a full suit meaningfully more wrinkle-free than rolling",
+          "8-wheel tracking handles a packed conference-week bag without pulling to one side",
+          "Deluxe tie-down straps keep folded shirts and slacks from shifting in transit"
+        ],
+        "limitations": [
+          "29-inch size is checked-bag territory, not suited for carry-on-only weekly trips",
+          "Heavier empty weight than the carry-on options in this list"
+        ],
+        "features": [
+          "29-inch expandable softside shell",
+          "Fold-out garment suiter",
+          "8 MagnaTrac spinner wheels",
+          "Removable quart-size compliant toiletry pocket",
+          "USB port on carry-on companion sizes"
+        ],
+        "bestFor": "business trips"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

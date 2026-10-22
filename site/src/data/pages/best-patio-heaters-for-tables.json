@@ -1,0 +1,127 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Patio Heaters for Tables",
+  "h1": "The 5 Best Patio Heaters for Tables",
+  "metaDescription": "Our 5 picks for patio heaters for tables, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at patio heaters for tables using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-patio-heaters",
+  "related": [
+    "best-patio-heaters"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Fire Sense 60262 Tabletop Patio Heater",
+        "brand": "Fire Sense",
+        "asin": "B000FLGFZS",
+        "blurb": "Key specs: 10,000 BTU propane burner, Stainless steel construction, Auto-shutoff tilt valve.",
+        "strengths": [
+          "The auto-shutoff tilt valve is the strongest safety feature of any tabletop heater in this price range",
+          "Stainless steel finish matches most outdoor dining sets without looking like an accessory bolted on",
+          "10,000 BTU is a genuinely comfortable amount of heat for a 4 to 6 foot table"
+        ],
+        "limitations": [
+          "1lb cylinders need swapping every few hours of continuous use",
+          "Not rated for covered or low-airflow dining spaces",
+          "No adjustable heat dial, it runs at one fixed output"
+        ],
+        "features": [
+          "10,000 BTU propane burner",
+          "Stainless steel construction",
+          "Auto-shutoff tilt valve",
+          "CSA approved, runs on a 1lb cylinder"
+        ],
+        "badge": "Top pick",
+        "bestFor": "tables"
+      },
+      {
+        "name": "Mr. Heater 11,000 BTU Table Top Patio Heater",
+        "brand": "Mr. Heater",
+        "asin": "B0C1LDBQGL",
+        "blurb": "Key specs: 8,000 to 11,000 BTU adjustable output, 1lb propane cylinder compatible, Piezo push-button ignition.",
+        "strengths": [
+          "Adjustable dial lets you scale heat down on milder evenings instead of one fixed setting",
+          "Piezo ignition lights consistently without a separate lighter or match",
+          "Slightly higher max BTU than the Fire Sense at full output"
+        ],
+        "limitations": [
+          "Lacks the auto-shutoff tilt valve featured on the Fire Sense",
+          "Runs through 1lb cylinders quickly at the higher end of its output range",
+          "Fewer long-term owner reviews than the more established Fire Sense line"
+        ],
+        "features": [
+          "8,000 to 11,000 BTU adjustable output",
+          "1lb propane cylinder compatible",
+          "Piezo push-button ignition",
+          "Compact footprint"
+        ],
+        "bestFor": "tables"
+      },
+      {
+        "name": "Dr. Infrared Heater Carbon Infrared Patio Heater",
+        "brand": "Dr. Infrared Heater",
+        "asin": "B09LVXFXK7",
+        "blurb": "Key specs: 120V / 1500W carbon infrared element, Includes a tripod for freestanding use, 3 heat settings.",
+        "strengths": [
+          "The included tripod lets it stand beside a table rather than sit on it, keeping the table surface free for food",
+          "No flame near the table, an easier sell for households nervous about open-flame heaters near kids",
+          "Weatherproof rating means it can stay set up through light rain"
+        ],
+        "limitations": [
+          "Needs an outdoor-rated outlet within cord reach of the table",
+          "Larger footprint on the ground than a true tabletop unit",
+          "More expensive than either propane tabletop option here"
+        ],
+        "features": [
+          "120V / 1500W carbon infrared element",
+          "Includes a tripod for freestanding use",
+          "3 heat settings",
+          "IP55 weatherproof rating"
+        ],
+        "bestFor": "tables"
+      },
+      {
+        "name": "Hiland HLDS032-B Tabletop Patio Heater, 11,000 BTU",
+        "brand": "Hiland",
+        "asin": "B000APUGTU",
+        "blurb": "",
+        "strengths": [
+          "Warms a table area without floor space",
+          "Thermocouple and anti-tilt safety shutoffs",
+          "Runs on 1 lb or 20 lb propane",
+          "Stainless steel finish"
+        ],
+        "limitations": [
+          "Small heat radius",
+          "1 lb cylinders run out quickly",
+          "Needs shelter from wind"
+        ],
+        "features": []
+      },
+      {
+        "name": "EAST OAK 11,000 BTU Tabletop Patio Heater",
+        "brand": "EAST OAK",
+        "asin": "B0C6THVMTS",
+        "blurb": "",
+        "strengths": [
+          "304 stainless steel burner",
+          "Triple protection safety system",
+          "Weighted base for stability",
+          "Portable"
+        ],
+        "limitations": [
+          "Small coverage area",
+          "Propane cylinders sold separately",
+          "Wind reduces effectiveness"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Quiet Window Air Conditioners, Ranked by Decibel Rating",
+  "h1": "The 4 Best Quiet Window Air Conditioners, Ranked by Decibel Rating",
+  "metaDescription": "Our 4 picks for quiet window air conditioners, ranked by decibel rating, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at quiet window air conditioners, ranked by decibel rating using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-window-air-conditioners",
+  "related": [
+    "best-window-air-conditioners"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Midea 8,000 BTU U-Shaped Smart Inverter Window Air Conditioner",
+        "brand": "Midea",
+        "asin": "B0FDQGPCG7",
+        "blurb": "Key specs: As low as 32 dBA on low fan, Inverter compressor avoids full on/off cycling, U-shaped frame moves the compressor outside the window.",
+        "strengths": [
+          "32 dBA is the lowest published rating of any unit in this category",
+          "Inverter compressor holds a steady low hum instead of the startup burst of a cycling unit",
+          "U-shaped frame physically relocates the noisiest component outside the room",
+          "Owner reviews consistently cite it as noticeably quieter than a previous standard unit"
+        ],
+        "limitations": [
+          "Installation across the window sash takes longer than a standard slide-in unit",
+          "Midea's 2025 recall and repair program covers some early U-shaped units over a mold-related drain issue",
+          "Costs more than a comparable fixed-speed unit without inverter technology"
+        ],
+        "features": [
+          "As low as 32 dBA on low fan",
+          "Inverter compressor avoids full on/off cycling",
+          "U-shaped frame moves the compressor outside the window",
+          "8,000 BTU, cools up to 350 sq ft"
+        ],
+        "bestFor": "quiet operation"
+      },
+      {
+        "name": "GE Profile ClearView 8,300 BTU Smart Window Air Conditioner AHTT08BC",
+        "brand": "GE Profile",
+        "asin": "B09HF5VMV6",
+        "blurb": "Key specs: 41 dB rated operation, 8,300 BTU, cools up to 350 sq ft, Flex-depth frame for a tighter, less rattly fit.",
+        "strengths": [
+          "41 dB is genuinely quiet for a unit without an inverter compressor",
+          "Flex-depth frame seals more snugly against the window, reducing rattle noise",
+          "Higher BTU than the LG or Frigidaire at a comparable noise level",
+          "Marketed and independently reported as one of the quieter non-inverter window units"
+        ],
+        "limitations": [
+          "Still audible during initial compressor startup, unlike the Midea's smoother inverter ramp",
+          "Priced meaningfully above the LG and Midea",
+          "41 dB applies to steady-state cooling; fan-only mode is quieter but doesn't dehumidify"
+        ],
+        "features": [
+          "41 dB rated operation",
+          "8,300 BTU, cools up to 350 sq ft",
+          "Flex-depth frame for a tighter, less rattly fit",
+          "Sits below the sill rather than filling the window opening"
+        ],
+        "bestFor": "quiet operation"
+      },
+      {
+        "name": "Frigidaire 8,000 BTU Smart Inverter Window Air Conditioner FHWW085WE1",
+        "brand": "Frigidaire",
+        "asin": "B0CFYFCNBW",
+        "blurb": "Key specs: 42 dBA rated operation, Inverter compressor, 6-way directional airflow.",
+        "strengths": [
+          "Inverter compressor keeps the 42 dBA rating close to the GE Profile's despite a lower price",
+          "6-way vents let you point airflow away from a bed or desk to reduce the sensation of direct fan noise",
+          "PureAir washable filter is simple to maintain, which keeps fan noise from climbing over time"
+        ],
+        "limitations": [
+          "42 dBA is the highest rating among the three quiet-focused units here",
+          "Fewer long-term owner reviews to confirm noise consistency after a full season",
+          "6-way vent adjustment takes some trial and error to find the quietest airflow angle"
+        ],
+        "features": [
+          "42 dBA rated operation",
+          "Inverter compressor",
+          "6-way directional airflow",
+          "8,000 BTU, cools up to 350 sq ft"
+        ],
+        "bestFor": "quiet operation"
+      },
+      {
+        "name": "LG 8,000 BTU Smart Window Air Conditioner LW8017ERSM1",
+        "brand": "LG",
+        "asin": "B0BM57MTL7",
+        "blurb": "Key specs: Fixed-speed compressor, no published low-noise dB rating, 8,000 BTU, cools up to 340 sq ft, 3 cooling and 3 fan speeds.",
+        "strengths": [
+          "Lowest typical price of the units in this list by a meaningful margin",
+          "Lowest fan speed is tolerable for a living room, just not ideal for light sleepers",
+          "LG ThinQ app lets you pre-cool the room and skip standing next to it while it's loudest"
+        ],
+        "limitations": [
+          "No published low-noise dB rating, and owner reports place it above the three inverter or flex-depth units here",
+          "Fixed-speed compressor cycles fully on and off, which produces a startup burst of noise each cycle",
+          "Not the right choice for a bedroom if quiet is the top priority"
+        ],
+        "features": [
+          "Fixed-speed compressor, no published low-noise dB rating",
+          "8,000 BTU, cools up to 340 sq ft",
+          "3 cooling and 3 fan speeds",
+          "LG ThinQ Wi-Fi app control"
+        ],
+        "bestFor": "quiet operation"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

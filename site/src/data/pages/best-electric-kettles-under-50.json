@@ -1,0 +1,357 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 16 Best Electric Kettles Under $50",
+  "h1": "The 16 Best Electric Kettles Under $50",
+  "metaDescription": "Our 16 picks for electric kettles under $50, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at electric kettles under $50 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "electric-kettles",
+  "related": [
+    "electric-kettles"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Cosori Electric Gooseneck Kettle",
+        "brand": "Cosori",
+        "asin": "B081LQMXKP",
+        "blurb": "Key specs: 5 preset temperatures from 140°F to 212°F, Gooseneck spout for controlled pour-over flow, 60-minute keep-warm function.",
+        "strengths": [
+          "60-minute keep-warm outlasts most budget and even some mid-range competitors' 20 to 30 minute windows",
+          "5 presets cover green tea, white tea, and pour-over coffee without needing a manual dial"
+        ],
+        "limitations": [
+          "±3°F temperature accuracy is looser than premium gooseneck kettles' ±1°F",
+          "No counterweighted handle, so balance shifts slightly as the kettle empties",
+          "0.8L capacity requires refilling for teapot quantities or 3+ cup sessions"
+        ],
+        "features": [
+          "5 preset temperatures from 140°F to 212°F",
+          "Gooseneck spout for controlled pour-over flow",
+          "60-minute keep-warm function",
+          "1,500W element boils 1 liter in 3.5 to 4 minutes",
+          "Stainless steel body with auto-shutoff and boil-dry protection"
+        ]
+      },
+      {
+        "name": "Ovente Electric Kettle KS96 Stainless Steel",
+        "brand": "Ovente",
+        "asin": "B00DEPUCSI",
+        "blurb": "Key specs: Stainless steel interior, 1,500W element boils 1 liter in about 3.5 to 4 minutes, Auto-shutoff and boil-dry protection.",
+        "strengths": [
+          "Stainless interior avoids the metallic taste some all-plastic budget kettles impart",
+          "Simple no-frills design means fewer components that can fail over years of use"
+        ],
+        "limitations": [
+          "No variable temperature control, unsuitable for green tea or pour-over coffee",
+          "No keep-warm function, water begins cooling immediately after auto-shutoff",
+          "Plastic exterior housing feels less premium than double-wall stainless competitors"
+        ],
+        "features": [
+          "Stainless steel interior",
+          "1,500W element boils 1 liter in about 3.5 to 4 minutes",
+          "Auto-shutoff and boil-dry protection",
+          "BPA-free plastic exterior housing",
+          "Cordless base for pour-anywhere use"
+        ]
+      },
+      {
+        "name": "Hamilton Beach 40880 Electric Kettle",
+        "brand": "Hamilton Beach",
+        "asin": "B00UFQ2LJ2",
+        "blurb": "Key specs: 1.7L stainless steel interior, 1,500W element, boils 1 liter in about 3.5 minutes, Cordless base.",
+        "strengths": [
+          "1.7L capacity is larger than most budget gooseneck models, better for household use",
+          "Simple single-function design means less to break over years of daily use",
+          "Fast boil time matches premium kettles despite the much lower price"
+        ],
+        "limitations": [
+          "No variable temperature control, unsuitable for green tea or pour-over coffee",
+          "No keep-warm function",
+          "Standard spout, not gooseneck, so pour control is imprecise for pour-over brewing"
+        ],
+        "features": [
+          "1.7L stainless steel interior",
+          "1,500W element, boils 1 liter in about 3.5 minutes",
+          "Cordless base",
+          "Auto-shutoff and boil-dry protection",
+          "No temperature presets, single boil function"
+        ]
+      },
+      {
+        "name": "Bonavita BV382510V 1.0L Digital Variable Temperature Gooseneck Kettle",
+        "brand": "Bonavita",
+        "asin": "B005YR0F40",
+        "blurb": "Key specs: 1.0L capacity, digital variable temperature control, Gooseneck spout for controlled pour, LED digital display shows exact set and current temperature.",
+        "strengths": [
+          "Digital display gives an exact temperature readout most analog budget kettles skip",
+          "1.0L capacity boils faster than full-size kettles for solo pour-over or tea sessions",
+          "Compact footprint fits small kitchens and single-serving use better than 1.7L models"
+        ],
+        "limitations": [
+          "1.0L capacity needs refilling for more than 2 to 3 servings",
+          "Lower wattage than full-size kettles means a slightly longer wait for larger pours"
+        ],
+        "features": [
+          "1.0L capacity, digital variable temperature control",
+          "Gooseneck spout for controlled pour",
+          "LED digital display shows exact set and current temperature",
+          "1,000W element sized for the smaller volume",
+          "Auto-shutoff and boil-dry protection"
+        ]
+      },
+      {
+        "name": "Secura SWK-1701DB Stainless Steel Double Wall Electric Kettle",
+        "brand": "Secura",
+        "asin": "B01M65WXXA",
+        "blurb": "Key specs: Double-wall stainless steel construction, 1.7L capacity, Cool-touch exterior even with boiling water inside.",
+        "strengths": [
+          "Double-wall design keeps the exterior cool to the touch, a genuine safety advantage around kids",
+          "Retains heat longer after boiling than single-wall kettles at a similar price",
+          "1.7L capacity handles household teapot quantities in one boil"
+        ],
+        "limitations": [
+          "No variable temperature control, unsuitable for green tea or pour-over coffee",
+          "Double-wall construction adds weight compared to single-wall budget kettles",
+          "Standard spout gives imprecise pour control for pour-over brewing"
+        ],
+        "features": [
+          "Double-wall stainless steel construction",
+          "1.7L capacity",
+          "Cool-touch exterior even with boiling water inside",
+          "1,500W element, boils 1 liter in about 3.5 minutes",
+          "Auto-shutoff and boil-dry protection"
+        ]
+      },
+      {
+        "name": "Bodum Bistro Electric Water Kettle",
+        "brand": "Bodum",
+        "asin": "B01LQNTVRC",
+        "blurb": "Key specs: European-inspired design available in multiple colors, 1.0L capacity, borosilicate glass or plastic body options, 1,000W element.",
+        "strengths": [
+          "Distinctive design stands out on a counter compared to the utilitarian look of most budget kettles",
+          "Available in multiple colors, letting buyers match kitchen decor unlike most stainless competitors",
+          "Well-balanced pour from the standard spout despite the compact body"
+        ],
+        "limitations": [
+          "No temperature control, unsuitable for green tea or pour-over coffee",
+          "Lower wattage than full-size 1,500W kettles means a slightly longer boil for a full liter",
+          "Smallest capacity among the standard (non-gooseneck) kettles in this article at 1.0L"
+        ],
+        "features": [
+          "European-inspired design available in multiple colors",
+          "1.0L capacity, borosilicate glass or plastic body options",
+          "1,000W element",
+          "Auto-shutoff and boil-dry protection",
+          "Well-balanced standard spout for controlled pouring into a cup"
+        ]
+      },
+      {
+        "name": "Miroco Electric Gooseneck Kettle",
+        "brand": "Miroco",
+        "asin": "B08D9LNS49",
+        "blurb": "Key specs: Variable temperature control, 5 presets, Gooseneck spout for controlled pour-over flow, LED display with exact temperature readout.",
+        "strengths": [
+          "Gooseneck spout and 5 presets match the feature set of pricier name-brand competitors",
+          "LED display gives an exact readout that some similarly-priced analog models lack",
+          "Competitive pricing against the Cosori while offering a comparable feature list"
+        ],
+        "limitations": [
+          "Smaller brand recognition than Cosori or Bonavita, with less established long-term reliability data",
+          "±3°F accuracy is looser than premium gooseneck kettles' ±1°F",
+          "No counterweighted handle, balance shifts slightly as the kettle empties"
+        ],
+        "features": [
+          "Variable temperature control, 5 presets",
+          "Gooseneck spout for controlled pour-over flow",
+          "LED display with exact temperature readout",
+          "1,000W element",
+          "Auto-shutoff and boil-dry protection"
+        ]
+      },
+      {
+        "name": "Cuisinart CK-5 Cordless Electric Kettle",
+        "brand": "Cuisinart",
+        "asin": "B01LY5YRRN",
+        "blurb": "Key specs: 1.7L stainless steel interior, 1,500W element, boils 1 liter in about 3.5 minutes, Cordless base.",
+        "strengths": [
+          "Cuisinart brand reliability at a lower price point than the brand's PerfecTemp presets model",
+          "1.7L capacity handles household teapot quantities in one boil",
+          "Fast boil time matches kettles costing far more since wattage is the limiting factor either way",
+          "Simple single-function design means fewer parts that can fail over years of use"
+        ],
+        "limitations": [
+          "No variable temperature control, unsuitable for green tea or pour-over coffee",
+          "No keep-warm function"
+        ],
+        "features": [
+          "1.7L stainless steel interior",
+          "1,500W element, boils 1 liter in about 3.5 minutes",
+          "Cordless base",
+          "Auto-shutoff and boil-dry protection",
+          "No temperature presets, single boil function"
+        ]
+      },
+      {
+        "name": "Chefman Electric Kettle with Temperature Control",
+        "brand": "Chefman",
+        "asin": "B07FNW57J7",
+        "blurb": "Key specs: 5 preset temperatures for tea and coffee, Standard spout, 1.7L capacity, 1,500W element.",
+        "strengths": [
+          "1.7L capacity is larger than most preset-equipped budget competitors, good for households",
+          "Preset buttons simplify repeat brewing without needing to dial in an exact temperature",
+          "Delivers temperature control at a price point most variable-temp kettles don't reach"
+        ],
+        "limitations": [
+          "Standard spout, not gooseneck, so pour control is imprecise for pour-over coffee",
+          "±3°F to ±5°F accuracy is looser than gooseneck-focused competitors in this list",
+          "No keep-warm function beyond the initial preset hold"
+        ],
+        "features": [
+          "5 preset temperatures for tea and coffee",
+          "Standard spout, 1.7L capacity",
+          "1,500W element",
+          "Auto-shutoff and boil-dry protection",
+          "LED indicator lights per preset"
+        ]
+      },
+      {
+        "name": "Comfee CE23S+ Electric Gooseneck Kettle",
+        "brand": "Comfee",
+        "asin": "B07C9C7HV4",
+        "blurb": "Key specs: Variable temperature control, gooseneck spout, 1.7L capacity, 1,500W element.",
+        "strengths": [
+          "1.7L capacity is the largest among gooseneck kettles in this article, useful for multi-cup sessions",
+          "Combines variable temperature and gooseneck pour at a competitive price point",
+          "Larger tank size reduces the refill frequency common to smaller gooseneck kettles"
+        ],
+        "limitations": [
+          "Smallest review base among the gooseneck kettles compared in this article",
+          "±3°F to ±5°F accuracy trails the more established Cosori and Bonavita models",
+          "Larger 1.7L tank takes slightly longer to boil to a low target temperature than compact 0.8-1.0L models"
+        ],
+        "features": [
+          "Variable temperature control, gooseneck spout",
+          "1.7L capacity",
+          "1,500W element",
+          "Auto-shutoff and boil-dry protection",
+          "LED display with preset temperature readout"
+        ]
+      },
+      {
+        "name": "Hamilton Beach Temperature Control Glass Electric Kettle (40941)",
+        "brand": "Hamilton Beach",
+        "asin": "B0786SGLG6",
+        "blurb": "",
+        "strengths": [
+          "Six temperature presets",
+          "Keep-warm for 30 minutes",
+          "Glass body shows water level",
+          "Auto-shutoff and boil-dry protection"
+        ],
+        "limitations": [
+          "Glass shows mineral scale",
+          "Not a gooseneck spout",
+          "Plastic lid parts"
+        ],
+        "features": []
+      },
+      {
+        "name": "Hamilton Beach 1.7 L Glass Electric Kettle (40865)",
+        "brand": "Hamilton Beach",
+        "asin": "B00CXMO01I",
+        "blurb": "",
+        "strengths": [
+          "Very affordable",
+          "Cordless pouring",
+          "Auto-shutoff and boil-dry protection",
+          "1.7 L capacity"
+        ],
+        "limitations": [
+          "No temperature control",
+          "Glass needs regular descaling",
+          "Basic lid hinge"
+        ],
+        "features": []
+      },
+      {
+        "name": "Mueller Ultra Kettle M99S",
+        "brand": "Mueller",
+        "asin": "B07TZ5YHJN",
+        "blurb": "",
+        "strengths": [
+          "Large 1.8 L capacity",
+          "Fast 1500W boiling",
+          "Auto-shutoff and boil-dry protection",
+          "Low price"
+        ],
+        "limitations": [
+          "Owners report mixed lid and build durability",
+          "Some report plastic taste at first",
+          "No temperature control"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "Hamilton Beach 1 L Compact Electric Kettle (40930)",
+        "brand": "Hamilton Beach",
+        "asin": "B074T6KZRK",
+        "blurb": "",
+        "strengths": [
+          "Compact size",
+          "Affordable",
+          "Auto-shutoff and boil-dry protection",
+          "Cordless pouring"
+        ],
+        "limitations": [
+          "Small capacity",
+          "No temperature control",
+          "Basic build"
+        ],
+        "features": []
+      },
+      {
+        "name": "COSORI 1.7L Electric Kettle (No Plastic Contact with Water)",
+        "brand": "COSORI",
+        "asin": "B08PP48979",
+        "blurb": "",
+        "strengths": [
+          "Water doesn't contact plastic (COSORI spec)",
+          "Wide opening is easy to clean",
+          "Auto shut-off and boil-dry protection",
+          "Affordable"
+        ],
+        "limitations": [
+          "No temperature presets",
+          "Exterior gets hot",
+          "Not a gooseneck for pour-over"
+        ],
+        "features": []
+      },
+      {
+        "name": "Chefman 1.8L Electric Kettle",
+        "brand": "Chefman",
+        "asin": "B0C5Z8VCHX",
+        "blurb": "",
+        "strengths": [
+          "Large 1.8 L capacity",
+          "1500W heats quickly",
+          "Removable lid for easy cleaning",
+          "Low price"
+        ],
+        "limitations": [
+          "No temperature control",
+          "Plastic parts",
+          "Bulky"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

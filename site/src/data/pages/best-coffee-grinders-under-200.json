@@ -1,0 +1,259 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 11 Best Coffee Grinders Under $200 in 2026",
+  "h1": "The 11 Best Coffee Grinders Under $200 in 2026",
+  "metaDescription": "Our 11 picks for coffee grinders under $200 in 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at coffee grinders under $200 in 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "coffee-grinders",
+  "related": [
+    "coffee-grinders"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Baratza Encore Conical Burr Grinder",
+        "brand": "Baratza",
+        "asin": "B007F183LK",
+        "blurb": "Key specs: 40mm conical burrs, 40 settings, Filter optimized.",
+        "strengths": [
+          "The most widely recommended starter burr grinder, proven over 15+ years",
+          "Baratza repair program makes it a 10-year investment, not a disposable grinder",
+          "40 settings cover drip, pour-over, and French press well",
+          "Produces dramatically more even extraction than any blade grinder"
+        ],
+        "limitations": [
+          "Cannot reach espresso-fine settings, upgrade to the Encore ESP for espresso",
+          "Stepped adjustment only"
+        ],
+        "features": [
+          "40mm conical burrs",
+          "40 settings",
+          "Filter optimized",
+          "Baratza repair"
+        ],
+        "badge": "Best Overall",
+        "bestFor": "buyers who want the best overall package"
+      },
+      {
+        "name": "Baratza Sette 270Wi Conical Burr Grinder",
+        "brand": "Baratza",
+        "asin": "B01G82WTZ2",
+        "blurb": "Key specs: Grind-by-weight, Espresso and filter, Anti-static.",
+        "strengths": [
+          "Grind-by-weight adjustment covers true espresso through coarse French press, one grinder for everything",
+          "Anti-static technology reduces mess at fine espresso settings",
+          "Compact body, one of the smallest all-purpose grinders with genuine espresso capability"
+        ],
+        "limitations": [
+          "Louder than flat-burr alternatives",
+          "Conical burrs, slightly less uniform than flat at espresso settings"
+        ],
+        "features": [
+          "Grind-by-weight",
+          "Espresso and filter",
+          "Anti-static",
+          "Compact"
+        ],
+        "badge": "Best All Purpose"
+      },
+      {
+        "name": "Baratza Encore ESP Conical Burr Grinder",
+        "brand": "Baratza",
+        "asin": "B0BW272XCV",
+        "blurb": "Key specs: Espresso capable, 40mm conical, Simple.",
+        "strengths": [
+          "The only Baratza grinder that reaches espresso-fine settings",
+          "Simple design minimizes variables, fewer settings means fewer mistakes",
+          "Baratza repair support and long-term serviceability",
+          "The minimum correct espresso grinder"
+        ],
+        "limitations": [
+          "Stepped adjustment, espresso fine-tuning requires dose adjustment between steps",
+          "Less precise than the Fellow Opus or Eureka Mignon at espresso settings"
+        ],
+        "features": [
+          "Espresso capable",
+          "40mm conical",
+          "Simple",
+          "Baratza repair"
+        ],
+        "badge": "Best Espresso"
+      },
+      {
+        "name": "OXO Brew Conical Burr Grinder",
+        "brand": "OXO",
+        "asin": "B07CSKGLMM",
+        "blurb": "Key specs: 15 settings, One-touch timer, Clear hopper.",
+        "strengths": [
+          "One-touch timer reduces dosing variables, correct for beginners",
+          "Clear hopper shows remaining beans at a glance",
+          "Simple cleaning, fewer parts to disassemble than Baratza alternatives",
+          "The most approachable grinder for households new to burr grinding"
+        ],
+        "limitations": [
+          "15 settings, fewer than the Encore's 40",
+          "Cannot reach espresso-fine settings"
+        ],
+        "features": [
+          "15 settings",
+          "One-touch timer",
+          "Clear hopper",
+          "Easy cleaning"
+        ],
+        "badge": "Best Beginner"
+      },
+      {
+        "name": "Timemore Chestnut C3 Manual Grinder",
+        "brand": "Timemore",
+        "asin": "B09SZ9Q538",
+        "blurb": "Key specs: Manual, Stepless espresso, Steel burrs.",
+        "strengths": [
+          "Produces more consistent grinds than most electric grinders at the same price",
+          "Espresso-capable stepless range, more versatile than the Baratza Encore",
+          "No power required, the correct choice for travel, offices, and camping"
+        ],
+        "limitations": [
+          "30 to 60 seconds of hand grinding per dose",
+          "Requires a consistent hand pressure technique for repeatable shots"
+        ],
+        "features": [
+          "Manual",
+          "Stepless espresso",
+          "Steel burrs",
+          "Travel ready"
+        ],
+        "badge": "Best Manual"
+      },
+      {
+        "name": "Breville Smart Grinder Pro BCG820BSS",
+        "brand": "Breville",
+        "asin": "B00OXGXW8O",
+        "blurb": "Key specs: 60 settings, LCD display, Programmable timer.",
+        "strengths": [
+          "60 grind settings, the most settings of any grinder in this price range",
+          "Programmable dose-by-time LCD with memory settings",
+          "Portafilter cradle doses directly, correct for matched Breville espresso setups"
+        ],
+        "limitations": [
+          "Higher retention than Baratza, more stale grounds between doses",
+          "Grinding consistency at espresso settings is below the Baratza Encore ESP"
+        ],
+        "features": [
+          "60 settings",
+          "LCD display",
+          "Programmable timer",
+          "Portafilter cradle"
+        ],
+        "badge": "Best Feature Set"
+      },
+      {
+        "name": "Cuisinart DBM-8 Supreme Grind Burr Mill",
+        "brand": "Cuisinart",
+        "asin": "B06XFNFHKN",
+        "blurb": "Key specs: Burr mill, 18 settings, Large hopper.",
+        "strengths": [
+          "The cheapest flat-burr-adjacent grinder for drip coffee, adequate for drip machines",
+          "Large hopper capacity for households that make many cups"
+        ],
+        "limitations": [
+          "Blade-adjacent grinding consistency, higher fines production than Baratza alternatives",
+          "Upgrade to the Baratza Encore if you care about cup quality"
+        ],
+        "features": [
+          "Burr mill",
+          "18 settings",
+          "Large hopper",
+          "Budget"
+        ],
+        "badge": "Best Value Budget",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "1Zpresso K-Pro Manual Coffee Grinder",
+        "brand": "1Zpresso",
+        "asin": "B088JWRBZ6",
+        "blurb": "Key specs: External adjustment, Espresso capable, Stainless.",
+        "strengths": [
+          "External adjustment ring, change settings without disassembling the grinder",
+          "Full espresso-fine range with 48mm burrs",
+          "Produces grinds comparable to grinders 2x the price"
+        ],
+        "limitations": [],
+        "features": [
+          "External adjustment",
+          "Espresso capable",
+          "Stainless",
+          "All-purpose"
+        ],
+        "badge": "Best Manual Espresso"
+      },
+      {
+        "name": "Baratza Virtuoso+ Conical Burr Grinder",
+        "brand": "Baratza",
+        "asin": "B07QMY8GLX",
+        "blurb": "Key specs: 40mm conical, DC motor, Timer.",
+        "strengths": [
+          "DC motor is quieter and runs at more consistent speed than the Encore's AC motor",
+          "Built-in timer for consistent dose-by-time grinding",
+          "The correct next-level Baratza after the Encore, same support, better motor"
+        ],
+        "limitations": [
+          "Not espresso-capable at fine settings"
+        ],
+        "features": [
+          "40mm conical",
+          "DC motor",
+          "Timer",
+          "40 settings"
+        ],
+        "badge": "Best Upgrade"
+      },
+      {
+        "name": "Hario V60 Electric Coffee Grinder",
+        "brand": "Hario",
+        "asin": "B01GSOCF4K",
+        "blurb": "Key specs: Ceramic burrs, Pour-over optimized, Simple.",
+        "strengths": [
+          "Ceramic burrs optimized for filter coffee, clean extraction at medium-coarse settings",
+          "Quieter than most electric grinders at the same price",
+          "Correct for pour-over and drip households who want simple operation"
+        ],
+        "limitations": [
+          "Fewer settings than the Baratza Encore"
+        ],
+        "features": [
+          "Ceramic burrs",
+          "Pour-over optimized",
+          "Simple",
+          "Quiet"
+        ],
+        "badge": "Best Pour Over"
+      },
+      {
+        "name": "Fellow Opus Conical Burr Coffee Grinder",
+        "brand": "Fellow",
+        "asin": "B0BV96VPSR",
+        "blurb": "",
+        "strengths": [
+          "41 settings from espresso to cold brew",
+          "Anti-static technology reduces mess",
+          "Compact design",
+          "Easy-to-read dial"
+        ],
+        "limitations": [
+          "Espresso adjustment is coarse versus dedicated grinders",
+          "Can be loud",
+          "Some grind retention"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Leaf Blowers for Large Properties",
+  "h1": "The 4 Best Leaf Blowers for Large Properties",
+  "metaDescription": "Our 4 picks for leaf blowers for large properties, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at leaf blowers for large properties using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-leaf-blowers",
+  "related": [
+    "best-leaf-blowers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "EGO Power+ LB6504 650 CFM Cordless Leaf Blower",
+        "brand": "EGO",
+        "asin": "B087RRLLQ3",
+        "blurb": "Key specs: 56V ARC Lithium battery, 5.0Ah included, Up to 650 CFM turbo airflow, Up to 75 minutes runtime per charge.",
+        "strengths": [
+          "650 CFM and up to 75 minutes of runtime cover most half-acre cleanups on one charge",
+          "Battery platform scales up to larger EGO batteries for extended jobs",
+          "5-year tool warranty holds up to frequent, heavy-duty use",
+          "Brushless motor stays consistent under sustained turbo use"
+        ],
+        "limitations": [
+          "Heaviest handheld pick here, which matters over a long session",
+          "Still lighter-duty than a true gas backpack blower for daily commercial use"
+        ],
+        "features": [
+          "56V ARC Lithium battery, 5.0Ah included",
+          "Up to 650 CFM turbo airflow",
+          "Up to 75 minutes runtime per charge",
+          "Brushless motor",
+          "Compatible with higher-capacity EGO batteries for longer runtime"
+        ],
+        "bestFor": "large properties"
+      },
+      {
+        "name": "Ryobi 40V HP Brushless Whisper Series 650 CFM Leaf Blower",
+        "brand": "Ryobi",
+        "asin": "B07N2XRHKM",
+        "blurb": "Key specs: 40V HP Brushless motor, 650 CFM / 160 MPH, Whisper Series low-noise housing, Cruise control trigger lock.",
+        "strengths": [
+          "Cruise control lock reduces hand fatigue over a long half-acre-plus session",
+          "650 CFM matches the EGO at a lower typical price for the bare tool",
+          "Lower noise output makes extended early-morning or evening sessions less disruptive",
+          "Large 40V battery options available for extended runtime"
+        ],
+        "limitations": [
+          "Bare tool listings mean battery and charger are often a separate purchase",
+          "1-year tool warranty versus the EGO's 5-year coverage",
+          "Slightly less consistent Amazon availability than Home Depot in-store"
+        ],
+        "features": [
+          "40V HP Brushless motor, 650 CFM / 160 MPH",
+          "Whisper Series low-noise housing",
+          "Cruise control trigger lock",
+          "Turbo button for maximum clearing power",
+          "Shares Ryobi's wide 40V outdoor tool battery platform"
+        ],
+        "bestFor": "large properties"
+      },
+      {
+        "name": "Greenworks 40V 185 MPH 340 CFM Cordless Blower/Vacuum",
+        "brand": "Greenworks",
+        "asin": "B00DRBBRVU",
+        "blurb": "Key specs: 185 MPH / 340 CFM brushless motor, 2-in-1 blower and vacuum with collection bag, Includes 4.0Ah battery and charger.",
+        "strengths": [
+          "Light enough to hand off for perimeter and edge work while a stronger blower handles the open lawn",
+          "Vacuum mode is useful for bagging leaves along fence lines and beds",
+          "Lowest price of the four, good as a backup or second unit"
+        ],
+        "limitations": [
+          "340 CFM alone is underpowered as the sole blower for a full acre",
+          "Battery doesn't share a platform with EGO or Ryobi if you're mixing brands",
+          "Best used alongside a stronger primary blower, not in place of one"
+        ],
+        "features": [
+          "185 MPH / 340 CFM brushless motor",
+          "2-in-1 blower and vacuum with collection bag",
+          "Includes 4.0Ah battery and charger",
+          "7.3 lb lightweight design"
+        ],
+        "bestFor": "large properties"
+      },
+      {
+        "name": "Toro PowerJet F700 Corded Electric Leaf Blower",
+        "brand": "Toro",
+        "asin": "B00TNCJU3E",
+        "blurb": "Key specs: 725 CFM airflow, 140 MPH air speed, 12-amp motor, No battery, unlimited runtime while plugged in.",
+        "strengths": [
+          "725 CFM is the strongest airflow of any blower in this list",
+          "Never runs out of charge mid-job as long as it's plugged in",
+          "Lightest blower here since there's no battery pack"
+        ],
+        "limitations": [
+          "Cord length is the real limiting factor on a large, open property",
+          "Impractical without outdoor outlets spaced around the yard",
+          "Louder at full power than the Ryobi Whisper Series"
+        ],
+        "features": [
+          "725 CFM airflow, 140 MPH air speed",
+          "12-amp motor",
+          "No battery, unlimited runtime while plugged in",
+          "Variable-speed dial"
+        ],
+        "bestFor": "large properties"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

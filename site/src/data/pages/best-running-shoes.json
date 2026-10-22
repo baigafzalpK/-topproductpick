@@ -1,0 +1,266 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 10 Best Running Shoes",
+  "h1": "The 10 Best Running Shoes",
+  "metaDescription": "Our 10 picks for running shoes, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at running shoes using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "running-shoes",
+  "related": [
+    "running-shoes"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Brooks Ghost 17",
+        "brand": "Brooks",
+        "asin": "B0DDHL8RY2",
+        "blurb": "Key specs: Neutral, DNA Loft v3 midsole, 10mm drop (Brooks spec).",
+        "strengths": [
+          "Balanced, predictable ride for most paces",
+          "Traditional 10mm drop suits heel strikers",
+          "APMA Seal of Acceptance",
+          "Wide and extra-wide sizes"
+        ],
+        "limitations": [
+          "Not as soft as max-cushion shoes",
+          "Unexciting for tempo runs",
+          "About 10 oz in men's sizes"
+        ],
+        "features": [
+          "Neutral",
+          "DNA Loft v3 midsole",
+          "10mm drop (Brooks spec)",
+          "About 10.1 oz men's",
+          "APMA Seal of Acceptance"
+        ],
+        "badge": "Best all-rounder",
+        "noImage": true
+      },
+      {
+        "name": "HOKA Clifton 11",
+        "brand": "HOKA",
+        "asin": "B0FXFBMCWR",
+        "blurb": "Key specs: Neutral, Maximum cushioning, MetaRocker geometry.",
+        "strengths": [
+          "Soft, high-stack cushioning without much weight",
+          "MetaRocker geometry makes easy miles feel smooth",
+          "Neutral design suits most runners who don't overpronate",
+          "Available in wide widths"
+        ],
+        "limitations": [
+          "Compressed EVA midsoles lose bounce sooner than premium foams",
+          "Not designed for fast speedwork",
+          "Tall stack can feel less stable on tight corners"
+        ],
+        "features": [
+          "Neutral",
+          "Maximum cushioning",
+          "MetaRocker geometry",
+          "Compression-molded EVA midsole",
+          "Double-lace lock"
+        ],
+        "noImage": true
+      },
+      {
+        "name": "ASICS Gel-Nimbus 27",
+        "brand": "ASICS",
+        "asin": "B0D79TQJS4",
+        "blurb": "Key specs: Neutral, Maximum cushioning, FF BLAST PLUS ECO + PureGEL.",
+        "strengths": [
+          "Very soft, maximum cushioning",
+          "PureGEL softens heel landings",
+          "Comfortable knit upper for long runs",
+          "Made with recycled upper content (ASICS)"
+        ],
+        "limitations": [
+          "Heavier than lighter cushioned shoes",
+          "Premium price",
+          "Too soft for runners who like ground feel"
+        ],
+        "features": [
+          "Neutral",
+          "Maximum cushioning",
+          "FF BLAST PLUS ECO + PureGEL",
+          "8mm drop (ASICS spec)"
+        ],
+        "badge": "Most cushioned",
+        "noImage": true
+      },
+      {
+        "name": "ASICS Novablast 5",
+        "brand": "ASICS",
+        "asin": "B0D71WFZYH",
+        "blurb": "Key specs: Neutral, FF BLAST MAX midsole, 8mm drop (ASICS spec).",
+        "strengths": [
+          "Lively, bouncy ride",
+          "Light for its stack height",
+          "Good mix of easy-day and up-tempo use",
+          "Usually priced below flagship trainers"
+        ],
+        "limitations": [
+          "Less stable than firmer shoes",
+          "Not for runners needing support",
+          "Bounce can feel less controlled on corners"
+        ],
+        "features": [
+          "Neutral",
+          "FF BLAST MAX midsole",
+          "8mm drop (ASICS spec)",
+          "About 9 oz"
+        ],
+        "badge": "Best value",
+        "noImage": true
+      },
+      {
+        "name": "Brooks Adrenaline GTS 24",
+        "brand": "Brooks",
+        "asin": "B0CQTM7MBZ",
+        "blurb": "Key specs: Stability (GuideRails), DNA Loft v3 midsole, 12mm drop (Brooks spec).",
+        "strengths": [
+          "GuideRails support for overpronation",
+          "Soft DNA Loft v3 cushioning",
+          "APMA Seal of Acceptance",
+          "Wide widths available"
+        ],
+        "limitations": [
+          "12mm drop is high for runners preferring a flatter shoe",
+          "Version 25 has replaced it, so stock varies",
+          "Support may feel unnecessary for neutral runners"
+        ],
+        "features": [
+          "Stability (GuideRails)",
+          "DNA Loft v3 midsole",
+          "12mm drop (Brooks spec)",
+          "About 9.4 oz women's"
+        ],
+        "noImage": true
+      },
+      {
+        "name": "ASICS Gel-Kayano 31",
+        "brand": "ASICS",
+        "asin": "B0D79Y1BYG",
+        "blurb": "Key specs: Stability (4D Guidance System), FF BLAST PLUS ECO + PureGEL, 10mm drop (ASICS spec).",
+        "strengths": [
+          "Supportive without feeling stiff",
+          "Plenty of cushioning for long runs",
+          "OrthoLite sockliner",
+          "Wide range of sizes"
+        ],
+        "limitations": [
+          "About 10.7 oz (ASICS spec), heavy",
+          "Premium price",
+          "Version 32 is now available, so colors vary"
+        ],
+        "features": [
+          "Stability (4D Guidance System)",
+          "FF BLAST PLUS ECO + PureGEL",
+          "10mm drop (ASICS spec)",
+          "About 10.7 oz"
+        ],
+        "noImage": true
+      },
+      {
+        "name": "Nike Pegasus 41",
+        "brand": "Nike",
+        "asin": "B0D92D198P",
+        "blurb": "Key specs: Neutral, ReactX foam with Air Zoom units, Engineered mesh upper.",
+        "strengths": [
+          "Versatile for easy and moderate runs",
+          "Responsive Air Zoom units",
+          "Durable waffle-inspired rubber outsole",
+          "Wide and Gore-Tex versions available"
+        ],
+        "limitations": [
+          "Firmer than max-cushion shoes",
+          "Narrower fit than Brooks and HOKA",
+          "Many lifestyle variants make listings confusing"
+        ],
+        "features": [
+          "Neutral",
+          "ReactX foam with Air Zoom units",
+          "Engineered mesh upper",
+          "Waffle-inspired outsole"
+        ]
+      },
+      {
+        "name": "Saucony Ride 18",
+        "brand": "Saucony",
+        "asin": "B0FFT5N8FS",
+        "blurb": "Key specs: Neutral, Moderate-to-high cushioning, 8mm offset (Saucony spec).",
+        "strengths": [
+          "Light for a daily trainer",
+          "Balanced cushioning, not mushy",
+          "8mm offset suits most runners",
+          "Wide sizes in some colors"
+        ],
+        "limitations": [
+          "Less plush than max-cushion shoes",
+          "The Ride 19 is now available, so stock varies",
+          "Some colorways listed as fashion sneakers"
+        ],
+        "features": [
+          "Neutral",
+          "Moderate-to-high cushioning",
+          "8mm offset (Saucony spec)",
+          "About 9.1 oz men's"
+        ],
+        "noImage": true
+      },
+      {
+        "name": "HOKA Bondi 9",
+        "brand": "HOKA",
+        "asin": "B0DL68S2WS",
+        "blurb": "Key specs: Neutral, Maximum cushioning, Supercritical EVA midsole.",
+        "strengths": [
+          "Maximum cushioning in HOKA's line",
+          "Low 5mm drop (HOKA spec)",
+          "Stable wide base for a tall shoe",
+          "Wide widths available"
+        ],
+        "limitations": [
+          "Heavy and bulky for faster running",
+          "Tall stack feels disconnected from the ground",
+          "Firmer than some expect for its size"
+        ],
+        "features": [
+          "Neutral",
+          "Maximum cushioning",
+          "Supercritical EVA midsole",
+          "5mm drop (HOKA spec)"
+        ],
+        "noImage": true
+      },
+      {
+        "name": "Brooks Glycerin Flex (Women's)",
+        "brand": "Brooks",
+        "asin": "B0F5NCBC6G",
+        "blurb": "Key specs: Neutral, Maximum cushioning, 6mm drop (Brooks spec).",
+        "strengths": [
+          "About 8 oz, light for a max-cushion shoe",
+          "6mm drop suits runners who prefer a flatter feel",
+          "Nitrogen-infused foam is soft and comfortable",
+          "Stretchy flat-knit upper"
+        ],
+        "limitations": [
+          "Lower drop can strain calves if you're used to 10-12mm shoes",
+          "Newer model with little long-term durability data",
+          "Knit uppers run warmer and less structured than mesh"
+        ],
+        "features": [
+          "Neutral",
+          "Maximum cushioning",
+          "6mm drop (Brooks spec)",
+          "Flat-knit nylon upper",
+          "Road and treadmill"
+        ],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

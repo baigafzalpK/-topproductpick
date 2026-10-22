@@ -1,0 +1,244 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 10 Best Electric Pressure Cookers",
+  "h1": "The 10 Best Electric Pressure Cookers",
+  "metaDescription": "Our 10 picks for electric pressure cookers, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at electric pressure cookers using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "pressure-cookers",
+  "related": [
+    "pressure-cookers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Instant Pot Duo 7-in-1 6-Quart",
+        "brand": "Instant Pot",
+        "asin": "B00FLYWNYQ",
+        "blurb": "Key specs: 7-in-1, 6-quart, 14 programs.",
+        "strengths": [
+          "Most recipes, guides, and community support of any electric pressure cooker",
+          "7 functions eliminate separate slow cooker and rice cooker"
+        ],
+        "limitations": [],
+        "features": [
+          "7-in-1",
+          "6-quart",
+          "14 programs",
+          "Keep-warm"
+        ],
+        "badge": "Best Overall",
+        "bestFor": "buyers who want the best overall package"
+      },
+      {
+        "name": "Breville Fast Slow Pro 6-Quart",
+        "brand": "Breville",
+        "asin": "B013I40R8E",
+        "blurb": "Key specs: 11 PSI and 15 PSI, Electric, Breville.",
+        "strengths": [
+          "The only widely available electric pressure cooker with a true 15 PSI mode",
+          "Breville 2-year warranty and premium build quality"
+        ],
+        "limitations": [],
+        "features": [
+          "11 PSI and 15 PSI",
+          "Electric",
+          "Breville",
+          "$150 to $250"
+        ],
+        "badge": "Best Premium",
+        "bestFor": "buyers who want the best overall package"
+      },
+      {
+        "name": "Ninja Foodi 8-Quart Pressure Cooker and Air Fryer",
+        "brand": "Ninja",
+        "asin": "B09PRVJTMC",
+        "blurb": "Key specs: Pressure + air fry, TenderCrisp, 8-quart.",
+        "strengths": [
+          "Pressure cooks then crisps in the same pot",
+          "8-quart capacity for families",
+          "TenderCrisp approach gives crispy finishes on pressure-cooked meals",
+          "Many cooking modes"
+        ],
+        "limitations": [
+          "Large and heavy",
+          "Two lids to manage and store",
+          "More complex than a basic pressure cooker"
+        ],
+        "features": [
+          "Pressure + air fry",
+          "TenderCrisp",
+          "8-quart",
+          "Ninja"
+        ],
+        "badge": "Best Combo"
+      },
+      {
+        "name": "Instant Pot Duo Plus 9-in-1 6-Quart",
+        "brand": "Instant Pot",
+        "asin": "B01NBKTPTS",
+        "blurb": "Key specs: 9-in-1, Sous vide, Sterilize.",
+        "strengths": [
+          "Adds programs beyond the standard Duo",
+          "Stainless steel inner pot",
+          "Easy-to-read display",
+          "Huge recipe ecosystem"
+        ],
+        "limitations": [
+          "Extra modes may go unused",
+          "Sealing ring absorbs odors",
+          "Larger than stovetop cookers"
+        ],
+        "features": [
+          "9-in-1",
+          "Sous vide",
+          "Sterilize",
+          "6-quart"
+        ],
+        "badge": "Best Duo Plus"
+      },
+      {
+        "name": "Instant Pot Ultra 10-in-1 6-Quart",
+        "brand": "Instant Pot",
+        "asin": "B0777XZBMZ",
+        "blurb": "Key specs: 10-in-1, Altitude adjustment, Custom programs.",
+        "strengths": [
+          "Custom cooking programs with adjustable settings",
+          "Altitude adjustment",
+          "Steam release reset design",
+          "Stainless steel inner pot"
+        ],
+        "limitations": [
+          "More complex controls",
+          "Higher price than Duo models",
+          "Less common in newer lineups"
+        ],
+        "features": [
+          "10-in-1",
+          "Altitude adjustment",
+          "Custom programs",
+          "Dial interface"
+        ],
+        "badge": "Best Ultra"
+      },
+      {
+        "name": "Instant Pot Duo Crisp + Air Fryer 8-Quart",
+        "brand": "Instant Pot",
+        "asin": "B07VT23JDM",
+        "blurb": "Key specs: Pressure + air fry, 8-quart, 11-in-1.",
+        "strengths": [
+          "Pressure cooks, slow cooks, sautés and steams like a standard Instant Pot",
+          "Separate air-fryer lid adds crisping, roasting and dehydrating",
+          "8-quart capacity suits large families and batch cooking",
+          "Stainless steel inner pot"
+        ],
+        "limitations": [
+          "The spare lid needs storage space",
+          "Air-frying capacity is smaller than a dedicated large air fryer",
+          "Heavy and tall for under-cabinet use"
+        ],
+        "features": [
+          "Pressure + air fry",
+          "8-quart",
+          "11-in-1",
+          "Instant Pot"
+        ],
+        "badge": "Best Instant Air Fryer"
+      },
+      {
+        "name": "Crock-Pot Express Multi-Cooker 6-Quart",
+        "brand": "Crock-Pot",
+        "asin": "B07VGHV6JL",
+        "blurb": "Key specs: Crock-Pot, 6-quart, Electric.",
+        "strengths": [
+          "Pressure and slow cooking in one",
+          "6-quart family capacity",
+          "Simple controls",
+          "Familiar brand for slow cooking"
+        ],
+        "limitations": [
+          "Nonstick pot can wear",
+          "Fewer accessories and recipes than Instant Pot",
+          "Some find controls less intuitive"
+        ],
+        "features": [
+          "Crock-Pot",
+          "6-quart",
+          "Electric",
+          "Slow + pressure"
+        ],
+        "badge": "Best Crockpot"
+      },
+      {
+        "name": "GoWISE USA 8-Quart Electric Pressure Cooker",
+        "brand": "GoWISE",
+        "asin": "B076TR9QTM",
+        "blurb": "Key specs: 8-quart, GoWISE, Electric.",
+        "strengths": [
+          "Large 8-quart capacity",
+          "Many preset programs",
+          "Budget-friendly",
+          "Accessories often included"
+        ],
+        "limitations": [
+          "Build quality not as refined as leaders",
+          "Nonstick pot needs care",
+          "Smaller support ecosystem"
+        ],
+        "features": [
+          "8-quart",
+          "GoWISE",
+          "Electric",
+          "Budget"
+        ],
+        "badge": "Best Large Electric"
+      },
+      {
+        "name": "Fagor LUX Electric Multi-Cooker 6-Quart",
+        "brand": "Fagor",
+        "asin": "B00ULHPTN0",
+        "blurb": "Key specs: Fagor, 6-quart, 12 PSI.",
+        "strengths": [
+          "Pressure cooking plus multi-cooker modes",
+          "6-quart capacity",
+          "Clear display",
+          "Includes rice and yogurt settings"
+        ],
+        "limitations": [
+          "Brand availability and support vary",
+          "Nonstick inner pot",
+          "Older design"
+        ],
+        "features": [
+          "Fagor",
+          "6-quart",
+          "12 PSI",
+          "8 programs"
+        ],
+        "badge": "Best Fagor"
+      },
+      {
+        "name": "Instant Pot Lux 6-in-1 6-Quart",
+        "brand": "Instant Pot",
+        "asin": "B01MFEBQH1",
+        "blurb": "Key specs: 6-in-1, Entry, 6-quart.",
+        "strengths": [
+          "Lowest-cost Instant Pot, access to the full recipe ecosystem at minimum spend"
+        ],
+        "limitations": [],
+        "features": [
+          "6-in-1",
+          "Entry",
+          "6-quart",
+          "Under $60"
+        ],
+        "badge": "Best Entry"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

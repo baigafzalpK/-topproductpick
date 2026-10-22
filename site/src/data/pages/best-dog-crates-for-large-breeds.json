@@ -1,0 +1,94 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Dog Crates for Large Breeds",
+  "h1": "The 3 Best Dog Crates for Large Breeds",
+  "metaDescription": "Our 3 picks for dog crates for large breeds, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at dog crates for large breeds using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-dog-crates",
+  "related": [
+    "best-dog-crates"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "MidWest iCrate 36-Inch Double Door Dog Crate",
+        "brand": "MidWest Homes for Pets",
+        "asin": "B000QFT1R2",
+        "blurb": "Key specs: 36\"L x 23\"W x 25\"H, rated for 41 to 70 lb dogs, Front and side doors, Removable divider panel.",
+        "strengths": [
+          "Lowest price per inch of usable space in this category",
+          "Divider panel lets one crate serve puppy through adult sizing",
+          "Two doors give flexible placement against walls or in corners"
+        ],
+        "limitations": [
+          "Standard wire gauge, not built for determined chewers or escape artists",
+          "Plastic tray can crack after a few years of daily use",
+          "No wheels, so repositioning a loaded crate means lifting it"
+        ],
+        "features": [
+          "36\"L x 23\"W x 25\"H, rated for 41 to 70 lb dogs",
+          "Front and side doors",
+          "Removable divider panel",
+          "Leak-proof plastic tray",
+          "Slide-bolt latches"
+        ],
+        "badge": "Best overall",
+        "bestFor": "large breeds"
+      },
+      {
+        "name": "Carlson Pet Products Double Door Metal Dog Crate, Large 42-Inch",
+        "brand": "Carlson Pet Products",
+        "asin": "B00MYDM72A",
+        "blurb": "Key specs: 42\"L x 28\"W x 30.5\"H, rated up to 95 lbs, Front and side doors, Multi-point locking latch system.",
+        "strengths": [
+          "Heavier wire gauge than basic iCrate-style crates at a similar price",
+          "Multi-point latches resist nose-nudging and paw-pawing better than single slide-bolts",
+          "42-inch size fits most large breeds without upgrading to a giant crate"
+        ],
+        "limitations": [
+          "Costs more than the equivalent MidWest size",
+          "Heavier to carry between rooms or load into a vehicle",
+          "Still a standard wire crate, not rated for extreme chewers"
+        ],
+        "features": [
+          "42\"L x 28\"W x 30.5\"H, rated up to 95 lbs",
+          "Front and side doors",
+          "Multi-point locking latch system",
+          "Removable leak-proof tray",
+          "Folds nearly flat for storage"
+        ],
+        "bestFor": "large breeds"
+      },
+      {
+        "name": "Go Pet Club 44-Inch Heavy Duty Stackable Dog Crate",
+        "brand": "Go Pet Club",
+        "asin": "B077NP4KMN",
+        "blurb": "Key specs: 44.25\"L x 28\"W x 32.5\"H with wheels, Heavy-gauge stackable wire construction, Removable divider and two water bowls included.",
+        "strengths": [
+          "Heaviest wire gauge of any crate in this roundup",
+          "Wheels make it far easier to move than the MidWest or Carlson",
+          "Stackable design is genuinely useful for multi-dog households or kennels"
+        ],
+        "limitations": [
+          "Assembly reportedly goes faster with two people",
+          "Some buyers report weld quality issues on individual units",
+          "Largest, bulkiest footprint even when folded"
+        ],
+        "features": [
+          "44.25\"L x 28\"W x 32.5\"H with wheels",
+          "Heavy-gauge stackable wire construction",
+          "Removable divider and two water bowls included",
+          "Stacks up to three tiers for multi-dog storage",
+          "Wheels for repositioning"
+        ],
+        "bestFor": "large breeds"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Patio Heaters for Covered Porches",
+  "h1": "The 3 Best Patio Heaters for Covered Porches",
+  "metaDescription": "Our 3 picks for patio heaters for covered porches, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at patio heaters for covered porches using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-patio-heaters",
+  "related": [
+    "best-patio-heaters"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Solaira Cosy Infrared Heater",
+        "brand": "Solaira",
+        "asin": "B0021L919M",
+        "blurb": "Key specs: 1500W / 120V quartz infrared element, 10 by 10 foot coverage area, Ceiling or wall mount, 4-inch slim housing.",
+        "strengths": [
+          "Ceiling mount uses zero floor space, ideal for a furnished covered porch",
+          "No combustion byproducts, so it's genuinely safer in a lower-airflow covered space",
+          "Near-instant quartz warmup means no waiting for the space to feel the effect"
+        ],
+        "limitations": [
+          "Requires a dedicated circuit for permanent installation",
+          "Higher price than any propane option on this list",
+          "Coverage is fixed to roughly a 10 by 10 foot zone directly below and in front of it"
+        ],
+        "features": [
+          "1500W / 120V quartz infrared element",
+          "10 by 10 foot coverage area",
+          "Ceiling or wall mount, 4-inch slim housing",
+          "No combustion, no carbon monoxide risk"
+        ],
+        "badge": "Best overall",
+        "bestFor": "covered porches"
+      },
+      {
+        "name": "Dr. Infrared Heater Carbon Infrared Patio Heater",
+        "brand": "Dr. Infrared Heater",
+        "asin": "B09LVXFXK7",
+        "blurb": "Key specs: 120V / 1500W carbon infrared element, 3 heat settings, IP55 weatherproof rating.",
+        "strengths": [
+          "IP55 rating handles the humidity and occasional wind-blown rain a covered porch still gets",
+          "Multiple mount options let you go ceiling, wall, or freestanding depending on the porch layout"
+        ],
+        "limitations": [
+          "Slightly smaller effective coverage area than the Solaira at the same wattage",
+          "Included tripod is a lower-end accessory compared to a permanent mount",
+          "Needs an outdoor-rated outlet or hardwire within reach"
+        ],
+        "features": [
+          "120V / 1500W carbon infrared element",
+          "3 heat settings",
+          "IP55 weatherproof rating",
+          "Wall, ceiling, or freestanding with included tripod"
+        ],
+        "bestFor": "covered porches"
+      },
+      {
+        "name": "Fire Sense 60262 Tabletop Patio Heater",
+        "brand": "Fire Sense",
+        "asin": "B000FLGFZS",
+        "blurb": "Key specs: 10,000 BTU propane burner, Stainless steel tabletop design, Auto-shutoff tilt valve.",
+        "strengths": [
+          "Lower flame height than a full-size standing heater, easier to keep within overhead clearance limits",
+          "Auto-shutoff tilt valve adds a margin of safety under a roof",
+          "Inexpensive way to add heat to a covered porch that already has good airflow on two sides"
+        ],
+        "limitations": [
+          "Still an open flame, unsuitable for a fully enclosed or low-airflow porch regardless of height",
+          "Requires verifying overhead clearance against the manufacturer's spec before using indoors-adjacent",
+          "Smaller heat radius than the electric mounted options"
+        ],
+        "features": [
+          "10,000 BTU propane burner",
+          "Stainless steel tabletop design",
+          "Auto-shutoff tilt valve",
+          "CSA approved"
+        ],
+        "bestFor": "covered porches"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

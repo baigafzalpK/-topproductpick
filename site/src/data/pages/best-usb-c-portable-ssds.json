@@ -1,0 +1,80 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best USB-C Portable SSDs 2026",
+  "h1": "The 3 Best USB-C Portable SSDs 2026",
+  "metaDescription": "Our 3 picks for usb-c portable ssds 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at usb-c portable ssds 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "portable-ssds",
+  "related": [
+    "portable-ssds"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "SanDisk Extreme Portable SSD V2 1TB",
+        "brand": "SanDisk",
+        "asin": "B08GTYFC37",
+        "blurb": "Key specs: IP55 dust and water resistance, Carabiner loop, USB 3.2 Gen 2.",
+        "strengths": [
+          "IP55 rated, survives accidental water exposure and dust in field use",
+          "Rubber housing handles drops better than bare metal",
+          "Carabiner loop for pack or belt attachment"
+        ],
+        "limitations": [
+          "Slightly larger than Samsung T7 for equivalent capacity",
+          "No included USB-A cable"
+        ],
+        "features": [
+          "IP55 dust and water resistance",
+          "Carabiner loop",
+          "USB 3.2 Gen 2",
+          "1050 MB/s read",
+          "Rubber housing"
+        ],
+        "badge": "Best For Outdoor Use"
+      },
+      {
+        "name": "Crucial X10 Pro 2TB Portable SSD",
+        "brand": "Crucial",
+        "asin": "B0C9WGS6MC",
+        "blurb": "",
+        "strengths": [
+          "Up to about 2,000MB/s on Gen 2x2 ports",
+          "IP55 dust and water resistance",
+          "Very compact",
+          "Fast enough for 4K editing"
+        ],
+        "limitations": [
+          "Needs a USB 3.2 Gen 2x2 port for full speed",
+          "Slower on Macs without Gen 2x2",
+          "Gets warm during long transfers"
+        ],
+        "features": []
+      },
+      {
+        "name": "Samsung T9 Portable SSD 2TB",
+        "brand": "Samsung",
+        "asin": "B0CHFS9K14",
+        "blurb": "",
+        "strengths": [
+          "Up to 2,000 MB/s on Gen 2x2 ports",
+          "Sustained speeds for large video files",
+          "Drop resistant up to 3 m",
+          "5-year limited warranty"
+        ],
+        "limitations": [
+          "Full speed needs a Gen 2x2 port most Macs lack",
+          "Pricier than T7",
+          "Gets warm under long writes"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 8 Best Cordless Jigsaw 2026",
+  "h1": "The 8 Best Cordless Jigsaw 2026",
+  "metaDescription": "Our 8 picks for cordless jigsaw 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at cordless jigsaw 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-woodworking",
+  "related": [
+    "best-woodworking"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "DEWALT DCS334B 20V MAX XR Brushless Jigsaw",
+        "brand": "DEWALT",
+        "asin": "B07JPFHQKG",
+        "blurb": "Key specs: 20V MAX XR brushless motor, 0-3,200 SPM variable speed, 4-position orbital action.",
+        "strengths": [
+          "XR brushless motor maintains consistent cutting speed under load in hardwood",
+          "4-position orbital action from straight to highly aggressive for fastest material removal",
+          "All-metal lever-action keyless blade clamp is among the fastest blade swaps in the category",
+          "DEWALT 20V MAX ecosystem -- one battery platform across the entire tool line"
+        ],
+        "limitations": [
+          "High price compared to non-XR DEWALT jigsaws",
+          "Battery not included in tool-only purchase"
+        ],
+        "features": [
+          "20V MAX XR brushless motor",
+          "0-3,200 SPM variable speed",
+          "4-position orbital action",
+          "All-metal keyless blade clamp"
+        ],
+        "badge": "Best Overall",
+        "bestFor": "buyers who want the best overall package"
+      },
+      {
+        "name": "Bosch GST18V-47N 18V Barrel-Grip Jig Saw",
+        "brand": "Bosch",
+        "asin": "B08WHYR8KR",
+        "blurb": "Key specs: 18V brushless-compatible motor, 550-2,700 SPM, Barrel-grip design.",
+        "strengths": [
+          "Barrel-grip design places the hand directly above the blade for precise control",
+          "Variable speed dial covers gentle curves through aggressive straight cuts",
+          "Bosch blade clamp system is among the fastest blade swaps in the category",
+          "Bosch 18V ecosystem -- battery compatibility across all Bosch professional 18V tools"
+        ],
+        "limitations": [
+          "Lower max SPM than the DEWALT and top-tier competitors",
+          "Barrel grip requires an adjustment period for top-handle users"
+        ],
+        "features": [
+          "18V brushless-compatible motor",
+          "550-2,700 SPM",
+          "Barrel-grip design",
+          "Variable speed dial"
+        ],
+        "badge": "Best Bosch"
+      },
+      {
+        "name": "Makita XVJ03Z 18V LXT Cordless Jigsaw",
+        "brand": "Makita",
+        "asin": "B00K194J8E",
+        "blurb": "Key specs: 18V LXT brushless, 0-2,600 SPM variable speed, 3-position orbital action.",
+        "strengths": [
+          "LED blade light illuminates the cut line in shadowed workpiece areas",
+          "3-position orbital action is sufficient for most woodworking applications",
+          "Makita LXT battery ecosystem -- largest 18V battery library in the industry",
+          "Lower vibration than Milwaukee at equivalent power output"
+        ],
+        "limitations": [
+          "2,600 SPM max is lower than Milwaukee (3,500) for faster cuts in softwood",
+          "3-position vs 4-position orbital action -- slight disadvantage in versatility"
+        ],
+        "features": [
+          "18V LXT brushless",
+          "0-2,600 SPM variable speed",
+          "3-position orbital action",
+          "LED blade light"
+        ],
+        "badge": "Best Makita"
+      },
+      {
+        "name": "Greenworks 24V Brushless Cordless Jig Saw with 6 Blades",
+        "brand": "Greenworks",
+        "asin": "B08B3HYQNT",
+        "blurb": "Key specs: Brushless motor, 4 orbital settings, 1-inch stroke length.",
+        "strengths": [
+          "Brushless motor delivers up to 3,000 SPM with better efficiency than brushed competitors at this price",
+          "4 orbital settings cover gentle curves through aggressive straight cuts",
+          "Tool-free blade changing speeds up switching between blade types",
+          "Lower cost of entry into a brushless cordless jigsaw than the major professional brands"
+        ],
+        "limitations": [
+          "Smaller battery ecosystem than Milwaukee, DEWALT, or Makita",
+          "Less refined vibration damping than premium professional brands"
+        ],
+        "features": [
+          "Brushless motor",
+          "4 orbital settings",
+          "1-inch stroke length",
+          "0-45 degree bevel"
+        ],
+        "badge": "Best Barrel Grip"
+      },
+      {
+        "name": "WEN 20661 20V Max Cordless Jigsaw with Battery and Charger",
+        "brand": "WEN",
+        "asin": "B0BK2VSLYQ",
+        "blurb": "Key specs: 20V Max battery included, Variable-pressure trigger, 0-2,400 SPM.",
+        "strengths": [
+          "Lowest price in the cordless jigsaw category, and includes battery and charger",
+          "Variable-pressure trigger allows fine speed control by feel",
+          "Tool-free bevel and blade changes handle most woodworking jigsaw tasks",
+          "Good for woodworkers who use a jigsaw occasionally rather than daily"
+        ],
+        "limitations": [
+          "Lower max SPM than DEWALT or Makita",
+          "Less refined vibration damping than premium brands"
+        ],
+        "features": [
+          "20V Max battery included",
+          "Variable-pressure trigger",
+          "0-2,400 SPM",
+          "Tool-free bevel adjustment"
+        ],
+        "badge": "Best Budget",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "Festool Carvex PSC 420 EBQ Cordless Jigsaw",
+        "brand": "Festool",
+        "asin": "B00GWU4O54",
+        "blurb": "Key specs: Festool 18V system, 0-2,700 SPM, 5-position orbital.",
+        "strengths": [
+          "5-position orbital -- the widest orbital range in the category",
+          "Lowest vibration of anyjigsaw -- measurable difference in operator fatigue",
+          "Festool guide rail compatibility enables straight cuts as precise as a track saw",
+          "Highest dust extraction efficiency with Festool CT extractor"
+        ],
+        "limitations": [
+          "Guide rail compatibility only useful if also invested in Festool rail system"
+        ],
+        "features": [
+          "Festool 18V system",
+          "0-2,700 SPM",
+          "5-position orbital",
+          "Best-in-class vibration control"
+        ],
+        "badge": "Best Premium",
+        "bestFor": "buyers who want the best overall package"
+      },
+      {
+        "name": "Metabo HPT CJ18DSLQ4 18V Cordless Jigsaw",
+        "brand": "Metabo HPT",
+        "asin": "B07QBDCQB3",
+        "blurb": "Key specs: 18V brushless, 0-2,900 SPM variable speed, 4-position orbital.",
+        "strengths": [
+          "4-position orbital at a lower price than Milwaukee or DEWALT",
+          "2,900 SPM max speed handles most softwood and plywood cuts efficiently",
+          "T-shank blade compatibility -- most blade brands are T-shank",
+          "Metabo HPT (former Hitachi) tools have excellent motor longevity"
+        ],
+        "limitations": [
+          "Smaller ecosystem than Milwaukee or DEWALT",
+          "Less brand recognition for resale value"
+        ],
+        "features": [
+          "18V brushless",
+          "0-2,900 SPM variable speed",
+          "4-position orbital",
+          "T-shank blade compatibility"
+        ],
+        "badge": "Best Value",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "WEN 20670 Brushless Cordless Jigsaw with Auto-Speed",
+        "brand": "WEN",
+        "asin": "B0BK2X4B8Z",
+        "blurb": "Key specs: 20V Max battery, Brushless motor with auto-speed, Tool-free bevel adjustment.",
+        "strengths": [
+          "Brushless motor at an entry-level price point -- longer runtime and motor life than brushed competitors",
+          "Auto-speed feature adjusts stroke speed automatically based on material resistance",
+          "LED work light included at this price tier",
+          "Adequate for plywood, thin softwood, and light DIY tasks"
+        ],
+        "limitations": [
+          "Smaller battery ecosystem than the major professional brands",
+          "Motor struggles in thick hardwood compared to a full-power professional jigsaw"
+        ],
+        "features": [
+          "20V Max battery",
+          "Brushless motor with auto-speed",
+          "Tool-free bevel adjustment",
+          "Onboard LED work light"
+        ],
+        "badge": "Best Entry"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

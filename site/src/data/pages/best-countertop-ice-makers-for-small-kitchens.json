@@ -1,0 +1,135 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Countertop Ice Makers for Small Kitchens",
+  "h1": "The 5 Best Countertop Ice Makers for Small Kitchens",
+  "metaDescription": "Our 5 picks for countertop ice makers for small kitchens, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at countertop ice makers for small kitchens using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-ice-makers",
+  "related": [
+    "best-ice-makers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Igloo Automatic Self-Cleaning Ice Maker",
+        "brand": "Igloo",
+        "asin": "B0B1FXF76C",
+        "blurb": "Key specs: 26 lbs of ice per 24 hours, 9 cubes ready in about 7 minutes, Automatic 5-cycle self-cleaning function.",
+        "strengths": [
+          "Smallest true footprint in this list, fits a narrow counter strip or a cart",
+          "Self-cleaning cycle reduces the maintenance most small-kitchen owners skip",
+          "9 cubes in 7 minutes is fast enough that you never wait long for a refill"
+        ],
+        "limitations": [
+          "1-quart reservoir needs refilling every day or two with regular use",
+          "Bullet-shaped ice melts faster than nugget or cube ice in a drink",
+          "Plastic housing feels less premium than stainless steel competitors"
+        ],
+        "features": [
+          "26 lbs of ice per 24 hours",
+          "9 cubes ready in about 7 minutes",
+          "Automatic 5-cycle self-cleaning function",
+          "Large or small cube size selector",
+          "Compact footprint under 10 inches wide"
+        ],
+        "badge": "Top pick",
+        "bestFor": "small kitchens"
+      },
+      {
+        "name": "Frigidaire Countertop Ice Maker",
+        "brand": "Frigidaire",
+        "asin": "B07J1YVSNQ",
+        "blurb": "Key specs: 26 lbs of bullet-shaped ice per day, 9 pieces in about 7 minutes, Black stainless finish.",
+        "strengths": [
+          "Usually the least expensive model that still produces 26 lbs a day",
+          "Compact enough to tuck onto an end-of-counter corner",
+          "Recognized appliance brand with wide parts and support availability"
+        ],
+        "limitations": [
+          "No WiFi or app, purely manual operation",
+          "Bullet ice is thin-walled and melts quickly once scooped",
+          "Fan noise is noticeable in a very quiet room"
+        ],
+        "features": [
+          "26 lbs of bullet-shaped ice per day",
+          "9 pieces in about 7 minutes",
+          "Black stainless finish",
+          "Simple one-button control panel",
+          "Portable, no installation required"
+        ],
+        "bestFor": "small kitchens"
+      },
+      {
+        "name": "Euhomy Nugget Ice Maker Countertop",
+        "brand": "Euhomy",
+        "asin": "B0C32SGKMJ",
+        "blurb": "Key specs: Up to 34 lbs of nugget ice per day, First batch ready in about 6 minutes, Self-cleaning cycle.",
+        "strengths": [
+          "Chewable nugget ice in a machine barely larger than the compact bullet-ice models",
+          "34 lbs a day is enough output for a small household plus occasional guests",
+          "Removable top cover simplifies cleaning versus sealed-lid designs"
+        ],
+        "limitations": [
+          "Still noticeably taller and deeper than the Igloo or Frigidaire",
+          "Louder compressor cycle than bullet-ice machines",
+          "Price runs higher than basic bullet-ice models"
+        ],
+        "features": [
+          "Up to 34 lbs of nugget ice per day",
+          "First batch ready in about 6 minutes",
+          "Self-cleaning cycle",
+          "Removable top cover for easy access",
+          "Built-in carry handle"
+        ],
+        "bestFor": "small kitchens"
+      },
+      {
+        "name": "GE Profile Opal 2.0 Nugget Ice Maker",
+        "brand": "GE Profile",
+        "asin": "B09649DDTN",
+        "blurb": "Key specs: 38 lbs of nugget ice per 24 hours, 0.75-gallon side water tank, WiFi with SmartHQ app and Alexa/Google voice control.",
+        "strengths": [
+          "The side tank means fewer refills than any other model in this list",
+          "38 lbs a day covers a household that fills a pitcher and a cooler in the same day",
+          "App scheduling and maintenance alerts are a genuine convenience feature"
+        ],
+        "limitations": [
+          "Roughly 15 inches wide with the tank attached, the widest footprint here",
+          "Overkill for a kitchen that only needs ice for a few drinks a day"
+        ],
+        "features": [
+          "38 lbs of nugget ice per 24 hours",
+          "0.75-gallon side water tank",
+          "WiFi with SmartHQ app and Alexa/Google voice control",
+          "First batch ready in about 10 minutes",
+          "Automatic sanitize and descale cycle"
+        ],
+        "bestFor": "small kitchens"
+      },
+      {
+        "name": "EUHOMY Countertop Bullet Ice Maker, 26 lb/Day",
+        "brand": "EUHOMY",
+        "asin": "B09SH86T8M",
+        "blurb": "",
+        "strengths": [
+          "Fast first batch",
+          "Carry handle for RVs and parties",
+          "Self-cleaning cycle",
+          "Two cube sizes"
+        ],
+        "limitations": [
+          "Ice melts in the unrefrigerated basket",
+          "Small 1.2 L tank",
+          "Bullet ice, not nugget"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

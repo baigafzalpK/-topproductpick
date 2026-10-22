@@ -1,0 +1,94 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Smart Lights 2026",
+  "h1": "The 4 Best Smart Lights 2026",
+  "metaDescription": "Our 4 picks for smart lights 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at smart lights 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-smart-home",
+  "related": [
+    "best-smart-home"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Nanoleaf Essentials Matter A19 Smart Bulb (2-Pack)",
+        "brand": "Nanoleaf",
+        "asin": "B0DY9DDGG2",
+        "blurb": "",
+        "strengths": [
+          "1000 lumens",
+          "Matter support",
+          "Full color and tunable white",
+          "Music sync"
+        ],
+        "limitations": [
+          "Premium price",
+          "Some features need the Nanoleaf app",
+          "Thread versions need a border router"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "Sengled Matter Smart LED Bulb A19",
+        "brand": "Sengled",
+        "asin": "B0C6QY1DRW",
+        "blurb": "",
+        "strengths": [
+          "Matter certified",
+          "No hub required",
+          "16 million colors",
+          "Affordable"
+        ],
+        "limitations": [
+          "2.4 GHz Wi-Fi only",
+          "800 lumens",
+          "Brand app support has varied"
+        ],
+        "features": []
+      },
+      {
+        "name": "Wyze Bulb Color A19 (1100 Lumen)",
+        "brand": "Wyze",
+        "asin": "B084TFWJTH",
+        "blurb": "",
+        "strengths": [
+          "1100 lumens, brighter than many color bulbs",
+          "CRI 90+",
+          "Wide dimming range",
+          "No hub required"
+        ],
+        "limitations": [
+          "No Matter support listed",
+          "Wyze app needed",
+          "2.4 GHz Wi-Fi"
+        ],
+        "features": []
+      },
+      {
+        "name": "Wyze Bulb Color BR30 Flood Light",
+        "brand": "Wyze",
+        "asin": "B0BL88Z32H",
+        "blurb": "",
+        "strengths": [
+          "Fits recessed and track fixtures",
+          "Full color and tunable white",
+          "No hub required",
+          "Affordable"
+        ],
+        "limitations": [
+          "No Matter support listed",
+          "2.4 GHz Wi-Fi only",
+          "Wyze app required"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

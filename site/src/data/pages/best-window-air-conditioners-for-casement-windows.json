@@ -1,0 +1,77 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Window Air Conditioners for Casement Windows",
+  "h1": "The 3 Best Window Air Conditioners for Casement Windows",
+  "metaDescription": "Our 3 picks for window air conditioners for casement windows, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at window air conditioners for casement windows using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-window-air-conditioners",
+  "related": [
+    "best-window-air-conditioners"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Frigidaire FFRS0822SE 8,000 BTU Slider/Casement Air Conditioner",
+        "brand": "Frigidaire",
+        "asin": "B08NWCZ1YV",
+        "blurb": "",
+        "strengths": [
+          "Designed for slider and casement windows",
+          "Remote and 24-hour timer",
+          "Washable filter",
+          "Sleep mode"
+        ],
+        "limitations": [
+          "Heavy at about 68 lb",
+          "Needs a minimum opening around 15.5 in wide",
+          "Installation kit may need extra panels"
+        ],
+        "features": []
+      },
+      {
+        "name": "Koldfront CAC8000W 8,000 BTU Casement Air Conditioner",
+        "brand": "Koldfront",
+        "asin": "B07DG1Q27H",
+        "blurb": "",
+        "strengths": [
+          "Built specifically for casement windows",
+          "Dehumidifier mode",
+          "Remote control",
+          "Window panel frame included"
+        ],
+        "limitations": [
+          "Narrow width limits",
+          "Won't fit vertical sliding windows",
+          "Louder than inverter units"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "Koldfront CAC10000W Casement Air Conditioner",
+        "brand": "Koldfront",
+        "asin": "B07R737L96",
+        "blurb": "",
+        "strengths": [
+          "Higher cooling output",
+          "Casement-specific design",
+          "Dehumidifier mode",
+          "Remote control"
+        ],
+        "limitations": [
+          "Strict window size range",
+          "Heavy",
+          "Capacity specs vary across listing fields"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

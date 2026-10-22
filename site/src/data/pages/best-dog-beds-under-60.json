@@ -1,0 +1,126 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Dog Beds Under $60",
+  "h1": "The 5 Best Dog Beds Under $60",
+  "metaDescription": "Our 5 picks for dog beds under $60, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at dog beds under $60 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-dog-beds",
+  "related": [
+    "best-dog-beds"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Furhaven Ultra Plush Luxe Lounger Medium",
+        "brand": "Furhaven",
+        "asin": "B073PZQCVG",
+        "blurb": "Key specs: Contour mattress shape for dogs up to 23 pounds, Ultra-plush faux fur and suede cover, Removable, machine-washable cover.",
+        "strengths": [
+          "Genuine contour foam base rather than pure fiber fill at this price",
+          "Washable cover extends usable life well past a year of daily use",
+          "Same Furhaven construction quality found in the brand's larger, pricier sizes"
+        ],
+        "limitations": [
+          "Sized for dogs up to 23 pounds, not a fit for medium or large breeds",
+          "Foam is thinner than Furhaven's larger jumbo-size beds",
+          "Cover fabric shows wear faster than a bonded microfiber cover"
+        ],
+        "features": [
+          "Contour mattress shape for dogs up to 23 pounds",
+          "Ultra-plush faux fur and suede cover",
+          "Removable, machine-washable cover",
+          "Typically $40 to $50"
+        ],
+        "badge": "Top pick"
+      },
+      {
+        "name": "Furhaven Plush & Suede Sofa-Style Medium",
+        "brand": "Furhaven",
+        "asin": "B01JAY00R4",
+        "blurb": "Key specs: Sofa-style bolster edge for dogs up to 35 pounds, Removable bolsters and washable cover, Plush and suede fabric combination.",
+        "strengths": [
+          "Raised bolster edge suits dogs that like to rest their head or curl against a wall",
+          "Fits dogs up to 35 pounds, a bit more room than the smallest Furhaven sizes",
+          "Removable bolster pieces make full cover washing easier than one-piece designs"
+        ],
+        "limitations": [
+          "Bolster edges take up sleeping surface a dog that sprawls flat won't use",
+          "Foam under the bolsters compresses faster than the flat sleeping area",
+          "Not a fit for dogs over roughly 35 pounds"
+        ],
+        "features": [
+          "Sofa-style bolster edge for dogs up to 35 pounds",
+          "Removable bolsters and washable cover",
+          "Plush and suede fabric combination",
+          "Typically $40 to $55"
+        ]
+      },
+      {
+        "name": "Furhaven Medium CertiPUR Foam Sofa Bed",
+        "brand": "Furhaven",
+        "asin": "B0GT61L9VC",
+        "blurb": "Key specs: CertiPUR-US certified foam, 30 by 20-inch medium size, Embossed velvet removable cover.",
+        "strengths": [
+          "CertiPUR-US certification confirms the foam meets independent content and emissions standards",
+          "Embossed velvet cover feels more durable than basic plush fabric at this price",
+          "30 by 20-inch size fits most medium dogs comfortably"
+        ],
+        "limitations": [
+          "Still a fiber-and-foam hybrid rather than a solid orthopedic slab",
+          "Fewer total reviews than Furhaven's more established Luxe Lounger line",
+          "Not rated for dogs over medium size"
+        ],
+        "features": [
+          "CertiPUR-US certified foam",
+          "30 by 20-inch medium size",
+          "Embossed velvet removable cover",
+          "Typically $45 to $55"
+        ]
+      },
+      {
+        "name": "Bedsure Orthopedic Flat Dog Bed, Medium",
+        "brand": "Bedsure",
+        "asin": "B089VZPFXH",
+        "blurb": "",
+        "strengths": [
+          "Fits crates",
+          "Removable washable cover",
+          "Egg-crate foam support",
+          "Low price"
+        ],
+        "limitations": [
+          "Thin for heavy dogs",
+          "No bolsters",
+          "Foam can flatten with heavy use"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "BarksBar Snuggly Sleeper Orthopedic Dog Bed, Large",
+        "brand": "BarksBar",
+        "asin": "B01HJ1ICLQ",
+        "blurb": "",
+        "strengths": [
+          "Solid orthopedic foam base",
+          "Soft bolster for head support",
+          "Plush sleeping surface",
+          "Affordable"
+        ],
+        "limitations": [
+          "Owners report mixed fit for very large dogs",
+          "Cover sheds lint at first",
+          "Bolster compresses over time"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

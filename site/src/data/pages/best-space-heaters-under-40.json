@@ -1,0 +1,86 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Space Heaters Under $40",
+  "h1": "The 3 Best Space Heaters Under $40",
+  "metaDescription": "Our 3 picks for space heaters under $40, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at space heaters under $40 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-space-heaters",
+  "related": [
+    "best-space-heaters"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Lasko 754200 Desktop Ceramic Heater",
+        "brand": "Lasko",
+        "asin": "B000TKDQ5C",
+        "blurb": "Key specs: 9.2-inch compact desktop design, Adjustable thermostat, 2 heat settings plus fan-only mode.",
+        "strengths": [
+          "One of the least expensive space heaters with a genuine adjustable thermostat",
+          "Compact enough for a desk, nightstand, or small room",
+          "Ready to use straight out of the box, no assembly needed",
+          "Large ratings history gives confidence in long-term reliability"
+        ],
+        "limitations": [
+          "No oscillation, only heats the direction it's pointed",
+          "Noticeably louder fan than premium models on the high setting",
+          "No remote or digital display"
+        ],
+        "features": [
+          "9.2-inch compact desktop design",
+          "Adjustable thermostat",
+          "2 heat settings plus fan-only mode",
+          "Overheat protection",
+          "Typically under $25"
+        ],
+        "badge": "Top pick"
+      },
+      {
+        "name": "Lasko CT16450 Ceramic Space Heater",
+        "brand": "Lasko",
+        "asin": "B08KSJZW4T",
+        "blurb": "Key specs: 15.7-inch compact ceramic heater, 1500W element, Adjustable thermostat.",
+        "strengths": [
+          "Taller than a desktop model, warming more of a seated body",
+          "Adjustable thermostat gives more control than fixed-only competitors at this price",
+          "Overheat protection matches pricier models"
+        ],
+        "limitations": [
+          "Some owners report a low buzzing sound during operation"
+        ],
+        "features": [
+          "15.7-inch compact ceramic heater",
+          "1500W element",
+          "Adjustable thermostat",
+          "2 heat settings plus fan-only",
+          "Overheat protection",
+          "Typically $35 to $40"
+        ]
+      },
+      {
+        "name": "Amazon Basics 500W Ceramic Personal Space Heater",
+        "brand": "Amazon Basics",
+        "asin": "B074MR2C61",
+        "blurb": "",
+        "strengths": [
+          "Very low price",
+          "Light and small for desks",
+          "Tip-over protection",
+          "Low 500W draw is easy on circuits"
+        ],
+        "limitations": [
+          "Only warms a personal space, not a room",
+          "No thermostat",
+          "Fan noise"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

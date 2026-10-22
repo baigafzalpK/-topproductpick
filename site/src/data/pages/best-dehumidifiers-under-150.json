@@ -1,0 +1,101 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Dehumidifiers Under $150",
+  "h1": "The 4 Best Dehumidifiers Under $150",
+  "metaDescription": "Our 4 picks for dehumidifiers under $150, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at dehumidifiers under $150 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-dehumidifiers",
+  "related": [
+    "best-dehumidifiers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Vremi 50-Pint Dehumidifier for 4,500 Sq Ft Spaces",
+        "brand": "Vremi",
+        "asin": "B07JMZJX4B",
+        "blurb": "Key specs: 50-pint-per-day rating for spaces up to 4,500 sq ft, 1.8-gallon tank with full-tank auto shut-off, Continuous drain hose option.",
+        "strengths": [
+          "Frequently the lowest street price of any 50-pint Energy Star unit in this category",
+          "Continuous drain hose option removes manual bucket-emptying without needing a pump",
+          "Caster wheels make it easy to move between rooms as needed"
+        ],
+        "limitations": [
+          "No built-in pump, so continuous drainage requires a downhill gravity run",
+          "Runs louder than pricier models at comparable fan settings",
+          "Housing feels less substantial than the Frigidaire"
+        ],
+        "features": [
+          "50-pint-per-day rating for spaces up to 4,500 sq ft",
+          "1.8-gallon tank with full-tank auto shut-off",
+          "Continuous drain hose option",
+          "Energy Star certified compressor",
+          "Built-in caster wheels"
+        ],
+        "badge": "Top pick"
+      },
+      {
+        "name": "Midea Cube 35-Pint Smart Dehumidifier with Pump",
+        "brand": "Midea",
+        "asin": "B0B4BK9XVP",
+        "blurb": "Key specs: 35-pint-per-day rating, covers up to 3,500 sq ft, Built-in pump with included drain hose, Wi-Fi control via the MideaAir app.",
+        "strengths": [
+          "Built-in pump and app control at a price point that usually skips both",
+          "Quietest compressor of the models in this roundup"
+        ],
+        "limitations": [
+          "35-pint capacity is lower than the Vremi's 50-pint rating",
+          "Learning the Cube's lift-and-twist tank takes a try or two"
+        ],
+        "features": [
+          "35-pint-per-day rating, covers up to 3,500 sq ft",
+          "Built-in pump with included drain hose",
+          "Wi-Fi control via the MideaAir app"
+        ]
+      },
+      {
+        "name": "Frigidaire FFAD3534W1 35-Pint Dehumidifier",
+        "brand": "Frigidaire",
+        "asin": "B0BHC5P5TZ",
+        "blurb": "",
+        "strengths": [
+          "35-pint capacity for medium rooms",
+          "Continuous drain hose option",
+          "Auto shutoff when the bucket is full",
+          "Established appliance brand"
+        ],
+        "limitations": [
+          "Bucket must be emptied without a hose",
+          "Audible compressor hum",
+          "Not sized for very wet basements"
+        ],
+        "features": []
+      },
+      {
+        "name": "hOmeLabs 4,500 Sq Ft Energy Star Dehumidifier",
+        "brand": "hOmeLabs",
+        "asin": "B06X9MFTZZ",
+        "blurb": "",
+        "strengths": [
+          "Energy Star certified",
+          "Continuous drain option",
+          "Auto restart after power outages",
+          "Turbo fan mode"
+        ],
+        "limitations": [
+          "Tank capacity is modest without a hose",
+          "Listing capacity figures vary by test standard",
+          "Noise on high fan"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

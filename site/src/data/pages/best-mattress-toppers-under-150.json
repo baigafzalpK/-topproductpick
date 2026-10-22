@@ -1,0 +1,100 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Mattress Toppers Under $150",
+  "h1": "The 4 Best Mattress Toppers Under $150",
+  "metaDescription": "Our 4 picks for mattress toppers under $150, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at mattress toppers under $150 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-mattress-toppers",
+  "related": [
+    "best-mattress-toppers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Sleep Innovations 4-Inch Topper",
+        "brand": "Sleep Innovations",
+        "asin": "B01MRXVRVU",
+        "blurb": "Key specs: 3-inch cooling gel memory foam plus 1-inch pillow top, Dual-layer construction, Removable, washable cover.",
+        "strengths": [
+          "Dual-layer construction at this price point is a genuine step up from single-layer budget toppers",
+          "4-inch total height provides more correction for a firm mattress than any 3-inch option in this list"
+        ],
+        "limitations": [
+          "Ultra soft support variant may be too soft for back and stomach sleepers",
+          "Takes longer to fully decompress than thinner single-layer toppers"
+        ],
+        "features": [
+          "3-inch cooling gel memory foam plus 1-inch pillow top",
+          "Dual-layer construction",
+          "Removable, washable cover",
+          "Typically $90 to $130 for queen"
+        ],
+        "badge": "Best overall"
+      },
+      {
+        "name": "Lucid 3-Inch Gel Memory Foam Topper",
+        "brand": "Lucid",
+        "asin": "B08BNC8V2Q",
+        "blurb": "Key specs: 3-inch gel-infused memory foam, 5-zone design, Ventilated cooling channels.",
+        "strengths": [
+          "5-zone design remains the most targeted pressure relief in this price bracket",
+          "Ventilated cooling channels are a genuine advantage over the Sleep Innovations' pillow top for hot sleepers"
+        ],
+        "limitations": [
+          "3-inch depth provides less correction for a very firm mattress than the 4-inch Sleep Innovations",
+          "No removable cover, unlike the Sleep Innovations",
+          "No corner straps to prevent shifting"
+        ],
+        "features": [
+          "3-inch gel-infused memory foam",
+          "5-zone design",
+          "Ventilated cooling channels",
+          "Typically $65 to $110 depending on size"
+        ]
+      },
+      {
+        "name": "Linenspa Gel Memory Foam Topper",
+        "brand": "Linenspa",
+        "asin": "B07MY34QH7",
+        "blurb": "Key specs: 3-inch gel-infused memory foam, Plush feel, CertiPUR-US certified.",
+        "strengths": [],
+        "limitations": [
+          "Lower foam density than the dual-layer Sleep Innovations, meaning faster compression over time",
+          "No zoned support or removable cover, the two features that differentiate the pricier options in this list",
+          "Best suited to buyers prioritizing budget headroom over maximum features"
+        ],
+        "features": [
+          "3-inch gel-infused memory foam",
+          "Plush feel",
+          "CertiPUR-US certified",
+          "King and Cal King typically under $100"
+        ]
+      },
+      {
+        "name": "ViscoSoft 3-Inch High Density Memory Foam Topper (Queen)",
+        "brand": "ViscoSoft",
+        "asin": "B00XKJKKGW",
+        "blurb": "",
+        "strengths": [
+          "High-density foam over 3 lb/ft³",
+          "Removable washable cover",
+          "Straps keep it in place",
+          "Multi-year warranty"
+        ],
+        "limitations": [
+          "Retains some heat",
+          "Initial off-gassing smell",
+          "Heavy"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

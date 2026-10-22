@@ -1,0 +1,106 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Automatic Pet Feeders for Vacations",
+  "h1": "The 4 Best Automatic Pet Feeders for Vacations",
+  "metaDescription": "Our 4 picks for automatic pet feeders for vacations, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at automatic pet feeders for vacations using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-automatic-pet-feeders",
+  "related": [
+    "best-automatic-pet-feeders"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "PetSafe Smart Feed Automatic Dog & Cat Feeder",
+        "brand": "PetSafe",
+        "asin": "B073WYP317",
+        "blurb": "Key specs: 24-cup / 6L hopper capacity, Wi-Fi app control with low-food alerts, Backup batteries maintain schedule through power outages.",
+        "strengths": [
+          "24-cup hopper covers most single-cat trips of two weeks or more without a refill",
+          "Backup batteries mean a power blip doesn't silently break the whole schedule",
+          "Low-food and completed-feeding alerts land directly on your phone while traveling"
+        ],
+        "limitations": [
+          "No camera, so alerts confirm dispensing but not that the pet actually ate",
+          "Requires a stable home Wi-Fi connection for remote alerts to work",
+          "Large housing takes up more counter space than a compact non-connected feeder"
+        ],
+        "features": [
+          "24-cup / 6L hopper capacity",
+          "Wi-Fi app control with low-food alerts",
+          "Backup batteries maintain schedule through power outages",
+          "Up to 12 scheduled meals per day",
+          "Alexa compatible for manual snack dispensing"
+        ],
+        "badge": "Top pick",
+        "bestFor": "vacations"
+      },
+      {
+        "name": "PETLIBRO Granary Camera Feeder with AI Multi-Pet Recognition",
+        "brand": "PETLIBRO",
+        "asin": "B0FMRKSXQZ",
+        "blurb": "Key specs: 1080p camera with night vision, Two-way audio to check in and hear your pet, AI recognition and daily activity summaries per pet.",
+        "strengths": [
+          "Live camera lets you actually see your pet eating, not just infer it from a dispensing alert",
+          "Two-way audio means you can talk to an anxious pet from anywhere",
+          "Daily activity summaries flag if a pet's eating pattern changes mid-trip"
+        ],
+        "limitations": [
+          "Cloud video storage for reviewing past footage requires a paid subscription",
+          "Smaller hopper than the PetSafe Smart Feed, better suited to trips under a week",
+          "Camera and Wi-Fi dependent, more points of failure than a simple mechanical timer"
+        ],
+        "features": [
+          "1080p camera with night vision",
+          "Two-way audio to check in and hear your pet",
+          "AI recognition and daily activity summaries per pet",
+          "Motion and sound alerts"
+        ],
+        "bestFor": "vacations"
+      },
+      {
+        "name": "PETLIBRO Granary 5L Wi-Fi Automatic Pet Feeder",
+        "brand": "PETLIBRO",
+        "asin": "B09S8WMJY9",
+        "blurb": "",
+        "strengths": [
+          "App scheduling for up to 10 meals a day",
+          "5-liter hopper lasts several days for one cat or small dog",
+          "Low-food alerts in the app",
+          "Battery backup keeps scheduled meals running during power cuts"
+        ],
+        "limitations": [
+          "Dry food only",
+          "Needs a 2.4/5 GHz Wi-Fi setup for remote features",
+          "Portion size varies with kibble shape"
+        ],
+        "features": []
+      },
+      {
+        "name": "WOPET 7L Automatic Feeder with Camera",
+        "brand": "WOPET",
+        "asin": "B0DQTTN8GN",
+        "blurb": "",
+        "strengths": [
+          "Built-in HD camera to watch mealtimes",
+          "Large 7-liter hopper",
+          "App scheduling up to 6 meals a day",
+          "Two-way audio"
+        ],
+        "limitations": [
+          "2.4 GHz Wi-Fi only",
+          "Dry food only",
+          "Camera features depend on the app"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

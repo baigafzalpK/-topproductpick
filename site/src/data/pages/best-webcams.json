@@ -1,0 +1,46 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "Our Top Pick: Webcams 2026",
+  "h1": "Our Top Pick: Webcams 2026",
+  "metaDescription": "Our top pick for webcams 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at webcams 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "webcams",
+  "related": [
+    "webcams"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Razer Kiyo Pro",
+        "brand": "Razer",
+        "asin": "B08T1MWX6J",
+        "blurb": "Key specs: 1080p/60fps, Sony STARVIS adaptive light sensor, HDR support.",
+        "strengths": [
+          "Sony STARVIS sensor is the best available for low-light webcams",
+          "Adaptive light sensor adjusts without artificial brightening that degrades image quality",
+          "Three FoV presets accommodate desk setup variety",
+          "1080p/60fps for smooth motion during calls and streams"
+        ],
+        "limitations": [
+          "Razer Synapse software is heavy, adds to startup time",
+          "Physical design is bulky relative to competitors",
+          "HDR can overprocess in some lighting conditions"
+        ],
+        "features": [
+          "1080p/60fps",
+          "Sony STARVIS adaptive light sensor",
+          "HDR support",
+          "Adjustable FoV: 90, 103, or 120 degrees",
+          "USB 3.0"
+        ],
+        "badge": "Best For Dark Rooms"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

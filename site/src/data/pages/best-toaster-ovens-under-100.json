@@ -1,0 +1,265 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 11 Best Toaster Ovens Under $100",
+  "h1": "The 11 Best Toaster Ovens Under $100",
+  "metaDescription": "Our 11 picks for toaster ovens under $100, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at toaster ovens under $100 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "toaster-ovens",
+  "related": [
+    "toaster-ovens"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Hamilton Beach Easy Reach 4-Slice Toaster Oven with Roll-Top Door",
+        "brand": "Hamilton Beach",
+        "asin": "B07CP7JN79",
+        "blurb": "Key specs: 1300W with roll-top door instead of a swing-down door, 4-slice / 0.4 cubic foot cavity fits a 9-inch pizza, Toast, bake, and broil functions with analog dials.",
+        "strengths": [
+          "Roll-top door eliminates dripping grease or food sliding off a hot drop-down door",
+          "Compact footprint fits counters where a standard swing-door oven can't",
+          "Simple analog controls with no learning curve for toast and reheating"
+        ],
+        "limitations": [
+          "No convection fan, a basic radiant-heat design, so browning is less even than convection models",
+          "0.4 cubic foot cavity is too small for a 12-inch pizza or a 9x13 pan",
+          "No digital timer precision, just a mechanical dial"
+        ],
+        "features": [
+          "1300W with roll-top door instead of a swing-down door",
+          "4-slice / 0.4 cubic foot cavity fits a 9-inch pizza",
+          "Toast, bake, and broil functions with analog dials",
+          "Removable crumb tray and non-stick interior",
+          "Auto shutoff after cook cycle completes"
+        ]
+      },
+      {
+        "name": "BLACK+DECKER 4-Slice Natural Convection Toaster Oven TO1760SS",
+        "brand": "Black+Decker",
+        "asin": "B0721CGB5F",
+        "blurb": "Key specs: 1300W with natural convection fan, 4-slice cavity fits a 9-inch pizza, Toast, bake, and broil functions.",
+        "strengths": [
+          "Compact 4-slice size suits a solo or couple household without wasted counter space",
+          "Reliable, straightforward dial controls for daily toast and reheating"
+        ],
+        "limitations": [
+          "Natural convection is functional but noticeably weaker than the forced high-speed fans on air fry models",
+          "No digital display or precise temperature readout",
+          "Small cavity rules out anything larger than a 9-inch pizza or a handful of muffins"
+        ],
+        "features": [
+          "1300W with natural convection fan",
+          "4-slice cavity fits a 9-inch pizza",
+          "Toast, bake, and broil functions",
+          "60-minute mechanical timer with stay-on setting",
+          "Under $40 street price"
+        ]
+      },
+      {
+        "name": "Toshiba AC25CEW-SS Digital Toaster Oven with Convection",
+        "brand": "Toshiba",
+        "asin": "B072Q3MFDH",
+        "blurb": "Key specs: 1500W with digital display and convection fan, 6-slice / 0.5 cubic foot cavity fits a 12-inch pizza, Bake, toast, broil, warm, and convection functions.",
+        "strengths": [
+          "Convection",
+          "Rotisserie",
+          "Digital controls",
+          "Spacious interior"
+        ],
+        "limitations": [
+          "Large footprint",
+          "Exterior heat",
+          "Controls learning curve"
+        ],
+        "features": [
+          "1500W with digital display and convection fan",
+          "6-slice / 0.5 cubic foot cavity fits a 12-inch pizza",
+          "Bake, toast, broil, warm, and convection functions",
+          "9 preset digital cook settings",
+          "Interior light for monitoring without opening the door"
+        ]
+      },
+      {
+        "name": "Oster TSSTTVMNDG Extra Large Digital Countertop Oven with Convection",
+        "brand": "Oster",
+        "asin": "B003Z34OME",
+        "blurb": "Key specs: 1500W with digital controls and convection, 6-slice / 0.6 cubic foot cavity, the largest cavity under $100 in this guide, Fits a 12-inch pizza and a whole small chicken.",
+        "strengths": [
+          "Turbo convection setting speeds preheat compared to standard convection at this price",
+          "Extra-large door opening makes loading a roasting pan easier than smaller compact models"
+        ],
+        "limitations": [
+          "Larger cavity means longer preheat time than compact 4-slice models",
+          "Thermostat variance of 20°F to 30°F is typical for the price and requires an oven thermometer for baking precision",
+          "Bulkier footprint than the Toshiba or Hamilton Beach, needing more counter depth"
+        ],
+        "features": [
+          "1500W with digital controls and convection",
+          "6-slice / 0.6 cubic foot cavity, the largest cavity under $100 in this guide",
+          "Fits a 12-inch pizza and a whole small chicken",
+          "Digital display with turbo convection setting",
+          "Extra-large opening for easier loading of bigger dishes"
+        ]
+      },
+      {
+        "name": "Panasonic NB-G110P FlashXpress Compact Toaster Oven",
+        "brand": "Panasonic",
+        "asin": "B008C9UFDI",
+        "blurb": "Key specs: Double infrared heating elements, no preheat required, 4-slice compact cavity fits a 9-inch pizza, Reaches cooking temperature in 2 to 3 minutes.",
+        "strengths": [
+          "Double infrared elements reach cooking temperature in 2 to 3 minutes versus 5 to 8 for standard elements",
+          "No-preheat design saves real time on daily toast and quick reheats",
+          "Compact size and infrared heat produce more even results than budget convection models at this size"
+        ],
+        "limitations": [
+          "4-slice cavity is too small for a 12-inch pizza or family-size baking",
+          "Infrared elements run hotter near the glass door, and the exterior gets warm to the touch",
+          "Higher price than other compact models in this list despite the small capacity"
+        ],
+        "features": [
+          "Double infrared heating elements, no preheat required",
+          "4-slice compact cavity fits a 9-inch pizza",
+          "Reaches cooking temperature in 2 to 3 minutes",
+          "Toast, bake, and broil functions",
+          "Slide-out crumb tray"
+        ]
+      },
+      {
+        "name": "COSORI Air Fryer Toaster Oven 14-in-1",
+        "brand": "Cosori",
+        "asin": "B0B59D1J98",
+        "blurb": "Key specs: 1500W with 14-in-1 preset functions including air fry and dehydrate, 12-quart / 0.5 cubic foot cavity fits a 9-inch pizza, Digital touchscreen with 12 one-touch presets.",
+        "strengths": [
+          "14 presets simplify cooking common foods without guessing time and temperature"
+        ],
+        "limitations": [
+          "0.5 cubic foot cavity is smaller than the Oster or Toshiba, so a 12-inch pizza doesn't fit",
+          "Touchscreen controls can be less responsive with greasy fingers during cooking",
+          "Build materials are noticeably lighter-duty than the metal-bodied Cuisinart or Oster"
+        ],
+        "features": [
+          "1500W with 14-in-1 preset functions including air fry and dehydrate",
+          "12-quart / 0.5 cubic foot cavity fits a 9-inch pizza",
+          "Digital touchscreen with 12 one-touch presets",
+          "Includes non-stick air fry basket and drip pan",
+          "Shade dial for toast darkness control"
+        ]
+      },
+      {
+        "name": "Cuisinart TOB-40N Custom Classic Toaster Oven Broiler",
+        "brand": "Cuisinart",
+        "asin": "B004JMZGM2",
+        "blurb": "Key specs: 1800W with broil and toast functions, 0.6 cubic foot cavity fits a 12-inch pizza or 4 chicken breasts, Classic dial controls with 30-minute timer.",
+        "strengths": [
+          "3-year warranty exceeds the 1-year coverage typical of budget and even some premium models",
+          "Straightforward dial controls that don't require learning a digital menu system"
+        ],
+        "limitations": [
+          "No convection fan, a classic radiant-heat design, so browning is less even than convection models",
+          "No digital display or precise temperature readout",
+          "Dated design compared to digital competitors at a similar price"
+        ],
+        "features": [
+          "1800W with broil and toast functions",
+          "0.6 cubic foot cavity fits a 12-inch pizza or 4 chicken breasts",
+          "Classic dial controls with 30-minute timer",
+          "Includes broil rack and bake pan",
+          "Cuisinart's 3-year limited warranty"
+        ]
+      },
+      {
+        "name": "Mueller Toaster Oven with Natural Convection, 4-Slice",
+        "brand": "Mueller",
+        "asin": "B078SD1JT8",
+        "blurb": "Key specs: 1200W with natural convection fan, 4-slice cavity fits a 9-inch pizza, Toast, bake, and broil functions.",
+        "strengths": [
+          "Lowest price of any convection-equipped model in this guide",
+          "Compact size and low wattage suit occasional, light use without a big power draw",
+          "Simple mechanical controls are easy for anyone to use without a manual"
+        ],
+        "limitations": [
+          "1200W is the lowest wattage in this list, preheat and cook times run longer than higher-wattage models",
+          "Build quality feels noticeably lighter than Cuisinart or Oster at a similar price",
+          "4-slice cavity limits use to toast, reheating, and small single-dish baking"
+        ],
+        "features": [
+          "1200W with natural convection fan",
+          "4-slice cavity fits a 9-inch pizza",
+          "Toast, bake, and broil functions",
+          "60-minute mechanical timer with auto shutoff",
+          "Under $35 street price"
+        ]
+      },
+      {
+        "name": "Proctor Silex 4-Slice Toaster Oven",
+        "brand": "Proctor Silex",
+        "asin": "B08V215VFP",
+        "blurb": "Key specs: 1100W with toast, bake, and broil functions, 4-slice cavity fits a 9-inch pizza, Mechanical timer dial, no digital components.",
+        "strengths": [
+          "Cheapest oven in this guide, adequate for basic toast and reheating tasks",
+          "No digital parts to fail, long service life reported for a purely mechanical design",
+          "Small footprint fits dorm rooms and minimal kitchens"
+        ],
+        "limitations": [
+          "No convection fan at all, the least even heat distribution in this guide",
+          "Thermostat variance is the widest of any model here, unsuitable for temperature-sensitive baking",
+          "4-slice cavity rules out anything beyond toast, small reheats, and a personal pizza"
+        ],
+        "features": [
+          "1100W with toast, bake, and broil functions",
+          "4-slice cavity fits a 9-inch pizza",
+          "Mechanical timer dial, no digital components",
+          "Removable baking pan and toast rack included",
+          "Under $30 street price"
+        ]
+      },
+      {
+        "name": "Dash Compact Toaster Oven Cooker with Baking Tray",
+        "brand": "Dash",
+        "asin": "B07DKVZMBL",
+        "blurb": "Key specs: 1200W with bake, broil, and toast functions, Ultra-compact cavity fits a 9-inch pizza or 4 slices of toast, Includes a removable baking tray.",
+        "strengths": [
+          "Smallest footprint in this guide, ideal for dorm rooms, RVs, or a secondary countertop",
+          "Simple mechanical controls, no learning curve",
+          "Lightweight and easy to store or move between counters"
+        ],
+        "limitations": [
+          "Smallest cavity of any model here, cannot fit anything larger than a small personal pizza",
+          "No convection fan, so browning is uneven front-to-back",
+          "Thermostat is not precise enough for baking recipes with a specific target temperature"
+        ],
+        "features": [
+          "1200W with bake, broil, and toast functions",
+          "Ultra-compact cavity fits a 9-inch pizza or 4 slices of toast",
+          "Includes a removable baking tray",
+          "Mechanical timer dial",
+          "Under $30 street price"
+        ]
+      },
+      {
+        "name": "Ninja Flip Toaster Oven and Air Fryer (SP151)",
+        "brand": "Ninja",
+        "asin": "B0D1CXL52G",
+        "blurb": "",
+        "strengths": [
+          "Flips up for storage",
+          "Air fry, bake, toast and more",
+          "Fits a 12-inch pizza",
+          "Fast heating"
+        ],
+        "limitations": [
+          "Low interior height limits tall foods",
+          "Exterior gets hot",
+          "Flip mechanism needs backsplash clearance"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

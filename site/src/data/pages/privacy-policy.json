@@ -1,0 +1,36 @@
+{
+  "type": "page",
+  "title": "Privacy Policy",
+  "h1": "Privacy Policy",
+  "metaDescription": "What data TopProductPick collects, how it's used and the choices you have.",
+  "lede": "We collect as little as possible.",
+  "updatedAt": "2026-10-19",
+  "data": {
+    "sections": [
+      {
+        "h": "What we collect",
+        "p": [
+          "This site does not require accounts and does not use advertising cookies. Our host may keep standard server logs, such as IP address and browser type, for security and performance."
+        ]
+      },
+      {
+        "h": "Third parties",
+        "p": [
+          "When you click a link to Amazon, Amazon's own privacy policy applies to what happens on their site, including cookies used to attribute purchases."
+        ]
+      },
+      {
+        "h": "Local storage",
+        "p": [
+          "If you switch between light and dark mode, your choice is saved in your browser only."
+        ]
+      },
+      {
+        "h": "Contact",
+        "p": [
+          "Questions about privacy? Email hello@topproductpick.com."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "page",
+  "title": "Affiliate Disclosure",
+  "h1": "Affiliate Disclosure",
+  "metaDescription": "How TopProductPick earns money through affiliate links, including the Amazon Associates program.",
+  "lede": "TopProductPick is reader-supported. Here's exactly how that works.",
+  "updatedAt": "2026-10-19",
+  "data": {
+    "sections": [
+      {
+        "h": "Amazon Associates",
+        "p": [
+          "TopProductPick is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. As an Amazon Associate I earn from qualifying purchases."
+        ]
+      },
+      {
+        "h": "What this means for you",
+        "p": [
+          "Buying through our links costs you nothing extra. Links to Amazon are marked as sponsored for search engines."
+        ]
+      }
+    ]
+  }
+}

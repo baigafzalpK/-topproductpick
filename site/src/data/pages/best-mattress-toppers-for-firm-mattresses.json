@@ -1,0 +1,131 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Mattress Toppers for Firm Mattresses",
+  "h1": "The 5 Best Mattress Toppers for Firm Mattresses",
+  "metaDescription": "Our 5 picks for mattress toppers for firm mattresses, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at mattress toppers for firm mattresses using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-mattress-toppers",
+  "related": [
+    "best-mattress-toppers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Sleep Innovations 4-Inch Topper",
+        "brand": "Sleep Innovations",
+        "asin": "B01MRXVRVU",
+        "blurb": "Key specs: 3-inch cooling gel memory foam plus 1-inch pillow top, Dual-layer construction, Ultra soft support option available.",
+        "strengths": [
+          "4-inch total height provides the most correction of any topper in this list for a genuinely hard mattress",
+          "The separate pillow top layer adds a plush feel on top of supportive memory foam, rather than one uniform density",
+          "Ultra soft support variant is specifically built for mattresses that feel too firm out of the box"
+        ],
+        "limitations": [
+          "4 inches can make finding a deep-pocket fitted sheet more difficult",
+          "Softer feel provides less support for stomach sleepers who need a flatter surface",
+          "Takes longer to fully decompress and reach final loft than thinner toppers"
+        ],
+        "features": [
+          "3-inch cooling gel memory foam plus 1-inch pillow top",
+          "Dual-layer construction",
+          "Ultra soft support option available",
+          "CertiPUR-US certified"
+        ],
+        "bestFor": "firm mattresses"
+      },
+      {
+        "name": "Lucid 3-Inch Gel Memory Foam Topper",
+        "brand": "Lucid",
+        "asin": "B08BNC8V2Q",
+        "blurb": "Key specs: 3-inch gel-infused memory foam, 5-zone design, Ventilated cooling channels.",
+        "strengths": [
+          "3-inch depth softens a firm mattress noticeably without making it feel unstable or overly soft",
+          "5-zone design targets extra give at the hips and shoulders while keeping more support elsewhere",
+          "Ventilation channels help offset the added heat retention of a thicker foam layer"
+        ],
+        "limitations": [
+          "Less dramatic softening effect than the 4-inch Sleep Innovations for a genuinely rock-hard mattress",
+          "Firmer out of the box than dual-layer competitors during the first week",
+          "No corner straps, so it can shift on a very slick mattress cover"
+        ],
+        "features": [
+          "3-inch gel-infused memory foam",
+          "5-zone design",
+          "Ventilated cooling channels",
+          "CertiPUR-US certified foam"
+        ],
+        "bestFor": "firm mattresses"
+      },
+      {
+        "name": "Linenspa Gel Memory Foam Topper",
+        "brand": "Linenspa",
+        "asin": "B07MY34QH7",
+        "blurb": "Key specs: 3-inch gel-infused memory foam, Plush feel, CertiPUR-US certified.",
+        "strengths": [
+          "Affordable way to test whether a topper solves a firm-mattress complaint before spending more",
+          "3-inch depth provides real, noticeable softening for the price",
+          "Plush feel rating is comparable to pricier 3-inch competitors"
+        ],
+        "limitations": [
+          "Lower foam density compresses and flattens faster than the Lucid or Sleep Innovations under nightly use",
+          "Less correction than a 4-inch topper for mattresses that are extremely firm",
+          "Thinner cover offers less durability over years of use"
+        ],
+        "features": [
+          "3-inch gel-infused memory foam",
+          "Plush feel",
+          "CertiPUR-US certified",
+          "Typically under $70 for queen"
+        ],
+        "bestFor": "firm mattresses"
+      },
+      {
+        "name": "Tempur-Pedic Supreme Topper",
+        "brand": "Tempur-Pedic",
+        "asin": "B00HEODIZY",
+        "blurb": "Key specs: 3-inch proprietary TEMPUR material, 10-year limited warranty, Corner straps for a secure fit.",
+        "strengths": [
+          "Denser, higher-quality material holds its softening effect longer than budget foam under nightly compression",
+          "10-year warranty backs a purchase meant to fix a firm mattress for years, not months",
+          "Corner straps keep the topper from shifting, useful on a firm mattress with a slick surface"
+        ],
+        "limitations": [
+          "3-inch depth alone provides less dramatic softening than the 4-inch Sleep Innovations",
+          "Premium price is hard to justify if the underlying mattress needs replacing rather than topping"
+        ],
+        "features": [
+          "3-inch proprietary TEMPUR material",
+          "10-year limited warranty",
+          "Corner straps for a secure fit",
+          "Reduced motion transfer"
+        ],
+        "bestFor": "firm mattresses"
+      },
+      {
+        "name": "ViscoSoft 3-Inch High Density Memory Foam Topper (Queen)",
+        "brand": "ViscoSoft",
+        "asin": "B00XKJKKGW",
+        "blurb": "",
+        "strengths": [
+          "High-density foam over 3 lb/ft³",
+          "Removable washable cover",
+          "Straps keep it in place",
+          "Multi-year warranty"
+        ],
+        "limitations": [
+          "Retains some heat",
+          "Initial off-gassing smell",
+          "Heavy"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

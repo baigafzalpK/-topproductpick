@@ -1,0 +1,126 @@
+{
+  "type": "roundup",
+  "title": "4 Best Electric Kettles for Tea, Coffee and Everyday Use",
+  "h1": "The 4 Best Electric Kettles",
+  "metaDescription": "The best electric kettles for pour-over coffee, tea lovers and simple everyday boiling, with clear strengths and limitations.",
+  "lede": "If you only boil water for instant coffee or pasta, any reliable kettle will do. If you brew tea or pour-over coffee, temperature control and a gooseneck spout make a real difference. These picks are based on manufacturer specs, independent reviews and owner reports.",
+  "updatedAt": "2026-10-19",
+  "category": "electric-kettles",
+  "related": [
+    "how-to-choose-an-electric-kettle",
+    "best-coffee-makers",
+    "electric-kettles"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Fellow Stagg EKG Electric Gooseneck Kettle",
+        "brand": "Fellow",
+        "asin": "B077JBQZPX",
+        "searchQuery": "Fellow Stagg EKG electric gooseneck kettle",
+        "badge": "Best for pour-over coffee",
+        "bestFor": "pour-over coffee and precise tea brewing",
+        "blurb": "A design-focused gooseneck kettle with precise temperature selection and a hold mode that keeps water at temperature.",
+        "features": [
+          "0.9 L capacity",
+          "Variable temperature in single degrees",
+          "Hold mode"
+        ],
+        "strengths": [
+          "Very controlled, steady pour",
+          "Precise temperature setting",
+          "Attractive, compact design"
+        ],
+        "limitations": [
+          "Small capacity for big households",
+          "Costs far more than a basic kettle"
+        ],
+        "noImage": true
+      },
+      {
+        "name": "Cuisinart CPK-17 PerfecTemp Cordless Electric Kettle",
+        "brand": "Cuisinart",
+        "asin": "B003WEAHUY",
+        "searchQuery": "Cuisinart CPK-17 PerfecTemp electric kettle",
+        "badge": "Best variable-temperature kettle",
+        "bestFor": "tea drinkers who want presets and a full-size kettle",
+        "blurb": "A 1.7-liter stainless steel kettle with one-touch temperature presets for different teas and a keep-warm function.",
+        "features": [
+          "1.7 L capacity",
+          "6 temperature presets (Cuisinart spec)",
+          "Keep-warm function"
+        ],
+        "strengths": [
+          "Presets make tea brewing easy",
+          "Large capacity",
+          "Cordless base"
+        ],
+        "limitations": [
+          "Standard spout is not ideal for pour-over coffee",
+          "Presets instead of single-degree control"
+        ]
+      },
+      {
+        "name": "OXO Brew Cordless Glass Electric Kettle",
+        "brand": "OXO",
+        "asin": "B00YEYKRX8",
+        "searchQuery": "OXO Brew cordless glass electric kettle",
+        "badge": "Best glass kettle",
+        "bestFor": "people who like to see the water boil",
+        "blurb": "A glass-bodied kettle with clear water-level markings and a simple on/off design.",
+        "features": [
+          "1.75 L capacity",
+          "Borosilicate glass body",
+          "Auto shut-off"
+        ],
+        "strengths": [
+          "Easy to see water level and limescale",
+          "Simple to use",
+          "Large capacity"
+        ],
+        "limitations": [
+          "No temperature control",
+          "Glass shows scale and needs regular descaling"
+        ]
+      },
+      {
+        "name": "Hamilton Beach 1.7L Stainless Steel Electric Kettle",
+        "brand": "Hamilton Beach",
+        "asin": "B00UFQ2LJ2",
+        "searchQuery": "Hamilton Beach 1.7 liter stainless steel electric kettle 40880",
+        "badge": "Best budget kettle",
+        "bestFor": "simple, affordable everyday boiling",
+        "blurb": "A basic cordless stainless steel kettle with automatic shut-off and boil-dry protection.",
+        "features": [
+          "1.7 L capacity",
+          "Auto shut-off",
+          "Boil-dry protection"
+        ],
+        "strengths": [
+          "Affordable",
+          "Large capacity",
+          "Straightforward and durable design"
+        ],
+        "limitations": [
+          "No temperature control",
+          "Body can get hot to the touch"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "We picked one kettle per need: pour-over precision, tea presets, glass design and budget.",
+      "Picks are based on manufacturer specs, independent reviews and owner reports.",
+      "We prioritised safety features such as auto shut-off and boil-dry protection."
+    ],
+    "faqs": [
+      {
+        "q": "Do I need a gooseneck kettle?",
+        "a": "Only for pour-over coffee, where a slow, controlled pour helps even extraction. For tea and everyday boiling, a standard spout is fine."
+      },
+      {
+        "q": "Is an electric kettle cheaper than a stovetop kettle?",
+        "a": "Electric kettles transfer heat to the water efficiently and switch off automatically, so they are usually quicker and less wasteful than heating water on a stove."
+      }
+    ]
+  }
+}

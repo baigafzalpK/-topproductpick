@@ -1,0 +1,106 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Adjustable Dumbbells for Home Gyms",
+  "h1": "The 4 Best Adjustable Dumbbells for Home Gyms",
+  "metaDescription": "Our 4 picks for adjustable dumbbells for home gyms, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at adjustable dumbbells for home gyms using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-adjustable-dumbbells",
+  "related": [
+    "best-adjustable-dumbbells"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Bowflex SelectTech 552 Adjustable Dumbbells (Pair)",
+        "brand": "Bowflex",
+        "asin": "B001ARYU58",
+        "blurb": "Key specs: 5 to 52.5 lb per hand, 2.5 lb increments, Dial-turn selector, roughly 3-second changes, Molded storage trays included.",
+        "strengths": [
+          "Fastest, most proven adjustment mechanism in the category",
+          "Consistent 2.5 lb increments across the full range for smooth progression",
+          "Widest parts and accessory availability of any adjustable dumbbell"
+        ],
+        "limitations": [
+          "52.5 lb ceiling with no official expansion path",
+          "Wider footprint than block-shaped alternatives"
+        ],
+        "features": [
+          "5 to 52.5 lb per hand, 2.5 lb increments",
+          "Dial-turn selector, roughly 3-second changes",
+          "Molded storage trays included",
+          "Largest install base in the category"
+        ],
+        "badge": "Best overall",
+        "bestFor": "home gyms"
+      },
+      {
+        "name": "PowerBlock Elite EXP Stage 1 Adjustable Dumbbells, 5-50 lb (Pair)",
+        "brand": "PowerBlock",
+        "asin": "B08761WNZR",
+        "blurb": "Key specs: 5 to 50 lb per hand, expandable to 90 lb, Pin-selector weight system, Compact block-shaped design.",
+        "strengths": [
+          "Expandable in stages to 90 lb per hand as strength increases",
+          "Narrowest footprint of the premium options, useful in a shared garage gym",
+          "Steel internals feel durable over years of daily use"
+        ],
+        "limitations": [
+          "Buying all expansion stages costs more in total than a single higher-ceiling set bought upfront",
+          "Smaller install base and parts ecosystem than Bowflex"
+        ],
+        "features": [
+          "5 to 50 lb per hand, expandable to 90 lb",
+          "Pin-selector weight system",
+          "Compact block-shaped design"
+        ],
+        "bestFor": "home gyms"
+      },
+      {
+        "name": "NordicTrack 55 lb Select-a-Weight Dumbbell",
+        "brand": "NordicTrack",
+        "asin": "B08QD2NPCF",
+        "blurb": "Key specs: Up to 55 lb per hand, 2.5, 5, and 10 lb increments, iFIT connected workout compatibility.",
+        "strengths": [
+          "Highest fixed weight ceiling among the dial systems in this list",
+          "iFIT integration adds guided strength programming for a home gym setup",
+          "Fine low-end increments for gradual progression on accessory lifts"
+        ],
+        "limitations": [
+          "Full iFIT benefits require a paid subscription",
+          "Hardened plastic shell shows cosmetic wear sooner than steel-block designs"
+        ],
+        "features": [
+          "Up to 55 lb per hand",
+          "2.5, 5, and 10 lb increments",
+          "iFIT connected workout compatibility"
+        ],
+        "bestFor": "home gyms"
+      },
+      {
+        "name": "Core Home Fitness Adjustable Dumbbell Set & Stand",
+        "brand": "Core Home Fitness",
+        "asin": "B07DYMG9FZ",
+        "blurb": "Key specs: 5 to 50 lb per hand, TwistLock one-hand cradle adjustment, Stand included.",
+        "strengths": [
+          "Lowest price among cradle and dial systems in this list",
+          "Simple twist motion with a short learning curve"
+        ],
+        "limitations": [
+          "50 lb ceiling is the lowest of the four picks here",
+          "Smaller install base and shorter track record than Bowflex or PowerBlock"
+        ],
+        "features": [
+          "5 to 50 lb per hand",
+          "TwistLock one-hand cradle adjustment",
+          "Stand included"
+        ],
+        "bestFor": "home gyms"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

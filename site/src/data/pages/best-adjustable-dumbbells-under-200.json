@@ -1,0 +1,100 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Adjustable Dumbbells Under $200",
+  "h1": "The 4 Best Adjustable Dumbbells Under $200",
+  "metaDescription": "Our 4 picks for adjustable dumbbells under $200, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at adjustable dumbbells under $200 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-adjustable-dumbbells",
+  "related": [
+    "best-adjustable-dumbbells"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Amazon Basics Adjustable Dumbbell Hand Weight Set, 38 lb with Case",
+        "brand": "Amazon Basics",
+        "asin": "B071WSFSGC",
+        "blurb": "Key specs: 38 lb total across two handles, Spin-lock collars, Portable storage case.",
+        "strengths": [
+          "Cheapest genuine adjustable dumbbell option in this list",
+          "Storage case makes it portable and easy to tuck away",
+          "Highest review count of the two options here, a large track record at this price"
+        ],
+        "limitations": [
+          "Spin-lock collars are the slowest adjustment method in the category",
+          "19 lb max per hand at full build limits long-term progression"
+        ],
+        "features": [
+          "38 lb total across two handles",
+          "Spin-lock collars",
+          "Portable storage case",
+          "Typically $60 to $90"
+        ]
+      },
+      {
+        "name": "Amazon Basics 40-Pound Adjustable Weight Set with Case",
+        "brand": "Amazon Basics",
+        "asin": "B00R3MZEHM",
+        "blurb": "Key specs: 40 lb total plate and collar set, Threaded collars, Carry case included.",
+        "strengths": [
+          "Slightly more total weight than the 38 lb set for a similar price",
+          "Simple threaded-collar system with no mechanism to jam",
+          "Case keeps small plates and handles organized between sessions"
+        ],
+        "limitations": [
+          "Threaded collars are the slowest adjustment method in this list",
+          "Low total weight limits use mostly to light training and beginners"
+        ],
+        "features": [
+          "40 lb total plate and collar set",
+          "Threaded collars",
+          "Carry case included",
+          "Typically $70 to $90"
+        ]
+      },
+      {
+        "name": "Yes4All 40 lb Adjustable Cast Iron Dumbbell Set",
+        "brand": "Yes4All",
+        "asin": "B0FHBG4N2X",
+        "blurb": "",
+        "strengths": [
+          "Very affordable way to start lifting at home",
+          "Plates change in small increments",
+          "Durable cast iron",
+          "Compact storage"
+        ],
+        "limitations": [
+          "Changing plates is slower than dial dumbbells",
+          "40 lb total limits heavier lifts",
+          "Collars need checking during sets"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "Yes4All 40 lb Adjustable Dumbbells with Connector",
+        "brand": "Yes4All",
+        "asin": "B07YYW44ML",
+        "blurb": "",
+        "strengths": [
+          "Connector converts to a barbell",
+          "Affordable",
+          "Multiple weight options sold",
+          "Simple, durable design"
+        ],
+        "limitations": [
+          "Plate swaps take time",
+          "Bar length is short as a barbell",
+          "Not as compact as selectorized sets"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

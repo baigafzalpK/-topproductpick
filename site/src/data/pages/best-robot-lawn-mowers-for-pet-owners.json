@@ -1,0 +1,90 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Robot Lawn Mowers for Pet Owners in 2026",
+  "h1": "The 3 Best Robot Lawn Mowers for Pet Owners in 2026",
+  "metaDescription": "Our 3 picks for robot lawn mowers for pet owners in 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at robot lawn mowers for pet owners in 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-robot-lawn-mowers",
+  "related": [
+    "best-robot-lawn-mowers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Husqvarna Automower 115H",
+        "brand": "Husqvarna",
+        "asin": "B07PGBSGXQ",
+        "blurb": "Key specs: 0.4-acre (17,000 sq ft) coverage, PIN-protected lift sensor with immediate blade shutoff, Quiet operation rated well below typical gas mower noise.",
+        "strengths": [
+          "Immediate blade stop on lift or tilt is a genuine, well-safety mechanism",
+          "Quiet operation is noticeably less startling to nervous pets than louder competitors",
+          "App scheduling makes it easy to run mowing sessions when pets are indoors",
+          "Boundary wire can fence off a dog run or garden bed as a permanent no-go zone"
+        ],
+        "limitations": [
+          "Does not detect or avoid pet waste on its own",
+          "Some dogs still need a supervised adjustment period regardless of noise level",
+          "0.4-acre ceiling limits it to smaller yards"
+        ],
+        "features": [
+          "0.4-acre (17,000 sq ft) coverage",
+          "PIN-protected lift sensor with immediate blade shutoff",
+          "Quiet operation rated well below typical gas mower noise",
+          "Scheduling app to avoid peak pet outdoor time",
+          "Boundary wire keeps the mower out of marked no-go zones"
+        ],
+        "badge": "Top pick",
+        "bestFor": "pet owners"
+      },
+      {
+        "name": "Worx Landroid M (WR147)",
+        "brand": "Worx",
+        "asin": "B097NJ37R7",
+        "blurb": "Key specs: 1/4-acre (10,890 sq ft) coverage, AIA narrow-passage navigation, Floating blade disc that raises on obstruction.",
+        "strengths": [
+          "No-go zone mapping fences off a doghouse, water bowl area, or dig zone easily",
+          "AIA navigation is useful for yards where a pet area splits the lawn into sections",
+          "Floating blade disc raises automatically if it contacts an obstruction",
+          "Lower price than the Automower 115H for similarly equipped safety features"
+        ],
+        "limitations": [
+          "Smaller coverage ceiling than the Automower 115H",
+          "Still requires boundary wire for the outer perimeter",
+          "No dedicated pet-detection technology beyond generic collision sensors"
+        ],
+        "features": [
+          "1/4-acre (10,890 sq ft) coverage",
+          "AIA narrow-passage navigation",
+          "Floating blade disc that raises on obstruction",
+          "App-based no-go zone mapping",
+          "Collision-stop sensor on the front bumper"
+        ],
+        "bestFor": "pet owners"
+      },
+      {
+        "name": "WORX Landroid Vision Cloud Robot Mower for 1/2 Acre (WR320)",
+        "brand": "WORX",
+        "asin": "B0GN8KK8XW",
+        "blurb": "",
+        "strengths": [
+          "AI obstacle avoidance",
+          "RTK cloud navigation, no wire",
+          "Covers about 1/2 acre",
+          "Auto mapping"
+        ],
+        "limitations": [
+          "Never leave pets unattended with any mower",
+          "30% slope limit",
+          "Cloud service dependency"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

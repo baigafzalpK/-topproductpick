@@ -1,0 +1,94 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Deep Fryers for Turkey",
+  "h1": "The 3 Best Deep Fryers for Turkey",
+  "metaDescription": "Our 3 picks for deep fryers for turkey, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at deep fryers for turkey using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-deep-fryers",
+  "related": [
+    "best-deep-fryers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Masterbuilt Butterball Indoor Electric Turkey Fryer, XL",
+        "brand": "Masterbuilt",
+        "asin": "B00BWKN0HC",
+        "blurb": "Key specs: Rated for turkeys up to approximately 18 to 20 pounds, 1650W heating element, Porcelain-coated inner pot and basket.",
+        "strengths": [
+          "The only fryer on this list actually sized to submerge a whole turkey",
+          "Certified for indoor use removes the propane and tip-over risks of outdoor turkey fryers",
+          "Porcelain-coated pot and basket clean up easier than bare metal after a full bird",
+          "Doubles as a steamer and boiler for other large-batch holiday cooking"
+        ],
+        "limitations": [
+          "Single-purpose appliance that mostly sees use around the holidays",
+          "Large size still needs dedicated storage space for the rest of the year"
+        ],
+        "features": [
+          "Rated for turkeys up to approximately 18 to 20 pounds",
+          "1650W heating element",
+          "Porcelain-coated inner pot and basket",
+          "Uses roughly 33% less oil than a comparable outdoor fryer",
+          "Certified for indoor countertop use"
+        ],
+        "badge": "Top pick",
+        "bestFor": "turkey"
+      },
+      {
+        "name": "Hamilton Beach Professional Style Electric Deep Fryer 35036",
+        "brand": "Hamilton Beach",
+        "asin": "B00PXAZTKI",
+        "blurb": "Key specs: 4.5-liter / 19-cup oil capacity, 1800W immersed heating element, Two baskets included.",
+        "strengths": [
+          "4.5-liter capacity comfortably submerges turkey breast pieces or a couple of legs per batch",
+          "1800W element keeps temperature steady with dense turkey cuts",
+          "Two baskets let you fry legs and breast pieces separately since they cook at different rates",
+          "Dishwasher-safe tank and baskets simplify cleanup after a big meal"
+        ],
+        "limitations": [
+          "Cannot fit a whole turkey regardless of oil volume",
+          "Large footprint for a fryer that isn't purpose-built for turkey"
+        ],
+        "features": [
+          "4.5-liter / 19-cup oil capacity",
+          "1800W immersed heating element",
+          "Two baskets included",
+          "View-window lid",
+          "Easy-detach magnetic cord"
+        ],
+        "bestFor": "turkey"
+      },
+      {
+        "name": "Cuisinart CDF-200P1 Professional Deep Fryer",
+        "brand": "Cuisinart",
+        "asin": "B01JCECNM2",
+        "blurb": "Key specs: 1-gallon removable stainless steel oil container, 1800W immersion heating element, 2.3-pound food capacity.",
+        "strengths": [
+          "2.3-pound food capacity handles a good-sized batch of turkey wings or drumsticks",
+          "Doubles as a general-purpose fryer the rest of the year, unlike a dedicated turkey fryer",
+          "Removable oil container with a pour spout simplifies disposal after a greasy holiday cook",
+          "1800W element matches the Hamilton Beach for consistent recovery"
+        ],
+        "limitations": [
+          "Same as any countertop fryer here, no whole-bird capacity",
+          "Single basket means more sequential batches for a large amount of turkey parts"
+        ],
+        "features": [
+          "1-gallon removable stainless steel oil container",
+          "1800W immersion heating element",
+          "2.3-pound food capacity",
+          "Pour-spout container for oil disposal",
+          "Adjustable temperature dial with viewing window"
+        ],
+        "bestFor": "turkey"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

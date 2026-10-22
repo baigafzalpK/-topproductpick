@@ -1,0 +1,89 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Garden Hoses Under $30",
+  "h1": "The 3 Best Garden Hoses Under $30",
+  "metaDescription": "Our 3 picks for garden hoses under $30, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at garden hoses under $30 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-garden-hoses",
+  "related": [
+    "best-garden-hoses"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Craftsman Heavy Duty Professional Grade Garden Hose 50 ft.",
+        "brand": "Craftsman",
+        "asin": "B0C6BLQL4H",
+        "blurb": "Key specs: POLYFUSION hybrid construction, Crush-resistant anodized aluminum couplings, 5/8-inch diameter, 50-foot length.",
+        "strengths": [
+          "50-foot length at this price point beats most 25-foot competitors on value per foot",
+          "Crush-resistant aluminum couplings outlast the plastic fittings common on cheaper hoses",
+          "Bi-material grips make tightening and loosening the connection noticeably easier"
+        ],
+        "limitations": [
+          "Heavier than premium hybrid polymer hoses at the same length",
+          "Not marketed as drinking water safe",
+          "Stiffer in cold weather than pricier hybrid options"
+        ],
+        "features": [
+          "POLYFUSION hybrid construction",
+          "Crush-resistant anodized aluminum couplings",
+          "5/8-inch diameter, 50-foot length",
+          "Bi-material grips",
+          "Typically under $30 for the 50-foot length"
+        ],
+        "badge": "Best overall"
+      },
+      {
+        "name": "Gilmour Platinum Flexogen 8-Ply Garden Hose 5/8 in. x 50 ft.",
+        "brand": "Gilmour",
+        "asin": "B000UHDDJI",
+        "blurb": "Key specs: 8-ply Flexogen construction, 500 PSI burst strength, 5/8-inch diameter, 50-foot length.",
+        "strengths": [
+          "Solid brass couplings at this price point are unusual, most budget hoses use plastic threads",
+          "500 PSI burst rating is well above what a standard home spigot ever produces",
+          "8-ply construction resists punctures better than thinner budget hoses"
+        ],
+        "limitations": [
+          "Coils less neatly than premium low-memory hoses",
+          "Heavier than hybrid polymer competitors",
+          "Limited color options"
+        ],
+        "features": [
+          "8-ply Flexogen construction",
+          "500 PSI burst strength",
+          "5/8-inch diameter, 50-foot length",
+          "Solid brass couplings",
+          "Crush-resistant collar"
+        ]
+      },
+      {
+        "name": "Flexzilla Garden Hose 5/8 in. x 25 ft.",
+        "brand": "Flexzilla",
+        "asin": "B003TFE7ZM",
+        "blurb": "Key specs: 5/8-inch hybrid polymer construction, 25-foot length fits under $30, Zero memory, lies flat.",
+        "strengths": [
+          "Zero memory and wide temperature range carry over from the longer, pricier versions"
+        ],
+        "limitations": [
+          "25 feet is short for anything beyond a small patio or container garden",
+          "Costs more per foot than Craftsman or Gilmour at the same budget",
+          "No drinking water safe labeling on the standard version"
+        ],
+        "features": [
+          "5/8-inch hybrid polymer construction",
+          "25-foot length fits under $30",
+          "Zero memory, lies flat",
+          "Anodized aluminum fittings",
+          "Usable from about minus 40°F to 150°F"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

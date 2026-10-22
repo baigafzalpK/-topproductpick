@@ -1,0 +1,103 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Massage Guns Under $100",
+  "h1": "The 4 Best Massage Guns Under $100",
+  "metaDescription": "Our 4 picks for massage guns under $100, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at massage guns under $100 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-massage-guns",
+  "related": [
+    "best-massage-guns"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "RENPHO Active Massage Gun",
+        "brand": "RENPHO",
+        "asin": "B085NTR26K",
+        "blurb": "Key specs: 5 speed settings, 5 interchangeable heads, Carry case included.",
+        "strengths": [
+          "Five heads included is more than most competitors bundle at this price"
+        ],
+        "limitations": [
+          "Stall force is modest compared with premium models",
+          "Battery life shorter than higher-priced competitors",
+          "Plastic build feels basic, though functional"
+        ],
+        "features": [
+          "5 speed settings",
+          "5 interchangeable heads",
+          "Carry case included",
+          "USB-C charging",
+          "Typically $60 to $80"
+        ]
+      },
+      {
+        "name": "TOLOCO Massage Gun",
+        "brand": "TOLOCO",
+        "asin": "B083L8RNJR",
+        "blurb": "Key specs: 10 massage heads, Silent brushless motor, Multiple speed levels.",
+        "strengths": [
+          "10 heads bundled is unusually generous at this price"
+        ],
+        "limitations": [
+          "Motor noise picks up at higher speeds",
+          "Build quality trails the RENPHO and premium brands",
+          "Auto shut-off can interrupt a longer session"
+        ],
+        "features": [
+          "10 massage heads",
+          "Silent brushless motor",
+          "Multiple speed levels",
+          "Auto shut-off after 10 minutes",
+          "Frequently under $50 on sale"
+        ]
+      },
+      {
+        "name": "Hyperice Hypervolt Go 2",
+        "brand": "Hyperice",
+        "asin": "B09W737GFR",
+        "blurb": "Key specs: 1.5 lb compact body, 40W brushless motor, 3 speeds.",
+        "strengths": [
+          "A recognized recovery brand name at close to budget pricing",
+          "Compact size is easy to justify even at a slightly higher price"
+        ],
+        "limitations": [
+          "Only 3 speeds versus 5 on the cheaper picks here",
+          "Lower stall force than dedicated deep-tissue guns"
+        ],
+        "features": [
+          "1.5 lb compact body",
+          "40W brushless motor",
+          "3 speeds",
+          "QuietGlide technology",
+          "Typically $99 to $129"
+        ]
+      },
+      {
+        "name": "Bob and Brad C2 Massage Gun",
+        "brand": "Bob and Brad",
+        "asin": "B08CKWVYMF",
+        "blurb": "",
+        "strengths": [
+          "Quiet operation",
+          "Five speeds and five heads",
+          "Light at about 1.5 lb",
+          "Fast charging"
+        ],
+        "limitations": [
+          "10mm amplitude is moderate",
+          "Charger brick not included on some versions",
+          "Not as deep as pro guns"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

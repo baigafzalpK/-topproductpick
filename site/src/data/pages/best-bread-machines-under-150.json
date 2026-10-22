@@ -1,0 +1,120 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Bread Machines Under $150 in 2026",
+  "h1": "The 5 Best Bread Machines Under $150 in 2026",
+  "metaDescription": "Our 5 picks for bread machines under $150 in 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at bread machines under $150 in 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-bread-machines",
+  "related": [
+    "best-bread-machines"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Cuisinart CBK-200 Convection Bread Maker",
+        "brand": "Cuisinart",
+        "asin": "B0009VELTQ",
+        "blurb": "Key specs: 2-lb capacity, Convection fan, 16 menu presets.",
+        "strengths": [
+          "Convection fan circulates heat for meaningfully more even results than a single-element machine",
+          "16 presets, the widest selection in this price band, cover artisan, low-carb, and gluten-free baking",
+          "Power-failure backup protects a cycle in progress"
+        ],
+        "limitations": [
+          "Bulkier horizontal footprint than smaller budget machines",
+          "No dual-heater lid, so crust evenness still trails premium machines like the Zojirushi"
+        ],
+        "features": [
+          "2-lb capacity",
+          "Convection fan",
+          "16 menu presets",
+          "3 crust colors, 3 loaf sizes",
+          "12-hour delay timer"
+        ]
+      },
+      {
+        "name": "Hamilton Beach Digital Bread Maker 29885",
+        "brand": "Hamilton Beach",
+        "asin": "B07684XDM9",
+        "blurb": "Key specs: 2-lb capacity, 14 programmable settings, Gluten-free and whole grain settings.",
+        "strengths": [
+          "14 settings cover the vast majority of home baking without needing a sale to hit budget",
+          "Dishwasher-safe pan and paddle simplify cleanup"
+        ],
+        "limitations": [
+          "No convection fan, so crust evenness trails the Cuisinart on denser doughs",
+          "Fewer presets than the Cuisinart's 16-option menu",
+          "Single kneading paddle struggles more with dense whole wheat batter"
+        ],
+        "features": [
+          "2-lb capacity",
+          "14 programmable settings",
+          "Gluten-free and whole grain settings",
+          "3 loaf sizes, 3 crust shades",
+          "Dishwasher-safe pan and paddle"
+        ]
+      },
+      {
+        "name": "Amazon Basics Programmable Bread Maker, 2 lb",
+        "brand": "Amazon Basics",
+        "asin": "B07VB8Y1MD",
+        "blurb": "",
+        "strengths": [
+          "Low price for a 2 lb machine",
+          "14 programs including gluten-free and dough",
+          "ExpressBake cycle under 90 minutes",
+          "Three crust settings"
+        ],
+        "limitations": [
+          "Single paddle makes a tall loaf with a hole in the base",
+          "Louder kneading than premium machines",
+          "Basic build"
+        ],
+        "features": []
+      },
+      {
+        "name": "Cuisinart CBK-110 Compact Automatic Bread Maker",
+        "brand": "Cuisinart",
+        "asin": "B07C8V4FDR",
+        "blurb": "",
+        "strengths": [
+          "Compact vertical design",
+          "12 programs and 3 loaf sizes",
+          "13-hour delay timer",
+          "Stainless steel housing"
+        ],
+        "limitations": [
+          "Vertical loaf shape",
+          "Fewer programs than some rivals",
+          "Paddle can stick in the loaf"
+        ],
+        "features": []
+      },
+      {
+        "name": "KBS Pro 17-in-1 Bread Maker with Nut Dispenser",
+        "brand": "KBS",
+        "asin": "B07BYXHYLY",
+        "blurb": "",
+        "strengths": [
+          "Automatic fruit and nut dispenser",
+          "17 programs plus a custom setting",
+          "Ceramic-coated pan",
+          "15-hour delay timer"
+        ],
+        "limitations": [
+          "Heavier than budget machines",
+          "Touch panel can be fiddly with wet hands",
+          "Ceramic coating needs gentle care"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

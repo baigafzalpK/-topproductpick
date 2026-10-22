@@ -1,0 +1,262 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 11 Best Rice Cookers Under $50",
+  "h1": "The 11 Best Rice Cookers Under $50",
+  "metaDescription": "Our 11 picks for rice cookers under $50, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at rice cookers under $50 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "rice-cookers",
+  "related": [
+    "rice-cookers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Aroma Housewares ARC-914SBD Digital Rice Cooker",
+        "brand": "Aroma",
+        "asin": "B007WQ9YNO",
+        "blurb": "Key specs: 8-cup digital, Steam tray, Keep warm.",
+        "strengths": [
+          "Digital display with multiple settings",
+          "Steam tray allows simultaneous vegetable cooking"
+        ],
+        "limitations": [],
+        "features": [
+          "8-cup digital",
+          "Steam tray",
+          "Keep warm",
+          "Under $30"
+        ],
+        "badge": "Best Overall",
+        "bestFor": "buyers who want the best overall package"
+      },
+      {
+        "name": "Hamilton Beach 37549 Rice Cooker",
+        "brand": "Hamilton Beach",
+        "asin": "B00OFB9SYY",
+        "blurb": "Key specs: 4-cup, Steam tray, Simple.",
+        "strengths": [
+          "Affordable",
+          "Steaming basket",
+          "Simple controls",
+          "Keep-warm"
+        ],
+        "limitations": [
+          "Basic cooking",
+          "Nonstick durability",
+          "Less precise than fuzzy logic"
+        ],
+        "features": [
+          "4-cup",
+          "Steam tray",
+          "Simple",
+          "Under $30"
+        ],
+        "badge": "Best Simple"
+      },
+      {
+        "name": "Black+Decker RC503 3-Cup Rice Cooker",
+        "brand": "Black+Decker",
+        "asin": "B016Y8JS4K",
+        "blurb": "Key specs: 3-cup compact, Under $20, Singles.",
+        "strengths": [
+          "Compact",
+          "Simple",
+          "Affordable",
+          "Keep-warm"
+        ],
+        "limitations": [
+          "Small capacity",
+          "Basic",
+          "Can scorch bottom"
+        ],
+        "features": [
+          "3-cup compact",
+          "Under $20",
+          "Singles",
+          "Basic"
+        ],
+        "badge": "Best Compact"
+      },
+      {
+        "name": "COSORI Rice Cooker 10 Cup",
+        "brand": "Cosori",
+        "asin": "B0BD4PRBVZ",
+        "blurb": "Key specs: 10-cup, Digital, 18 functions.",
+        "strengths": [],
+        "limitations": [],
+        "features": [
+          "10-cup",
+          "Digital",
+          "18 functions",
+          "Under $50"
+        ],
+        "badge": "Best Large Budget",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "Aroma Housewares ARC-150SB 6-Cup Digital Rice Cooker",
+        "brand": "Aroma",
+        "asin": "B0055FSN0Y",
+        "blurb": "Key specs: 6-cup, Digital, Aroma.",
+        "strengths": [
+          "Digital programs",
+          "Steam tray",
+          "Delay timer",
+          "Affordable"
+        ],
+        "limitations": [
+          "Nonstick wear",
+          "Plastic exterior",
+          "Less refined results"
+        ],
+        "features": [
+          "6-cup",
+          "Digital",
+          "Aroma",
+          "Under $30"
+        ]
+      },
+      {
+        "name": "Oster 6-Cup Cooked Digital Rice Cooker",
+        "brand": "Oster",
+        "asin": "B001KBY9M8",
+        "blurb": "Key specs: Oster, 6-cup, Digital.",
+        "strengths": [
+          "Digital display",
+          "Affordable",
+          "Keep-warm",
+          "Simple"
+        ],
+        "limitations": [
+          "Basic build",
+          "Nonstick durability",
+          "Limited settings"
+        ],
+        "features": [
+          "Oster",
+          "6-cup",
+          "Digital",
+          "Steam"
+        ],
+        "badge": "Best Oster"
+      },
+      {
+        "name": "Dash Mini Rice Cooker",
+        "brand": "Dash",
+        "asin": "B0FDNRN24T",
+        "blurb": "Key specs: 2-cup mini, Under $15, Compact.",
+        "strengths": [
+          "Compact",
+          "Affordable",
+          "Easy to use",
+          "Portable"
+        ],
+        "limitations": [
+          "Small capacity",
+          "Basic",
+          "No advanced programs"
+        ],
+        "features": [
+          "2-cup mini",
+          "Under $15",
+          "Compact",
+          "Dash"
+        ],
+        "badge": "Best Mini"
+      },
+      {
+        "name": "Proctor Silex 37534 Rice Cooker",
+        "brand": "Proctor Silex",
+        "asin": "B01GVGXB5C",
+        "blurb": "Key specs: 8-cup, Under $20, Simple.",
+        "strengths": [
+          "Low price",
+          "One-touch",
+          "Keep-warm",
+          "Compact"
+        ],
+        "limitations": [
+          "Basic",
+          "May scorch",
+          "Limited features"
+        ],
+        "features": [
+          "8-cup",
+          "Under $20",
+          "Simple",
+          "Keep warm"
+        ],
+        "badge": "Best Value Basic",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "GreenLife Healthy Ceramic Rice Cooker",
+        "brand": "GreenLife",
+        "asin": "B091BZQMMT",
+        "blurb": "Key specs: Ceramic non-stick, PTFE-free, 4-cup.",
+        "strengths": [
+          "Ceramic non-stick inner pot, no PTFE or PFAS",
+          "For households avoiding traditional non-stick coatings"
+        ],
+        "limitations": [
+          "Ceramic coating less durable than traditional non-stick long-term"
+        ],
+        "features": [
+          "Ceramic non-stick",
+          "PTFE-free",
+          "4-cup",
+          "GreenLife"
+        ],
+        "badge": "Best Ceramic"
+      },
+      {
+        "name": "Elite Gourmet ERC-2010B Electric Rice Cooker",
+        "brand": "Elite Gourmet",
+        "asin": "B08BSTWK3Y",
+        "blurb": "Key specs: 16-cup, Under $40, Large.",
+        "strengths": [
+          "Affordable",
+          "Simple",
+          "Keep-warm",
+          "Compact"
+        ],
+        "limitations": [
+          "Basic build",
+          "Limited settings",
+          "Coating durability"
+        ],
+        "features": [
+          "16-cup",
+          "Under $40",
+          "Large",
+          "Elite"
+        ],
+        "badge": "Best Elite"
+      },
+      {
+        "name": "TOSHIBA Small 3-Cup Rice Cooker",
+        "brand": "Toshiba",
+        "asin": "B0CQ2CTKBH",
+        "blurb": "",
+        "strengths": [
+          "Right-sized for 1 to 3 people",
+          "8 cooking functions",
+          "LCD display",
+          "Nonstick inner pot"
+        ],
+        "limitations": [
+          "Too small for families",
+          "Nonstick coating needs gentle utensils",
+          "Basic heating vs induction models"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

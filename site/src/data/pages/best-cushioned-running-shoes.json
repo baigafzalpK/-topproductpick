@@ -1,0 +1,145 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Cushioned Running Shoes",
+  "h1": "The 5 Best Cushioned Running Shoes",
+  "metaDescription": "Our 5 picks for cushioned running shoes, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at cushioned running shoes using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "running-shoes",
+  "related": [
+    "running-shoes"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "ASICS Gel-Nimbus 27",
+        "brand": "ASICS",
+        "asin": "B0D79TQJS4",
+        "blurb": "Key specs: Neutral, Maximum cushioning, FF BLAST PLUS ECO + PureGEL.",
+        "strengths": [
+          "Very soft, maximum cushioning",
+          "PureGEL softens heel landings",
+          "Comfortable knit upper for long runs",
+          "Made with recycled upper content (ASICS)"
+        ],
+        "limitations": [
+          "Heavier than lighter cushioned shoes",
+          "Premium price",
+          "Too soft for runners who like ground feel"
+        ],
+        "features": [
+          "Neutral",
+          "Maximum cushioning",
+          "FF BLAST PLUS ECO + PureGEL",
+          "8mm drop (ASICS spec)"
+        ],
+        "badge": "Most cushioned",
+        "noImage": true
+      },
+      {
+        "name": "HOKA Bondi 9",
+        "brand": "HOKA",
+        "asin": "B0DL68S2WS",
+        "blurb": "Key specs: Neutral, Maximum cushioning, Supercritical EVA midsole.",
+        "strengths": [
+          "Maximum cushioning in HOKA's line",
+          "Low 5mm drop (HOKA spec)",
+          "Stable wide base for a tall shoe",
+          "Wide widths available"
+        ],
+        "limitations": [
+          "Heavy and bulky for faster running",
+          "Tall stack feels disconnected from the ground",
+          "Firmer than some expect for its size"
+        ],
+        "features": [
+          "Neutral",
+          "Maximum cushioning",
+          "Supercritical EVA midsole",
+          "5mm drop (HOKA spec)"
+        ],
+        "noImage": true
+      },
+      {
+        "name": "HOKA Clifton 11",
+        "brand": "HOKA",
+        "asin": "B0FXFBMCWR",
+        "blurb": "Key specs: Neutral, Maximum cushioning, MetaRocker geometry.",
+        "strengths": [
+          "Soft, high-stack cushioning without much weight",
+          "MetaRocker geometry makes easy miles feel smooth",
+          "Neutral design suits most runners who don't overpronate",
+          "Available in wide widths"
+        ],
+        "limitations": [
+          "Compressed EVA midsoles lose bounce sooner than premium foams",
+          "Not designed for fast speedwork",
+          "Tall stack can feel less stable on tight corners"
+        ],
+        "features": [
+          "Neutral",
+          "Maximum cushioning",
+          "MetaRocker geometry",
+          "Compression-molded EVA midsole",
+          "Double-lace lock"
+        ],
+        "noImage": true
+      },
+      {
+        "name": "Brooks Glycerin Flex (Women's)",
+        "brand": "Brooks",
+        "asin": "B0F5NCBC6G",
+        "blurb": "Key specs: Neutral, Maximum cushioning, 6mm drop (Brooks spec).",
+        "strengths": [
+          "About 8 oz, light for a max-cushion shoe",
+          "6mm drop suits runners who prefer a flatter feel",
+          "Nitrogen-infused foam is soft and comfortable",
+          "Stretchy flat-knit upper"
+        ],
+        "limitations": [
+          "Lower drop can strain calves if you're used to 10-12mm shoes",
+          "Newer model with little long-term durability data",
+          "Knit uppers run warmer and less structured than mesh"
+        ],
+        "features": [
+          "Neutral",
+          "Maximum cushioning",
+          "6mm drop (Brooks spec)",
+          "Flat-knit nylon upper",
+          "Road and treadmill"
+        ],
+        "noImage": true
+      },
+      {
+        "name": "ASICS Novablast 5",
+        "brand": "ASICS",
+        "asin": "B0D71WFZYH",
+        "blurb": "Key specs: Neutral, FF BLAST MAX midsole, 8mm drop (ASICS spec).",
+        "strengths": [
+          "Lively, bouncy ride",
+          "Light for its stack height",
+          "Good mix of easy-day and up-tempo use",
+          "Usually priced below flagship trainers"
+        ],
+        "limitations": [
+          "Less stable than firmer shoes",
+          "Not for runners needing support",
+          "Bounce can feel less controlled on corners"
+        ],
+        "features": [
+          "Neutral",
+          "FF BLAST MAX midsole",
+          "8mm drop (ASICS spec)",
+          "About 9 oz"
+        ],
+        "badge": "Best value",
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

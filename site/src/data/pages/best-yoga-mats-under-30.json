@@ -1,0 +1,66 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 2 Best Yoga Mats Under $30",
+  "h1": "The 2 Best Yoga Mats Under $30",
+  "metaDescription": "Our 2 picks for yoga mats under $30, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at yoga mats under $30 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-yoga-mats",
+  "related": [
+    "best-yoga-mats"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "BalanceFrom GoYoga All-Purpose Yoga Mat",
+        "brand": "BalanceFrom",
+        "asin": "B01MQA0EGZ",
+        "blurb": "Key specs: 1/4-inch (6mm) high-density foam, Double-sided non-slip texture, Includes carrying strap.",
+        "strengths": [
+          "6mm cushioning feels comfortable for both floor work and standing poses",
+          "Double-sided texture holds grip well for a foam mat at this price"
+        ],
+        "limitations": [
+          "Foam wears faster under daily use than rubber mats at higher price points",
+          "Grip weakens noticeably once the surface gets sweaty",
+          "Not built for intense hot yoga or daily studio-level use"
+        ],
+        "features": [
+          "1/4-inch (6mm) high-density foam",
+          "Double-sided non-slip texture",
+          "Includes carrying strap",
+          "71-inch length",
+          "Typically $20 to $25"
+        ],
+        "badge": "Best overall"
+      },
+      {
+        "name": "Gaiam Essentials Thick Yoga Mat",
+        "brand": "Gaiam",
+        "asin": "B07H9P7QYC",
+        "blurb": "Key specs: 10mm (2/5-inch) NBR foam cushioning, Textured non-slip surface, Easy-cinch carrying strap.",
+        "strengths": [
+          "10mm cushioning is the thickest option in this budget range, noticeably softer on knees",
+          "Carrying strap included at no added cost"
+        ],
+        "limitations": [
+          "Extra thickness reduces stability slightly during standing balance poses",
+          "Bulkier to store and carry than thinner budget mats",
+          "Foam construction still wears faster than rubber over heavy daily use"
+        ],
+        "features": [
+          "10mm (2/5-inch) NBR foam cushioning",
+          "Textured non-slip surface",
+          "Easy-cinch carrying strap",
+          "72 x 24-inch size",
+          "Typically $20 to $25"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

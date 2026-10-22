@@ -1,0 +1,274 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 12 Best Gooseneck Kettles of 2026",
+  "h1": "The 12 Best Gooseneck Kettles of 2026",
+  "metaDescription": "Our 12 picks for gooseneck kettles of 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at gooseneck kettles of 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "electric-kettles",
+  "related": [
+    "electric-kettles"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "OXO Brew Adjustable Temperature Pour-Over Kettle",
+        "brand": "OXO",
+        "asin": "B074KHPS7F",
+        "blurb": "Key specs: Variable temp, Gooseneck, Hold mode 30 min.",
+        "strengths": [
+          "Precise temperature control, among the most precise in this category",
+          "Hold mode maintains set temperature during multi-cup sessions",
+          "Built-in timer for tracking bloom and pour time",
+          "Balanced gooseneck with controllable pour rate"
+        ],
+        "limitations": [
+          "0.9L, limits to 2 to 3 cups per fill for large pour-over vessels"
+        ],
+        "features": [
+          "Variable temp",
+          "Gooseneck",
+          "Hold mode 30 min",
+          "0.9L"
+        ],
+        "badge": "Best Overall",
+        "bestFor": "buyers who want the best overall package"
+      },
+      {
+        "name": "Chefman TrueTemp Precision Control Gooseneck Kettle",
+        "brand": "Chefman",
+        "asin": "B0BN2FN195",
+        "blurb": "Key specs: Variable temp, Gooseneck, 6 one-touch presets.",
+        "strengths": [
+          "Chefman quality with internal custom temperature control and 6 presets",
+          "Balanced spout with consistent flow control"
+        ],
+        "limitations": [
+          "0.8L, smaller capacity in this list"
+        ],
+        "features": [
+          "Variable temp",
+          "Gooseneck",
+          "6 one-touch presets",
+          "0.8L"
+        ],
+        "badge": "Best Mid Gooseneck"
+      },
+      {
+        "name": "Bonavita 1.0L Variable Temperature Gooseneck Kettle",
+        "brand": "Bonavita",
+        "asin": "B005YR0F40",
+        "blurb": "Key specs: Variable temp, Gooseneck, 1.0L.",
+        "strengths": [
+          "1.0L sufficient for standard pour-over sessions"
+        ],
+        "limitations": [
+          "Keep-warm shorter than OXO or Chefman"
+        ],
+        "features": [
+          "Variable temp",
+          "Gooseneck",
+          "1.0L",
+          "Under $55"
+        ],
+        "badge": "Best Value Gooseneck",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "Cosori Electric Gooseneck Kettle Smart Bluetooth",
+        "brand": "Cosori",
+        "asin": "B08BFS92RP",
+        "blurb": "Key specs: Bluetooth, App control, Variable temp.",
+        "strengths": [
+          "Bluetooth app control for precise remote temperature management",
+          "App displays realtime temperature readout during heating",
+          "Cosori's engineering at the top of the product line"
+        ],
+        "limitations": [],
+        "features": [
+          "Bluetooth",
+          "App control",
+          "Variable temp",
+          "Cosori Smart"
+        ],
+        "badge": "Best Premium",
+        "bestFor": "buyers who want the best overall package"
+      },
+      {
+        "name": "Brewista Artisan Gooseneck Variable Temperature Kettle",
+        "brand": "Brewista",
+        "asin": "B07D5W5PFQ",
+        "blurb": "Key specs: Variable temp, Gooseneck, 1.0L.",
+        "strengths": [
+          "Variable temperature gooseneck with a narrower spout than OXO, finer flow control",
+          "Used by professional baristas at competition level"
+        ],
+        "limitations": [
+          "Narrower market familiarity than Fellow or OXO"
+        ],
+        "features": [
+          "Variable temp",
+          "Gooseneck",
+          "1.0L",
+          "Brewista"
+        ],
+        "badge": "Best Brewista"
+      },
+      {
+        "name": "Secura Electric Gooseneck Kettle Variable Temp",
+        "brand": "Secura",
+        "asin": "B0FCYCLYWH",
+        "blurb": "Key specs: Variable temp, Gooseneck, 0.8L.",
+        "strengths": [
+          "Variable temperature settings",
+          "Gooseneck spout for controlled pouring",
+          "Stainless steel construction",
+          "Keep-warm function"
+        ],
+        "limitations": [
+          "Smaller capacity than standard kettles",
+          "Plastic parts on base",
+          "Less refined than premium brands"
+        ],
+        "features": [
+          "Variable temp",
+          "Gooseneck",
+          "0.8L",
+          "Under $50"
+        ],
+        "badge": "Best Budget Variable Temp"
+      },
+      {
+        "name": "Bodum Bistro Gooseneck Electric Kettle Matte Black",
+        "brand": "Bodum",
+        "asin": "B08FBJPZFP",
+        "blurb": "Key specs: Matte black, Variable temp, Gooseneck.",
+        "strengths": [
+          "Gooseneck spout for precise pouring",
+          "Matte design",
+          "Fast boiling",
+          "Compact"
+        ],
+        "limitations": [
+          "No variable temperature",
+          "Smaller capacity",
+          "Lid can get hot"
+        ],
+        "features": [
+          "Matte black",
+          "Variable temp",
+          "Gooseneck",
+          "Bodum"
+        ],
+        "badge": "Best Design"
+      },
+      {
+        "name": "Hario V60 Buono Electric Gooseneck Drip Kettle",
+        "brand": "Hario",
+        "asin": "B003EEAPPY",
+        "blurb": "Key specs: 0.8L, Hario brand, Gooseneck.",
+        "strengths": [
+          "Hario, the originator of the V60 dripper, makes the kettle designed to pair with it",
+          "The thinnest gooseneck spout in this list for maximum flow precision"
+        ],
+        "limitations": [
+          "Limited temperature presets compared to Chefman or OXO"
+        ],
+        "features": [
+          "0.8L",
+          "Hario brand",
+          "Gooseneck",
+          "Japan origin"
+        ],
+        "badge": "Best Hario"
+      },
+      {
+        "name": "Bodum Melior Gooseneck Electric Kettle",
+        "brand": "Bodum",
+        "asin": "B07P15ZL3V",
+        "blurb": "Key specs: Variable temp, Gooseneck, 27oz.",
+        "strengths": [
+          "Gooseneck spout",
+          "Affordable",
+          "Simple operation",
+          "Compact"
+        ],
+        "limitations": [
+          "No temperature control",
+          "Basic build",
+          "Smaller capacity"
+        ],
+        "features": [
+          "Variable temp",
+          "Gooseneck",
+          "27oz",
+          "Under $70"
+        ],
+        "badge": "Best Entry Gooseneck"
+      },
+      {
+        "name": "Bodum Bistro Gooseneck Electric Kettle Polished Steel",
+        "brand": "Bodum",
+        "asin": "B08FBKTCMH",
+        "blurb": "Key specs: Gooseneck, 34oz, Under $80.",
+        "strengths": [
+          "Polished stainless gooseneck spout, basic entry pour-over styling"
+        ],
+        "limitations": [
+          "Fewer presets than the Cosori or Chefman",
+          "Polished finish shows fingerprints more than matte models"
+        ],
+        "features": [
+          "Gooseneck",
+          "34oz",
+          "Under $80",
+          "Polished steel"
+        ],
+        "badge": "Best Basic Gooseneck"
+      },
+      {
+        "name": "Fellow Stagg EKG Electric Gooseneck Kettle",
+        "brand": "Fellow",
+        "asin": "B077JBQZPX",
+        "blurb": "",
+        "strengths": [
+          "Exact temperature control",
+          "Counterbalanced handle for steady pours",
+          "Built-in brew stopwatch",
+          "Hold mode keeps water hot"
+        ],
+        "limitations": [
+          "Expensive",
+          "Small 0.9 L capacity",
+          "Slower than high-wattage kettles"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "Fellow Stagg EKG Pro Electric Gooseneck Kettle",
+        "brand": "Fellow",
+        "asin": "B0DG5X91XS",
+        "blurb": "",
+        "strengths": [
+          "Precise temperature control",
+          "Scheduling and hold modes",
+          "Built-in brew timer",
+          "Premium design"
+        ],
+        "limitations": [
+          "Very expensive",
+          "0.9 L capacity",
+          "Wi-Fi features need setup"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

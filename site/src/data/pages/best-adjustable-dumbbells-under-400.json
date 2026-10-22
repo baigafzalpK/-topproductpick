@@ -1,0 +1,98 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Adjustable Dumbbells Under $400",
+  "h1": "The 4 Best Adjustable Dumbbells Under $400",
+  "metaDescription": "Our 4 picks for adjustable dumbbells under $400, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at adjustable dumbbells under $400 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-adjustable-dumbbells",
+  "related": [
+    "best-adjustable-dumbbells"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "PowerBlock Elite EXP Stage 1 Adjustable Dumbbells, 5-50 lb (Pair)",
+        "brand": "PowerBlock",
+        "asin": "B08761WNZR",
+        "blurb": "Key specs: 5 to 50 lb per hand, expandable to 90 lb, Pin-selector weight system, Typically around $379.",
+        "strengths": [
+          "Best mechanism-to-price ratio of the premium tier options under this ceiling",
+          "Genuine expansion path to 90 lb per hand if needed later",
+          "Compact footprint on top of a strong feature set"
+        ],
+        "limitations": [
+          "Costs more than Core Home Fitness for a similar 50 lb ceiling",
+          "Full expansion later adds real additional cost"
+        ],
+        "features": [
+          "5 to 50 lb per hand, expandable to 90 lb",
+          "Pin-selector weight system",
+          "Typically around $379"
+        ]
+      },
+      {
+        "name": "Core Home Fitness Adjustable Dumbbell Set & Stand",
+        "brand": "Core Home Fitness",
+        "asin": "B07DYMG9FZ",
+        "blurb": "Key specs: 5 to 50 lb per hand, TwistLock one-hand cradle adjustment, Typically around $299.",
+        "strengths": [
+          "Lowest price of the mid-to-premium mechanism options in this list",
+          "Simple, fast TwistLock system with minimal learning curve"
+        ],
+        "limitations": [
+          "50 lb ceiling is the lowest of the mechanism-based picks here",
+          "Smaller install base and shorter track record than PowerBlock"
+        ],
+        "features": [
+          "5 to 50 lb per hand",
+          "TwistLock one-hand cradle adjustment",
+          "Typically around $299"
+        ]
+      },
+      {
+        "name": "Amazon Basics Adjustable Dumbbell Hand Weight Set, 38 lb with Case",
+        "brand": "Amazon Basics",
+        "asin": "B071WSFSGC",
+        "blurb": "Key specs: 38 lb total across two handles, Spin-lock collars, Typically $60 to $90.",
+        "strengths": [
+          "Genuinely functional for beginner to early-intermediate training",
+          "Case-based storage needs no floor space for a stand"
+        ],
+        "limitations": [
+          "Slowest adjustment method compared to the mechanism-based picks above",
+          "19 lb max per hand caps long-term progression"
+        ],
+        "features": [
+          "38 lb total across two handles",
+          "Spin-lock collars",
+          "Typically $60 to $90"
+        ]
+      },
+      {
+        "name": "Amazon Basics 40-Pound Adjustable Weight Set with Case",
+        "brand": "Amazon Basics",
+        "asin": "B00R3MZEHM",
+        "blurb": "Key specs: 40 lb total plate and collar set, Threaded collars, Typically $70 to $90.",
+        "strengths": [
+          "Similar low price to the 38 lb set with slightly more total weight",
+          "No mechanism to jam or maintain, just threaded collars"
+        ],
+        "limitations": [
+          "Threaded collars are slower to adjust than spin-lock or dial systems",
+          "Low total weight limits it to light training"
+        ],
+        "features": [
+          "40 lb total plate and collar set",
+          "Threaded collars",
+          "Typically $70 to $90"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 2 Best Panini Presses and Sandwich Makers Under $30",
+  "h1": "The 2 Best Panini Presses and Sandwich Makers Under $30",
+  "metaDescription": "Our 2 picks for panini presses and sandwich makers under $30, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at panini presses and sandwich makers under $30 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-panini-presses",
+  "related": [
+    "best-panini-presses"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Proctor Silex Deluxe Hot Sandwich Maker",
+        "brand": "Proctor Silex",
+        "asin": "B07RNT1J7S",
+        "blurb": "Key specs: Fits 2 sandwiches at once, PFAS-free ceramic nonstick plates, 700W element.",
+        "strengths": [
+          "Ceramic nonstick plates hold up well and clean easily for the price point",
+          "Fast preheat, ready to cook within a couple minutes of plugging in"
+        ],
+        "limitations": [
+          "Fixed clamshell gap, no floating hinge for thick sandwiches",
+          "One heat setting, no temperature dial",
+          "Plates aren't removable for a deep clean"
+        ],
+        "features": [
+          "Fits 2 sandwiches at once",
+          "PFAS-free ceramic nonstick plates",
+          "700W element",
+          "Compact upright storage",
+          "Power and ready indicator lights"
+        ]
+      },
+      {
+        "name": "DASH Mini Maker Portable Grill Machine and Panini Press",
+        "brand": "DASH",
+        "asin": "B06ZYSS7HS",
+        "blurb": "",
+        "strengths": [
+          "Very small and light",
+          "Inexpensive",
+          "Heats quickly",
+          "Easy to store in a drawer"
+        ],
+        "limitations": [
+          "4-inch plate fits only small sandwiches",
+          "One fixed heat level",
+          "Makes one item at a time"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

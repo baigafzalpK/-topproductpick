@@ -1,0 +1,247 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 10 Best Toaster Ovens for Baking",
+  "h1": "The 10 Best Toaster Ovens for Baking",
+  "metaDescription": "Our 10 picks for toaster ovens for baking, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at toaster ovens for baking using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "toaster-ovens",
+  "related": [
+    "toaster-ovens"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Breville BOV845BSS Smart Oven Pro",
+        "brand": "Breville",
+        "asin": "B00XBOXVIA",
+        "blurb": "Key specs: Element IQ, 12-slice, Slow cook.",
+        "strengths": [
+          "Element IQ heating control",
+          "Convection",
+          "Slow cook function",
+          "Large interior"
+        ],
+        "limitations": [
+          "Expensive",
+          "Large footprint",
+          "Exterior gets hot"
+        ],
+        "features": [
+          "Element IQ",
+          "12-slice",
+          "Slow cook",
+          "Accurate thermostat"
+        ],
+        "badge": "Best Overall Baking",
+        "bestFor": "buyers who want the best overall package"
+      },
+      {
+        "name": "Breville BOV800XL Smart Oven",
+        "brand": "Breville",
+        "asin": "B001L5TVGW",
+        "blurb": "Key specs: Element IQ, 9 functions, 1800W.",
+        "strengths": [
+          "Same Element IQ system as the BOV845BSS at a slightly lower price",
+          "Fits a 12-inch pizza or standard cookie sheet"
+        ],
+        "limitations": [],
+        "features": [
+          "Element IQ",
+          "9 functions",
+          "1800W",
+          "Accurate"
+        ],
+        "badge": "Best Breville Mid Baking",
+        "bestFor": "baking"
+      },
+      {
+        "name": "Cuisinart TOB-135 Deluxe Convection Toaster Oven",
+        "brand": "Cuisinart",
+        "asin": "B00E9HR7KG",
+        "blurb": "Key specs: Exact Heat sensor, Convection, Under $100.",
+        "strengths": [
+          "Convection baking",
+          "Large interior",
+          "Digital controls",
+          "Good value"
+        ],
+        "limitations": [
+          "Exterior heat",
+          "Toasting evenness varies",
+          "Bulky"
+        ],
+        "features": [
+          "Exact Heat sensor",
+          "Convection",
+          "Under $100",
+          "Cuisinart"
+        ],
+        "badge": "Best Cuisinart Baking",
+        "bestFor": "baking"
+      },
+      {
+        "name": "Panasonic FlashXpress NB-G110P Toaster Oven",
+        "brand": "Panasonic",
+        "asin": "B008C9UFDI",
+        "blurb": "Key specs: Infrared heating, Compact, No preheat.",
+        "strengths": [
+          "Double infrared elements for the most even small-batch heat distribution",
+          "No preheat needed, infrared reaches temperature instantly"
+        ],
+        "limitations": [
+          "4-slice capacity only"
+        ],
+        "features": [
+          "Infrared heating",
+          "Compact",
+          "No preheat",
+          "Accurate"
+        ],
+        "badge": "Best Compact Baking",
+        "bestFor": "baking"
+      },
+      {
+        "name": "Breville BOV900BSS Smart Oven Air Fryer Pro",
+        "brand": "Breville",
+        "asin": "B01N5UPTZS",
+        "blurb": "Key specs: Super-convection, 13 functions, Largest Breville.",
+        "strengths": [
+          "Super-convection for the most even heat distribution of any countertop oven",
+          "Fits a 14-lb turkey, the most interior space available in a toaster oven"
+        ],
+        "limitations": [],
+        "features": [
+          "Super-convection",
+          "13 functions",
+          "Largest Breville",
+          "Premium"
+        ],
+        "badge": "Best Premium Baking",
+        "bestFor": "buyers who want the best overall package"
+      },
+      {
+        "name": "KitchenAid KCO275SS Digital Countertop Oven",
+        "brand": "KitchenAid",
+        "asin": "B00U0VTNCU",
+        "blurb": "Key specs: KitchenAid, 12-slice, Even heat.",
+        "strengths": [
+          "Convection",
+          "Digital controls",
+          "Sleek stainless design",
+          "Even baking"
+        ],
+        "limitations": [
+          "Mid-range price",
+          "Smaller interior",
+          "Exterior heat"
+        ],
+        "features": [
+          "KitchenAid",
+          "12-slice",
+          "Even heat",
+          "Digital"
+        ],
+        "badge": "Best Kitchenaid Baking",
+        "bestFor": "baking"
+      },
+      {
+        "name": "Cuisinart TOA-60 Convection Toaster Oven Air Fryer",
+        "brand": "Cuisinart",
+        "asin": "B01K0W8LTE",
+        "blurb": "Key specs: Air fryer, 7 functions, 1800W.",
+        "strengths": [
+          "1800W convection for faster and more even baking than lower-wattage models",
+          "Bake mode produces correct cookie and muffin results"
+        ],
+        "limitations": [
+          "Not as precise as Breville"
+        ],
+        "features": [
+          "Air fryer",
+          "7 functions",
+          "1800W",
+          "Bake"
+        ],
+        "badge": "Best Cuisinart Air Fryer Baking",
+        "bestFor": "baking"
+      },
+      {
+        "name": "Cuisinart TOB-200N Rotisserie Convection Toaster Oven",
+        "brand": "Cuisinart",
+        "asin": "B06WLHXYQL",
+        "blurb": "Key specs: Rotisserie, 12-slice, Convection.",
+        "strengths": [
+          "Rotisserie",
+          "Convection",
+          "Large interior",
+          "Versatile"
+        ],
+        "limitations": [
+          "Large size",
+          "More cleaning",
+          "Exterior heat"
+        ],
+        "features": [
+          "Rotisserie",
+          "12-slice",
+          "Convection",
+          "Full size"
+        ],
+        "badge": "Best Rotisserie Baking",
+        "bestFor": "baking"
+      },
+      {
+        "name": "Toshiba AC25CEW-SS Convection Toaster Oven",
+        "brand": "Toshiba",
+        "asin": "B072Q3MFDH",
+        "blurb": "Key specs: Toshiba, Convection, Digital.",
+        "strengths": [
+          "Convection",
+          "Rotisserie",
+          "Digital controls",
+          "Spacious interior"
+        ],
+        "limitations": [
+          "Large footprint",
+          "Exterior heat",
+          "Controls learning curve"
+        ],
+        "features": [
+          "Toshiba",
+          "Convection",
+          "Digital",
+          "Under $70"
+        ],
+        "badge": "Best Toshiba Baking",
+        "bestFor": "baking"
+      },
+      {
+        "name": "Oster French Door Convection Oven",
+        "brand": "Oster",
+        "asin": "B07CDKRQPG",
+        "blurb": "Key specs: French door, Extra large, Convection.",
+        "strengths": [
+          "Extra large capacity for large cookie sheet baking",
+          "French door for easy mid-bake access"
+        ],
+        "limitations": [
+          "Less thermostat accuracy than Cuisinart TOB-135"
+        ],
+        "features": [
+          "French door",
+          "Extra large",
+          "Convection",
+          "Under $100"
+        ],
+        "badge": "Best Oster Baking",
+        "bestFor": "baking"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

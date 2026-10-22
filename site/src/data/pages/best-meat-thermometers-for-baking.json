@@ -1,0 +1,40 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "Our Top Pick: Meat Thermometers for Baking",
+  "h1": "Our Top Pick: Meat Thermometers for Baking",
+  "metaDescription": "Our top pick for meat thermometers for baking, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at meat thermometers for baking using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-meat-thermometers",
+  "related": [
+    "best-meat-thermometers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "ThermoWorks ThermoPop 2 Instant-Read Thermometer",
+        "brand": "ThermoWorks",
+        "asin": "B0DG6M1TMY",
+        "blurb": "",
+        "strengths": [
+          "Fast readings",
+          "Accuracy within about ±1°F",
+          "IP67 water resistance",
+          "360° rotating display"
+        ],
+        "limitations": [
+          "Not as fast as the Thermapen",
+          "Fixed probe, not foldable",
+          "Hand wash only"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

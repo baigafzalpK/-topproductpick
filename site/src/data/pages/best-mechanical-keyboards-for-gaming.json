@@ -1,0 +1,77 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Mechanical Keyboards for Gaming 2026",
+  "h1": "The 3 Best Mechanical Keyboards for Gaming 2026",
+  "metaDescription": "Our 3 picks for mechanical keyboards for gaming 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at mechanical keyboards for gaming 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "mechanical-keyboards",
+  "related": [
+    "mechanical-keyboards"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Razer BlackWidow V4 75%",
+        "brand": "Razer",
+        "asin": "B0BQBRPZ8M",
+        "blurb": "Key specs: Compact 75%, Custom dial + knob.",
+        "strengths": [
+          "Compact 75% gaming layout",
+          "Razer Yellow optical switches",
+          "Customizable knob and dial"
+        ],
+        "limitations": [
+          "Razer Green clicky very loud",
+          "Synapse software required"
+        ],
+        "features": [
+          "Compact 75%",
+          "Custom dial + knob"
+        ],
+        "bestFor": "gaming"
+      },
+      {
+        "name": "Razer Huntsman V3 Pro TKL Gaming Keyboard",
+        "brand": "Razer",
+        "asin": "B0CG7BWG7J",
+        "blurb": "",
+        "strengths": [
+          "Adjustable actuation from 0.1 to 4.0 mm",
+          "Rapid Trigger for fast resets",
+          "Analog optical switches",
+          "Compact TKL layout"
+        ],
+        "limitations": [
+          "Expensive",
+          "Requires Razer Synapse for tuning",
+          "Not hot-swappable with standard switches"
+        ],
+        "features": []
+      },
+      {
+        "name": "Corsair K70 RGB PRO",
+        "brand": "Corsair",
+        "asin": "B09NCMHTSB",
+        "blurb": "",
+        "strengths": [
+          "Durable aluminum frame",
+          "PBT double-shot keycaps",
+          "8,000Hz hyper-polling",
+          "Detachable wrist rest"
+        ],
+        "limitations": [
+          "Full-size takes desk space",
+          "Wired only",
+          "iCUE software needed for lighting"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

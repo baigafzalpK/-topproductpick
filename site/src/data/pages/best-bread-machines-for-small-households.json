@@ -1,0 +1,137 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Bread Machines for Small Households in 2026",
+  "h1": "The 5 Best Bread Machines for Small Households in 2026",
+  "metaDescription": "Our 5 picks for bread machines for small households in 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at bread machines for small households in 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-bread-machines",
+  "related": [
+    "best-bread-machines"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Breville Custom Loaf BBM800XL Bread Maker",
+        "brand": "Breville",
+        "asin": "B004RCNJA0",
+        "blurb": "Key specs: 1 to 2.5-lb loaf range, 13-plus automatic programs, 9 custom settings.",
+        "strengths": [
+          "1-lb minimum loaf size is the smallest full-featured setting in this list, ideal for one or two people",
+          "9 custom settings maintain full crust and cycle control even at the smallest loaf size",
+          "Collapsible paddle leaves a smaller hole, which matters more proportionally on a smaller loaf",
+          "Widest loaf-size range means the same machine still handles guests or batch baking occasionally"
+        ],
+        "limitations": [
+          "Larger overall footprint than its small-loaf output might suggest",
+          "Fewer total ratings than the more established competitors in this list"
+        ],
+        "features": [
+          "1 to 2.5-lb loaf range",
+          "13-plus automatic programs",
+          "9 custom settings",
+          "Collapsible kneading paddle",
+          "60-minute power backup"
+        ],
+        "badge": "Best overall",
+        "bestFor": "small households"
+      },
+      {
+        "name": "Hamilton Beach Digital Bread Maker 29885",
+        "brand": "Hamilton Beach",
+        "asin": "B07684XDM9",
+        "blurb": "Key specs: 2-lb capacity, 3 loaf sizes, 3 crust shades, 14 programmable settings.",
+        "strengths": [
+          "3 loaf sizes cover most two-person households without needing the Breville's full range",
+          "Compact enough footprint for a smaller kitchen",
+          "Dishwasher-safe pan and paddle keep cleanup quick for infrequent, smaller-batch baking"
+        ],
+        "limitations": [
+          "Smallest supported loaf size is 1.5 lb, not the Breville's full 1 lb",
+          "Single heating element can over-brown the crust on a smaller loaf before the interior finishes",
+          "Basic interface offers less crust customization than the Breville at smaller sizes"
+        ],
+        "features": [
+          "2-lb capacity",
+          "3 loaf sizes, 3 crust shades",
+          "14 programmable settings",
+          "Viewing window",
+          "Dishwasher-safe pan and paddle"
+        ],
+        "bestFor": "small households"
+      },
+      {
+        "name": "Cuisinart CBK-200 Convection Bread Maker",
+        "brand": "Cuisinart",
+        "asin": "B0009VELTQ",
+        "blurb": "Key specs: 2-lb capacity, 3 loaf sizes, Convection fan.",
+        "strengths": [
+          "Convection fan produces more even crust browning on a smaller loaf than a single-element machine",
+          "16 presets scale well across all 3 supported loaf sizes",
+          "12-hour delay timer means a small household can time a fresh 1.5-lb loaf for the morning",
+          "Power-failure backup protects a smaller batch from an interrupted cycle"
+        ],
+        "limitations": [
+          "Bulkier horizontal footprint than its actual small-loaf output requires",
+          "1.5-lb minimum, not as small as the Breville's 1-lb setting",
+          "Costs more than the Hamilton Beach without adding a smaller loaf option"
+        ],
+        "features": [
+          "2-lb capacity",
+          "3 loaf sizes",
+          "Convection fan",
+          "16 menu presets",
+          "12-hour delay timer"
+        ],
+        "bestFor": "small households"
+      },
+      {
+        "name": "Zojirushi Virtuoso Plus BB-PDC20 Bread Maker",
+        "brand": "Zojirushi",
+        "asin": "B07BQ28TQ6",
+        "blurb": "Key specs: 2-lb loaf capacity, Dual heaters, lid plus bottom, Double kneading blades.",
+        "strengths": [
+          "Dual heaters produce the most even crust of any machine here, even scaled down to a smaller loaf",
+          "Double kneading blades keep smaller batches well mixed despite less dough volume",
+          "Highest overall rating in this list, with the longest reliability track record",
+          "Large viewing window makes it easy to judge a smaller loaf's progress"
+        ],
+        "limitations": [
+          "Does not go as small as the Breville's 1-lb minimum",
+          "Vertical loaf shape is less familiar than a standard sandwich loaf shape"
+        ],
+        "features": [
+          "2-lb loaf capacity",
+          "Dual heaters, lid plus bottom",
+          "Double kneading blades",
+          "Large viewing window",
+          "13-hour delay timer"
+        ],
+        "bestFor": "small households"
+      },
+      {
+        "name": "Cuisinart CBK-110 Compact Automatic Bread Maker",
+        "brand": "Cuisinart",
+        "asin": "B07C8V4FDR",
+        "blurb": "",
+        "strengths": [
+          "Compact vertical design",
+          "12 programs and 3 loaf sizes",
+          "13-hour delay timer",
+          "Stainless steel housing"
+        ],
+        "limitations": [
+          "Vertical loaf shape",
+          "Fewer programs than some rivals",
+          "Paddle can stick in the loaf"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

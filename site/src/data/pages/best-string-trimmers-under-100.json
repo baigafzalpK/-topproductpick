@@ -1,0 +1,108 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best String Trimmers Under $100",
+  "h1": "The 4 Best String Trimmers Under $100",
+  "metaDescription": "Our 4 picks for string trimmers under $100, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at string trimmers under $100 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-string-trimmers",
+  "related": [
+    "best-string-trimmers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Greenworks 40V 12-Inch Cordless String Trimmer",
+        "brand": "Greenworks",
+        "asin": "B01GEW1AJC",
+        "blurb": "Key specs: 12-inch cutting swath, 40V lithium battery, 2.0Ah included, Dual line auto-feed.",
+        "strengths": [
+          "Battery and charger included at a price that competitors often charge for the bare tool alone",
+          "3-year warranty is longer than most trimmers at this price point",
+          "Handles typical small to medium yard trimming without issue"
+        ],
+        "limitations": [
+          "12-inch swath is on the narrower side",
+          "2.0Ah battery runtime is modest on larger lots",
+          "Plastic shaft coupler feels less premium than pricier models"
+        ],
+        "features": [
+          "12-inch cutting swath",
+          "40V lithium battery, 2.0Ah included",
+          "Dual line auto-feed",
+          "Variable speed trigger",
+          "3-year warranty",
+          "Typically $80 to $100 with battery and charger"
+        ],
+        "badge": "Best overall"
+      },
+      {
+        "name": "Worx WG183 40V String Trimmer",
+        "brand": "Worx",
+        "asin": "B08RW9X1QM",
+        "blurb": "Key specs: 13-inch dual-exit cutting head, 40V PowerShare, 2 x 2.0Ah batteries included, Under 5 pounds.",
+        "strengths": [
+          "Lightest trimmer in this price range",
+          "Pivoting head adds edging capability most budget trimmers skip"
+        ],
+        "limitations": [
+          "13-inch swath, still on the narrower end",
+          "Auto-feed line advance occasionally over-feeds",
+          "PowerShare batteries don't cross over to non-Worx tools"
+        ],
+        "features": [
+          "13-inch dual-exit cutting head",
+          "40V PowerShare, 2 x 2.0Ah batteries included",
+          "Under 5 pounds",
+          "Pivoting head",
+          "Typically under $100"
+        ]
+      },
+      {
+        "name": "Husqvarna 128LD Gas String Trimmer",
+        "brand": "Husqvarna",
+        "asin": "B004Q0HUYO",
+        "blurb": "Key specs: 28cc 2-cycle gas engine, 17-inch cutting swath, Straight shaft.",
+        "strengths": [
+          "More cutting power than any battery trimmer at a similar price point",
+          "No battery to buy or replace down the road",
+          "17-inch swath covers ground faster than the 12 to 13-inch battery models here"
+        ],
+        "limitations": [
+          "Ongoing fuel and oil cost adds to the real total price over time",
+          "Heavier and louder than the cordless options in this list"
+        ],
+        "features": [
+          "28cc 2-cycle gas engine",
+          "17-inch cutting swath",
+          "Straight shaft",
+          "Smart Start recoil system",
+          "Street price often close to or just above $100 depending on retailer"
+        ]
+      },
+      {
+        "name": "Greenworks 24V 12\" Cordless String Trimmer/Edger (Tool Only)",
+        "brand": "Greenworks",
+        "asin": "B0BF9ZJT4W",
+        "blurb": "",
+        "strengths": [
+          "Light and easy to handle",
+          "Converts to an edger",
+          "Affordable tool-only price",
+          "Shares 24V batteries"
+        ],
+        "limitations": [
+          "Battery and charger not included",
+          "12-inch swath is narrow",
+          "For light trimming only"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

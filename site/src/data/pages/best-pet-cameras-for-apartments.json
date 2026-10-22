@@ -1,0 +1,131 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Pet Cameras for Apartments",
+  "h1": "The 5 Best Pet Cameras for Apartments",
+  "metaDescription": "Our 5 picks for pet cameras for apartments, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at pet cameras for apartments using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-pet-cameras",
+  "related": [
+    "best-pet-cameras"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "TP-Link Tapo C210",
+        "brand": "TP-Link",
+        "asin": "B08ZNTM1X1",
+        "blurb": "Key specs: 2K resolution, 360° pan / 114° tilt, Compact tabletop or wall-optional design, MicroSD storage up to 512GB.",
+        "strengths": [
+          "Small footprint sits easily on a shelf, console table, or windowsill without any drilling",
+          "360° pan covers a full studio or one-bedroom layout from a single central spot",
+          "Local microSD storage skips a mandatory subscription for a space you may not stay in long-term"
+        ],
+        "limitations": [
+          "114° tilt range doesn't reach a second story or loft area as well as a taller mount",
+          "Fewer smart home integrations than Ring for households on Alexa routines"
+        ],
+        "features": [
+          "2K resolution, 360° pan / 114° tilt",
+          "Compact tabletop or wall-optional design",
+          "MicroSD storage up to 512GB",
+          "Works with Alexa and Google Assistant"
+        ],
+        "badge": "Top pick",
+        "bestFor": "apartments"
+      },
+      {
+        "name": "Ring Indoor Cam (2nd Gen)",
+        "brand": "Ring",
+        "asin": "B0B6GJBKRK",
+        "blurb": "Key specs: 1080p HD video with color night vision, 115° horizontal field of view, Compact plug-in design with swivel mount.",
+        "strengths": [
+          "Compact plug-in body tucks into an outlet-adjacent spot without cables trailing across a small room",
+          "Works well as a dual-purpose pet and apartment security camera",
+          "No-drill swivel mount option if a tabletop spot isn't available"
+        ],
+        "limitations": [
+          "115° fixed field of view may not reach every corner of an irregularly shaped apartment",
+          "Ring Protect subscription needed to save and review clips",
+          "No pet-specific detection, alerts fire for hallway noise through thin apartment walls too"
+        ],
+        "features": [
+          "1080p HD video with color night vision",
+          "115° horizontal field of view",
+          "Compact plug-in design with swivel mount",
+          "Works with Alexa"
+        ],
+        "bestFor": "apartments"
+      },
+      {
+        "name": "Wyze Cam Pan v3",
+        "brand": "Wyze",
+        "asin": "B0B9TWY11Q",
+        "blurb": "Key specs: 360° pan / 180° tilt coverage, 1080p color night vision, Pan Scan auto-patrol with 4 waypoints.",
+        "strengths": [
+          "Full 180° tilt reaches higher shelves and lofted sleeping areas better than fixed-tilt alternatives",
+          "Pan Scan auto-patrol is useful for checking a two-room apartment layout from one central unit",
+          "Lowest price of the pan/tilt cameras in this list",
+          "No subscription required for basic live view and alerts"
+        ],
+        "limitations": [
+          "Motion tracking follows only one moving subject at a time",
+          "Two-way audio is thinner than the Petcube's 4-microphone array"
+        ],
+        "features": [
+          "360° pan / 180° tilt coverage",
+          "1080p color night vision",
+          "Pan Scan auto-patrol with 4 waypoints",
+          "No subscription required for live view"
+        ],
+        "bestFor": "apartments"
+      },
+      {
+        "name": "Petcube Bites 2",
+        "brand": "Petcube",
+        "asin": "B07QZ4BWY1",
+        "blurb": "Key specs: 1080p HD video with 160° full-room view, Built-in treat dispenser with adjustable toss distance, 4-microphone array with 2-way audio.",
+        "strengths": [
+          "160° fixed view covers most of a studio apartment without needing to pan",
+          "Treat dispenser is a genuine added value in a small space where a pet spends most of its day",
+          "4-microphone array works well in the tighter acoustics of a smaller apartment",
+          "Alexa built-in for hands-free check-ins"
+        ],
+        "limitations": [
+          "Fixed lens with no pan/tilt, unlike the other three options here",
+          "Treat hopper needs regular refilling"
+        ],
+        "features": [
+          "1080p HD video with 160° full-room view",
+          "Built-in treat dispenser with adjustable toss distance",
+          "4-microphone array with 2-way audio",
+          "Alexa built-in"
+        ],
+        "bestFor": "apartments"
+      },
+      {
+        "name": "WYZE Cam v4 2.5K Indoor/Outdoor Camera",
+        "brand": "WYZE",
+        "asin": "B0CJ9Z22L5",
+        "blurb": "",
+        "strengths": [
+          "Sharp 2.5K video",
+          "Color night vision with spotlight",
+          "Local microSD recording",
+          "No subscription required for basics"
+        ],
+        "limitations": [
+          "No treat tossing",
+          "Advanced AI alerts need a plan",
+          "Fixed view (not pan-tilt)"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

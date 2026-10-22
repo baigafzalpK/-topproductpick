@@ -1,0 +1,133 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Yoga Mats for Sensitive Knees",
+  "h1": "The 5 Best Yoga Mats for Sensitive Knees",
+  "metaDescription": "Our 5 picks for yoga mats for sensitive knees, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at yoga mats for sensitive knees using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-yoga-mats",
+  "related": [
+    "best-yoga-mats"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Gaiam Essentials Thick Yoga Mat",
+        "brand": "Gaiam",
+        "asin": "B07H9P7QYC",
+        "blurb": "Key specs: 10mm (2/5-inch) NBR foam cushioning, Textured non-slip surface, Easy-cinch carrying strap.",
+        "strengths": [
+          "10mm is the thickest cushioning in this list, noticeably softer under the knee than standard 3 to 5mm mats",
+          "Wide enough surface area to comfortably cushion knees during wide-stance poses too"
+        ],
+        "limitations": [
+          "Softer foam feels slightly less stable during standing balance poses than denser mats",
+          "Cushioning compresses over time with heavy daily use",
+          "Bulkier to roll and store than thinner mats"
+        ],
+        "features": [
+          "10mm (2/5-inch) NBR foam cushioning",
+          "Textured non-slip surface",
+          "Easy-cinch carrying strap",
+          "72 x 24-inch size",
+          "Under $25"
+        ],
+        "badge": "Best overall",
+        "bestFor": "sensitive knees"
+      },
+      {
+        "name": "Manduka PRO Yoga Mat 71-Inch 6mm",
+        "brand": "Manduka",
+        "asin": "B078VJ81M2",
+        "blurb": "Key specs: 6mm dense closed-cell PVC construction, Lifetime guarantee, 26 lbs, stable underfoot.",
+        "strengths": [
+          "Dense foam resists bottoming out under a kneeling knee even though it's thinner than the Gaiam",
+          "Holds cushioning quality for years rather than compressing flat like softer foam",
+          "Stays stable during standing poses despite the generous cushioning"
+        ],
+        "limitations": [
+          "6mm offers less raw thickness than the Gaiam for practitioners who want maximum softness",
+          "26 lbs makes it a heavier mat to move around at home"
+        ],
+        "features": [
+          "6mm dense closed-cell PVC construction",
+          "Lifetime guarantee",
+          "26 lbs, stable underfoot",
+          "Resists compressing flat over time",
+          "71 or 85-inch length options"
+        ],
+        "bestFor": "sensitive knees"
+      },
+      {
+        "name": "BalanceFrom GoYoga All-Purpose Yoga Mat",
+        "brand": "BalanceFrom",
+        "asin": "B01MQA0EGZ",
+        "blurb": "Key specs: 1/4-inch (6mm) high-density foam, Double-sided non-slip texture, Includes carrying strap.",
+        "strengths": [
+          "6mm foam gives noticeably more knee comfort than a standard 3 to 4mm studio mat",
+          "Cheapest way to test whether extra cushioning actually helps before spending more",
+          "Double-sided texture keeps grip reasonable despite the softer surface"
+        ],
+        "limitations": [
+          "Less cushioning than the Gaiam's 10mm option for the most sensitive knees",
+          "Foam compresses and loses support faster than denser rubber over heavy use",
+          "Not as stable during standing poses as denser mats at the same thickness"
+        ],
+        "features": [
+          "1/4-inch (6mm) high-density foam",
+          "Double-sided non-slip texture",
+          "Includes carrying strap",
+          "71-inch length",
+          "Under $25"
+        ],
+        "bestFor": "sensitive knees"
+      },
+      {
+        "name": "prAna E.C.O. Yoga Mat",
+        "brand": "prAna",
+        "asin": "B004GECD5G",
+        "blurb": "Key specs: 5mm closed-cell natural rubber, Two-sided texturing for grip, Non-toxic, PVC-free construction.",
+        "strengths": [
+          "Dense natural rubber offers more support under the knee than soft foam at the same thickness",
+          "Two-sided grip stays reliable even as extra padding is added underneath",
+          "PVC-free build appeals to practitioners with material sensitivities beyond just knee comfort"
+        ],
+        "limitations": [
+          "5mm is less cushioning than the Gaiam's 10mm for maximum knee relief",
+          "Best paired with a folded towel for practitioners needing extra kneeling support"
+        ],
+        "features": [
+          "5mm closed-cell natural rubber",
+          "Two-sided texturing for grip",
+          "Non-toxic, PVC-free construction",
+          "Wipes clean easily",
+          "Reasonable pack size"
+        ],
+        "bestFor": "sensitive knees"
+      },
+      {
+        "name": "Gaiam Premium 6mm Print Yoga Mat",
+        "brand": "Gaiam",
+        "asin": "B00FLID5EO",
+        "blurb": "",
+        "strengths": [
+          "6mm cushioning for knees",
+          "Printed alignment guides",
+          "Sticky non-slip surface",
+          "Many designs"
+        ],
+        "limitations": [
+          "PVC isn't eco-friendly",
+          "Slippery when sweaty",
+          "Thick mats reduce balance stability"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 12 Best Air Fryers Under $100",
+  "h1": "The 12 Best Air Fryers Under $100",
+  "metaDescription": "Our 12 picks for air fryers under $100, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at air fryers under $100 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "air-fryers",
+  "related": [
+    "air-fryers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Ninja AF101 Air Fryer 4 Quart",
+        "brand": "Ninja",
+        "asin": "B07FDJMC9Q",
+        "blurb": "Key specs: 4-quart ceramic-coated basket, 1550W element, 105°F to 400°F range.",
+        "strengths": [
+          "105°F floor enables genuine dehydration, jerky and dried fruit, not just reheating",
+          "Ceramic-coated crisper plate holds up longer than PTFE in most owner reports",
+          "Simple two-knob interface with no touchscreen to fail"
+        ],
+        "limitations": [
+          "4-quart basket is honestly sized for 1 to 2 people, not 3 to 4",
+          "No food-specific presets, every cook is set manually",
+          "Round basket wastes corner space on rectangular foods like chicken breast"
+        ],
+        "features": [
+          "4-quart ceramic-coated basket",
+          "1550W element",
+          "105°F to 400°F range",
+          "4 functions: air fry, roast, reheat, dehydrate",
+          "Two-knob analog interface"
+        ]
+      },
+      {
+        "name": "COSORI Air Fryer Max XL 5.8 Quart CP158-AF",
+        "brand": "Cosori",
+        "asin": "B07GJBBGHG",
+        "blurb": "Key specs: 5.8-quart square basket, 1700W element, 11 one-touch presets.",
+        "strengths": [
+          "Square basket holds 15 to 20% more food than a round 5.8-quart at the same rating",
+          "11 presets cover fries, chicken, steak, seafood, and bacon without manual setup",
+          "1700W gives a 3 to 4-minute preheat to 400°F"
+        ],
+        "limitations": [
+          "Slightly less crispy than the Ninja AF101 in blind fry comparisons",
+          "Square basket corners collect crumbs that need brushing out",
+          "11-button interface is more to learn than Ninja's two-knob layout"
+        ],
+        "features": [
+          "5.8-quart square basket",
+          "1700W element",
+          "11 one-touch presets",
+          "Digital display",
+          "Dishwasher-safe basket"
+        ]
+      },
+      {
+        "name": "Dash Compact Air Fryer 2.6 Quart",
+        "brand": "Dash",
+        "asin": "B0815KJCM1",
+        "blurb": "Key specs: 2.6-quart basket, 1000W element, Manual dial controls.",
+        "strengths": [
+          "Fits in a cabinet, the smallest footprint in this list",
+          "Auto shut-off timer prevents overcooking on short single-serving cycles"
+        ],
+        "limitations": [
+          "2.6-quart basket fits one serving of fries or 2 to 4 wings per batch",
+          "1000W is noticeably slower to preheat than the Ninja or Cosori",
+          "No digital display, timing accuracy depends on the mechanical dial",
+          "Non-stick coating shows wear faster than higher-priced baskets under daily use"
+        ],
+        "features": [
+          "2.6-quart basket",
+          "1000W element",
+          "Manual dial controls",
+          "Auto shut-off timer",
+          "Under $40"
+        ]
+      },
+      {
+        "name": "Instant Vortex 4-in-1 Air Fryer 6-Quart",
+        "brand": "Instant Pot",
+        "asin": "B07VM1FT8W",
+        "blurb": "Key specs: 6-quart basket, 1500W element, 4-in-1: air fry, roast, reheat, bake.",
+        "strengths": [
+          "EvenCrisp technology reduces the need to shake the basket mid-cycle",
+          "4-in-1 functions add roasting and baking beyond basic air frying"
+        ],
+        "limitations": [
+          "Round basket geometry wastes space versus Cosori's square design at the same rating",
+          "Fewer presets than the Cosori Pro line",
+          "Some owners report the digital display dims and is hard to read in bright kitchens"
+        ],
+        "features": [
+          "6-quart basket",
+          "1500W element",
+          "4-in-1: air fry, roast, reheat, bake",
+          "EvenCrisp technology",
+          "Instant Pot brand backing"
+        ]
+      },
+      {
+        "name": "GoWISE USA 5.8-Quart 8-in-1 Digital Air Fryer",
+        "brand": "GoWISE USA",
+        "asin": "B0777RJG6D",
+        "blurb": "Key specs: 5.8-quart basket, 1700W element, 8 digital presets.",
+        "strengths": [
+          "8 presets cover the common everyday foods without manual dialing",
+          "Reliable backup pick when Ninja and Cosori are at full retail"
+        ],
+        "limitations": [
+          "Temperature accuracy runs less consistent than Ninja or Cosori in side-by-side tests",
+          "Basket coating wears faster under daily use than the two market leaders",
+          "Fan noise is noticeably louder at high temperatures"
+        ],
+        "features": [
+          "5.8-quart basket",
+          "1700W element",
+          "8 digital presets",
+          "Auto shut-off",
+          "Typically $60 to $80"
+        ]
+      },
+      {
+        "name": "Chefman TurboFry Touch Air Fryer 8 Quart",
+        "brand": "Chefman",
+        "asin": "B0B9NY1C9X",
+        "blurb": "Key specs: 8-quart basket, 1700W element, Touchscreen controls.",
+        "strengths": [
+          "Touchscreen controls feel more premium than the price suggests",
+          "Fits a whole small chicken or 2 pounds of wings in a single batch"
+        ],
+        "limitations": [
+          "Large footprint takes up meaningfully more counter space than 4 to 6-quart models",
+          "Temperature precision is less consistent than Ninja or Cosori at the extremes",
+          "Touchscreen is less durable long-term than physical buttons per owner reports"
+        ],
+        "features": [
+          "8-quart basket",
+          "1700W element",
+          "Touchscreen controls",
+          "Dishwasher-safe basket",
+          "Under $90"
+        ]
+      },
+      {
+        "name": "Philips Essential Airfryer Compact HD9252/91",
+        "brand": "Philips",
+        "asin": "B08SJ6L9MT",
+        "blurb": "Key specs: 4.1-quart basket, Rapid Air technology, 1400W element.",
+        "strengths": [
+          "Rapid Air technology from the original air fryer brand produces even results on thick cuts",
+          "QuickClean detachable basket sections separate for faster washing",
+          "Compact footprint fits smaller kitchens while still using a digital interface"
+        ],
+        "limitations": [
+          "4.1-quart capacity is on the smaller side for the same price as 5.8-quart competitors",
+          "1400W is the lowest wattage in this list, meaning a longer preheat",
+          "Fewer presets than Cosori or GoWISE at the same price point"
+        ],
+        "features": [
+          "4.1-quart basket",
+          "Rapid Air technology",
+          "1400W element",
+          "QuickClean removable basket",
+          "Digital touchscreen"
+        ]
+      },
+      {
+        "name": "Ninja AF161 Max XL Air Fryer 5.5 Quart",
+        "brand": "Ninja",
+        "asin": "B07S6529ZZ",
+        "blurb": "Key specs: 5.5-quart basket, 1750W Max Crisp technology, 450°F max temperature.",
+        "strengths": [
+          "450°F max temperature is the highest in this list, for the fastest, crispiest sear",
+          "5.5-quart capacity splits the difference between the compact AF101 and full-size models",
+          "Ninja's fan and element design carries over the AF101's crisping performance at larger scale"
+        ],
+        "limitations": [
+          "No dedicated presets, same manual-entry interface as the AF101",
+          "Larger unit takes noticeably more counter and storage space than the AF101"
+        ],
+        "features": [
+          "5.5-quart basket",
+          "1750W Max Crisp technology",
+          "450°F max temperature",
+          "Ceramic-coated crisper plate",
+          "Dishwasher-safe parts"
+        ]
+      },
+      {
+        "name": "Instant Vortex Plus 6-in-1 6-Quart Air Fryer",
+        "brand": "Instant Pot",
+        "asin": "B07VHFMZHJ",
+        "blurb": "Key specs: 6-quart basket, 1500W element, 6-in-1: air fry, roast, broil, bake, reheat, dehydrate.",
+        "strengths": [
+          "6-in-1 functions add broil and bake beyond the base Vortex 4-in-1",
+          "Odor-erase filter is a genuine convenience for strong-smelling foods like fish",
+          "6-quart capacity comfortably handles a family-size batch of wings or fries"
+        ],
+        "limitations": [
+          "More functions mean a steeper learning curve than a simple 4-button model",
+          "Round basket wastes usable area versus a same-rated square basket",
+          "Bulkier than the base Vortex, taking up more storage space"
+        ],
+        "features": [
+          "6-quart basket",
+          "1500W element",
+          "6-in-1: air fry, roast, broil, bake, reheat, dehydrate",
+          "Rotisserie-compatible accessories",
+          "Odor-erase filter"
+        ]
+      },
+      {
+        "name": "Gourmia 8 Qt Digital Air Fryer GAF856",
+        "brand": "Gourmia",
+        "asin": "B09MR7QWKZ",
+        "blurb": "Key specs: 8-quart basket, 1700W element, 12 one-touch presets.",
+        "strengths": [
+          "12 presets is more than most large-basket competitors offer at this price",
+          "Fits a whole chicken or 2 pounds of vegetables in one batch"
+        ],
+        "limitations": [
+          "Temperature accuracy runs noticeably less consistent than the market leaders",
+          "Basket coating and handle feel less durable under daily use per owner reports"
+        ],
+        "features": [
+          "8-quart basket",
+          "1700W element",
+          "12 one-touch presets",
+          "Digital LED display",
+          "Typically under $80"
+        ]
+      },
+      {
+        "name": "COSORI TurboBlaze 6-Quart Air Fryer",
+        "brand": "COSORI",
+        "asin": "B0DY1C8J81",
+        "blurb": "",
+        "strengths": [
+          "Ceramic-coated basket",
+          "90 to 450°F range for dehydrating to searing",
+          "6-quart basket serves 3 to 5",
+          "Quiet fan with multiple speeds"
+        ],
+        "limitations": [
+          "Single basket",
+          "Coating needs gentle utensils",
+          "Large footprint"
+        ],
+        "features": []
+      },
+      {
+        "name": "Chefman 4 Qt Compact Air Fryer",
+        "brand": "Chefman",
+        "asin": "B0CNY1F31S",
+        "blurb": "",
+        "strengths": [
+          "Compact footprint",
+          "Low price",
+          "Simple controls",
+          "Quick to preheat"
+        ],
+        "limitations": [
+          "4 qt is small for families",
+          "Basic features",
+          "Nonstick basket needs gentle care"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

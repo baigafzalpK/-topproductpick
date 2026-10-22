@@ -1,0 +1,101 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Patio Heaters Under $300",
+  "h1": "The 4 Best Patio Heaters Under $300",
+  "metaDescription": "Our 4 picks for patio heaters under $300, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at patio heaters under $300 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-patio-heaters",
+  "related": [
+    "best-patio-heaters"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "AZ Patio Heaters Tall Outdoor Patio Heater",
+        "brand": "AZ Patio Heaters",
+        "asin": "B09SRG753F",
+        "blurb": "Key specs: 48,000 BTU propane burner, 87-inch hammered bronze standing design, 10 to 15 foot heat radius.",
+        "strengths": [
+          "48,000 BTU and a 10 to 15 foot radius are enough for most single-family patios or decks"
+        ],
+        "limitations": [
+          "Still an open-flame propane heater, requiring real floor clearance",
+          "Doesn't include a cover",
+          "Visually bulky for a smaller or more design-conscious space"
+        ],
+        "features": [
+          "48,000 BTU propane burner",
+          "87-inch hammered bronze standing design",
+          "10 to 15 foot heat radius",
+          "Wheeled base, push-button ignition"
+        ]
+      },
+      {
+        "name": "Amazon Basics Stainless Steel Commercial Patio Heater",
+        "brand": "Amazon Basics",
+        "asin": "B01DAOXC98",
+        "blurb": "Key specs: 46,000 BTU stainless steel construction, Includes a stand-up patio heater cover, Wheeled base.",
+        "strengths": [
+          "Commercial rating means it's built for regular, heavy outdoor use",
+          "Stainless steel resists corrosion better than painted finishes over multiple seasons"
+        ],
+        "limitations": [
+          "Stainless steel shows fingerprints and water spots more visibly than a bronze finish",
+          "Similar BTU output to cheaper options, the premium here is mostly build and accessories",
+          "Bulky to store even with the included cover on"
+        ],
+        "features": [
+          "46,000 BTU stainless steel construction",
+          "Includes a stand-up patio heater cover",
+          "Wheeled base",
+          "Commercial-grade rated"
+        ]
+      },
+      {
+        "name": "Dr. Infrared Heater Carbon Infrared Patio Heater",
+        "brand": "Dr. Infrared Heater",
+        "asin": "B09LVXFXK7",
+        "blurb": "Key specs: 120V / 1500W carbon infrared element, 3 heat settings, IP55 weatherproof rating.",
+        "strengths": [
+          "IP55 rating and multiple mount options make it flexible across patio, porch, or balcony",
+          "No propane tank to buy, store, or refill"
+        ],
+        "limitations": [
+          "Smaller effective heat radius than the propane standing heaters on this list",
+          "Needs an outdoor-rated outlet or hardwire",
+          "Doesn't match the raw BTU-equivalent output of a full-size propane heater"
+        ],
+        "features": [
+          "120V / 1500W carbon infrared element",
+          "3 heat settings",
+          "IP55 weatherproof rating",
+          "Freestanding, wall, or ceiling mount"
+        ]
+      },
+      {
+        "name": "EAST OAK 55,000 BTU Propane Patio Heater with Table",
+        "brand": "EAST OAK",
+        "asin": "B0D5QKGCRF",
+        "blurb": "",
+        "strengths": [
+          "High 55,000 BTU output",
+          "Built-in drink table",
+          "Wheels for moving",
+          "ETL certified"
+        ],
+        "limitations": [
+          "Uses a 20 lb tank quickly on high",
+          "Tall unit needs overhead clearance",
+          "Assembly required"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

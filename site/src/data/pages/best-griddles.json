@@ -1,0 +1,289 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 12 Best Griddles",
+  "h1": "The 12 Best Griddles",
+  "metaDescription": "Our 12 picks for griddles, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at griddles using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "griddles",
+  "related": [
+    "griddles"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Blackstone 28-Inch Griddle Combo",
+        "brand": "Blackstone",
+        "asin": "B08KZ12JZ6",
+        "blurb": "Key specs: 470 sq in cooking surface, Dual burner zones, Propane powered.",
+        "strengths": [
+          "470 sq in, the largest surface for most households",
+          "Dual independent burner zones for simultaneous different temperatures",
+          "Reaches and holds 400°F+ for smash burgers and searing"
+        ],
+        "limitations": [
+          "Propane-fueled outdoor griddle, not a countertop electric, needs patio/deck space"
+        ],
+        "features": [
+          "470 sq in cooking surface",
+          "Dual burner zones",
+          "Propane powered",
+          "Blackstone"
+        ],
+        "badge": "Best Overall",
+        "bestFor": "buyers who want the best overall package"
+      },
+      {
+        "name": "Presto 07046 Tilt 'n Drain Big Griddle",
+        "brand": "Presto",
+        "asin": "B00066XROO",
+        "blurb": "Key specs: Tilt drain, 240 sq in, Under $40.",
+        "strengths": [
+          "Tilting surface drains grease",
+          "Large cooking area",
+          "Budget price",
+          "Removable heat control for cleaning"
+        ],
+        "limitations": [
+          "Edges may run cooler",
+          "Nonstick wears over time",
+          "Storage size"
+        ],
+        "features": [
+          "Tilt drain",
+          "240 sq in",
+          "Under $40",
+          "Presto"
+        ],
+        "badge": "Best Budget",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "Cuisinart GR-300WS Griddler Elite",
+        "brand": "Cuisinart",
+        "asin": "B00ALDPXE4",
+        "blurb": "Key specs: Reversible plates, Grill and griddle, Dishwasher safe.",
+        "strengths": [
+          "Reversible dishwasher-safe plates: flat griddle on one side, ridged grill on the other",
+          "Versatile, griddle, grill, panini press, and full-open flat"
+        ],
+        "limitations": [
+          "200 sq in per side (400 sq in total open)"
+        ],
+        "features": [
+          "Reversible plates",
+          "Grill and griddle",
+          "Dishwasher safe",
+          "Cuisinart"
+        ],
+        "badge": "Best Cuisinart"
+      },
+      {
+        "name": "Hamilton Beach 38546 3-in-1 Griddle",
+        "brand": "Hamilton Beach",
+        "asin": "B0083I7TCI",
+        "blurb": "Key specs: Removable plates, Dishwasher safe, 3-in-1.",
+        "strengths": [
+          "Removable dishwasher-safe plates at a lower price than Cuisinart",
+          "Three cooking configurations"
+        ],
+        "limitations": [
+          "Smaller surface area than Blackstone"
+        ],
+        "features": [
+          "Removable plates",
+          "Dishwasher safe",
+          "3-in-1",
+          "Under $60"
+        ]
+      },
+      {
+        "name": "Presto 07030 Cool Touch Electric Griddle",
+        "brand": "Presto",
+        "asin": "B001078UCC",
+        "blurb": "Key specs: Cool touch handles, 200 sq in, Under $30.",
+        "strengths": [
+          "Cool-touch edges",
+          "Nonstick surface",
+          "Affordable",
+          "Easy cleanup"
+        ],
+        "limitations": [
+          "Smaller surface",
+          "Basic temperature control",
+          "Plastic exterior"
+        ],
+        "features": [
+          "Cool touch handles",
+          "200 sq in",
+          "Under $30",
+          "Presto"
+        ],
+        "badge": "Best Simple"
+      },
+      {
+        "name": "Black+Decker Family Sized Griddle GD2051B",
+        "brand": "Black+Decker",
+        "asin": "B0765XJ31G",
+        "blurb": "Key specs: Family size, Drip tray, Under $40.",
+        "strengths": [
+          "Large cooking surface",
+          "Warming tray",
+          "Budget price",
+          "Nonstick"
+        ],
+        "limitations": [
+          "Uneven heat at edges",
+          "Nonstick durability",
+          "Bulky"
+        ],
+        "features": [
+          "Family size",
+          "Drip tray",
+          "Under $40",
+          "Black+Decker"
+        ],
+        "badge": "Best Blackdecker"
+      },
+      {
+        "name": "Zojirushi EA-DCC10 Gourmet Sizzler Electric Griddle",
+        "brand": "Zojirushi",
+        "asin": "B00G2TVNCC",
+        "blurb": "Key specs: Zojirushi, Precise temperature, Premium.",
+        "strengths": [
+          "Precise temperature control up to high searing heat",
+          "Durable nonstick plate",
+          "Even heating across the surface",
+          "Removable plate for cleaning"
+        ],
+        "limitations": [
+          "Smaller surface than full-size griddles",
+          "Higher price",
+          "Compact size limits batch cooking"
+        ],
+        "features": [
+          "Zojirushi",
+          "Precise temperature",
+          "Premium",
+          "Table cooking"
+        ],
+        "badge": "Best Premium",
+        "bestFor": "buyers who want the best overall package"
+      },
+      {
+        "name": "Oster DuraCeramic Reversible Grill and Griddle",
+        "brand": "Oster",
+        "asin": "B00COVHOIO",
+        "blurb": "Key specs: DuraCeramic coating, Under $40, Oster.",
+        "strengths": [
+          "Ceramic-coated surface",
+          "Reversible plates",
+          "Easy cleaning",
+          "Affordable"
+        ],
+        "limitations": [
+          "Coating durability varies",
+          "Moderate heat",
+          "Basic controls"
+        ],
+        "features": [
+          "DuraCeramic coating",
+          "Under $40",
+          "Oster",
+          "Infused non-stick"
+        ],
+        "badge": "Best Oster"
+      },
+      {
+        "name": "Nordic Ware 365 Indoor/Outdoor Texas Searing Griddle",
+        "brand": "Nordic Ware",
+        "asin": "B007ZKUTIQ",
+        "blurb": "Key specs: Stovetop griddle, Nordic Ware, Nonstick coated.",
+        "strengths": [
+          "Compact nonstick stovetop griddle, no electric required",
+          "Works on gas, electric, or outdoor grill grates"
+        ],
+        "limitations": [
+          "Requires stovetop or grill heat source",
+          "Smaller cooking surface than dedicated electric griddles"
+        ],
+        "features": [
+          "Stovetop griddle",
+          "Nordic Ware",
+          "Nonstick coated",
+          "Indoor/outdoor"
+        ],
+        "badge": "Best Stovetop"
+      },
+      {
+        "name": "Cuisinart GR-4N 5-in-1 Griddler Panini Press and Griddle",
+        "brand": "Cuisinart",
+        "asin": "B002YD99Y4",
+        "blurb": "Key specs: Cuisinart, Panini + griddle, Floating lid.",
+        "strengths": [
+          "Floating lid adjusts for sandwiches of any thickness",
+          "Can be used fully open as a flat griddle"
+        ],
+        "limitations": [
+          "Smaller total surface"
+        ],
+        "features": [
+          "Cuisinart",
+          "Panini + griddle",
+          "Floating lid",
+          "Under $60"
+        ],
+        "badge": "Best Panini"
+      },
+      {
+        "name": "Dash Mini Maker Set (Waffle, Grill & Griddle Irons)",
+        "brand": "Dash",
+        "asin": "B084J44JPG",
+        "blurb": "Key specs: Compact, Dash, Personal.",
+        "strengths": [
+          "Three compact appliances",
+          "Affordable set",
+          "Easy storage",
+          "Fun for kids"
+        ],
+        "limitations": [
+          "Single-serving size",
+          "No temperature control",
+          "Limited capacity"
+        ],
+        "features": [
+          "Compact",
+          "Dash",
+          "Personal",
+          "Under $15"
+        ],
+        "badge": "Best Compact"
+      },
+      {
+        "name": "Gotham Steel Smokeless Electric Grill and Griddle",
+        "brand": "Gotham Steel",
+        "asin": "B075X25LN2",
+        "blurb": "Key specs: Smokeless, Grill + griddle, Gotham Steel.",
+        "strengths": [
+          "Smoke reduction system for indoor use without ventilation",
+          "Grill ridges and flat griddle surface in one unit"
+        ],
+        "limitations": [
+          "Not fully smoke-free at high temperatures"
+        ],
+        "features": [
+          "Smokeless",
+          "Grill + griddle",
+          "Gotham Steel",
+          "Under $60"
+        ],
+        "badge": "Best Smokeless"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

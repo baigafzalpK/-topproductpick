@@ -1,0 +1,102 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Vertical Mice 2026",
+  "h1": "The 4 Best Vertical Mice 2026",
+  "metaDescription": "Our 4 picks for vertical mice 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at vertical mice 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "ergonomic-mice",
+  "related": [
+    "ergonomic-mice"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Logitech MX Vertical",
+        "brand": "Logitech",
+        "asin": "B07FNJB8TT",
+        "blurb": "Key specs: 57-degree vertical angle, Bluetooth + Unifying receiver, Multi-device (3 devices).",
+        "strengths": [
+          "57-degree angle validated for pronation reduction",
+          "Bluetooth multi-device for laptop + desktop switching",
+          "Logitech Options+ customizable buttons"
+        ],
+        "limitations": [
+          "Large, not suitable for small hands"
+        ],
+        "features": [
+          "57-degree vertical angle",
+          "Bluetooth + Unifying receiver",
+          "Multi-device (3 devices)",
+          "4000 DPI",
+          "USB-C rechargeable"
+        ],
+        "badge": "Best Overall",
+        "bestFor": "buyers who want the best overall package"
+      },
+      {
+        "name": "Anker 2.4G Wireless Vertical Mouse",
+        "brand": "Anker",
+        "asin": "B00BIFNTMC",
+        "blurb": "Key specs: Vertical design, 2.4GHz wireless, 1000/1600 DPI.",
+        "strengths": [
+          "Same ergonomic principle as premium vertical mice",
+          "Good entry point before committing to vertical mice"
+        ],
+        "limitations": [
+          "AA battery, ongoing consumable cost"
+        ],
+        "features": [
+          "Vertical design",
+          "2.4GHz wireless",
+          "1000/1600 DPI",
+          "AA battery"
+        ],
+        "badge": "Best Budget",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "Kensington Pro Fit Ergo Vertical Wireless Mouse",
+        "brand": "Kensington",
+        "asin": "B07XC8QS5R",
+        "blurb": "",
+        "strengths": [
+          "Natural handshake angle",
+          "Six buttons including DPI",
+          "Long AA battery life",
+          "Wide wireless range"
+        ],
+        "limitations": [
+          "Right-handed only",
+          "Large for small hands",
+          "Uses a USB receiver"
+        ],
+        "features": []
+      },
+      {
+        "name": "Logitech Lift Vertical Ergonomic Mouse",
+        "brand": "Logitech",
+        "asin": "B09J1TB35S",
+        "blurb": "",
+        "strengths": [
+          "Designed for small to medium hands",
+          "Quiet clicks",
+          "Bluetooth or Logi Bolt",
+          "Customizable buttons"
+        ],
+        "limitations": [
+          "Right-handed version only in some colors",
+          "Too small for large hands",
+          "Uses AA battery"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

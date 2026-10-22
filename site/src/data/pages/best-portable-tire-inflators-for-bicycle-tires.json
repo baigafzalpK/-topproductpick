@@ -1,0 +1,117 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Portable Tire Inflators for Bicycle Tires",
+  "h1": "The 4 Best Portable Tire Inflators for Bicycle Tires",
+  "metaDescription": "Our 4 picks for portable tire inflators for bicycle tires, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at portable tire inflators for bicycle tires using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-tire-inflators",
+  "related": [
+    "best-tire-inflators"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "EPAuto 12V DC Portable Air Compressor",
+        "brand": "EPAuto",
+        "asin": "B01L9WSTEG",
+        "blurb": "Key specs: Digital gauge in PSI, KPA, BAR, and KG/CM2, Auto shut-off at a preset target pressure, Universal Schrader valve connector, Presta adapter needed separately.",
+        "strengths": [
+          "Digital gauge with fine resolution is precise enough for high-pressure road tires",
+          "Auto shut-off prevents overshooting a narrow-volume tube's target PSI",
+          "Cheap enough to keep in a garage just for bikes without a big investment"
+        ],
+        "limitations": [
+          "12V-only, so it must run from a car battery or a portable jump-starter with an outlet",
+          "Not designed to be carried on the bike itself"
+        ],
+        "features": [
+          "Digital gauge in PSI, KPA, BAR, and KG/CM2",
+          "Auto shut-off at a preset target pressure",
+          "Universal Schrader valve connector, Presta adapter needed separately",
+          "Built-in LED flashlight",
+          "12V DC cigarette lighter plug"
+        ],
+        "badge": "Top pick",
+        "bestFor": "bicycle tires"
+      },
+      {
+        "name": "Kensun AC/DC Rapid Performance Digital Tire Inflator",
+        "brand": "Kensun",
+        "asin": "B01J8Y91GC",
+        "blurb": "Key specs: Dual power: 12V DC car socket and 110V AC wall outlet, 120W solid metal motor, Backlit digital gauge in PSI, BAR, and KPA.",
+        "strengths": [
+          "AC plug means apartment dwellers without a car can still use it at home",
+          "Backlit gauge is easy to read while crouched next to a bike wheel",
+          "Metal motor holds up to frequent quick top-offs better than plastic-geared units"
+        ],
+        "limitations": [
+          "Still needs a separate Presta valve adapter",
+          "Bulkier than a bike-specific mini pump for actually carrying on a ride",
+          "AC cord connection is a recurring complaint in long-term reviews"
+        ],
+        "features": [
+          "Dual power: 12V DC car socket and 110V AC wall outlet",
+          "120W solid metal motor",
+          "Backlit digital gauge in PSI, BAR, and KPA",
+          "Auto shut-off at a preset pressure",
+          "Carry case included"
+        ],
+        "bestFor": "bicycle tires"
+      },
+      {
+        "name": "DEWALT DCC020IB 20V MAX Tire Inflator",
+        "brand": "DEWALT",
+        "asin": "B07H39S9JQ",
+        "blurb": "Key specs: Runs on 20V MAX battery, 12V DC, or 110V AC, Automatic shut-off at a set PSI, Screw-on Schrader chuck.",
+        "strengths": [
+          "Cordless battery mode means airing up a bike tire anywhere in the garage, not just near an outlet",
+          "Automatic shut-off avoids overshooting a high-pressure road tire target",
+          "Useful for households that already own the DEWALT 20V MAX battery platform"
+        ],
+        "limitations": [
+          "Overkill in size and cost for bike-only use if you don't already own the batteries",
+          "Still requires a Presta adapter for most road and mountain bikes",
+          "Heavier to hold steady against a valve stem than a dedicated bike pump"
+        ],
+        "features": [
+          "Runs on 20V MAX battery, 12V DC, or 110V AC",
+          "Automatic shut-off at a set PSI",
+          "Screw-on Schrader chuck",
+          "LED work light",
+          "Sold as a bare tool"
+        ],
+        "bestFor": "bicycle tires"
+      },
+      {
+        "name": "VIAIR 400P Portable Compressor Kit",
+        "brand": "VIAIR",
+        "asin": "B000X9AXR8",
+        "blurb": "Key specs: 150 PSI maximum pressure, 33% duty cycle at 20 minutes continuous run, IP54 dust and water resistance rating.",
+        "strengths": [
+          "One inflator covers truck tires, car tires, and bike tires at a high enough max PSI for any road bike",
+          "Overbuilt motor means it will never strain trying to hit 100-plus PSI on a road tire",
+          "Durable enough to justify owning one inflator instead of separate car and bike pumps"
+        ],
+        "limitations": [
+          "Significant overkill and expense if bike tires are the only intended use",
+          "Bulkier case than a garage would need for bike-only duty",
+          "26-amp draw is unnecessary for the small air volume a bike tire needs"
+        ],
+        "features": [
+          "150 PSI maximum pressure",
+          "33% duty cycle at 20 minutes continuous run",
+          "IP54 dust and water resistance rating",
+          "Direct-drive gearless motor",
+          "Included accessory kit covers multiple valve types"
+        ],
+        "bestFor": "bicycle tires"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

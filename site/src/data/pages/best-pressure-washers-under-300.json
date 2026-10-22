@@ -1,0 +1,105 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Pressure Washers Under $300",
+  "h1": "The 4 Best Pressure Washers Under $300",
+  "metaDescription": "Our 4 picks for pressure washers under $300, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at pressure washers under $300 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-pressure-washers",
+  "related": [
+    "best-pressure-washers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Karcher K5 Premium Full Control Plus",
+        "brand": "Karcher",
+        "asin": "B07YQGT58Q",
+        "blurb": "Key specs: 2000 PSI, 1.4 GPM, Typically $250 to $290, Water-cooled induction motor.",
+        "strengths": [
+          "Water-cooled induction motor is rated for a meaningfully longer service life than the brushed motors in cheaper units",
+          "Vario Power wand adjusts pressure without swapping nozzles, the most convenient control scheme in this list",
+          "Two-year warranty is longer than most competitors in this category, reflecting brand confidence in long-term durability"
+        ],
+        "limitations": [
+          "1.4 GPM flow is lower than the Sun Joe SPX3000's 1.76 GPM, so rinsing large areas takes a bit longer",
+          "Priced close to the top of this budget tier",
+          "Overkill for buyers who only pressure wash a couple times a year"
+        ],
+        "features": [
+          "2000 PSI, 1.4 GPM",
+          "Typically $250 to $290",
+          "Water-cooled induction motor",
+          "Vario Power adjustable wand",
+          "Two-year limited warranty"
+        ]
+      },
+      {
+        "name": "Greenworks Pro 2300 PSI Brushless Electric Pressure Washer",
+        "brand": "Greenworks",
+        "asin": "B097R2S4GG",
+        "blurb": "Key specs: 2300 max PSI, 2.3 GPM max flow, Typically $170 to $200, TruBrushless motor.",
+        "strengths": [
+          "Highest PSI and GPM combination of any electric pick in this list, meaningfully faster on driveways and larger decks",
+          "Brushless motor is quieter and more durable than standard brushed designs, at a lower price than the Karcher K5"
+        ],
+        "limitations": [
+          "No adjustable Vario-style wand, pressure control depends on nozzle swaps",
+          "Shorter warranty coverage than the Karcher K5",
+          "Bulkier frame than the compact budget models"
+        ],
+        "features": [
+          "2300 max PSI, 2.3 GPM max flow",
+          "Typically $170 to $200",
+          "TruBrushless motor",
+          "25-foot kink-resistant hose",
+          "35-foot GFCI power cord"
+        ]
+      },
+      {
+        "name": "Sun Joe SPX3000 Electric Pressure Washer",
+        "brand": "Sun Joe",
+        "asin": "B073FCV1ZC",
+        "blurb": "Key specs: 2030 max PSI, 1.76 GPM max flow, Typically $130 to $150, Dual detergent tanks.",
+        "strengths": [
+          "Dual detergent tanks are a genuine convenience not matched by either step-up pick here"
+        ],
+        "limitations": [
+          "Lower PSI and GPM than the Karcher K5 or Greenworks Pro 2300",
+          "Standard brushed motor and plastic housing, not built to the same durability spec as the Karcher"
+        ],
+        "features": [
+          "2030 max PSI, 1.76 GPM max flow",
+          "Typically $130 to $150",
+          "Dual detergent tanks",
+          "5 quick-connect spray tips",
+          "TSS auto shutoff"
+        ]
+      },
+      {
+        "name": "RYOBI 2500 PSI 1.2 GPM Brushless Electric Pressure Washer",
+        "brand": "RYOBI",
+        "asin": "B0DKYY9BMP",
+        "blurb": "",
+        "strengths": [
+          "Brushless motor",
+          "Enough pressure for decks and siding",
+          "Onboard detergent tank",
+          "25 ft hose"
+        ],
+        "limitations": [
+          "Heavy at about 40 lb",
+          "1.2 GPM is modest",
+          "Use wide tips on soft wood"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 2 Best Weighted Blankets for Hot Sleepers",
+  "h1": "The 2 Best Weighted Blankets for Hot Sleepers",
+  "metaDescription": "Our 2 picks for weighted blankets for hot sleepers, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at weighted blankets for hot sleepers using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-weighted-blankets",
+  "related": [
+    "best-weighted-blankets"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "ZonLi Cooling Bamboo Weighted Blanket, 20 lb",
+        "brand": "ZonLi",
+        "asin": "B0D4LN2STJ",
+        "blurb": "",
+        "strengths": [
+          "Bamboo viscose feels cool",
+          "Even glass-bead weighting",
+          "Queen size",
+          "Soft on sensitive skin"
+        ],
+        "limitations": [
+          "Still heavier and warmer than a sheet",
+          "Washing is difficult at this weight",
+          "Priced above basic blankets"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "Bearaby Cotton Weighted Blanket",
+        "brand": "Bearaby",
+        "asin": "B0HH1RCRW8",
+        "blurb": "",
+        "strengths": [
+          "Breathable open knit",
+          "No beads to leak or shift",
+          "Machine washable at commercial size",
+          "Attractive throw design"
+        ],
+        "limitations": [
+          "Expensive",
+          "Knit can snag",
+          "Heavy to launder at home"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "type": "roundup",
+  "title": "5 Best Coffee Makers for Every Kind of Coffee Drinker",
+  "h1": "The 5 Best Coffee Makers",
+  "metaDescription": "Drip, pod, two-way, espresso and French press: the best coffee maker for each style of brewing, with clear trade-offs.",
+  "lede": "The best coffee maker depends on what you drink and how much effort you want each morning. We picked one strong option per brewing style, based on manufacturer specs, independent reviews and owner reports.",
+  "updatedAt": "2026-10-19",
+  "category": "coffee-makers",
+  "related": [
+    "breville-bambino-plus-review",
+    "how-to-clean-a-coffee-maker",
+    "best-electric-kettles",
+    "coffee-makers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "OXO Brew 8-Cup Coffee Maker",
+        "brand": "OXO",
+        "asin": "B07H9G93WK",
+        "searchQuery": "OXO Brew 8 Cup Coffee Maker",
+        "badge": "Best drip coffee maker",
+        "bestFor": "people who want great drip coffee with one button",
+        "blurb": "A compact drip brewer certified by the Specialty Coffee Association, which means it meets their standards for brew temperature and time.",
+        "features": [
+          "SCA certified",
+          "Up to 8 cups",
+          "Showerhead water distribution"
+        ],
+        "strengths": [
+          "Consistent brewing with minimal fuss",
+          "Compact for a full-pot brewer",
+          "Simple controls"
+        ],
+        "limitations": [
+          "No built-in grinder",
+          "8 cups may be small for big households"
+        ]
+      },
+      {
+        "name": "Hamilton Beach FlexBrew 2-Way Coffee Maker",
+        "brand": "Hamilton Beach",
+        "asin": "B06Y2WCHDV",
+        "searchQuery": "Hamilton Beach FlexBrew 2-Way coffee maker",
+        "badge": "Best two-way brewer",
+        "bestFor": "homes where some want a pot and others want a single cup",
+        "blurb": "One side brews a full carafe; the other brews a single cup using grounds or a pod. A practical choice for mixed households.",
+        "features": [
+          "Carafe side plus single-serve side",
+          "Works with grounds or pods",
+          "Programmable carafe brewing"
+        ],
+        "strengths": [
+          "Two machines in one footprint",
+          "Flexible for guests",
+          "Single-serve side can use your own grounds"
+        ],
+        "limitations": [
+          "Two reservoirs to fill",
+          "Larger than a single-purpose brewer"
+        ]
+      },
+      {
+        "name": "Keurig K-Classic Single Serve Coffee Maker",
+        "brand": "Keurig",
+        "asin": "B018UQ5AMS",
+        "searchQuery": "Keurig K-Classic single serve coffee maker",
+        "badge": "Best pod machine",
+        "bestFor": "speed and convenience",
+        "blurb": "A straightforward pod brewer with three cup sizes and a removable reservoir that holds enough water for several cups.",
+        "features": [
+          "6, 8 and 10 oz brew sizes",
+          "Works with K-Cup pods",
+          "Removable reservoir"
+        ],
+        "strengths": [
+          "Fast, one-touch brewing",
+          "Huge range of pods available",
+          "Reusable filter option for your own coffee"
+        ],
+        "limitations": [
+          "Pods cost more per cup than ground coffee",
+          "Less control over strength than drip or espresso"
+        ]
+      },
+      {
+        "name": "Breville Bambino Plus Espresso Machine",
+        "brand": "Breville",
+        "asin": "B07JVD78TT",
+        "searchQuery": "Breville Bambino Plus espresso machine BES500",
+        "badge": "Best espresso for beginners",
+        "bestFor": "latte and cappuccino lovers starting out",
+        "blurb": "A compact espresso machine with fast heat-up and an automatic steam wand that textures milk for you.",
+        "features": [
+          "ThermoJet heating",
+          "Automatic milk texturing",
+          "54 mm portafilter"
+        ],
+        "strengths": [
+          "Ready to brew in seconds (Breville spec)",
+          "Hands-free milk frothing",
+          "Small footprint"
+        ],
+        "limitations": [
+          "Needs a separate grinder for best results",
+          "Small drip tray needs frequent emptying"
+        ]
+      },
+      {
+        "name": "Bodum Chambord French Press 8-Cup",
+        "brand": "Bodum",
+        "asin": "B071Z8HD23",
+        "searchQuery": "Bodum Chambord French Press 8 cup 34 oz",
+        "badge": "Best without electricity",
+        "bestFor": "full-bodied coffee on a budget",
+        "blurb": "A classic glass-and-steel French press. Add coarse grounds and hot water, wait about four minutes, then press.",
+        "features": [
+          "34 oz capacity",
+          "Borosilicate glass beaker",
+          "Stainless steel plunger and filter"
+        ],
+        "strengths": [
+          "No power, pods or paper filters needed",
+          "Rich, full-bodied coffee",
+          "Simple to clean"
+        ],
+        "limitations": [
+          "Glass beaker can break",
+          "Leaves some fine sediment in the cup"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "We chose one product per brewing style so the list stays useful whatever you drink.",
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We do not claim our own testing.",
+      "We left out machines with widespread reliability complaints in owner reports."
+    ],
+    "faqs": [
+      {
+        "q": "Which is cheaper per cup: pods or ground coffee?",
+        "a": "Ground coffee is almost always cheaper per cup than pods. Pods trade cost for speed and convenience."
+      },
+      {
+        "q": "Do I need a grinder for an espresso machine?",
+        "a": "For the best results, yes. Espresso is very sensitive to grind size, and freshly ground beans make a noticeable difference."
+      }
+    ]
+  }
+}

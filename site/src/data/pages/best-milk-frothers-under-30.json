@@ -1,0 +1,81 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Milk Frothers Under $30",
+  "h1": "The 3 Best Milk Frothers Under $30",
+  "metaDescription": "Our 3 picks for milk frothers under $30, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at milk frothers under $30 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-milk-frothers",
+  "related": [
+    "best-milk-frothers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Zulay Original Milk Frother",
+        "brand": "Zulay",
+        "asin": "B07TB9R9V2",
+        "blurb": "Key specs: Handheld battery-powered whisk, Under $15 typical price, Stainless steel whisk head.",
+        "strengths": [
+          "Whisks foam in 15 to 20 seconds directly in the mug",
+          "Simple mechanically, with few parts that can fail"
+        ],
+        "limitations": [
+          "Doesn't heat milk, so it needs to be paired with a microwave or stovetop for hot drinks",
+          "Foam is coarser than an induction countertop machine's microfoam",
+          "Runs on AA batteries that need periodic replacement"
+        ],
+        "features": [
+          "Handheld battery-powered whisk",
+          "Under $15 typical price",
+          "Stainless steel whisk head",
+          "Included stand"
+        ],
+        "badge": "Best overall"
+      },
+      {
+        "name": "PowerLix Handheld Milk Frother with Stand",
+        "brand": "PowerLix",
+        "asin": "B06X6JLZ1T",
+        "blurb": "",
+        "strengths": [
+          "Very cheap",
+          "Works with hot or cold drinks",
+          "Great for whisking matcha",
+          "Stand included"
+        ],
+        "limitations": [
+          "Doesn't heat milk",
+          "Needs AA batteries",
+          "Foam is less fine than a jug frother"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "Maestri House LunaFro 2.0 Rechargeable Milk Frother",
+        "brand": "Maestri House",
+        "asin": "B0G56GHV1S",
+        "blurb": "",
+        "strengths": [
+          "Rechargeable, no batteries",
+          "Stepless speed control",
+          "Three whisk heads",
+          "Good for matcha and protein shakes"
+        ],
+        "limitations": [
+          "Doesn't heat milk",
+          "Needs charging",
+          "Less fine foam than a jug"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

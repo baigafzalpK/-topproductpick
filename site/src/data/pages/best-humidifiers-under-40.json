@@ -1,0 +1,100 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Humidifiers Under $40",
+  "h1": "The 4 Best Humidifiers Under $40",
+  "metaDescription": "Our 4 picks for humidifiers under $40, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at humidifiers under $40 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-humidifiers",
+  "related": [
+    "best-humidifiers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "TaoTronics TT-AH001 Cool Mist Humidifier 4L",
+        "brand": "TaoTronics",
+        "asin": "B07KJZ9CBD",
+        "blurb": "Key specs: 4L tank, LED display with humidity readout, Waterless auto shut-off.",
+        "strengths": [
+          "4L tank and LED humidity readout at a price well under most smart humidifiers",
+          "Waterless auto shut-off protects the motor if the tank runs dry overnight",
+          "Established track record with a strong ratings history for the price tier"
+        ],
+        "limitations": [
+          "No app or voice assistant control",
+          "Filter is a recurring replacement cost",
+          "Smaller effective coverage than 6L smart models"
+        ],
+        "features": [
+          "4L tank",
+          "LED display with humidity readout",
+          "Waterless auto shut-off",
+          "Included filter",
+          "Quiet ultrasonic mist"
+        ],
+        "badge": "Top pick"
+      },
+      {
+        "name": "Vicks Mini Filter-Free Cool Mist Humidifier",
+        "brand": "Vicks",
+        "asin": "B00MOI5QUU",
+        "blurb": "",
+        "strengths": [
+          "Filter-free, no replacement costs",
+          "Small and quiet",
+          "Works with VapoPads",
+          "Runs about a day on a fill"
+        ],
+        "limitations": [
+          "Small room only",
+          "Ultrasonic can leave white dust with hard water",
+          "Small tank opening to clean"
+        ],
+        "features": []
+      },
+      {
+        "name": "Honeywell Compact Ultrasonic Mini Cool Mist Humidifier",
+        "brand": "Honeywell",
+        "asin": "B0984QQGY9",
+        "blurb": "",
+        "strengths": [
+          "Compact",
+          "Quiet ultrasonic operation",
+          "Simple controls",
+          "Affordable"
+        ],
+        "limitations": [
+          "Small coverage",
+          "White dust with hard water",
+          "Needs frequent refills"
+        ],
+        "features": []
+      },
+      {
+        "name": "Pure Enrichment MistAire Studio Ultrasonic Humidifier",
+        "brand": "Pure Enrichment",
+        "asin": "B0BNCCMPCP",
+        "blurb": "",
+        "strengths": [
+          "Two mist settings",
+          "Optional night light",
+          "Auto shut-off",
+          "Compact"
+        ],
+        "limitations": [
+          "Small tank",
+          "Limited room coverage",
+          "Needs regular cleaning"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

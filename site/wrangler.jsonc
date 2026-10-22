@@ -1,0 +1,14 @@
+{
+  // Cloudflare Workers static assets. Change name + domain for your site.
+  "name": "topproductpick",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./out",
+    "not_found_handling": "404-page",
+    "html_handling": "auto-trailing-slash"
+  },
+  "routes": [
+    { "pattern": "topproductpick.com", "custom_domain": true },
+    { "pattern": "www.topproductpick.com", "custom_domain": true }
+  ]
+}

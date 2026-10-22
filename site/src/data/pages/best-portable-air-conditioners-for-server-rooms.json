@@ -1,0 +1,91 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Portable Air Conditioners for Server Rooms and Home Labs",
+  "h1": "The 3 Best Portable Air Conditioners for Server Rooms and Home Labs",
+  "metaDescription": "Our 3 picks for portable air conditioners for server rooms and home labs, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at portable air conditioners for server rooms and home labs using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-portable-air-conditioners",
+  "related": [
+    "best-portable-air-conditioners"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Whynter ARC-14S 14,000 BTU Dual Hose Portable Air Conditioner",
+        "brand": "Whynter",
+        "asin": "B0028AYQDC",
+        "blurb": "Key specs: 14,000 BTU ASHRAE / 9,500 BTU SACC dual-hose cooling, Built-in dehumidifier, up to 101 pints per day, Auto drain with condensate self-evaporation.",
+        "strengths": [
+          "Dual-hose intake draws combustion air from outside, reducing how hard the compressor cycles under a steady heat load like server exhaust",
+          "Auto drain design avoids the bucket-emptying failure point that risks a wet-floor shutdown near equipment",
+          "Strong dehumidification helps hold humidity in the 40 to 60 percent range electronics manufacturers recommend"
+        ],
+        "limitations": [
+          "Needs two hose penetrations, more planning in a closet with limited wall or window access",
+          "Not rated by the manufacturer for true 24/7 industrial duty cycles",
+          "56 lbs and a larger footprint than a single rack unit might have room for"
+        ],
+        "features": [
+          "14,000 BTU ASHRAE / 9,500 BTU SACC dual-hose cooling",
+          "Built-in dehumidifier, up to 101 pints per day",
+          "Auto drain with condensate self-evaporation",
+          "24-hour programmable timer, thermostat range 61°F to 89°F",
+          "3 fan speeds for continuous airflow"
+        ],
+        "badge": "Top pick",
+        "bestFor": "server rooms"
+      },
+      {
+        "name": "Honeywell HL14CESWK Contempo Series Portable Air Conditioner",
+        "brand": "Honeywell",
+        "asin": "B01CS3JJ5I",
+        "blurb": "Key specs: 14,000 BTU cooling, dehumidifier and fan modes, rated up to 550-700 sq ft, Dual filtration system: washable pre-filter plus activated carbon, Dual motor design rated at 49 to 52 dB at high fan speed.",
+        "strengths": [
+          "Dual motor design runs quieter under sustained high-speed operation than single-motor competitors, useful next to a rack you may need to hear alerts from",
+          "Dual filtration helps with dust from cooling fans on server equipment",
+          "Rated coverage gives headroom for a closet plus adjacent room heat gain"
+        ],
+        "limitations": [
+          "Single-hose design cycles the compressor more than dual-hose designs under constant heat load",
+          "Not designed or warrantied for continuous industrial duty"
+        ],
+        "features": [
+          "14,000 BTU cooling, dehumidifier and fan modes, rated up to 550-700 sq ft",
+          "Dual filtration system: washable pre-filter plus activated carbon",
+          "Dual motor design rated at 49 to 52 dB at high fan speed",
+          "Full-function remote control"
+        ],
+        "bestFor": "server rooms"
+      },
+      {
+        "name": "BLACK+DECKER BPACT14WT Smart Portable Air Conditioner",
+        "brand": "BLACK+DECKER",
+        "asin": "B01DLPUWHQ",
+        "blurb": "Key specs: 14,000 BTU (10,200 BTU SACC) single-hose cooling, Wi-Fi app control plus Alexa and Google Assistant support, Follow Me remote temperature sensing.",
+        "strengths": [
+          "Wi-Fi app lets you check the room temperature and unit status remotely, useful for an unmanned closet",
+          "Voice assistant integration allows quick status checks without opening an app",
+          "Straightforward single-hose install for closets with only one vent path"
+        ],
+        "limitations": [
+          "Relies on home Wi-Fi uptime for remote monitoring, a real risk if the network itself is in that closet",
+          "Single-hose exhaust is less efficient under sustained heat load than dual-hose",
+          "App reliability gets mixed reports on some routers"
+        ],
+        "features": [
+          "14,000 BTU (10,200 BTU SACC) single-hose cooling",
+          "Wi-Fi app control plus Alexa and Google Assistant support",
+          "Follow Me remote temperature sensing",
+          "24-hour programmable timer"
+        ],
+        "bestFor": "server rooms"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Travel Backpacks for Digital Nomads",
+  "h1": "The 3 Best Travel Backpacks for Digital Nomads",
+  "metaDescription": "Our 3 picks for travel backpacks for digital nomads, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at travel backpacks for digital nomads using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-travel-backpacks",
+  "related": [
+    "best-travel-backpacks"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Peak Design Travel Backpack 45L",
+        "brand": "Peak Design",
+        "asin": "B07GH4HMFR",
+        "blurb": "Key specs: Expands from 35L to 45L, Weatherproof 400D recycled nylon canvas, Rear, top, and side access.",
+        "strengths": [
+          "Side access reaches a laptop or camera without opening the main compartment",
+          "Modular cube system suits nomads carrying camera or A/V gear alongside a laptop",
+          "Weatherproof shell handles daily commuting in rain without a rain cover"
+        ],
+        "limitations": [
+          "Heavier than the Cotopaxi packs when the laptop cube and cubes are loaded in",
+          "Compression straps need re-adjusting each time you resize the bag"
+        ],
+        "features": [
+          "Expands from 35L to 45L",
+          "Weatherproof 400D recycled nylon canvas",
+          "Rear, top, and side access",
+          "Compatible with Peak Design camera cubes and packing cubes",
+          "Tuck-away hip belt and sternum strap"
+        ],
+        "badge": "Top pick",
+        "bestFor": "digital nomads"
+      },
+      {
+        "name": "Cotopaxi Allpa 42L Travel Pack",
+        "brand": "Cotopaxi",
+        "asin": "B0CQ5M7LHD",
+        "blurb": "Key specs: 42L suitcase-style opening, 15-inch laptop sleeve, 12.5-inch tablet sleeve, 1000D TPU-coated polyester shell.",
+        "strengths": [
+          "42L holds a season's worth of clothing plus work gear without checking a bag",
+          "Padded laptop and tablet sleeves are separately accessible from the main compartment",
+          "Durable shell fabric holds up to daily use over months, not just a single trip"
+        ],
+        "limitations": [
+          "Bulkier profile than the Osprey Farpoint 40 for daily commuting in tight spaces",
+          "No dedicated cable or accessory organization pockets beyond the main compartments",
+          "Heavier empty weight adds up on days spent carrying the full bag"
+        ],
+        "features": [
+          "42L suitcase-style opening",
+          "15-inch laptop sleeve, 12.5-inch tablet sleeve",
+          "1000D TPU-coated polyester shell",
+          "Removable hip belt",
+          "Exterior stretch water bottle pocket"
+        ],
+        "bestFor": "digital nomads"
+      },
+      {
+        "name": "Osprey Farpoint 40",
+        "brand": "Osprey",
+        "asin": "B014EBKMMG",
+        "blurb": "Key specs: 40L with removable 11L daypack, LightWire frame suspension, Stowable harness.",
+        "strengths": [
+          "Harness suspension carries a heavier daily-use load more comfortably than unstructured packs",
+          "Removable daypack functions as a separate work bag for a coworking space or cafe",
+          "Most-rated pack in this list, with a long track record among long-term travelers"
+        ],
+        "limitations": [
+          "Laptop sleeve sits inside the daypack rather than the main compartment",
+          "No expansion if a season of accumulated gear outgrows 40L",
+          "Hipbelt and straps add bulk when both main pack and daypack are combined"
+        ],
+        "features": [
+          "40L with removable 11L daypack",
+          "LightWire frame suspension",
+          "Stowable harness",
+          "Zip-away hipbelt",
+          "Lockable main compartment"
+        ],
+        "bestFor": "digital nomads"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

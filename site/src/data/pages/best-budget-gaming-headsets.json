@@ -1,0 +1,57 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 2 Best Budget Gaming Headsets Under $75 in 2026",
+  "h1": "The 2 Best Budget Gaming Headsets Under $75 in 2026",
+  "metaDescription": "Our 2 picks for budget gaming headsets under $75 in 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at budget gaming headsets under $75 in 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "gaming-headsets",
+  "related": [
+    "gaming-headsets"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "HyperX Cloud Stinger 2 Gaming Headset",
+        "brand": "HyperX",
+        "asin": "B0B8PGDMWK",
+        "blurb": "",
+        "strengths": [
+          "Light at about 275 g",
+          "50mm drivers",
+          "Swivel-to-mute microphone",
+          "DTS Headphone:X activation included"
+        ],
+        "limitations": [
+          "Wired only",
+          "Plastic build",
+          "Basic mic quality"
+        ],
+        "features": []
+      },
+      {
+        "name": "SteelSeries Arctis Nova 1 Multi-System Gaming Headset",
+        "brand": "SteelSeries",
+        "asin": "B0B8Q8P1FY",
+        "blurb": "",
+        "strengths": [
+          "Works on most platforms via 3.5mm",
+          "Very light and comfortable",
+          "Noise-cancelling mic",
+          "Spatial audio support"
+        ],
+        "limitations": [
+          "Wired",
+          "No onboard volume dial on some versions",
+          "Bass is modest"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

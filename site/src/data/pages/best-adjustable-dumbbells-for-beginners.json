@@ -1,0 +1,106 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Adjustable Dumbbells for Beginners",
+  "h1": "The 4 Best Adjustable Dumbbells for Beginners",
+  "metaDescription": "Our 4 picks for adjustable dumbbells for beginners, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at adjustable dumbbells for beginners using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-adjustable-dumbbells",
+  "related": [
+    "best-adjustable-dumbbells"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Core Home Fitness Adjustable Dumbbell Set & Stand",
+        "brand": "Core Home Fitness",
+        "asin": "B07DYMG9FZ",
+        "blurb": "Key specs: 5 to 50 lb per hand, TwistLock one-hand cradle adjustment, Contoured soft-grip handle.",
+        "strengths": [
+          "TwistLock is one of the simplest mechanisms to learn, no marks or numbers to line up",
+          "50 lb ceiling comfortably covers a beginner's first one to two years",
+          "Lower price than Bowflex or PowerBlock for a first serious purchase"
+        ],
+        "limitations": [
+          "Only works correctly with the dumbbell seated in its stand",
+          "Fewer accessories than Bowflex's broader ecosystem"
+        ],
+        "features": [
+          "5 to 50 lb per hand",
+          "TwistLock one-hand cradle adjustment",
+          "Contoured soft-grip handle",
+          "Stand included"
+        ],
+        "bestFor": "beginners and first-time buyers"
+      },
+      {
+        "name": "Amazon Basics Adjustable Dumbbell Hand Weight Set, 38 lb with Case",
+        "brand": "Amazon Basics",
+        "asin": "B071WSFSGC",
+        "blurb": "Key specs: 38 lb total across two handles, Spin-lock collars, Portable storage case.",
+        "strengths": [
+          "Cheapest way to find out if home strength training sticks before a bigger purchase",
+          "No mechanism to learn beyond hand-tightening a collar",
+          "Case makes it easy to store away between sessions"
+        ],
+        "limitations": [
+          "Slowest adjustment method, less ideal once you're cycling through multiple weights per session",
+          "19 lb max per hand is light once basic strength develops"
+        ],
+        "features": [
+          "38 lb total across two handles",
+          "Spin-lock collars",
+          "Portable storage case"
+        ],
+        "bestFor": "beginners and first-time buyers"
+      },
+      {
+        "name": "Bowflex SelectTech 552 Adjustable Dumbbells (Pair)",
+        "brand": "Bowflex",
+        "asin": "B001ARYU58",
+        "blurb": "Key specs: 5 to 52.5 lb per hand, 2.5 lb increments, Dial-turn selector, Molded storage trays included.",
+        "strengths": [
+          "Highest ceiling in this list, room to grow well past a beginner's first year without upgrading",
+          "Widest parts and community support if you have questions starting out",
+          "Fine 2.5 lb increments make it easy to find a comfortable starting weight"
+        ],
+        "limitations": [
+          "Costs significantly more than the budget picks in this list",
+          "More dumbbell than most true beginners need on day one"
+        ],
+        "features": [
+          "5 to 52.5 lb per hand, 2.5 lb increments",
+          "Dial-turn selector",
+          "Molded storage trays included"
+        ],
+        "bestFor": "beginners and first-time buyers"
+      },
+      {
+        "name": "NordicTrack 55 lb Select-a-Weight Dumbbell",
+        "brand": "NordicTrack",
+        "asin": "B08QD2NPCF",
+        "blurb": "Key specs: Up to 55 lb per hand, 2.5, 5, and 10 lb increments, iFIT connected workout compatibility.",
+        "strengths": [
+          "iFIT's guided strength programming is genuinely useful for beginners unsure how to structure a workout",
+          "Fine low-end increments help beginners find the right starting weight",
+          "Dial mechanism is fast and familiar once learned"
+        ],
+        "limitations": [
+          "Full iFIT programming requires a paid subscription beyond any trial period",
+          "More expensive than Core Home Fitness for a comparable core mechanism"
+        ],
+        "features": [
+          "Up to 55 lb per hand",
+          "2.5, 5, and 10 lb increments",
+          "iFIT connected workout compatibility"
+        ],
+        "bestFor": "beginners and first-time buyers"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

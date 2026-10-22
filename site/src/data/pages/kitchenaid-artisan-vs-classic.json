@@ -1,0 +1,83 @@
+{
+  "type": "comparison",
+  "title": "KitchenAid Artisan vs Classic: Is the Upgrade Worth It?",
+  "h1": "KitchenAid Artisan vs Classic",
+  "metaDescription": "KitchenAid Artisan or Classic? Compare bowl size, motor power and features to decide which stand mixer fits your baking.",
+  "lede": "These are KitchenAid's two most popular tilt-head mixers. They look alike and share attachments, but there are a few practical differences.",
+  "updatedAt": "2026-10-19",
+  "category": "stand-mixers",
+  "related": [
+    "best-stand-mixers",
+    "how-to-choose-a-stand-mixer"
+  ],
+  "data": {
+    "verdict": "Choose the Artisan if you bake often or want a bowl with a handle and more color options. Choose the Classic if you bake occasionally and want the KitchenAid design for less.",
+    "rows": [
+      {
+        "label": "Bowl capacity",
+        "a": "5 quarts",
+        "b": "4.5 quarts"
+      },
+      {
+        "label": "Bowl handle",
+        "a": "Yes",
+        "b": "No"
+      },
+      {
+        "label": "Motor (KitchenAid spec)",
+        "a": "325 watts",
+        "b": "275 watts"
+      },
+      {
+        "label": "Speeds",
+        "a": "10",
+        "b": "10"
+      },
+      {
+        "label": "Attachment hub",
+        "a": "Yes",
+        "b": "Yes"
+      }
+    ],
+    "productA": {
+      "name": "KitchenAid Artisan 5-Qt Tilt-Head Stand Mixer",
+      "brand": "KitchenAid",
+      "asin": "B00005UP2P",
+      "searchQuery": "KitchenAid Artisan 5 quart tilt-head stand mixer KSM150PS",
+      "bestFor": "most home bakers",
+      "blurb": "A 5-quart tilt-head mixer with a handled bowl and ten speeds.",
+      "strengths": [
+        "Bigger bowl with a handle",
+        "More motor power"
+      ],
+      "limitations": [
+        "Costs more than the Classic"
+      ]
+    },
+    "productB": {
+      "name": "KitchenAid Classic 4.5-Qt Tilt-Head Stand Mixer",
+      "brand": "KitchenAid",
+      "asin": "B00004SGFW",
+      "searchQuery": "KitchenAid Classic 4.5 quart tilt-head stand mixer K45SS",
+      "bestFor": "occasional bakers and smaller batches",
+      "blurb": "A 4.5-quart tilt-head mixer that shares the Artisan's attachment hub.",
+      "strengths": [
+        "Lower price",
+        "Same attachments"
+      ],
+      "limitations": [
+        "Bowl has no handle",
+        "Less power"
+      ]
+    },
+    "sections": [
+      {
+        "h": "Which one should you buy?",
+        "p": [
+          "For most cakes, cookies and frostings, both mixers do the job. The Artisan's extra half quart and handled bowl make it nicer to use if you bake every week.",
+          "If you plan to make a lot of bread, consider a bowl-lift model instead of either tilt-head."
+        ]
+      }
+    ]
+  }
+}

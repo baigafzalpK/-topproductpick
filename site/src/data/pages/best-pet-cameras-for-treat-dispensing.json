@@ -1,0 +1,131 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Pet Cameras for Treat Dispensing",
+  "h1": "The 5 Best Pet Cameras for Treat Dispensing",
+  "metaDescription": "Our 5 picks for pet cameras for treat dispensing, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at pet cameras for treat dispensing using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-pet-cameras",
+  "related": [
+    "best-pet-cameras"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Petcube Bites 2",
+        "brand": "Petcube",
+        "asin": "B07QZ4BWY1",
+        "blurb": "Key specs: 1080p HD video with 160° full-room view, Built-in treat dispenser with adjustable toss distance, 4-microphone array with 2-way audio.",
+        "strengths": [
+          "The only camera in this list with a built-in treat dispenser, a genuine differentiator from standard pet cameras",
+          "Adjustable toss distance lets you tune how far treats land relative to the camera's position",
+          "Alexa built-in enables hands-free treat dispensing through voice commands",
+          "4-microphone array reliably picks up barking that might prompt a treat toss to redirect attention"
+        ],
+        "limitations": [
+          "Treat hopper needs manual refilling every few days with regular use",
+          "Mechanism requires specific small, dry, uniform treats to avoid jamming"
+        ],
+        "features": [
+          "1080p HD video with 160° full-room view",
+          "Built-in treat dispenser with adjustable toss distance",
+          "4-microphone array with 2-way audio",
+          "Alexa built-in",
+          "Sound and motion alerts"
+        ],
+        "badge": "Top pick",
+        "bestFor": "treat dispensing"
+      },
+      {
+        "name": "Ring Indoor Cam (2nd Gen)",
+        "brand": "Ring",
+        "asin": "B0B6GJBKRK",
+        "blurb": "Key specs: 1080p HD video with color night vision, 115° horizontal field of view, Two-way talk.",
+        "strengths": [
+          "No dispenser to jam or refill, meaningfully lower maintenance than a treat-tossing camera",
+          "Costs well under half the price of the Petcube Bites 2",
+          "Two-way talk still provides a form of remote interaction without needing a treat mechanism"
+        ],
+        "limitations": [
+          "No treat dispensing at all, a real limitation for owners specifically wanting this feature",
+          "115° field of view is narrower than pan/tilt alternatives",
+          "Ring Protect subscription needed to review saved clips"
+        ],
+        "features": [
+          "1080p HD video with color night vision",
+          "115° horizontal field of view",
+          "Two-way talk",
+          "Works with Alexa"
+        ],
+        "bestFor": "treat dispensing"
+      },
+      {
+        "name": "Wyze Cam Pan v3",
+        "brand": "Wyze",
+        "asin": "B0B9TWY11Q",
+        "blurb": "Key specs: 360° pan / 180° tilt coverage, 1080p color night vision, 2-way audio.",
+        "strengths": [
+          "Full pan/tilt coverage that a fixed-position dispenser camera cannot match",
+          "Lowest price of any camera in this list",
+          "Motion tracking follows a pet even without a treat incentive to hold their attention",
+          "No mechanical hopper to jam or clean"
+        ],
+        "limitations": [
+          "No treat dispensing feature",
+          "Two-way audio is thinner than the Petcube's 4-microphone setup",
+          "Cloud storage for longer clips needs an optional subscription"
+        ],
+        "features": [
+          "360° pan / 180° tilt coverage",
+          "1080p color night vision",
+          "2-way audio",
+          "No subscription required for live view"
+        ],
+        "bestFor": "treat dispensing"
+      },
+      {
+        "name": "Furbo 360° Dog Camera",
+        "brand": "Furbo",
+        "asin": "B09GDQZLD1",
+        "blurb": "",
+        "strengths": [
+          "360° rotating view",
+          "Treat tossing from your phone",
+          "Barking alerts",
+          "Two-way audio"
+        ],
+        "limitations": [
+          "Advanced alerts need a paid plan",
+          "Treat size must fit the dispenser",
+          "Premium price"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "Petcube Cam 360 with Bites 2 Lite",
+        "brand": "Petcube",
+        "asin": "B0CNH9ZMR8",
+        "blurb": "",
+        "strengths": [
+          "Two cameras for wider coverage",
+          "Treat flinging",
+          "1080p video with night vision",
+          "Works for cats and dogs"
+        ],
+        "limitations": [
+          "Some features need a subscription",
+          "Two devices to place and power",
+          "App-dependent"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

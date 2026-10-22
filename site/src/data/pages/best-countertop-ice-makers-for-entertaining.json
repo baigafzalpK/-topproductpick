@@ -1,0 +1,110 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Countertop Ice Makers for Entertaining and Parties",
+  "h1": "The 4 Best Countertop Ice Makers for Entertaining and Parties",
+  "metaDescription": "Our 4 picks for countertop ice makers for entertaining and parties, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at countertop ice makers for entertaining and parties using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-ice-makers",
+  "related": [
+    "best-ice-makers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "GE Profile Opal 2.0 Nugget Ice Maker",
+        "brand": "GE Profile",
+        "asin": "B09649DDTN",
+        "blurb": "Key specs: 38 lbs of nugget ice per 24 hours, 0.75-gallon side water tank, WiFi with SmartHQ app scheduling.",
+        "strengths": [
+          "Highest sustained output in this list, keeps up with a full afternoon of scooping",
+          "Side tank means you're not refilling mid-party the way a small-reservoir machine requires",
+          "App scheduling lets you start production hours ahead without being in the kitchen"
+        ],
+        "limitations": [
+          "Widest footprint here, needs a dedicated spot on the counter or a cart",
+          "Overkill for a small get-together of 4 to 6 people"
+        ],
+        "features": [
+          "38 lbs of nugget ice per 24 hours",
+          "0.75-gallon side water tank",
+          "WiFi with SmartHQ app scheduling",
+          "First batch ready in about 10 minutes",
+          "Automatic sanitize and descale cycle"
+        ],
+        "bestFor": "entertaining"
+      },
+      {
+        "name": "Euhomy Nugget Ice Maker Countertop",
+        "brand": "Euhomy",
+        "asin": "B0C32SGKMJ",
+        "blurb": "Key specs: Up to 34 lbs of nugget ice per day, First batch ready in about 6 minutes, Self-cleaning cycle.",
+        "strengths": [
+          "34 lbs a day covers most house-party sizes at a fraction of the GE Opal's price",
+          "6-minute batch cycle is the fastest recovery time in this list",
+          "Carry handle makes it easy to move to a bar cart or outdoor table for the event"
+        ],
+        "limitations": [
+          "Reservoir is smaller than the GE Opal's side tank, needs more frequent topping off during a long party",
+          "No app or scheduling features",
+          "Fewer total owner ratings than the more established brands here"
+        ],
+        "features": [
+          "Up to 34 lbs of nugget ice per day",
+          "First batch ready in about 6 minutes",
+          "Self-cleaning cycle",
+          "Built-in carry handle",
+          "Compact footprint versus the GE Opal"
+        ],
+        "bestFor": "entertaining"
+      },
+      {
+        "name": "Frigidaire Countertop Ice Maker",
+        "brand": "Frigidaire",
+        "asin": "B07J1YVSNQ",
+        "blurb": "Key specs: 26 lbs of bullet-shaped ice per day, 9 pieces ready in about 7 minutes, Simple one-button operation.",
+        "strengths": [
+          "Lowest price point in this list by a wide margin",
+          "26 lbs a day comfortably covers a gathering of 6 to 10 guests",
+          "Simple enough to hand off to a co-host without instructions"
+        ],
+        "limitations": [
+          "Bullet ice melts faster than nugget ice, needs more frequent bin checks during a party",
+          "Output ceiling means it's not the right pick for a party of 20-plus",
+          "No self-cleaning function, needs manual maintenance after heavy use"
+        ],
+        "features": [
+          "26 lbs of bullet-shaped ice per day",
+          "9 pieces ready in about 7 minutes",
+          "Simple one-button operation",
+          "Compact, portable design",
+          "No installation required"
+        ],
+        "bestFor": "entertaining"
+      },
+      {
+        "name": "Silonn Smart Wi-Fi Nugget Ice Maker (33 lb/Day)",
+        "brand": "Silonn",
+        "asin": "B0DJMDSL8Q",
+        "blurb": "",
+        "strengths": [
+          "App scheduling and alerts",
+          "Soft chewable nugget ice",
+          "Self-cleaning mode",
+          "Compact"
+        ],
+        "limitations": [
+          "Lower output than 44 lb models",
+          "Basket isn't refrigerated",
+          "App needed for smart features"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

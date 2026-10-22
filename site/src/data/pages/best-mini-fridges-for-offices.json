@@ -1,0 +1,116 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Mini Fridges for Offices",
+  "h1": "The 4 Best Mini Fridges for Offices",
+  "metaDescription": "Our 4 picks for mini fridges for offices, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at mini fridges for offices using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-mini-fridges",
+  "related": [
+    "best-mini-fridges"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Midea WHS-160RB1 4.4 Cu Ft Compact Refrigerator",
+        "brand": "Midea",
+        "asin": "B00MVVIF2G",
+        "blurb": "Key specs: 4.4 cu ft capacity, 42 dB rated noise level, Reversible door with adjustable legs.",
+        "strengths": [
+          "42 dB rating is the quietest in this list, important in an open office",
+          "4.4 cu ft comfortably holds lunches for several coworkers",
+          "Reversible door adapts to tight break room corners"
+        ],
+        "limitations": [
+          "33.86-inch height typically doesn't fit under a desk",
+          "Chiller compartment can't make ice or hold frozen food",
+          "Larger footprint takes real floor space in a break room"
+        ],
+        "features": [
+          "4.4 cu ft capacity",
+          "42 dB rated noise level",
+          "Reversible door with adjustable legs",
+          "Small chiller compartment, not a true freezer",
+          "Push-button mechanical thermostat"
+        ],
+        "bestFor": "offices"
+      },
+      {
+        "name": "BLACK+DECKER BCRK25V 2.5 Cu Ft Compact Refrigerator",
+        "brand": "BLACK+DECKER",
+        "asin": "B01DZQI700",
+        "blurb": "Key specs: 2.5 cu ft single-door capacity, 26.6-inch height, fits under most standard desks, ENERGY STAR certified, about 212 kWh/year.",
+        "strengths": [
+          "26.6-inch height clears most standard office desk openings",
+          "2.5 cu ft holds a full day's lunch and drinks comfortably"
+        ],
+        "limitations": [
+          "Small top freezer compartment barely holds an ice tray",
+          "Manual defrost needed periodically",
+          "Single glass shelf layout limits tall-container flexibility"
+        ],
+        "features": [
+          "2.5 cu ft single-door capacity",
+          "26.6-inch height, fits under most standard desks",
+          "ENERGY STAR certified, about 212 kWh/year",
+          "Small freezer compartment with ice tray",
+          "Reversible door, adjustable thermostat"
+        ],
+        "bestFor": "offices"
+      },
+      {
+        "name": "Frigidaire EFR176 1.6 Cu Ft Retro Mini Fridge",
+        "brand": "Frigidaire",
+        "asin": "B07LDVXK4Q",
+        "blurb": "Key specs: 1.6 cu ft capacity, 18.5-inch height, the smallest footprint in this list, Retro-styled body with a side-mounted bottle opener.",
+        "strengths": [
+          "18.5-inch height fits in the tightest under-desk or corner spaces",
+          "Retro styling stands out in a cubicle without looking out of place",
+          "Flush back allows placement directly against a wall or partition"
+        ],
+        "limitations": [
+          "1.6 cu ft holds drinks and snacks, not a full lunch rotation for a team",
+          "Plastic door handle feels less durable over daily office use",
+          "Runs slightly louder than the Midea per owner reports"
+        ],
+        "features": [
+          "1.6 cu ft capacity",
+          "18.5-inch height, the smallest footprint in this list",
+          "Retro-styled body with a side-mounted bottle opener",
+          "Flush-back design for corner placement",
+          "Wire shelf, 2-liter door bin"
+        ],
+        "bestFor": "offices"
+      },
+      {
+        "name": "Galanz GLR31TBEER 3.1 Cu Ft Retro Mini Fridge",
+        "brand": "Galanz",
+        "asin": "B07DQSWT42",
+        "blurb": "Key specs: 3.1 cu ft total, split into fridge and separate top freezer, True dual-door design with an actual freezer, Adjustable mechanical thermostat.",
+        "strengths": [
+          "Only fridge in this list where a coworker can actually freeze something",
+          "Under-42 dB compressor keeps it quiet in a shared space",
+          "Split fridge/freezer layout organizes shared lunches better than one open compartment"
+        ],
+        "limitations": [
+          "Taller than a typical under-desk fridge",
+          "Pricier than the single-door options here",
+          "Plastic interior parts feel less sturdy under heavy shared use"
+        ],
+        "features": [
+          "3.1 cu ft total, split into fridge and separate top freezer",
+          "True dual-door design with an actual freezer",
+          "Adjustable mechanical thermostat",
+          "Retro-styled body, rated under 42 dB",
+          "Removable glass shelves"
+        ],
+        "bestFor": "offices"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

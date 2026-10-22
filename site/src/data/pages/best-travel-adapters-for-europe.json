@@ -1,0 +1,63 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 2 Best Travel Adapters for Europe",
+  "h1": "The 2 Best Travel Adapters for Europe",
+  "metaDescription": "Our 2 picks for travel adapters for europe, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at travel adapters for europe using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-travel-adapters",
+  "related": [
+    "best-travel-adapters"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "OREI World Travel Plug Adapter",
+        "brand": "OREI",
+        "asin": "B07R744XM9",
+        "blurb": "Key specs: Slide-out plug attachments including Type C/E/F and Type G, 2 USB-A ports plus 1 universal AC outlet, Safety shutters and fuse protection.",
+        "strengths": [
+          "Small enough to keep in a daypack pocket for daily sightseeing",
+          "Safety shutters block accidental contact with live pins"
+        ],
+        "limitations": [
+          "Only one AC outlet limits simultaneous device charging",
+          "USB ports top out at 2A, slower than PD-equipped alternatives"
+        ],
+        "features": [
+          "Slide-out plug attachments including Type C/E/F and Type G",
+          "2 USB-A ports plus 1 universal AC outlet",
+          "Safety shutters and fuse protection",
+          "Compact size"
+        ],
+        "bestFor": "europe"
+      },
+      {
+        "name": "OREI World Travel Plug Adapter M8 Max",
+        "brand": "OREI",
+        "asin": "B07R3FD5RH",
+        "blurb": "Key specs: Interchangeable plug heads for Europe and the UK, 2 USA outlets, 3 USB-A ports, 1 USB-C PD 18W port, Grounded 3-prong design.",
+        "strengths": [
+          "Six total charging points from a single European hotel outlet",
+          "18W USB-C PD charges a phone noticeably faster than USB-A-only kits",
+          "Grounded design adds safety margin for laptop chargers"
+        ],
+        "limitations": [
+          "Larger and heavier than a simple plug-only adapter",
+          "18W PD is not enough to fast-charge most laptops"
+        ],
+        "features": [
+          "Interchangeable plug heads for Europe and the UK",
+          "2 USA outlets, 3 USB-A ports, 1 USB-C PD 18W port",
+          "Grounded 3-prong design"
+        ],
+        "bestFor": "europe"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

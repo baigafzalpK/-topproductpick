@@ -1,0 +1,129 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Pressure Washers Under $150",
+  "h1": "The 5 Best Pressure Washers Under $150",
+  "metaDescription": "Our 5 picks for pressure washers under $150, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at pressure washers under $150 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-pressure-washers",
+  "related": [
+    "best-pressure-washers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Sun Joe SPX3000 Electric Pressure Washer",
+        "brand": "Sun Joe",
+        "asin": "B073FCV1ZC",
+        "blurb": "Key specs: 2030 max PSI, 1.76 GPM max flow, Typically $130 to $150, Dual detergent tanks.",
+        "strengths": [
+          "Dual detergent tanks are a genuine convenience rarely found on budget units"
+        ],
+        "limitations": [
+          "Sometimes prices closer to the top of this budget range depending on retailer promotions",
+          "Plastic housing and wheels feel less rugged than step-up premium models",
+          "No surface cleaner included for faster driveway coverage"
+        ],
+        "features": [
+          "2030 max PSI, 1.76 GPM max flow",
+          "Typically $130 to $150",
+          "Dual detergent tanks",
+          "5 quick-connect spray tips",
+          "TSS auto shutoff"
+        ],
+        "badge": "Top pick"
+      },
+      {
+        "name": "Sun Joe SPX3001 Electric Pressure Washer",
+        "brand": "Sun Joe",
+        "asin": "B00LX8Z03K",
+        "blurb": "Key specs: 2030 max PSI, 1.76 GPM max flow, 34-inch extension wand, Rear wheels for maneuverability.",
+        "strengths": [
+          "Same core PSI and GPM as the SPX3000 with an added extension wand for reaching under decks, behind grills, and gutters",
+          "Rear wheels make it easier to reposition than carrying by the handle alone",
+          "Often priced a bit lower than the SPX3000 depending on retailer"
+        ],
+        "limitations": [
+          "Extension wand is a nice-to-have but not essential for most driveway or car-washing use",
+          "Shares the same plastic-housing durability tradeoffs as the SPX3000",
+          "Nearly identical spec sheet to the SPX3000 makes choosing between them mostly a matter of price at time of purchase"
+        ],
+        "features": [
+          "2030 max PSI, 1.76 GPM max flow",
+          "34-inch extension wand",
+          "Rear wheels for maneuverability",
+          "Dual detergent tanks",
+          "5 quick-connect nozzles"
+        ]
+      },
+      {
+        "name": "AR Blue Clean AR383 Electric Pressure Washer",
+        "brand": "AR Blue Clean",
+        "asin": "B002Z8E52Y",
+        "blurb": "Key specs: 1900 PSI, 1.51 GPM, Typically under $100, Bayonet-connect accessories.",
+        "strengths": [
+          "1900 PSI still covers cars, patios, and light driveway duty comfortably",
+          "Integrated hose reel is a tidier storage solution than loose coiled hose"
+        ],
+        "limitations": [
+          "Lower PSI and GPM than either Sun Joe model, slower on tougher jobs",
+          "Bayonet fittings limit compatibility with some aftermarket accessories",
+          "Fewer included nozzle options"
+        ],
+        "features": [
+          "1900 PSI, 1.51 GPM",
+          "Typically under $100",
+          "Bayonet-connect accessories",
+          "Integrated hose reel",
+          "Onboard storage"
+        ]
+      },
+      {
+        "name": "Greenworks GPW1501 1500 PSI Pressure Washer",
+        "brand": "Greenworks",
+        "asin": "B09W4VQX7Z",
+        "blurb": "Key specs: 1500 max PSI, 1.2 GPM, Typically $70 to $90, Upright hand-carry design.",
+        "strengths": [
+          "Lightest and most compact, ideal for small jobs and easy storage",
+          "1500 PSI is gentle enough for wood decking and patio furniture without much technique needed"
+        ],
+        "limitations": [
+          "Lowest PSI and GPM of the four picks, not the right choice for a large driveway",
+          "Fewer included nozzles than the Sun Joe models",
+          "Best suited to small and medium jobs rather than heavy-duty use"
+        ],
+        "features": [
+          "1500 max PSI, 1.2 GPM",
+          "Typically $70 to $90",
+          "Upright hand-carry design",
+          "Turbo nozzle included",
+          "35-foot power cord"
+        ]
+      },
+      {
+        "name": "RYOBI 2000 PSI 1.2 GPM Electric Pressure Washer",
+        "brand": "RYOBI",
+        "asin": "B09FRLW2NV",
+        "blurb": "",
+        "strengths": [
+          "Compact and easy to store",
+          "Good pressure for light jobs",
+          "Quick-connect nozzles",
+          "Affordable"
+        ],
+        "limitations": [
+          "Not for heavy concrete stains",
+          "Short hose",
+          "Plastic fittings"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

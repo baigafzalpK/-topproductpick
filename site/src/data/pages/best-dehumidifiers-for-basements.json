@@ -1,0 +1,137 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Dehumidifiers for Basements",
+  "h1": "The 5 Best Dehumidifiers for Basements",
+  "metaDescription": "Our 5 picks for dehumidifiers for basements, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at dehumidifiers for basements using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-dehumidifiers",
+  "related": [
+    "best-dehumidifiers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Frigidaire FFAP5033W1 50-Pint Dehumidifier with Pump",
+        "brand": "Frigidaire",
+        "asin": "B07Z5Q7M3N",
+        "blurb": "Key specs: 50-pint-per-day moisture removal, 4,500 sq ft coverage, Built-in condensate pump for upward continuous drainage, 1.8-gallon washable-filter bucket with splash guard.",
+        "strengths": [
+          "Built-in pump pushes water up and out through a hose, no more hauling a full bucket up basement stairs",
+          "41°F operating floor keeps working through a cool basement winter, where many competitors ice over",
+          "Washable filter is a five-minute rinse rather than a replacement purchase"
+        ],
+        "limitations": [
+          "1.8-gallon bucket fills fast if the pump hose isn't connected",
+          "Front display can be hard to read the current humidity number in a dim basement",
+          "Casters are small and can struggle on uneven concrete flooring"
+        ],
+        "features": [
+          "50-pint-per-day moisture removal, 4,500 sq ft coverage",
+          "Built-in condensate pump for upward continuous drainage",
+          "1.8-gallon washable-filter bucket with splash guard",
+          "Energy Star certified, 24-hour timer, custom humidity control",
+          "Rated to operate down to 41°F"
+        ],
+        "badge": "Best overall",
+        "bestFor": "basements"
+      },
+      {
+        "name": "Midea Cube 35-Pint Smart Dehumidifier with Pump",
+        "brand": "Midea",
+        "asin": "B0B4BK9XVP",
+        "blurb": "Key specs: 35-pint-per-day rating, covers up to 3,500 sq ft, Lift-and-twist Cube design triples effective tank capacity when extended, Wi-Fi control via the MideaAir app, works with Alexa.",
+        "strengths": [
+          "Extended Cube tank holds roughly 3x a standard bucket, cutting how often it needs emptying",
+          "App control lets you check basement humidity and tank status without walking downstairs",
+          "Quietest compressor of the models in this roundup per independent lab comparisons",
+          "Draws meaningfully less power than other 50-pint-class units at the same humidity setting"
+        ],
+        "limitations": [
+          "35-pint rating means it works harder than a 50-pint unit in a very damp basement",
+          "Costs more than the Vremi or TOSOT at typical street pricing",
+          "Learning to retract and extend the Cube tank takes a try or two"
+        ],
+        "features": [
+          "35-pint-per-day rating, covers up to 3,500 sq ft",
+          "Lift-and-twist Cube design triples effective tank capacity when extended",
+          "Wi-Fi control via the MideaAir app, works with Alexa",
+          "Built-in pump with included drain hose"
+        ],
+        "bestFor": "basements"
+      },
+      {
+        "name": "TOSOT 50-Pint Dehumidifier with Internal Pump",
+        "brand": "TOSOT",
+        "asin": "B07FJHZ58L",
+        "blurb": "Key specs: 50-pint-per-day rating for up to 4,500 sq ft, Internal pump lifts water up to 15 feet through an included 19-foot hose, 52-decibel peak sound level.",
+        "strengths": [
+          "15-foot pump lift covers basements where gravity drainage to a floor drain isn't an option",
+          "52dB peak volume is genuinely quiet for a 50-pint compressor",
+          "Auto-restart after a power blip matters in a basement that isn't checked daily"
+        ],
+        "limitations": [
+          "Owner reports of compressor failures after 2 to 3 summers are more common than with Frigidaire",
+          "Bucket-full sensor is sensitive and occasionally stops the unit with tank space remaining",
+          "Control panel buttons feel less durable than the housing around them"
+        ],
+        "features": [
+          "50-pint-per-day rating for up to 4,500 sq ft",
+          "Internal pump lifts water up to 15 feet through an included 19-foot hose",
+          "52-decibel peak sound level",
+          "Energy Star certified and UL listed",
+          "Auto-restart resumes the previous setting after a power outage"
+        ],
+        "bestFor": "basements"
+      },
+      {
+        "name": "Vremi 50-Pint Dehumidifier for 4,500 Sq Ft Spaces",
+        "brand": "Vremi",
+        "asin": "B07JMZJX4B",
+        "blurb": "Key specs: 50-pint-per-day rating for spaces up to 4,500 sq ft, 1.8-gallon tank with built-in handle and full-tank auto shut-off, Adjustable humidistat, 24-hour timer, continuous drain hose option.",
+        "strengths": [
+          "Lowest typical street price of the 50-pint units in this roundup",
+          "Caster wheels make it easy to roll between a basement and a laundry room",
+          "Continuous drain hose option removes bucket-emptying entirely"
+        ],
+        "limitations": [
+          "Compressor runs louder than the Midea Cube or TOSOT at the same setting per owner reports",
+          "Plastic housing feels less substantial than the Frigidaire",
+          "Shorter warranty coverage than Frigidaire or Midea"
+        ],
+        "features": [
+          "50-pint-per-day rating for spaces up to 4,500 sq ft",
+          "1.8-gallon tank with built-in handle and full-tank auto shut-off",
+          "Adjustable humidistat, 24-hour timer, continuous drain hose option",
+          "Energy Star certified compressor",
+          "Built-in caster wheels"
+        ],
+        "bestFor": "basements"
+      },
+      {
+        "name": "ALORAIR Sentinel HDi65S Crawlspace Dehumidifier",
+        "brand": "ALORAIR",
+        "asin": "B0B3WXNDRZ",
+        "blurb": "",
+        "strengths": [
+          "Low profile fits tight crawl spaces",
+          "Built-in condensate pump",
+          "Energy Star certified",
+          "Long multi-year warranty"
+        ],
+        "limitations": [
+          "Expensive",
+          "Capacity ratings vary by test standard",
+          "Needs professional-style install for best results"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

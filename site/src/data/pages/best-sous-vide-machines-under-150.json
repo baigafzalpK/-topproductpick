@@ -1,0 +1,88 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Sous Vide Machines Under $150",
+  "h1": "The 3 Best Sous Vide Machines Under $150",
+  "metaDescription": "Our 3 picks for sous vide machines under $150, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at sous vide machines under $150 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-sous-vide-machines",
+  "related": [
+    "best-sous-vide-machines"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Anova Precision Cooker Nano 3.0, 800W",
+        "brand": "Anova Culinary",
+        "asin": "B0BQ93XGWC",
+        "blurb": "Key specs: 800W heating element, Typically $100 to $130, 8L/min flow rate.",
+        "strengths": [
+          "Full WiFi app control and Anova's established reliability record at a price well under the flagship",
+          "8L/min flow rate matches the significantly pricier Precision Cooker 3.0",
+          "Highest rating (4.6) of any circulator in this price band"
+        ],
+        "limitations": [
+          "800W recovers more slowly than 1100W competitors on large or cold batches",
+          "No onboard display, fully app-dependent",
+          "Compact clamp range limits very large container use"
+        ],
+        "features": [
+          "800W heating element",
+          "Typically $100 to $130",
+          "8L/min flow rate",
+          "WiFi app control",
+          "32°F to 197°F range, ±0.1°C accuracy"
+        ]
+      },
+      {
+        "name": "KitchenBoss Sous Vide Cooker G321, 1100W",
+        "brand": "KitchenBoss",
+        "asin": "B08PVNGPF8",
+        "blurb": "Key specs: 1100W brushless DC motor, Typically $75 to $90, Built-in TFT display with preset recipes.",
+        "strengths": [
+          "Built-in display removes any app dependency",
+          "Quiet brushless motor performs well over long batch cooks"
+        ],
+        "limitations": [
+          "No WiFi or remote monitoring",
+          "Smaller brand with less long-term reliability history than Anova",
+          "Fewer total ratings than the more established competitors"
+        ],
+        "features": [
+          "1100W brushless DC motor",
+          "Typically $75 to $90",
+          "Built-in TFT display with preset recipes",
+          "IPX7 waterproof rating",
+          "Ultra-quiet operation"
+        ]
+      },
+      {
+        "name": "Instant Pot Accu Slim Sous Vide Immersion Circulator, 800W",
+        "brand": "Instant Pot",
+        "asin": "B07898VZN9",
+        "blurb": "Key specs: 800W heating element, Typically $70 to $80, Onboard touchscreen, no app required.",
+        "strengths": [
+          "Leaves the most budget headroom of any pick in this price band",
+          "Fully functional without an app or WiFi setup"
+        ],
+        "limitations": [
+          "No WiFi or smart features at any price",
+          "800W recovers more slowly than 1100W options",
+          "Fewer premium touches than the Anova Nano's app ecosystem"
+        ],
+        "features": [
+          "800W heating element",
+          "Typically $70 to $80",
+          "Onboard touchscreen, no app required",
+          "68°F to 203°F range",
+          "Clamps to 6 or 8-quart Instant Pot inner pot or any stockpot"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

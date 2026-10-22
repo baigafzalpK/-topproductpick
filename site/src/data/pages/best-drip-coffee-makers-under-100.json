@@ -1,0 +1,238 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 11 Best Drip Coffee Makers Under $100 in 2026",
+  "h1": "The 11 Best Drip Coffee Makers Under $100 in 2026",
+  "metaDescription": "Our 11 picks for drip coffee makers under $100 in 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at drip coffee makers under $100 in 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "drip-coffee-makers",
+  "related": [
+    "drip-coffee-makers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Bonavita 8-Cup One-Touch Coffee Maker",
+        "brand": "Bonavita",
+        "asin": "B076PFMRGX",
+        "blurb": "Key specs: SCAA certified, 8-cup thermal, Under $100.",
+        "strengths": [
+          "Thermal carafe, no heating plate, coffee holds quality for 1 to 2 hours"
+        ],
+        "limitations": [
+          "No programmable timer, manual start required"
+        ],
+        "features": [
+          "SCAA certified",
+          "8-cup thermal",
+          "Under $100",
+          "One-touch"
+        ],
+        "badge": "Top pick"
+      },
+      {
+        "name": "Cuisinart DCC-3200 14-Cup Programmable",
+        "brand": "Cuisinart",
+        "asin": "B00MVWGQX0",
+        "blurb": "Key specs: 14-cup, Programmable, Brew strength.",
+        "strengths": [
+          "14-cup capacity, correct for large households",
+          "24-hour programmable timer",
+          "Brew strength (regular and bold)"
+        ],
+        "limitations": [
+          "Glass carafe heating plate"
+        ],
+        "features": [
+          "14-cup",
+          "Programmable",
+          "Brew strength",
+          "Under $80"
+        ]
+      },
+      {
+        "name": "Ninja CE251 12-Cup Programmable",
+        "brand": "Ninja",
+        "asin": "B07S98411N",
+        "blurb": "Key specs: 12-cup, Brew style, Under $60.",
+        "strengths": [],
+        "limitations": [],
+        "features": [
+          "12-cup",
+          "Brew style",
+          "Under $60",
+          "Programmable"
+        ]
+      },
+      {
+        "name": "Hamilton Beach 12-Cup Programmable",
+        "brand": "Hamilton Beach",
+        "asin": "B09NCBQ8JG",
+        "blurb": "Key specs: 12-cup, Under $30, Programmable.",
+        "strengths": [],
+        "limitations": [
+          "Sub-optimal brewing temperature",
+          "Glass carafe heating plate"
+        ],
+        "features": [
+          "12-cup",
+          "Under $30",
+          "Programmable",
+          "Brew strength"
+        ],
+        "badge": "Best Budget Programmable",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "Mr. Coffee 12-Cup Programmable",
+        "brand": "Mr. Coffee",
+        "asin": "B005MLB2S6",
+        "blurb": "Key specs: 12-cup, Under $25, Programmable.",
+        "strengths": [
+          "Very affordable",
+          "Programmable delay start for morning coffee",
+          "12-cup glass carafe for households",
+          "Simple controls with pause-and-serve"
+        ],
+        "limitations": [
+          "Glass carafe on a hot plate can make coffee taste stewed over time",
+          "Brews cooler than specialty-certified brewers",
+          "Plastic build"
+        ],
+        "features": [
+          "12-cup",
+          "Under $25",
+          "Programmable",
+          "Simple"
+        ],
+        "badge": "Best Entry Programmable"
+      },
+      {
+        "name": "Bunn Speed Brew Elite 10-Cup",
+        "brand": "BUNN",
+        "asin": "B07B9BNLHM",
+        "blurb": "Key specs: 10-cup, 3-minute brew, Commercial.",
+        "strengths": [
+          "Commercial build quality"
+        ],
+        "limitations": [],
+        "features": [
+          "10-cup",
+          "3-minute brew",
+          "Commercial",
+          "Under $100"
+        ]
+      },
+      {
+        "name": "Cuisinart SS-15 12-Cup Coffee Maker",
+        "brand": "Cuisinart",
+        "asin": "B01KIG4YNO",
+        "blurb": "Key specs: 12-cup + single serve, Dual functionality, Cuisinart.",
+        "strengths": [
+          "Full 12-cup carafe brewing AND single-serve brewing in one unit",
+          "Cuisinart reliability"
+        ],
+        "limitations": [
+          "Dual function compromises both compared to dedicated single units"
+        ],
+        "features": [
+          "12-cup + single serve",
+          "Dual functionality",
+          "Cuisinart",
+          "Under $100"
+        ],
+        "badge": "Best Single Serve Dual"
+      },
+      {
+        "name": "Black+Decker 12-Cup Thermal Coffee Maker",
+        "brand": "Black+Decker",
+        "asin": "B00LU2I3V0",
+        "blurb": "Key specs: 12-cup, Thermal carafe, Under $50.",
+        "strengths": [
+          "Thermal carafe keeps coffee warm without burning",
+          "Programmable timer",
+          "Large 12-cup capacity",
+          "Budget price for a thermal carafe model"
+        ],
+        "limitations": [
+          "Carafe can be awkward to pour and clean",
+          "Brew temperature is not specialty-certified",
+          "Plastic body"
+        ],
+        "features": [
+          "12-cup",
+          "Thermal carafe",
+          "Under $50",
+          "Programmable"
+        ]
+      },
+      {
+        "name": "Oxo Brew 8-Cup Coffee Maker",
+        "brand": "OXO",
+        "asin": "B07H9G93WK",
+        "blurb": "Key specs: SCAA certified, 8-cup, OXO.",
+        "strengths": [
+          "SCAA certified OXO at an accessible price point",
+          "8-cup with rainshower head saturation"
+        ],
+        "limitations": [
+          "Not programmable at this price"
+        ],
+        "features": [
+          "SCAA certified",
+          "8-cup",
+          "OXO",
+          "Under $100"
+        ]
+      },
+      {
+        "name": "Zojirushi EC-YTC100XB 10-Cup Thermal",
+        "brand": "Zojirushi",
+        "asin": "B07B83DGMV",
+        "blurb": "Key specs: 10-cup, Thermal carafe, Zojirushi.",
+        "strengths": [
+          "Stainless steel vacuum carafe keeps coffee hot for hours",
+          "Good brewing temperature for a mainstream maker",
+          "Removable water tank for easy filling",
+          "Zojirushi's reputation for durability"
+        ],
+        "limitations": [
+          "Slower brewing than some competitors",
+          "Fewer programmable features",
+          "Carafe lid needs cleaning attention"
+        ],
+        "features": [
+          "10-cup",
+          "Thermal carafe",
+          "Zojirushi",
+          "Under $100"
+        ],
+        "badge": "Best Thermal Value",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "BLACK+DECKER 12-Cup Drip Coffee Maker with Vortex Brewing",
+        "brand": "BLACK+DECKER",
+        "asin": "B01GJOMWVA",
+        "blurb": "",
+        "strengths": [
+          "Very low price for 12 cups",
+          "Vortex showerhead saturates grounds evenly",
+          "Pause-and-serve for a mid-brew cup",
+          "Easy to use"
+        ],
+        "limitations": [
+          "Glass carafe on a hot plate can scorch coffee over time",
+          "Plastic build",
+          "Basic controls"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

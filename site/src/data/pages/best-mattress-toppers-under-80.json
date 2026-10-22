@@ -1,0 +1,101 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Mattress Toppers Under $80",
+  "h1": "The 4 Best Mattress Toppers Under $80",
+  "metaDescription": "Our 4 picks for mattress toppers under $80, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at mattress toppers under $80 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-mattress-toppers",
+  "related": [
+    "best-mattress-toppers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Linenspa Gel Memory Foam Topper",
+        "brand": "Linenspa",
+        "asin": "B07MY34QH7",
+        "blurb": "Key specs: 3-inch gel-infused memory foam, Plush feel, CertiPUR-US certified.",
+        "strengths": [
+          "Gel infusion provides real cooling benefit not typical of budget toppers at this price"
+        ],
+        "limitations": [
+          "Lower foam density compresses faster than pricier competitors over 12 to 18 months",
+          "Thin, non-removable cover limits long-term cleaning options",
+          "Minimal edge support compared to thicker, denser toppers"
+        ],
+        "features": [
+          "3-inch gel-infused memory foam",
+          "Plush feel",
+          "CertiPUR-US certified",
+          "Typically $50 to $70 for queen"
+        ]
+      },
+      {
+        "name": "Linenspa 2-Inch Gel Memory Foam Topper",
+        "brand": "Linenspa",
+        "asin": "B01N41IPPI",
+        "blurb": "Key specs: 2-inch gel-infused memory foam, Plush feel, CertiPUR-US certified.",
+        "strengths": [
+          "One of the lowest prices for a certified gel memory foam topper on the market",
+          "Thinner profile fits standard fitted sheets without needing deep-pocket sizing"
+        ],
+        "limitations": [
+          "2-inch depth provides noticeably less pressure relief than the 3-inch options in this list",
+          "Less correction for a firm or aging mattress compared to thicker toppers",
+          "Compresses faster under nightly use than the 3-inch version"
+        ],
+        "features": [
+          "2-inch gel-infused memory foam",
+          "Plush feel",
+          "CertiPUR-US certified",
+          "Typically under $40 for queen"
+        ]
+      },
+      {
+        "name": "Lucid 3-Inch Gel Memory Foam Topper",
+        "brand": "Lucid",
+        "asin": "B08BNC8V2Q",
+        "blurb": "Key specs: 3-inch gel-infused memory foam, 5-zone design, Ventilated cooling channels.",
+        "strengths": [
+          "5-zone design offers more targeted pressure relief than a uniform-density budget topper",
+          "Ventilation channels are a genuine cooling advantage over simpler gel foam at a similar price"
+        ],
+        "limitations": [
+          "No corner straps, so it can shift on a slick mattress surface",
+          "Off-gassing smell for the first day or two after unboxing"
+        ],
+        "features": [
+          "3-inch gel-infused memory foam",
+          "5-zone design",
+          "Ventilated cooling channels",
+          "Typically $65 to $85 for queen"
+        ]
+      },
+      {
+        "name": "Molblly 3-Inch Gel Memory Foam Mattress Topper",
+        "brand": "Molblly",
+        "asin": "B091XZQXCJ",
+        "blurb": "",
+        "strengths": [
+          "Gel infusion for cooling",
+          "Removable washable cover",
+          "Long warranty",
+          "Budget price"
+        ],
+        "limitations": [
+          "Softer feel may not suit stomach sleepers",
+          "Gel cooling is modest",
+          "Off-gassing at first"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

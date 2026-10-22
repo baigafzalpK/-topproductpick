@@ -1,0 +1,116 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Portable Tire Inflators for Off-Roading",
+  "h1": "The 4 Best Portable Tire Inflators for Off-Roading",
+  "metaDescription": "Our 4 picks for portable tire inflators for off-roading, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at portable tire inflators for off-roading using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-tire-inflators",
+  "related": [
+    "best-tire-inflators"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "VIAIR 400P Portable Compressor Kit",
+        "brand": "VIAIR",
+        "asin": "B000X9AXR8",
+        "blurb": "Key specs: 150 PSI maximum pressure, rated for tires up to 35 inches, 33% duty cycle at 20 minutes continuous run, IP54 dust and water resistance rating.",
+        "strengths": [
+          "Rated specifically for tires up to 35 inches, unlike passenger-car-focused inflators",
+          "IP54 sealing holds up to mud and dust across repeated trail seasons",
+          "33% duty cycle airs up a full set of four oversized tires without a forced cooldown"
+        ],
+        "limitations": [
+          "26-amp draw needs the engine running, not just the battery",
+          "Larger case takes up more storage space in a trail rig"
+        ],
+        "features": [
+          "150 PSI maximum pressure, rated for tires up to 35 inches",
+          "33% duty cycle at 20 minutes continuous run",
+          "IP54 dust and water resistance rating",
+          "Direct-drive gearless motor with no gears to strip under load",
+          "26-amp draw for sustained large-tire performance"
+        ],
+        "badge": "Best overall",
+        "bestFor": "off roading"
+      },
+      {
+        "name": "DEWALT DCC020IB 20V MAX Tire Inflator",
+        "brand": "DEWALT",
+        "asin": "B07H39S9JQ",
+        "blurb": "Key specs: Runs on 20V MAX battery, 12V DC, or 110V AC, Automatic shut-off at a set PSI, Screw-on Schrader chuck.",
+        "strengths": [
+          "Works without any connection to the vehicle's electrical system at all",
+          "LED light is genuinely useful topping off tires after dusk on the trail",
+          "Already-owned DEWALT batteries make this close to free for existing owners"
+        ],
+        "limitations": [
+          "Slower per tire on 35-inch tires than the dedicated VIAIR 400P",
+          "Battery runtime limits how many tires it can air up in one charge",
+          "Not weather-sealed for mud or water crossings"
+        ],
+        "features": [
+          "Runs on 20V MAX battery, 12V DC, or 110V AC",
+          "Automatic shut-off at a set PSI",
+          "Screw-on Schrader chuck",
+          "LED work light for airing up after dark",
+          "Sold as a bare tool"
+        ],
+        "bestFor": "off roading"
+      },
+      {
+        "name": "EPAuto 12V DC Portable Air Compressor",
+        "brand": "EPAuto",
+        "asin": "B01L9WSTEG",
+        "blurb": "Key specs: Digital gauge in PSI, KPA, BAR, and KG/CM2, Auto shut-off at a preset target pressure, Built-in LED flashlight.",
+        "strengths": [
+          "Cheap enough to carry as a backup in case the main compressor fails on the trail",
+          "Auto shut-off is convenient for topping off a single tire that's slightly low"
+        ],
+        "limitations": [
+          "Not rated for 33-inch-plus off-road tires, only car and midsize SUV sizes",
+          "10-minute duty cycle is too short for a full set of oversized tires",
+          "Not sealed against mud or dust exposure"
+        ],
+        "features": [
+          "Digital gauge in PSI, KPA, BAR, and KG/CM2",
+          "Auto shut-off at a preset target pressure",
+          "Built-in LED flashlight",
+          "12V DC cigarette lighter plug",
+          "Compact enough to store as a secondary unit"
+        ],
+        "bestFor": "off roading"
+      },
+      {
+        "name": "Kensun AC/DC Rapid Performance Digital Tire Inflator",
+        "brand": "Kensun",
+        "asin": "B01J8Y91GC",
+        "blurb": "Key specs: Dual power: 12V DC car socket and 110V AC wall outlet, 120W solid metal motor, Backlit digital gauge in PSI, BAR, and KPA.",
+        "strengths": [
+          "AC option is useful at a campground or cabin with a generator or shore power",
+          "Metal motor holds up better than plastic-geared budget units under repeated use",
+          "Backlit gauge is easy to read at a dark campsite"
+        ],
+        "limitations": [
+          "Not built for 33-inch-plus tire volumes like the VIAIR",
+          "Slower recovery time between tires than a purpose-built off-road compressor",
+          "AC cord connection is a recurring complaint in long-term reviews"
+        ],
+        "features": [
+          "Dual power: 12V DC car socket and 110V AC wall outlet",
+          "120W solid metal motor",
+          "Backlit digital gauge in PSI, BAR, and KPA",
+          "Auto shut-off at a preset pressure",
+          "Carry case included"
+        ],
+        "bestFor": "off roading"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

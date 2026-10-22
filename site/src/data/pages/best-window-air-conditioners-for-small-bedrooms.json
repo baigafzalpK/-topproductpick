@@ -1,0 +1,125 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Window Air Conditioners for Small Bedrooms in 2026",
+  "h1": "The 4 Best Window Air Conditioners for Small Bedrooms in 2026",
+  "metaDescription": "Our 4 picks for window air conditioners for small bedrooms in 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at window air conditioners for small bedrooms in 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-window-air-conditioners",
+  "related": [
+    "best-window-air-conditioners"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Midea 8,000 BTU U-Shaped Smart Inverter Window Air Conditioner",
+        "brand": "Midea",
+        "asin": "B0FDQGPCG7",
+        "blurb": "Key specs: 8,000 BTU inverter compressor, Cools rooms up to 350 sq ft, As low as 32 dBA on low fan.",
+        "strengths": [
+          "Inverter compressor settles into a low steady hum instead of cycling on and off through the night",
+          "U-shaped design lets you lock the window sash down over the unit for bedroom security",
+          "Won the Energy Star Most Efficient 2020 award as the first window AC to do so",
+          "32 dBA low-fan rating is the quietest published figure of any unit in this list"
+        ],
+        "limitations": [
+          "Installation is more involved than a standard slide-in unit since the frame splits around the sash",
+          "Midea issued a 2025 recall and repair program for early U-shaped units over a drain-related mold risk, so confirm your unit's status on Midea's recall page before buying secondhand",
+          "Costs more than a comparable fixed-speed 8,000 BTU unit"
+        ],
+        "features": [
+          "8,000 BTU inverter compressor",
+          "Cools rooms up to 350 sq ft",
+          "As low as 32 dBA on low fan",
+          "U-shaped design keeps the compressor outside the window",
+          "37% more efficient than the federal minimum standard",
+          "Alexa and Google Assistant compatible"
+        ],
+        "bestFor": "small bedrooms"
+      },
+      {
+        "name": "LG 8,000 BTU Smart Window Air Conditioner LW8017ERSM1",
+        "brand": "LG",
+        "asin": "B0BM57MTL7",
+        "blurb": "Key specs: 8,000 BTU cooling capacity, Cools rooms up to 340 sq ft, LG ThinQ Wi-Fi app control.",
+        "strengths": [
+          "Owner reports describe a 340 sq ft room cooling noticeably within about 15 minutes on high",
+          "LG ThinQ app adds remote start and scheduling that budget units typically skip",
+          "Filter pulls out from the front without removing the whole unit from the window",
+          "Usually the least expensive 8,000 BTU option of the four here"
+        ],
+        "limitations": [
+          "Fixed-speed compressor runs louder at full cooling than the Midea's inverter",
+          "ThinQ app requires an LG account and a stable 2.4GHz Wi-Fi connection to set up",
+          "No U-shaped frame, so the lower sash still rests against the case rather than locking down"
+        ],
+        "features": [
+          "8,000 BTU cooling capacity",
+          "Cools rooms up to 340 sq ft",
+          "LG ThinQ Wi-Fi app control",
+          "3 cooling and 3 fan speeds",
+          "Washable pre-filter",
+          "Auto restart after a power outage"
+        ],
+        "bestFor": "small bedrooms"
+      },
+      {
+        "name": "GE Profile ClearView 8,300 BTU Smart Window Air Conditioner AHTT08BC",
+        "brand": "GE Profile",
+        "asin": "B09HF5VMV6",
+        "blurb": "Key specs: 8,300 BTU cooling capacity, Cools rooms up to 350 sq ft, Sits below the sill for a full outside view.",
+        "strengths": [
+          "Sits low in the window frame instead of blocking the view like a typical boxy unit",
+          "41 dB rating is genuinely quiet for a non-inverter unit",
+          "Flex-depth frame fits walls from 4.5 to nearly 14 inches thick without extra parts",
+          "No bracket to bolt on before lifting the unit into place"
+        ],
+        "limitations": [
+          "Runs noticeably more expensive than the LG or Midea at most retailers",
+          "SmartHQ app and Wi-Fi module add another setup step some owners skip entirely",
+          "Flex-depth frame is bulkier to store off-season than a slim slide-in unit"
+        ],
+        "features": [
+          "8,300 BTU cooling capacity",
+          "Cools rooms up to 350 sq ft",
+          "Sits below the sill for a full outside view",
+          "No mounting bracket needed for install",
+          "41 dB rated ultra-quiet operation",
+          "SmartHQ Wi-Fi app, Alexa and Google Assistant"
+        ],
+        "bestFor": "small bedrooms"
+      },
+      {
+        "name": "Frigidaire 5,000 BTU Window-Mounted Air Conditioner",
+        "brand": "Frigidaire",
+        "asin": "B07RGM11L5",
+        "blurb": "Key specs: 5,000 BTU cooling capacity, Cools rooms up to 150 sq ft, Mechanical dial controls, no app.",
+        "strengths": [
+          "Correctly sized for a genuinely small bedroom or nursery instead of oversized for the space",
+          "Mechanical dial has nothing to pair, update, or lose Wi-Fi connection",
+          "Among the least expensive units in this category at most retailers",
+          "Compact housing fits narrower and shorter window openings than 8,000 BTU units"
+        ],
+        "limitations": [
+          "150 sq ft ceiling means it will struggle in anything bigger than a small bedroom",
+          "No digital temperature readout, just a numbered dial",
+          "Only 2 fan speeds versus 3 on the larger units in this list"
+        ],
+        "features": [
+          "5,000 BTU cooling capacity",
+          "Cools rooms up to 150 sq ft",
+          "Mechanical dial controls, no app",
+          "2 cooling and 2 fan speeds",
+          "Auto restart after a power outage",
+          "Compact 14-inch height fits shorter windows"
+        ],
+        "bestFor": "small bedrooms"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Strollers Under $400",
+  "h1": "The 4 Best Strollers Under $400",
+  "metaDescription": "Our 4 picks for strollers under $400, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at strollers under $400 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-strollers",
+  "related": [
+    "best-strollers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Baby Jogger City Mini GT2 Travel System",
+        "brand": "Baby Jogger",
+        "asin": "B081R32WF5",
+        "blurb": "Key specs: Includes City GO 2 infant car seat, Forever-air rubber tires, never go flat, All-wheel suspension.",
+        "strengths": [
+          "All-wheel suspension and flat-free tires outperform every other option in this list on rough terrain",
+          "One-hand fold and auto-lock genuinely speed up daily loading and unloading",
+          "Grows well past infancy, supporting a child up to 65 lbs"
+        ],
+        "limitations": [
+          "Wider footprint than compact strollers, less ideal for narrow doorways",
+          "No true bassinet or pram mode, relies on the included car seat for newborns"
+        ],
+        "features": [
+          "Includes City GO 2 infant car seat",
+          "Forever-air rubber tires, never go flat",
+          "All-wheel suspension",
+          "One-hand compact fold with auto-lock",
+          "Supports child up to 65 lbs"
+        ]
+      },
+      {
+        "name": "Chicco Bravo Trio Travel System",
+        "brand": "Chicco",
+        "asin": "B08VZK14KZ",
+        "blurb": "Key specs: Includes Chicco KeyFit 30 infant car seat and base, Click-in car seat with no adapter needed, One-hand, self-standing fold.",
+        "strengths": [
+          "KeyFit 30 is one of the highest-rated infant car seats sold independently, a strong bundle value",
+          "No adapter required, the car seat clicks directly onto the stroller frame",
+          "Self-standing fold prevents tipping when folded in a trunk or hallway"
+        ],
+        "limitations": [
+          "4-wheel suspension is smoother than budget models but not as capable off pavement as the City Mini GT2's all-wheel system",
+          "Heavier once the car seat is attached than stroller-only options",
+          "Toddler seat reclines deeply but isn't a true flat pram mode"
+        ],
+        "features": [
+          "Includes Chicco KeyFit 30 infant car seat and base",
+          "Click-in car seat with no adapter needed",
+          "One-hand, self-standing fold",
+          "4-wheel suspension",
+          "UPF 50+ canopy with peekaboo mesh window"
+        ]
+      },
+      {
+        "name": "Graco Modes Pramette Stroller",
+        "brand": "Graco",
+        "asin": "B07Y5X8G4B",
+        "blurb": "Key specs: True pram mode with flat-lying reversible seat, 3-in-1: car seat carrier, pramette, toddler stroller, One-hand fold.",
+        "strengths": [
+          "Reversible seat lets a newborn face the parent, a preferred orientation early on",
+          "One-hand fold speeds up daily use for solo parents"
+        ],
+        "limitations": [
+          "Car seat sold separately on the stroller-only version",
+          "Pram mode compartment is smaller than a dedicated bassinet attachment like the UPPAbaby Vista V2's",
+          "Storage basket is smaller than the City Mini GT2 or Bravo Trio"
+        ],
+        "features": [
+          "True pram mode with flat-lying reversible seat",
+          "3-in-1: car seat carrier, pramette, toddler stroller",
+          "One-hand fold",
+          "Removable child tray with cup holders",
+          "Compatible with Graco SnugRide infant car seats"
+        ]
+      },
+      {
+        "name": "BOB Gear Revolution Flex 3.0 Jogging Stroller",
+        "brand": "BOB Gear",
+        "asin": "B0829PMJ8D",
+        "blurb": "Key specs: Swivel-locking front wheel, Mountain-bike-style suspension with air-filled tires, Adjustable handlebar.",
+        "strengths": [
+          "Real suspension and air-filled tires deliver a noticeably smoother ride than any non-jogging stroller in this list",
+          "Swivel-locking front wheel supports both running and everyday maneuverability",
+          "Adjustable handlebar fits multiple parent heights"
+        ],
+        "limitations": [
+          "No car seat included, this is stroller-only",
+          "Larger folded footprint than travel systems and compact strollers",
+          "Air-filled tires require occasional inflation, unlike foam-filled wheels"
+        ],
+        "features": [
+          "Swivel-locking front wheel",
+          "Mountain-bike-style suspension with air-filled tires",
+          "Adjustable handlebar",
+          "6 storage pockets including a cell phone pocket",
+          "Extra-large UPF 50+ canopy"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

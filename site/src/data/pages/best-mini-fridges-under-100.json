@@ -1,0 +1,65 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 2 Best Mini Fridges Under $100",
+  "h1": "The 2 Best Mini Fridges Under $100",
+  "metaDescription": "Our 2 picks for mini fridges under $100, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at mini fridges under $100 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-mini-fridges",
+  "related": [
+    "best-mini-fridges"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Frigidaire EFR176 1.6 Cu Ft Retro Mini Fridge",
+        "brand": "Frigidaire",
+        "asin": "B07LDVXK4Q",
+        "blurb": "Key specs: 1.6 cu ft capacity, Typically $90 to $125, frequently on sale under $100, Retro-styled body with a side-mounted bottle opener.",
+        "strengths": [
+          "Retro styling and a built-in bottle opener add real personality at a budget price",
+          "Flush-back design maximizes usable floor space"
+        ],
+        "limitations": [
+          "1.6 cu ft is genuinely small -- drinks and snacks, not groceries",
+          "Plastic door handle feels less durable than pricier models' metal handles",
+          "No true freezer, only a small ice tray compartment"
+        ],
+        "features": [
+          "1.6 cu ft capacity",
+          "Typically $90 to $125, frequently on sale under $100",
+          "Retro-styled body with a side-mounted bottle opener",
+          "Flush-back design",
+          "Wire shelf, 2-liter door bin"
+        ],
+        "badge": "Best overall"
+      },
+      {
+        "name": "BLACK+DECKER BCRK25V 2.5 Cu Ft Compact Refrigerator",
+        "brand": "BLACK+DECKER",
+        "asin": "B01DZQI700",
+        "blurb": "Key specs: 2.5 cu ft single-door capacity, Typically $120 to $150, occasionally near $110 on sale, ENERGY STAR certified, about 212 kWh/year.",
+        "strengths": [
+          "ENERGY STAR certification keeps the extra cost partly offset by lower running costs",
+          "Glass shelves and a proper door bin feel more finished than base-tier fridges"
+        ],
+        "limitations": [
+          "Small top freezer barely holds an ice tray",
+          "Manual defrost required periodically"
+        ],
+        "features": [
+          "2.5 cu ft single-door capacity",
+          "Typically $120 to $150, occasionally near $110 on sale",
+          "ENERGY STAR certified, about 212 kWh/year",
+          "Small freezer compartment with ice tray",
+          "Two removable glass shelves"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,3812 @@
+[
+  {
+    "slug": "",
+    "updatedAt": "2026-10-20",
+    "priority": 1
+  },
+  {
+    "slug": "categories",
+    "updatedAt": "2026-10-20",
+    "priority": 0.6
+  },
+  {
+    "slug": "3d-printers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "about",
+    "updatedAt": "2026-10-19",
+    "priority": 0.3
+  },
+  {
+    "slug": "affiliate-disclosure",
+    "updatedAt": "2026-10-19",
+    "priority": 0.3
+  },
+  {
+    "slug": "air-fryers",
+    "updatedAt": "2026-10-19",
+    "priority": 0.9
+  },
+  {
+    "slug": "air-purifiers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "baby-and-kids",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-2-slice-toasters",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-3d-printers-for-beginners",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-3d-printers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-4k-monitors",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-90-degree-wood-clamp",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-a-wood-to-concrete-glue",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-adjustable-dumbbells-for-beginners",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-adjustable-dumbbells-for-heavy-lifting",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-adjustable-dumbbells-for-home-gyms",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-adjustable-dumbbells-for-small-apartments",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-adjustable-dumbbells-under-200",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-adjustable-dumbbells-under-400",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-adjustable-dumbbells",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-air-fryer-toaster-ovens",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-air-fryers-for-families",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-air-fryers-under-100",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-air-fryers",
+    "updatedAt": "2026-10-19",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-air-purifiers-for-allergies",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-air-purifiers-under-200",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-air-purifiers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-automatic-pet-feeders-for-cats-on-diets",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-automatic-pet-feeders-for-multi-pet-households",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-automatic-pet-feeders-for-vacations",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-automatic-pet-feeders-for-wet-food",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-automatic-pet-feeders-under-150",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-automatic-pet-feeders-under-60",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-automatic-pet-feeders",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-baby-bottles-for-breastfed-babies",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-baby-bottles-for-colic",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-baby-bottles-for-daycare",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-baby-bottles-for-newborns",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-baby-bottles-under-15",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-baby-bottles-under-30",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-baby-bottles",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-baby-monitors-for-large-homes",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-baby-monitors-for-no-wifi-needed",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-baby-monitors-for-toddlers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-baby-monitors-for-twins",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-baby-monitors-under-100",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-baby-monitors-under-200",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-baby-monitors",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-band-saws",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-bandsaw-blades-for-woodworking",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-bathroom-covers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-beginner-wood-lathe",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-belgian-waffle-makers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-bench-clamps-for-woodworking",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-bench-vise",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-biscuit-joiner",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-blackout-curtains-for-bright-bedrooms",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-blackout-curtains-for-nurseries",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-blackout-curtains-for-shift-workers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-blackout-curtains-for-small-windows",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-blackout-curtains-under-30",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-blackout-curtains-under-60",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-blackout-curtains",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-blenders-for-smoothies",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-blenders-under-100",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-blenders",
+    "updatedAt": "2026-10-19",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-bluetooth-speakers-for-outdoors",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-bluetooth-speakers-under-100",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-brad-nailer",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-bread-machines-for-beginners",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-bread-machines-for-gluten-free-bread",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-bread-machines-for-small-households",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-bread-machines-for-whole-wheat",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-bread-machines-under-100",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-bread-machines-under-150",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-bread-machines",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-budget-3d-printers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-budget-gaming-headsets",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-budget-mechanical-keyboards",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-budget-office-chairs",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-budget-standing-desks",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-budget-usb-microphones",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-budget-wifi-routers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-budget-wireless-earbuds",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-ca-glue-for-woodworking",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-cabinet-saw",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-cable-management-for-desks",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-cable-management-for-standing-desks",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-cable-management",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-cable-raceways",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-capture-cards",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-car-seats-for-convertible-use",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-car-seats-for-newborns",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-car-seats-for-small-cars",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-car-seats-for-travel",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-car-seats-under-150",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-car-seats-under-300",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-car-seats",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-car-wash-equipment",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-car-wash-kits",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-card-scraper",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-carving-tools-for-beginners",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-cat-litter-boxes-for-multi-cat-households",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-cat-litter-boxes-for-odor-control",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-cat-litter-boxes-for-senior-cats",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-cat-litter-boxes-for-small-apartments",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-cat-litter-boxes-under-200",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-cat-litter-boxes-under-80",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-cat-litter-boxes",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-chef-knives-for-beginners",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-chef-knives-under-100",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-chef-knives",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-chisel-sharpening-kit",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-chisels-for-carving",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-chisels-for-woodworking",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-coffee-grinders-for-espresso",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-coffee-grinders-under-200",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-coffee-grinders",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-coffee-makers-for-one-person",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-coffee-makers-under-100",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-coffee-makers",
+    "updatedAt": "2026-10-19",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-compound-miter-saw",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-coping-saw",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-cordless-immersion-blenders",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-cordless-jigsaw",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-cork-desk-pads",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-corner-clamps-for-woodworking",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-countertop-ice-makers-for-entertaining",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-countertop-ice-makers-for-nugget-ice",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-countertop-ice-makers-for-rv-camping",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-countertop-ice-makers-for-small-kitchens",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-countertop-ice-makers-under-100",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-countertop-ice-makers-under-200",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-cushioned-running-shoes",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-dado-set-for-table-saw",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-deep-fryers-for-french-fries",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-deep-fryers-for-fried-chicken",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-deep-fryers-for-small-kitchens",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-deep-fryers-for-turkey",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-deep-fryers-under-100",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-deep-fryers-under-50",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-deep-fryers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-dehumidifiers-for-basements",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-dehumidifiers-for-crawl-spaces",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-dehumidifiers-for-humid-climates",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-dehumidifiers-for-small-bedrooms",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-dehumidifiers-under-150",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-dehumidifiers-under-250",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-dehumidifiers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-desk-lamps-for-home-office",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-desk-lamps-for-studying",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-detail-sander",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-diaper-bags-for-dads",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-diaper-bags-for-minimalist-parents",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-diaper-bags-for-travel",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-diaper-bags-for-twins",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-diaper-bags-under-100",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-diaper-bags-under-50",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-diaper-bags",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-dog-beds-for-chewers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-dog-beds-for-hot-climates",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-dog-beds-for-large-breeds",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-dog-beds-for-senior-dogs-with-joint-pain",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-dog-beds-under-150",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-dog-beds-under-60",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-dog-beds",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-dog-crates-for-anxious-dogs",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-dog-crates-for-apartments",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-dog-crates-for-crate-training-puppies",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-dog-crates-for-large-breeds",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-dog-crates-under-150",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-dog-crates-under-80",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-dog-crates",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-double-sided-tape-for-woodworking",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-dovetail-jig",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-dovetail-saw",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-dowel-jig",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-drawing-tablets-for-animation",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-drawing-tablets-for-beginners",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-drawing-tablets",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-drawknife",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-drip-coffee-makers-under-100",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-drip-coffee-makers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-dry-lubricants",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-dual-monitor-arms",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-dust-collector-for-woodworking",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-edge-router-bit",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-electric-can-openers-for-arthritis",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-electric-can-openers-for-large-cans",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-electric-can-openers-for-one-handed-use",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-electric-can-openers-for-seniors",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-electric-can-openers-under-30",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-electric-can-openers-under-50",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-electric-can-openers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-electric-kettles-under-50",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-electric-kettles",
+    "updatedAt": "2026-10-19",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-electric-pressure-cookers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-electric-skillets-for-camping",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-electric-skillets-for-dorm-cooking",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-electric-skillets-for-large-family-meals",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-electric-skillets-for-pancakes",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-electric-skillets-under-40",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-electric-skillets-under-70",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-electric-skillets",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-electric-toothbrushes",
+    "updatedAt": "2026-10-19",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-epoxy-glue-for-wood",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-ergonomic-keyboards-for-programmers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-ergonomic-keyboards-under-100",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-ergonomic-keyboards",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-ergonomic-mice-for-small-hands",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-ergonomic-mice",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-espresso-machines-for-beginners",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-espresso-machines-under-500",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-espresso-machines",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-exterior-wood-glue",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-fast-drying-wood-glue",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-featherboard",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-finish-nailer",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-fitness-trackers-for-running",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-fitness-trackers-for-seniors",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-fitness-trackers-for-sleep-tracking",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-fitness-trackers-for-swimming",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-fitness-trackers-under-150",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-fitness-trackers-under-50",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-fitness-trackers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-flush-trim-router-bit",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-foam-rollers-for-beginners",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-foam-rollers-for-deep-tissue-massage",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-foam-rollers-for-lower-back-pain",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-foam-rollers-for-runners",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-foam-rollers-under-20",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-foam-rollers-under-40",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-foam-rollers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-food-dehydrators-for-dog-treats",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-food-dehydrators-for-fruit-leather",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-food-dehydrators-for-herbs",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-food-dehydrators-for-jerky",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-food-dehydrators-under-150",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-food-dehydrators-under-80",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-food-dehydrators",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-food-processors-for-small-kitchens",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-food-processors-under-100",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-food-processors",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-furniture-covers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-gaming-chairs-for-back-pain",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-gaming-chairs-under-300",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-gaming-chairs",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-gaming-headsets-for-ps5",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-gaming-headsets",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-gaming-mice-under-50",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-gaming-mice",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-gaming-monitors",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-garden-hoses-for-drinking-water-safe",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-garden-hoses-for-hot-climates",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-garden-hoses-for-no-kink-use",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-garden-hoses-for-small-yards",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-garden-hoses-under-30",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-garden-hoses-under-60",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-garden-hoses",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-gel-wrist-rests",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-gooseneck-kettles",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-griddles-for-smash-burgers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-griddles-under-50",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-griddles",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-hand-mixers-for-baking",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-hand-mixers-under-50",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-hand-mixers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-hand-plane-for-beginners",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-hand-saws-for-woodworking",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-hard-tonneau-covers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-headphone-hangers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-headphone-stands-with-usb-hub",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-hearing-protection-woodworking",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-humidifiers-for-allergies",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-humidifiers-for-babies-nursery",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-humidifiers-for-dry-winter-air",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-humidifiers-for-large-rooms",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-humidifiers-under-100",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-humidifiers-under-40",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-humidifiers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-ice-makers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-immersion-blenders-under-50",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-immersion-blenders",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-inground-pool-covers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-instant-pots-for-beginners",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-instant-pots-under-100",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-instant-pots",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-jigsaw-blades-for-wood",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-jointer",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-juicers-for-beginners",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-juicers-for-celery-juice",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-juicers-for-hard-vegetables",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-juicers-for-leafy-greens",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-juicers-for-small-kitchens",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-juicers-under-100",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-juicers-under-200",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-juicers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-jump-ropes-for-beginners",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-jump-ropes-for-double-unders",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-jump-ropes-for-small-spaces",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-jump-ropes-for-weighted-training",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-jump-ropes-under-15",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-jump-ropes-under-30",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-jump-ropes",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-key-lights-for-streaming",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-keycap-sets-for-gaming",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-keycaps",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-laptop-backpacks",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-laptop-bags-for-work",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-laptop-bags",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-laptop-cooling-pads-for-gaming",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-laptop-cooling-pads-for-macbook",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-laptop-cooling-pads",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-laptop-stands-for-desks",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-laptop-stands",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-large-air-fryers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-leaf-blowers-for-gutter-cleaning",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-leaf-blowers-for-large-properties",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-leaf-blowers-for-small-yards",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-leaf-blowers-for-wet-leaves",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-leaf-blowers-under-100",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-leaf-blowers-under-200",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-leaf-blowers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-leather-desk-pads",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-license-plate-covers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-license-plate-frames",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-linear-switches",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-lubricants-for-door-hinges",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-lubricants-oils",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-luggage-for-business-trips",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-luggage-for-carry-on-only",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-luggage-for-checked-bags",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-luggage-for-international-travel",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-luggage-under-150",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-luggage-under-300",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-luggage",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-magnetic-tape-measure",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-manual-coffee-grinders",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-marking-gauge",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-massage-guns-for-lower-back-pain",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-massage-guns-for-quiet-operation",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-massage-guns-for-runners",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-massage-guns-for-travel",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-massage-guns-under-100",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-massage-guns-under-200",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-massage-guns",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-mattress-toppers-for-back-pain",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-mattress-toppers-for-firm-mattresses",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-mattress-toppers-for-hot-sleepers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-mattress-toppers-for-side-sleepers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-mattress-toppers-under-150",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-mattress-toppers-under-80",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-mattress-toppers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-meat-thermometers-for-baking",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-meat-thermometers-for-grilling",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-meat-thermometers-for-smoking",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-meat-thermometers-under-20",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-meat-thermometers-under-50",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-meat-thermometers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-mechanical-keyboards-for-gaming",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-mechanical-keyboards",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-mesh-wifi-systems",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-microphone-accessories",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-microphone-boom-arms",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-microphone-stands",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-milk-frothers-for-cold-foam",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-milk-frothers-for-lattes-at-home",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-milk-frothers-for-matcha",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-milk-frothers-for-oat-milk",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-milk-frothers-under-30",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-milk-frothers-under-50",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-milk-frothers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-mini-cordless-drill",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-mini-food-processors",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-mini-fridges-for-bedrooms",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-mini-fridges-for-dorm-rooms",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-mini-fridges-for-garages",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-mini-fridges-for-offices",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-mini-fridges-under-100",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-mini-fridges-under-150",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-mini-fridges",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-mini-table-saw-for-crafts",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-mini-table-saw",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-miter-saw-stand",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-miter-saw-with-slide",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-moisture-meter-for-wood",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-mold-resistant-shower-curtains",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-monitor-arms-for-ultrawide",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-monitor-arms",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-monitor-light-bars",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-monitors-for-home-office",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-monitors",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-mortise-chisel",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-mouse-wrist-rests",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-multi-cookers",
+    "updatedAt": "2026-10-19",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-multi-device-wireless-chargers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-nas-devices-for-home",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-nas-for-plex",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-neck-pillows",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-noise-cancelling-headphones-for-office",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-noise-cancelling-headphones-for-travel",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-noise-cancelling-headphones",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-office-chairs",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-oscillating-spindle-sander",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-packing-cubes-for-backpacking",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-packing-cubes-for-carry-on-travel",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-packing-cubes-for-family-trips",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-packing-cubes-for-minimalist-packers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-packing-cubes-under-20",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-packing-cubes-under-40",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-packing-cubes",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-panel-clamps-woodworking",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-panini-presses-and-sandwich-makers-for-dorm-rooms",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-panini-presses-and-sandwich-makers-for-grilled-cheese",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-panini-presses-and-sandwich-makers-for-quesadillas",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-panini-presses-and-sandwich-makers-for-small-kitchens",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-panini-presses-and-sandwich-makers-under-30",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-panini-presses-and-sandwich-makers-under-60",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-panini-presses",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-patio-heaters-for-covered-porches",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-patio-heaters-for-large-decks",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-patio-heaters-for-small-patios",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-patio-heaters-for-tables",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-patio-heaters-under-150",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-patio-heaters-under-300",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-patio-heaters",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-personal-blenders",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-pet-cameras-for-apartments",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-pet-cameras-for-dogs-with-separation-anxiety",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-pet-cameras-for-multi-pet-homes",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-pet-cameras-for-treat-dispensing",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-pet-cameras-under-150",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-pet-cameras-under-60",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-pet-cameras",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-pet-proof-sofa-covers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-plunge-router-bits",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-pocket-hole-jig",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-polyurethane-for-wood",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-pool-covers-you-can-walk-on",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-pool-covers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-portable-air-conditioners-for-apartments-without-window-access",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-portable-air-conditioners-for-large-rooms",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-portable-air-conditioners-for-no-exhaust-hose-setup",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-portable-air-conditioners-for-server-rooms",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-portable-air-conditioners-under-300",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-portable-air-conditioners-under-500",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-portable-air-conditioners",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-portable-laptop-stands",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-portable-ssds-for-video-editing",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-portable-ssds",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-portable-tire-inflators-for-bicycle-tires",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-portable-tire-inflators-for-emergency-kits",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-portable-tire-inflators-for-off-roading",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-portable-tire-inflators-for-road-trips",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-portable-tire-inflators-under-30",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-portable-tire-inflators-under-80",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-power-banks-for-laptops",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-power-banks-for-travel",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-power-banks",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-power-tools-for-home-improvement",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-power-tools",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-pressure-cookers-under-100",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-pressure-cookers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-pressure-washers-for-car-detailing",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-pressure-washers-for-cars",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-pressure-washers-for-decks",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-pressure-washers-for-driveways",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-pressure-washers-for-small-jobs-around-the-house",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-pressure-washers-under-150",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-pressure-washers-under-300",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-pressure-washers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-programmable-coffee-makers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-programmable-slow-cookers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-pull-up-bars-for-doorways",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-pull-up-bars-for-garages",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-pull-up-bars-for-heavy-users",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-pull-up-bars-for-small-apartments",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-pull-up-bars-under-30",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-pull-up-bars-under-80",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-pull-up-bars",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-rabbet-plane",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-rabbet-router-bit",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-random-orbital-sander",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-recliner-covers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-resistance-bands-for-beginners",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-resistance-bands-for-glutes",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-resistance-bands-for-physical-therapy",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-resistance-bands-for-travel-workouts",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-resistance-bands-under-15",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-resistance-bands-under-30",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-resistance-bands",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-respirator-woodworking",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-rice-cookers-for-brown-rice",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-rice-cookers-under-100",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-rice-cookers-under-50",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-rice-cookers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-ring-lights-for-video-calls",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-robot-lawn-mowers-for-large-properties",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-robot-lawn-mowers-for-pet-owners",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-robot-lawn-mowers-for-sloped-lawns",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-robot-lawn-mowers-for-small-yards",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-robot-lawn-mowers-under-1500",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-robot-lawn-mowers-under-800",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-robot-lawn-mowers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-robot-vacuums-for-pet-hair",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-robot-vacuums-under-300",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-robot-vacuums",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-round-over-router-bit",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-router-bits-for-beginners",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-router-for-woodworking",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-router-table-and-table-saw",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-routers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-running-shoes-for-beginners",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-running-shoes",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-safety-glasses-woodworking",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-saw-horses",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-scroll-saws",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-sectional-sofa-covers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-sharpening-stones",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-shop-vac-for-woodworking",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-shower-curtains",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-sliding-miter-saw",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-slow-cookers-under-50",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-slow-cookers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-small-rice-cookers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-small-ring-lights",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-smart-home",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-smart-lights",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-smart-plugs",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-smart-speakers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-sofa-covers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-soft-tonneau-covers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-solar-pool-covers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-sous-vide-machines-for-beginners",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-sous-vide-machines-for-large-batch-cooking",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-sous-vide-machines-for-meal-prep",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-sous-vide-machines-for-small-kitchens",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-sous-vide-machines-for-steak",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-sous-vide-machines-under-100",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-sous-vide-machines-under-150",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-sous-vide-machines",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-space-heaters-for-garages",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-space-heaters-for-large-rooms",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-space-heaters-for-offices",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-space-heaters-for-pet-safe-use",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-space-heaters-under-100",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-space-heaters-under-40",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-space-heaters",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-spokeshave",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-stand-mixers-for-bread",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-stand-mixers-under-200",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-stand-mixers-under-300",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-stand-mixers",
+    "updatedAt": "2026-10-19",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-standing-desks-for-home-office",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-standing-desks",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-straight-router-bits",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-streaming-webcams-for-content-creators",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-string-trimmers-for-edging",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-string-trimmers-for-small-yards",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-string-trimmers-for-steep-hills",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-string-trimmers-for-thick-weeds",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-string-trimmers-under-100",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-string-trimmers-under-200",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-string-trimmers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-strollers-for-jogging",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-strollers-for-newborns",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-strollers-for-small-cars",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-strollers-for-twins",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-strollers-under-200",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-strollers-under-400",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-strollers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-super-automatic-espresso-machines",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-super-glue-for-wood",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-table-for-router",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-table-saw-blades",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-table-saw-fences",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-table-saw-for-small-shop",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-tactile-switches",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-tape-measure-with-fractions",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-tape-measure-with-laser",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-teak-oil",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-tire-inflators",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-toaster-ovens-for-baking",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-toaster-ovens-under-100",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-toaster-ovens",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-toasters-under-50",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-toasters",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-toilet-seat-covers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-tonneau-covers-for-f150",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-tonneau-covers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-travel-adapters-for-europe",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-travel-adapters-for-international-travel",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-travel-adapters-for-laptops",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-travel-adapters-for-multiple-devices",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-travel-adapters-under-20",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-travel-adapters-under-40",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-travel-adapters",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-travel-backpacks-for-backpacking-europe",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-travel-backpacks-for-carry-on-only-travel",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-travel-backpacks-for-digital-nomads",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-travel-backpacks-for-weekend-trips",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-travel-backpacks-under-100",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-travel-backpacks-under-200",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-travel-backpacks",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-travel-neck-pillows-for-kids",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-travel-neck-pillows-for-long-haul-flights",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-travel-neck-pillows-for-road-trips",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-travel-neck-pillows-for-side-sleepers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-travel-neck-pillows-under-20",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-travel-neck-pillows-under-40",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-type-of-glue-for-wood-and-vinyl-trim",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-usb-c-hubs",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-usb-c-portable-ssds",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-usb-hubs-for-home-office",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-usb-hubs-for-macbook",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-usb-hubs",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-usb-microphones-for-podcasting",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-usb-microphones",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-vertical-mice",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-waffle-makers-under-50",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-waffle-makers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-water-bottles",
+    "updatedAt": "2026-10-19",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-waterproof-wood-glue",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-webcams-for-streaming",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-webcams-under-100",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-webcams",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-weighted-blankets-for-anxiety",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-weighted-blankets-for-hot-sleepers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-weighted-blankets-under-100",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-weighted-blankets",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-wifi-routers-for-gaming",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-wifi-routers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-window-air-conditioners-for-casement-windows",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-window-air-conditioners-for-large-living-rooms",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-window-air-conditioners-for-quiet-operation",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-window-air-conditioners-for-small-bedrooms",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-window-air-conditioners-under-200",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-window-air-conditioners-under-400",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-window-air-conditioners",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-wine-coolers-and-fridges-for-red-and-white-wine",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-wine-coolers-and-fridges-for-small-apartments",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-wine-coolers-and-fridges-for-under-counter-install",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-wine-coolers-and-fridges-for-wine-collectors",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-wine-coolers-and-fridges-under-150",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-wine-coolers-and-fridges-under-300",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-wine-coolers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-wireless-chargers-for-iphone",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-wireless-earbuds-for-android",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-wireless-earbuds",
+    "updatedAt": "2026-10-19",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-wireless-gaming-mice",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-wood-burning-kit",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-wood-carving-tools",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-wood-clamps",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-wood-conditioner",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-wood-filler",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-wood-finishing-oil",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-wood-hand-planes",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-wood-lathe",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-wood-turning-tools",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-wooden-headphone-stands",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-woodworking-chisels",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-woodworking-clamps",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-woodworking-respirator",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-woodworking-router-table",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-woodworking-squares",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-woodworking-vise",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-woodworking",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-workbench-vise",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-workshop-lighting",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-wrist-rests-for-keyboards",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-wrist-rests",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "best-xlr-cables",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-yoga-mats-for-beginners",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-yoga-mats-for-hot-yoga",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-yoga-mats-for-sensitive-knees",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-yoga-mats-for-travel",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-yoga-mats-under-30",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-yoga-mats-under-60",
+    "updatedAt": "2026-10-20",
+    "priority": 0.8
+  },
+  {
+    "slug": "best-yoga-mats",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "blenders",
+    "updatedAt": "2026-10-19",
+    "priority": 0.9
+  },
+  {
+    "slug": "bluetooth-speakers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "breville-bambino-plus-review",
+    "updatedAt": "2026-10-19",
+    "priority": 0.7
+  },
+  {
+    "slug": "car-wash-equipment",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "chef-knives",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "coffee-grinders",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "coffee-makers",
+    "updatedAt": "2026-10-19",
+    "priority": 0.9
+  },
+  {
+    "slug": "contact",
+    "updatedAt": "2026-10-19",
+    "priority": 0.3
+  },
+  {
+    "slug": "desk-lamps",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "desk-pads",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "drawing-tablets",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "drip-coffee-makers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "editorial-policy",
+    "updatedAt": "2026-10-19",
+    "priority": 0.3
+  },
+  {
+    "slug": "electric-kettles",
+    "updatedAt": "2026-10-19",
+    "priority": 0.9
+  },
+  {
+    "slug": "electric-toothbrushes",
+    "updatedAt": "2026-10-19",
+    "priority": 0.9
+  },
+  {
+    "slug": "electronics",
+    "updatedAt": "2026-10-19",
+    "priority": 0.9
+  },
+  {
+    "slug": "ergonomic-keyboards",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "ergonomic-mice",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "espresso-machines",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "food-processors",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "gaming-chairs",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "gaming-headsets",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "gaming-mice",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "griddles",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "hand-mixers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "headphone-stands",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "health-and-fitness",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "home-and-living",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "how-to-choose-a-blender",
+    "updatedAt": "2026-10-19",
+    "priority": 0.7
+  },
+  {
+    "slug": "how-to-choose-a-stand-mixer",
+    "updatedAt": "2026-10-19",
+    "priority": 0.7
+  },
+  {
+    "slug": "how-to-choose-a-water-bottle",
+    "updatedAt": "2026-10-19",
+    "priority": 0.7
+  },
+  {
+    "slug": "how-to-choose-an-air-fryer",
+    "updatedAt": "2026-10-19",
+    "priority": 0.7
+  },
+  {
+    "slug": "how-to-choose-an-electric-kettle",
+    "updatedAt": "2026-10-19",
+    "priority": 0.7
+  },
+  {
+    "slug": "how-to-choose-an-electric-toothbrush",
+    "updatedAt": "2026-10-19",
+    "priority": 0.7
+  },
+  {
+    "slug": "how-to-choose-wireless-earbuds",
+    "updatedAt": "2026-10-19",
+    "priority": 0.7
+  },
+  {
+    "slug": "how-to-clean-a-coffee-maker",
+    "updatedAt": "2026-10-19",
+    "priority": 0.6
+  },
+  {
+    "slug": "immersion-blenders",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "instant-pot-duo-vs-duo-plus",
+    "updatedAt": "2026-10-19",
+    "priority": 0.7
+  },
+  {
+    "slug": "instant-pots",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "keyboard-switches",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "kitchen-and-dining",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "kitchenaid-artisan-vs-classic",
+    "updatedAt": "2026-10-19",
+    "priority": 0.7
+  },
+  {
+    "slug": "laptop-cooling-pads",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "laptop-stands",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "license-plate-covers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "mechanical-keyboards",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "methodology",
+    "updatedAt": "2026-10-19",
+    "priority": 0.3
+  },
+  {
+    "slug": "monitor-arms",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "more-topics",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "multi-cookers",
+    "updatedAt": "2026-10-19",
+    "priority": 0.9
+  },
+  {
+    "slug": "nas-devices",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "ninja-af101-vs-cosori-pro-le",
+    "updatedAt": "2026-10-19",
+    "priority": 0.7
+  },
+  {
+    "slug": "noise-cancelling-headphones",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "office-chairs",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "outdoor-and-garden",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "pets",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "pool-covers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "portable-ssds",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "power-banks",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "pressure-cooker-vs-slow-cooker",
+    "updatedAt": "2026-10-19",
+    "priority": 0.7
+  },
+  {
+    "slug": "pressure-cookers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "privacy-policy",
+    "updatedAt": "2026-10-19",
+    "priority": 0.3
+  },
+  {
+    "slug": "rice-cookers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "ring-lights",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "robot-vacuums",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "running-shoes",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "slow-cookers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "stand-mixers",
+    "updatedAt": "2026-10-19",
+    "priority": 0.9
+  },
+  {
+    "slug": "standing-desks",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "streaming-accessories",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "terms-of-use",
+    "updatedAt": "2026-10-19",
+    "priority": 0.3
+  },
+  {
+    "slug": "toaster-ovens",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "toasters",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "tonneau-covers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "tools-and-workshop",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "travel",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "usb-microphones",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "waffle-makers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "water-bottles",
+    "updatedAt": "2026-10-19",
+    "priority": 0.9
+  },
+  {
+    "slug": "webcams",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "wireless-chargers",
+    "updatedAt": "2026-10-20",
+    "priority": 0.9
+  },
+  {
+    "slug": "wireless-earbuds",
+    "updatedAt": "2026-10-19",
+    "priority": 0.9
+  }
+]

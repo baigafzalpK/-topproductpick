@@ -1,0 +1,105 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Portable Tire Inflators Under $80",
+  "h1": "The 4 Best Portable Tire Inflators Under $80",
+  "metaDescription": "Our 4 picks for portable tire inflators under $80, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at portable tire inflators under $80 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-tire-inflators",
+  "related": [
+    "best-tire-inflators"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Kensun AC/DC Rapid Performance Digital Tire Inflator",
+        "brand": "Kensun",
+        "asin": "B01J8Y91GC",
+        "blurb": "Key specs: Dual power: 12V DC car socket and 110V AC wall outlet, 120W solid metal motor, Backlit digital gauge in PSI, BAR, and KPA.",
+        "strengths": [
+          "AC/DC dual power is the clearest capability jump over bare-bones budget inflators",
+          "Metal motor construction outlasts plastic-geared budget units under repeated use"
+        ],
+        "limitations": [
+          "Not rated for anything beyond car, bike, and everyday SUV tires",
+          "AC cord connection is a recurring complaint in long-term owner reports",
+          "Slower on larger tires than a purpose-built compressor like the VIAIR 400P"
+        ],
+        "features": [
+          "Dual power: 12V DC car socket and 110V AC wall outlet",
+          "120W solid metal motor",
+          "Backlit digital gauge in PSI, BAR, and KPA",
+          "Auto shut-off at a preset pressure",
+          "Carry case included"
+        ],
+        "badge": "Best overall"
+      },
+      {
+        "name": "EPAuto 12V DC Portable Air Compressor",
+        "brand": "EPAuto",
+        "asin": "B01L9WSTEG",
+        "blurb": "Key specs: Digital gauge in PSI, KPA, BAR, and KG/CM2, Auto shut-off at a preset target pressure, Built-in LED flashlight.",
+        "strengths": [
+          "Over 55,000 Amazon ratings, the largest reliability sample size in this category",
+          "Auto shut-off and a digital gauge match pricier competitors on core features"
+        ],
+        "limitations": [
+          "12V-only, no AC or battery power option",
+          "Not rated for truck tires even at this budget tier",
+          "10-minute duty cycle, shorter than the Kensun or DEWALT"
+        ],
+        "features": [
+          "Digital gauge in PSI, KPA, BAR, and KG/CM2",
+          "Auto shut-off at a preset target pressure",
+          "Built-in LED flashlight",
+          "12V DC cigarette lighter plug",
+          "Rated for car, bike, and midsize SUV tires"
+        ]
+      },
+      {
+        "name": "DEWALT DCC020IB 20V MAX Tire Inflator",
+        "brand": "DEWALT",
+        "asin": "B07H39S9JQ",
+        "blurb": "Key specs: Runs on 20V MAX battery, 12V DC, or 110V AC, Automatic shut-off at a set PSI, Screw-on Schrader chuck.",
+        "strengths": [],
+        "limitations": [
+          "Requires an existing or separately purchased 20V MAX battery to use cordless mode",
+          "Bulkier to store than the dedicated inflators in this list"
+        ],
+        "features": [
+          "Runs on 20V MAX battery, 12V DC, or 110V AC",
+          "Automatic shut-off at a set PSI",
+          "Screw-on Schrader chuck",
+          "LED work light",
+          "Sold as a bare tool"
+        ]
+      },
+      {
+        "name": "VIAIR 400P Portable Compressor Kit",
+        "brand": "VIAIR",
+        "asin": "B000X9AXR8",
+        "blurb": "Key specs: 150 PSI maximum pressure, 33% duty cycle at 20 minutes continuous run, IP54 dust and water resistance rating.",
+        "strengths": [
+          "Rated for tires up to 35 inches, well beyond this tier's typical car-and-SUV limit",
+          "IP54 sealing outlasts unsealed budget and mid-tier inflators in harsh conditions"
+        ],
+        "limitations": [
+          "Overkill for buyers who only need car or midsize SUV tire coverage",
+          "Bulkier storage footprint than every other inflator in this list"
+        ],
+        "features": [
+          "150 PSI maximum pressure",
+          "33% duty cycle at 20 minutes continuous run",
+          "IP54 dust and water resistance rating",
+          "Direct-drive gearless motor",
+          "Included multi-valve accessory kit"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

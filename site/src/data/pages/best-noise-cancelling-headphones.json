@@ -1,0 +1,130 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 6 Best Noise Cancelling Headphones 2026",
+  "h1": "The 6 Best Noise Cancelling Headphones 2026",
+  "metaDescription": "Our 6 picks for noise cancelling headphones 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at noise cancelling headphones 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "noise-cancelling-headphones",
+  "related": [
+    "noise-cancelling-headphones"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Sony WH-1000XM6 Noise Cancelling Headphones",
+        "brand": "Sony",
+        "asin": "B0FBTYSRQ3",
+        "blurb": "",
+        "strengths": [
+          "Class-leading adaptive ANC",
+          "12-mic array for calls",
+          "LDAC hi-res wireless",
+          "Up to about 30 hours battery"
+        ],
+        "limitations": [
+          "Expensive",
+          "Not water resistant",
+          "Touch controls take learning"
+        ],
+        "features": []
+      },
+      {
+        "name": "Sennheiser Momentum 5 Wireless Headphones",
+        "brand": "Sennheiser",
+        "asin": "B0H1YDZJQP",
+        "blurb": "",
+        "strengths": [
+          "Very long battery life",
+          "Lossless and spatial audio support",
+          "Stronger midrange ANC than Momentum 4 (per Sennheiser)",
+          "Detailed Sennheiser sound"
+        ],
+        "limitations": [
+          "Premium price",
+          "New model, limited long-term data",
+          "Bulkier than some rivals"
+        ],
+        "features": []
+      },
+      {
+        "name": "Sony WH-CH720N Noise Canceling Headphones",
+        "brand": "Sony",
+        "asin": "B0BVPNJP1C",
+        "blurb": "",
+        "strengths": [
+          "Light at about 192 g",
+          "Up to 35 hours with ANC",
+          "Multipoint pairing",
+          "App EQ and ambient control"
+        ],
+        "limitations": [
+          "ANC weaker than Sony's flagships",
+          "Plastic build",
+          "No high-res LDAC on all versions"
+        ],
+        "features": []
+      },
+      {
+        "name": "Soundcore Space One Noise Cancelling Headphones",
+        "brand": "Soundcore",
+        "asin": "B0D81RQMWM",
+        "blurb": "",
+        "strengths": [
+          "Strong ANC for the price",
+          "LDAC hi-res wireless audio",
+          "Up to 40 h with ANC on",
+          "App with adjustable ANC levels"
+        ],
+        "limitations": [
+          "Bulkier than premium models",
+          "Call quality is average in wind",
+          "Plastic hinges"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "Bose QuietComfort Ultra Headphones (1st Gen)",
+        "brand": "Bose",
+        "asin": "B0CCZ1L489",
+        "blurb": "",
+        "strengths": [
+          "Excellent noise cancelling",
+          "Very comfortable for long wear",
+          "Immersive spatial audio",
+          "Premium build"
+        ],
+        "limitations": [
+          "Shorter battery than rivals (about 24 h)",
+          "Expensive",
+          "Superseded by a 2nd-gen model"
+        ],
+        "features": []
+      },
+      {
+        "name": "Soundcore Q20i Hybrid ANC Headphones",
+        "brand": "Soundcore",
+        "asin": "B0C3HCD34R",
+        "blurb": "",
+        "strengths": [
+          "Very low price for ANC",
+          "Long battery life",
+          "Foldable",
+          "App EQ"
+        ],
+        "limitations": [
+          "ANC far weaker than premium models",
+          "Plastic build",
+          "Average call quality"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

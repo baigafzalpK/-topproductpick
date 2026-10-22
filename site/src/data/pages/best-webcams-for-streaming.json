@@ -1,0 +1,46 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "Our Top Pick: Webcams for Streaming 2026",
+  "h1": "Our Top Pick: Webcams for Streaming 2026",
+  "metaDescription": "Our top pick for webcams for streaming 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at webcams for streaming 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "webcams",
+  "related": [
+    "webcams"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Razer Kiyo Pro",
+        "brand": "Razer",
+        "asin": "B08T1MWX6J",
+        "blurb": "Key specs: 1080p/60fps, Sony STARVIS adaptive light sensor, Adjustable FoV: 90, 103, or 120 degrees.",
+        "strengths": [
+          "Adaptive light sensor adjusts without producing artificial-looking brightening",
+          "Three FoV settings allow adapting to different streaming setups",
+          "60fps for smooth motion during active gameplay streams"
+        ],
+        "limitations": [
+          "Razer Synapse software adds overhead, some streamers prefer to use without it",
+          "Autofocus can hunt in rapidly changing lighting",
+          "Bulkier design than competitors"
+        ],
+        "features": [
+          "1080p/60fps",
+          "Sony STARVIS adaptive light sensor",
+          "Adjustable FoV: 90, 103, or 120 degrees",
+          "HDR mode",
+          "USB 3.0"
+        ],
+        "badge": "Best For Dark Setups",
+        "bestFor": "streaming"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

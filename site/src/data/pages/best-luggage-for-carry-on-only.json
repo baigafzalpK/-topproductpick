@@ -1,0 +1,127 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Carry-On Only Luggage",
+  "h1": "The 5 Best Carry-On Only Luggage",
+  "metaDescription": "Our 5 picks for carry-on only luggage, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at carry-on only luggage using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-luggage",
+  "related": [
+    "best-luggage"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Monos Carry-On Pro 22-Inch Hardside Spinner",
+        "brand": "Monos",
+        "asin": "B0FP46BTQN",
+        "blurb": "Key specs: 22-inch polycarbonate hardshell, 36L capacity, Padded front compartment fits a 16-inch laptop, 360-degree spinner wheels.",
+        "strengths": [
+          "Front laptop compartment is the most convenient at-security access of any bag in this list",
+          "36L capacity is genuinely usable for 4 to 7-day trips with compression cubes",
+          "Highest owner rating in this category at 4.8 out of 5"
+        ],
+        "limitations": [
+          "22-inch size is on the larger edge of some tighter international carry-on sizers",
+          "No expansion panel, capacity is fixed"
+        ],
+        "features": [
+          "22-inch polycarbonate hardshell, 36L capacity",
+          "Padded front compartment fits a 16-inch laptop",
+          "360-degree spinner wheels",
+          "TSA-accepted lock",
+          "Lifetime warranty"
+        ],
+        "badge": "Top pick",
+        "bestFor": "carry on only"
+      },
+      {
+        "name": "Briggs & Riley Baseline 22-Inch Carry-On Spinner",
+        "brand": "Briggs & Riley",
+        "asin": "B00XDI6SJ8",
+        "blurb": "Key specs: 22-inch expandable softside carry-on, One-touch compression packing system, Internal garment system.",
+        "strengths": [
+          "Compression system packs meaningfully more into the same 22-inch footprint",
+          "Internal garment system keeps a jacket or dress flatter than folding into cubes",
+          "Unconditional lifetime guarantee, the strongest warranty of any carry-on in this category"
+        ],
+        "limitations": [
+          "No dedicated laptop compartment",
+          "Softside shell compresses under overhead bin pressure, which some travelers see as a downside for fragile items"
+        ],
+        "features": [
+          "22-inch expandable softside carry-on",
+          "One-touch compression packing system",
+          "Internal garment system",
+          "Double-swivel spinner wheels",
+          "Unconditional lifetime guarantee"
+        ],
+        "bestFor": "carry on only"
+      },
+      {
+        "name": "Samsonite Freeform Hardside Carry-On Spinner",
+        "brand": "Samsonite",
+        "asin": "B01M0A3BKH",
+        "blurb": "Key specs: Expandable polypropylene hardshell, Dual 360-degree spinner wheels, TSA-approved combination lock.",
+        "strengths": [
+          "Lightweight shell leaves more of the carry-on weight allowance for actual belongings",
+          "Hardshell resists crush damage in a packed overhead bin"
+        ],
+        "limitations": [
+          "No front laptop compartment",
+          "Shows scratches and scuffs more visibly than fabric-shell competitors",
+          "Wheel housings wear faster under frequent use than the premium double-swivel designs"
+        ],
+        "features": [
+          "Expandable polypropylene hardshell",
+          "Dual 360-degree spinner wheels",
+          "TSA-approved combination lock",
+          "Lightweight build",
+          "10-year limited warranty"
+        ],
+        "bestFor": "carry on only"
+      },
+      {
+        "name": "Amazon Basics 21\" Hardside Expandable Spinner Carry-On",
+        "brand": "Amazon Basics",
+        "asin": "B071VG5N9D",
+        "blurb": "",
+        "strengths": [
+          "Very affordable",
+          "Expandable for extra space",
+          "Spinner wheels",
+          "Light at under 8 lb"
+        ],
+        "limitations": [
+          "ABS shell scuffs more than polycarbonate",
+          "No built-in TSA lock on this version",
+          "Basic interior"
+        ],
+        "features": []
+      },
+      {
+        "name": "Samsonite Omni 2 Hardside Expandable Carry-On Spinner",
+        "brand": "Samsonite",
+        "asin": "B08BX9QMT8",
+        "blurb": "",
+        "strengths": [
+          "Polycarbonate shell",
+          "Built-in TSA lock",
+          "Expands for extra capacity",
+          "10-year limited warranty"
+        ],
+        "limitations": [
+          "Textured shell still scuffs",
+          "Expanded size may exceed carry-on limits",
+          "No front pocket"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

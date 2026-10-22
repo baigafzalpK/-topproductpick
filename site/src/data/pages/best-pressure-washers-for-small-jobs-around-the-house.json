@@ -1,0 +1,113 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Pressure Washers for Small Jobs Around the House",
+  "h1": "The 4 Best Pressure Washers for Small Jobs Around the House",
+  "metaDescription": "Our 4 picks for pressure washers for small jobs around the house, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at pressure washers for small jobs around the house using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-pressure-washers",
+  "related": [
+    "best-pressure-washers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Greenworks GPW1501 1500 PSI Pressure Washer",
+        "brand": "Greenworks",
+        "asin": "B09W4VQX7Z",
+        "blurb": "Key specs: 1500 max PSI, 1.2 GPM, Upright hand-carry design, Turbo nozzle included.",
+        "strengths": [
+          "Lightest, most compact unit in this list, easy to carry one-handed to wherever the job is",
+          "1500 PSI is well matched to patio furniture, grills, bikes, and similar surfaces without extra caution needed",
+          "Small enough to store on a shelf rather than taking up garage floor space"
+        ],
+        "limitations": [
+          "1.2 GPM is the slowest flow rate among common household pressure washers, small jobs still finish quickly given their size",
+          "Underpowered for driveways, siding, or large decks, this is a dedicated small-jobs tool",
+          "Fewer included nozzle options than larger units like the Sun Joe SPX3000"
+        ],
+        "features": [
+          "1500 max PSI, 1.2 GPM",
+          "Upright hand-carry design",
+          "Turbo nozzle included",
+          "35-foot power cord",
+          "13-Amp motor"
+        ],
+        "badge": "Best overall",
+        "bestFor": "small jobs around the house"
+      },
+      {
+        "name": "AR Blue Clean AR383 Electric Pressure Washer",
+        "brand": "AR Blue Clean",
+        "asin": "B002Z8E52Y",
+        "blurb": "Key specs: 1900 PSI, 1.51 GPM, Bayonet-connect accessories, Onboard detergent tank.",
+        "strengths": [
+          "1900 PSI gives enough headroom to occasionally tackle a walkway or small patio, not just the smallest jobs",
+          "Integrated hose reel and onboard storage keep it tidy for infrequent use",
+          "Priced low enough that it's an easy first pressure washer purchase"
+        ],
+        "limitations": [
+          "Bulkier and heavier than the dedicated-compact Greenworks GPW1501",
+          "Bayonet fittings limit some aftermarket accessory compatibility",
+          "Still not intended for driveway-scale or gas-level cleaning jobs"
+        ],
+        "features": [
+          "1900 PSI, 1.51 GPM",
+          "Bayonet-connect accessories",
+          "Onboard detergent tank",
+          "Integrated hose reel",
+          "Compact onboard storage"
+        ],
+        "bestFor": "small jobs around the house"
+      },
+      {
+        "name": "Sun Joe SPX3000 Electric Pressure Washer",
+        "brand": "Sun Joe",
+        "asin": "B073FCV1ZC",
+        "blurb": "Key specs: 2030 max PSI, 1.76 GPM max flow, 5 quick-connect nozzles, Dual detergent tanks.",
+        "strengths": [
+          "Covers small jobs and larger surfaces like driveways or decks with the same unit, no need for two machines",
+          "Widest nozzle selection here, making it easy to dial down pressure for delicate items like screens or planters",
+          "Most reviewed model in this category, easy to find support, parts, and accessories"
+        ],
+        "limitations": [
+          "Larger and heavier than the Greenworks GPW1501 for someone who genuinely only needs light-duty use",
+          "Overkill in raw PSI for items like patio cushions or bicycles",
+          "Takes up more storage space than a dedicated compact unit"
+        ],
+        "features": [
+          "2030 max PSI, 1.76 GPM max flow",
+          "5 quick-connect nozzles",
+          "Dual detergent tanks",
+          "TSS auto shutoff",
+          "20-foot hose, 35-foot power cord"
+        ],
+        "bestFor": "small jobs around the house"
+      },
+      {
+        "name": "RYOBI 2000 PSI 1.2 GPM Electric Pressure Washer",
+        "brand": "RYOBI",
+        "asin": "B09FRLW2NV",
+        "blurb": "",
+        "strengths": [
+          "Compact and easy to store",
+          "Good pressure for light jobs",
+          "Quick-connect nozzles",
+          "Affordable"
+        ],
+        "limitations": [
+          "Not for heavy concrete stains",
+          "Short hose",
+          "Plastic fittings"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

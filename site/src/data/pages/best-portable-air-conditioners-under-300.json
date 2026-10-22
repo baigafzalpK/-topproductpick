@@ -1,0 +1,81 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Portable Air Conditioners Under $300",
+  "h1": "The 3 Best Portable Air Conditioners Under $300",
+  "metaDescription": "Our 3 picks for portable air conditioners under $300, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at portable air conditioners under $300 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-portable-air-conditioners",
+  "related": [
+    "best-portable-air-conditioners"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "LG LP0621WSR 6,000 BTU Portable Air Conditioner",
+        "brand": "LG",
+        "asin": "B094XJQ27S",
+        "blurb": "Key specs: 6,000 BTU DOE (8,000 BTU ASHRAE) cooling, rated up to 250 sq ft, 3-in-1 operation: cool, dehumidify, fan, Easy-roll casters and auto-swing air vent.",
+        "strengths": [
+          "Washable filter avoids ongoing replacement filter costs",
+          "Lightest and most compact unit across this entire category, easy for one person to move"
+        ],
+        "limitations": [
+          "250 sq ft rating means it is genuinely limited to a small room, not a living area",
+          "No smart app or voice control",
+          "Single-hose design is less efficient than dual-hose units in hotter rooms"
+        ],
+        "features": [
+          "6,000 BTU DOE (8,000 BTU ASHRAE) cooling, rated up to 250 sq ft",
+          "3-in-1 operation: cool, dehumidify, fan",
+          "Easy-roll casters and auto-swing air vent",
+          "Washable air filter with filter alarm",
+          "LCD remote and window installation kit"
+        ],
+        "badge": "Best overall"
+      },
+      {
+        "name": "BLACK+DECKER BP05PWA 8,000 BTU Portable Air Conditioner",
+        "brand": "BLACK+DECKER",
+        "asin": "B08NWBTH3Y",
+        "blurb": "",
+        "strengths": [
+          "Affordable portable cooling",
+          "Remote control and timer",
+          "Window kit included",
+          "Fan and dehumidifier modes"
+        ],
+        "limitations": [
+          "5,000 BTU SACC suits small rooms only",
+          "Single hose is less efficient",
+          "Noticeable compressor noise"
+        ],
+        "features": []
+      },
+      {
+        "name": "BLACK+DECKER Smart Portable Air Conditioner, 8,000 BTU",
+        "brand": "BLACK+DECKER",
+        "asin": "B0DYB9VCF7",
+        "blurb": "",
+        "strengths": [
+          "Wi-Fi app and voice control",
+          "3-in-1: AC, fan, dehumidifier",
+          "Remote included",
+          "Compact"
+        ],
+        "limitations": [
+          "5,100 BTU SACC for small rooms",
+          "Single hose design",
+          "App setup required for smart features"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

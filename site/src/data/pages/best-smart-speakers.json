@@ -1,0 +1,82 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Smart Speakers 2026",
+  "h1": "The 3 Best Smart Speakers 2026",
+  "metaDescription": "Our 3 picks for smart speakers 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at smart speakers 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-smart-home",
+  "related": [
+    "best-smart-home"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Amazon Echo Dot (5th Gen)",
+        "brand": "Amazon",
+        "asin": "B09B8V1LZ3",
+        "blurb": "Key specs: Compact spherical design, Improved audio over 4th Gen, Temperature sensor built in.",
+        "strengths": [
+          "Temperature sensor useful for automation triggers",
+          "Compact size fits anywhere",
+          "Audio improved significantly from previous generation"
+        ],
+        "limitations": [
+          "Audio quality is for ambient listening, not music-focused listening",
+          "No built-in smart home hub (Zigbee requires full Echo)",
+          "Small driver limits low-frequency response"
+        ],
+        "features": [
+          "Compact spherical design",
+          "Improved audio over 4th Gen",
+          "Temperature sensor built in",
+          "Works with all Alexa devices",
+          "LED color ring"
+        ],
+        "badge": "Best Budget",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "Sonos Era 100 Smart Speaker",
+        "brand": "Sonos",
+        "asin": "B0BW2LVJ4P",
+        "blurb": "",
+        "strengths": [
+          "Stereo sound from one speaker",
+          "Wi-Fi multiroom with Sonos",
+          "Bluetooth and line-in via USB-C",
+          "Alexa support"
+        ],
+        "limitations": [
+          "Pricier than Echo speakers",
+          "Sonos app required",
+          "No Google Assistant"
+        ],
+        "features": []
+      },
+      {
+        "name": "Amazon Echo Studio (1st Gen)",
+        "brand": "Amazon",
+        "asin": "B09M67KSSF",
+        "blurb": "",
+        "strengths": [
+          "Room-filling sound and bass",
+          "Dolby Atmos spatial audio",
+          "Built-in smart home hub",
+          "Alexa voice control"
+        ],
+        "limitations": [
+          "Large footprint",
+          "Older generation",
+          "Best features need Amazon Music HD"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

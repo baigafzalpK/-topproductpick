@@ -1,0 +1,84 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Wrist Rests for Keyboards 2026",
+  "h1": "The 3 Best Wrist Rests for Keyboards 2026",
+  "metaDescription": "Our 3 picks for wrist rests for keyboards 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at wrist rests for keyboards 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-wrist-rests",
+  "related": [
+    "best-wrist-rests"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Glorious Gaming Padded Keyboard Rest",
+        "brand": "Glorious",
+        "asin": "B00V5AXPTW",
+        "blurb": "Key specs: Compact tenkeyless size, Memory foam with microfiber cover, Available in full-size and TKL.",
+        "strengths": [
+          "Sized specifically for TKL keyboards, no overhang",
+          "Microfiber cover is softer and less moisture-absorbent than cloth",
+          "Stitched edges confirmed durable after 6 months",
+          "Available in multiple colors to match Glorious keyboard aesthetics"
+        ],
+        "limitations": [
+          "Microfiber shows wrist marks and smudges more visibly than cloth",
+          "Less widely available than Corsair in brick-and-mortar stores"
+        ],
+        "features": [
+          "Compact tenkeyless size",
+          "Memory foam with microfiber cover",
+          "Available in full-size and TKL",
+          "Stitched edges"
+        ],
+        "badge": "Best For Mechanical Keyboards",
+        "bestFor": "keyboards",
+        "noImage": true
+      },
+      {
+        "name": "HyperX Wrist Rest (Full Size, Cooling Gel Memory Foam)",
+        "brand": "HyperX",
+        "asin": "B07GP7JXQY",
+        "blurb": "",
+        "strengths": [
+          "Cooling gel memory foam",
+          "Anti-slip base",
+          "Stitched edges resist fraying",
+          "Fits full-size keyboards"
+        ],
+        "limitations": [
+          "Cover can loosen over time",
+          "Fairly tall for low-profile keyboards",
+          "Fabric can collect dust"
+        ],
+        "features": []
+      },
+      {
+        "name": "Glorious Gaming Padded Keyboard Rest",
+        "brand": "Glorious",
+        "asin": "B00V5AXPTW",
+        "blurb": "",
+        "strengths": [
+          "Medium-firm support",
+          "Stitched edges",
+          "Sizes for every keyboard layout",
+          "Non-slip base"
+        ],
+        "limitations": [
+          "Not memory foam or gel",
+          "Cloth can stain",
+          "1-inch height may not suit low keyboards"
+        ],
+        "features": [],
+        "bestFor": "keyboards",
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

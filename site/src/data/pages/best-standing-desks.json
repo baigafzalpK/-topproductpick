@@ -1,0 +1,103 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Standing Desks 2026",
+  "h1": "The 4 Best Standing Desks 2026",
+  "metaDescription": "Our 4 picks for standing desks 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at standing desks 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "standing-desks",
+  "related": [
+    "standing-desks"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Flexispot E7 Pro",
+        "brand": "Flexispot",
+        "asin": "B094N16PQM",
+        "blurb": "Key specs: Dual motor, 355 lbs capacity, Height range 22.8 to 48.4 inches, 0.6 inches per second lift speed.",
+        "strengths": [
+          "Dual motor is noticeably quieter than single-motor competitors",
+          "355-pound capacity handles multiple monitors comfortably"
+        ],
+        "limitations": [
+          "Heavy at 105 lbs, requires two people to assemble",
+          "Cable management tray sold separately",
+          "No built-in USB charging in the control panel"
+        ],
+        "features": [
+          "Dual motor, 355 lbs capacity",
+          "Height range 22.8 to 48.4 inches",
+          "0.6 inches per second lift speed",
+          "Anti-collision detection",
+          "4 programmable height presets"
+        ],
+        "badge": "Best Overall",
+        "bestFor": "buyers who want the best overall package",
+        "noImage": true
+      },
+      {
+        "name": "FEZIBO 48 x 24 Electric Standing Desk with Drawers",
+        "brand": "FEZIBO",
+        "asin": "B09F6V1ZTK",
+        "blurb": "",
+        "strengths": [
+          "Built-in drawers and top shelf",
+          "Four height presets",
+          "Electric lift at a budget price",
+          "Quiet motor"
+        ],
+        "limitations": [
+          "Single motor is slower than dual-motor desks",
+          "Some wobble at standing height",
+          "Heavy to assemble"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "FLEXISPOT EC1 Electric Standing Desk, 48 x 24",
+        "brand": "FLEXISPOT",
+        "asin": "B08M5QV64S",
+        "blurb": "",
+        "strengths": [
+          "Established brand with frame warranty",
+          "Simple electric height control",
+          "Steel frame",
+          "Good value"
+        ],
+        "limitations": [
+          "Single motor, slower lift",
+          "Lower weight capacity than dual-motor frames",
+          "Basic controller"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "VIVO Electric 55 x 24 Standing Desk with Storage",
+        "brand": "VIVO",
+        "asin": "B0D4BQ33MG",
+        "blurb": "",
+        "strengths": [
+          "Built-in power strip",
+          "Storage drawers",
+          "Memory height presets",
+          "Wider 55-inch top"
+        ],
+        "limitations": [
+          "Heavy and bulky",
+          "Single motor",
+          "Higher minimum height than some desks"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 10 Best Hand Mixers Under $50",
+  "h1": "The 10 Best Hand Mixers Under $50",
+  "metaDescription": "Our 10 picks for hand mixers under $50, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at hand mixers under $50 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "hand-mixers",
+  "related": [
+    "hand-mixers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "KitchenAid 5-Speed Ultra Power Hand Mixer",
+        "brand": "KitchenAid",
+        "asin": "B076CK77ZJ",
+        "blurb": "Key specs: 5-speed slide switch with locking positions, Wide-coverage spiral wire beaters, Built-in bowl rest.",
+        "strengths": [
+          "Bowl rest and single-button eject are premium touches rare at this price",
+          "KitchenAid's track record for 8-12 year longevity"
+        ],
+        "limitations": [
+          "No dough hooks, whisk, or storage case included",
+          "Only 5 speeds versus 9-speed competitors in the same price band"
+        ],
+        "features": [
+          "5-speed slide switch with locking positions",
+          "Wide-coverage spiral wire beaters",
+          "Built-in bowl rest",
+          "Single-button beater eject",
+          "2.4 lb body weight"
+        ]
+      },
+      {
+        "name": "Cuisinart HM-50 Power Advantage 5-Speed Hand Mixer",
+        "brand": "Cuisinart",
+        "asin": "B000TVWFEY",
+        "blurb": "Key specs: 5-speed control, Two standard wire beaters, Cuisinart motor and beater design.",
+        "strengths": [
+          "Handles standard baking tasks without the HM-90S price premium"
+        ],
+        "limitations": [
+          "No storage case, dough hooks, or whisk",
+          "Only 5 speeds, less granular than the 9-speed HM-90S",
+          "Not designed for sustained heavy-dough use"
+        ],
+        "features": [
+          "5-speed control",
+          "Two standard wire beaters",
+          "Cuisinart motor and beater design",
+          "No case or extra attachments"
+        ]
+      },
+      {
+        "name": "Hamilton Beach 6-Speed Electric Hand Mixer",
+        "brand": "Hamilton Beach",
+        "asin": "B001CH0ZLE",
+        "blurb": "Key specs: 6-speed control, Snap-on storage case, Standard wire beaters.",
+        "strengths": [
+          "Handles all light to medium baking tasks reliably"
+        ],
+        "limitations": [
+          "Motor runs noticeably warm after 5 minutes of thick batter",
+          "Not designed for dense dough or extended heavy use",
+          "No dough hooks or whisk"
+        ],
+        "features": [
+          "6-speed control",
+          "Snap-on storage case",
+          "Standard wire beaters"
+        ]
+      },
+      {
+        "name": "Black+Decker Helix Performance Premium 5-Speed Hand Mixer",
+        "brand": "Black+Decker",
+        "asin": "B07G3N1PQS",
+        "blurb": "Key specs: 9-speed control with Turbo Boost button, 500W input power motor, Beaters, dough hooks, and whisk included.",
+        "strengths": [
+          "Whisk is effective for whipped cream and egg whites",
+          "Dough hooks handle small pizza dough batches",
+          "9 speeds at a price where most rivals offer 5-6"
+        ],
+        "limitations": [
+          "Plastic-feel build quality versus KitchenAid or Cuisinart",
+          "Motor bogs sooner than the pricier 220W Cuisinart under thick loads",
+          "No storage case despite the multi-attachment kit"
+        ],
+        "features": [
+          "9-speed control with Turbo Boost button",
+          "500W input power motor",
+          "Beaters, dough hooks, and whisk included"
+        ]
+      },
+      {
+        "name": "Black+Decker MX3200B 6-Speed Hand Mixer",
+        "brand": "Black+Decker",
+        "asin": "B00BIBBIH4",
+        "blurb": "Key specs: 6-speed control, 250W motor, One dough hook included.",
+        "strengths": [
+          "Includes a dough hook where the direct Hamilton Beach competitor does not",
+          "250W motor is adequate for everyday cake and cookie mixing",
+          "Valid alternative when the Hamilton Beach is out of stock"
+        ],
+        "limitations": [
+          "Slightly heavier than the Hamilton Beach at the same price",
+          "Only one dough hook, not a matched pair"
+        ],
+        "features": [
+          "6-speed control",
+          "250W motor",
+          "One dough hook included"
+        ]
+      },
+      {
+        "name": "Dash Smart Store Compact Hand Mixer",
+        "brand": "Dash",
+        "asin": "B00ZGCKMZU",
+        "blurb": "Key specs: Collapsible, compact storage design, Compact storage case, Standard wire beaters.",
+        "strengths": [
+          "Smallest storage footprint of any mixer in this price range",
+          "Well suited to small kitchens, RVs, or drawer-limited households",
+          "Adequate performance for light to medium everyday tasks"
+        ],
+        "limitations": [
+          "Not rated for heavy dough or large batches",
+          "No dough hooks or whisk",
+          "Value is storage footprint, not raw mixing performance"
+        ],
+        "features": [
+          "Collapsible, compact storage design",
+          "Compact storage case",
+          "Standard wire beaters"
+        ]
+      },
+      {
+        "name": "Oster FPSTHM0152 5-Speed Hand Mixer",
+        "brand": "Oster",
+        "asin": "B00F1XABJG",
+        "blurb": "Key specs: 5-speed control, 1.8 lb body weight, Standard wire beaters.",
+        "strengths": [
+          "Lightest mixer in this comparison at 1.8 pounds",
+          "Covers pancake batter, eggs, and boxed cake mix without issue"
+        ],
+        "limitations": [
+          "Not suitable for sustained use or stiff batter",
+          "Motor lacks headroom for cookie dough or dense batter",
+          "No dough hooks or whisk included"
+        ],
+        "features": [
+          "5-speed control",
+          "1.8 lb body weight",
+          "Standard wire beaters"
+        ]
+      },
+      {
+        "name": "OXO On Digital Hand Mixer with Illuminating Headlight",
+        "brand": "OXO",
+        "asin": "B00YEYL8T0",
+        "blurb": "Key specs: 9-speed digital control, LED headlight illuminating the mixing bowl, Digital speed display.",
+        "strengths": [
+          "LED headlight is a genuinely useful touch for dim-kitchen baking",
+          "Competent 9-speed digital performance",
+          "Good fit for households already using OXO kitchen tools"
+        ],
+        "limitations": [
+          "No meaningful performance advantage over KitchenAid or Cuisinart at similar prices",
+          "Lowest rating count in this comparison (2,100)",
+          "No dough hooks or whisk included"
+        ],
+        "features": [
+          "9-speed digital control",
+          "LED headlight illuminating the mixing bowl",
+          "Digital speed display"
+        ]
+      },
+      {
+        "name": "Cuisinart EvolutionX RHM-100 Cordless Hand Mixer",
+        "brand": "Cuisinart",
+        "asin": "B08KL8BHMH",
+        "blurb": "Key specs: Rechargeable cordless operation, Multi-speed digital control, Charging dock/base included.",
+        "strengths": [
+          "Only cordless option in this price range, useful for counters far from an outlet",
+          "No cord to manage during mixing, easier maneuvering around the bowl",
+          "Charging dock doubles as a storage stand"
+        ],
+        "limitations": [
+          "Battery runtime limits sustained heavy mixing sessions",
+          "Motor torque is noticeably weaker than corded competitors at this price"
+        ],
+        "features": [
+          "Rechargeable cordless operation",
+          "Multi-speed digital control",
+          "Charging dock/base included",
+          "Standard wire beaters"
+        ]
+      },
+      {
+        "name": "Proctor Silex 62509PS 5-Speed Hand Mixer",
+        "brand": "Proctor Silex",
+        "asin": "B000QRB1GE",
+        "blurb": "Key specs: 5-speed control, Standard wire beaters, Lightweight, compact body.",
+        "strengths": [
+          "Lowest-cost reliable option for households that bake only occasionally",
+          "Handles pancake batter, eggs, and boxed cake mix without issue",
+          "Simple controls make it easy for first-time bakers to operate"
+        ],
+        "limitations": [
+          "Not suitable for cookie dough or sustained heavy mixing",
+          "No dough hooks, whisk, or storage case",
+          "Motor lacks the headroom of name-brand mixers a tier up"
+        ],
+        "features": [
+          "5-speed control",
+          "Standard wire beaters",
+          "Lightweight, compact body",
+          "Budget-tier motor"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

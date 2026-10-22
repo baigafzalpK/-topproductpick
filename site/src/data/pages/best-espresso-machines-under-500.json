@@ -1,0 +1,283 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 12 Best Espresso Machines Under $500 in 2026",
+  "h1": "The 12 Best Espresso Machines Under $500 in 2026",
+  "metaDescription": "Our 12 picks for espresso machines under $500 in 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at espresso machines under $500 in 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "espresso-machines",
+  "related": [
+    "espresso-machines"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Breville Bambino Plus BES500BSS",
+        "brand": "Breville",
+        "asin": "B07JVD78TT",
+        "blurb": "Key specs: 3-second heat-up, PID temperature, Auto milk frother.",
+        "strengths": [
+          "3-second heat-up via thermojet heating system is the fastest of any pump espresso machine",
+          "Automatic milk texturing eliminates the manual frothing learning curve for beginners"
+        ],
+        "limitations": [
+          "Requires a separate grinder, does not include built-in grinding capability",
+          "Auto frother is not adjustable for manual microfoam control"
+        ],
+        "features": [
+          "3-second heat-up",
+          "PID temperature",
+          "Auto milk frother",
+          "Compact body"
+        ],
+        "badge": "Best Overall",
+        "bestFor": "buyers who want the best overall package"
+      },
+      {
+        "name": "Gaggia Classic Pro",
+        "brand": "Gaggia",
+        "asin": "B086H24F5F",
+        "blurb": "Key specs: 58mm portafilter, Commercial group head, Steam wand.",
+        "strengths": [
+          "58mm commercial-standard portafilter opens a wide aftermarket ecosystem of baskets and accessories",
+          "Made in Italy with the same commercial group head used in espresso bars",
+          "A machine that grows with the user as skills develop"
+        ],
+        "limitations": [
+          "Temperature surfing is required without a PID mod",
+          "Steam wand requires manual technique, no auto frothing"
+        ],
+        "features": [
+          "58mm portafilter",
+          "Commercial group head",
+          "Steam wand",
+          "Made in Italy"
+        ],
+        "badge": "Best Upgradeable"
+      },
+      {
+        "name": "Breville Barista Express BES870XL",
+        "brand": "Breville",
+        "asin": "B00CH9QWOU",
+        "blurb": "Key specs: Built-in grinder, PID temperature, 15-bar pump.",
+        "strengths": [
+          "Only machine in this price range with a built-in grinder that is actually capable for espresso",
+          "PID temperature control and 15-bar pump in an all-in-one unit",
+          "The correct choice for those who do not want to manage two separate machines",
+          "Steam wand produces real microfoam, not automatic frothing"
+        ],
+        "limitations": [
+          "Built-in grinder cannot be upgraded separately"
+        ],
+        "features": [
+          "Built-in grinder",
+          "PID temperature",
+          "15-bar pump",
+          "Steam wand"
+        ],
+        "badge": "Best All In One"
+      },
+      {
+        "name": "De'Longhi Dedica Arte EC885M",
+        "brand": "De'Longhi",
+        "asin": "B09HLB4DP4",
+        "blurb": "Key specs: 6-inch wide, 15-bar pump, Manual frother.",
+        "strengths": [
+          "6-inch wide body fits the tightest kitchen counters of any pump espresso machine",
+          "15-bar pump delivers adequate pressure for espresso in this form factor",
+          "The correct choice when counter space is the binding constraint",
+          "Manual frother can be upgraded to a proper steam tip"
+        ],
+        "limitations": [
+          "Proprietary 51mm portafilter limits basket options",
+          "No PID temperature control"
+        ],
+        "features": [
+          "6-inch wide",
+          "15-bar pump",
+          "Manual frother",
+          "Fast heat-up"
+        ],
+        "badge": "Best Compact"
+      },
+      {
+        "name": "Rancilio Silvia",
+        "brand": "Rancilio",
+        "asin": "B00H1OUSD2",
+        "blurb": "Key specs: Commercial group head, 58mm portafilter, 3-way solenoid.",
+        "strengths": [
+          "Commercial-grade group head and 58mm portafilter at the price of a prosumer machine",
+          "3-way solenoid keeps the puck dry after each shot for cleaner removal",
+          "The most repairable machine in this price range"
+        ],
+        "limitations": [
+          "No PID in stock configuration",
+          "Requires technique development to extract consistently without a PID"
+        ],
+        "features": [
+          "Commercial group head",
+          "58mm portafilter",
+          "3-way solenoid",
+          "Steel body"
+        ],
+        "badge": "Best Traditional"
+      },
+      {
+        "name": "Philips 3200 Series Fully Automatic LatteGo",
+        "brand": "Philips",
+        "asin": "B07VFY4MXM",
+        "blurb": "Key specs: Fully automatic, LatteGo milk system, Built-in grinder.",
+        "strengths": [
+          "LatteGo milk system froths and dispenses milk with no tube cleaning required",
+          "Fully automatic operation, one button from beans to finished drink",
+          "Built-in grinder with adjustable settings"
+        ],
+        "limitations": [
+          "Espresso quality ceiling is lower than a tuned semi-automatic",
+          "Less reliable long-term than Jura at higher price"
+        ],
+        "features": [
+          "Fully automatic",
+          "LatteGo milk system",
+          "Built-in grinder",
+          "Aqua Clean filter"
+        ],
+        "badge": "Best Automatic Value",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "De'Longhi Magnifica Evo ECAM290.81.TB",
+        "brand": "De'Longhi",
+        "asin": "B0B38KFWNK",
+        "blurb": "Key specs: Fully automatic, Built-in grinder, Manual cappuccino frother.",
+        "strengths": [
+          "Fully automatic bean-to-cup operation at an accessible price",
+          "Built-in grinder with 13 grind settings",
+          "My Latte Art function saves personalized drink recipes",
+          "The correct entry-level De'Longhi automatic for those upgrading from a pod machine"
+        ],
+        "limitations": [
+          "Manual milk frothing requires some technique",
+          "Espresso ceiling below semi-automatic alternatives"
+        ],
+        "features": [
+          "Fully automatic",
+          "Built-in grinder",
+          "Manual cappuccino frother",
+          "My Latte Art settings"
+        ],
+        "badge": "Best Delonghi Auto"
+      },
+      {
+        "name": "Mr. Coffee Espresso and Cappuccino Machine ECMP1000",
+        "brand": "Mr. Coffee",
+        "asin": "B007K9OIMU",
+        "blurb": "Key specs: 15-bar pump, Milk frother, One-touch.",
+        "strengths": [
+          "15-bar pump at the lowest price of any machine on this list",
+          "One-touch cappuccino and latte with the built-in frother"
+        ],
+        "limitations": [
+          "No temperature control, shot consistency varies significantly",
+          "Pressurized basket masks grinder quality and limits ceiling"
+        ],
+        "features": [
+          "15-bar pump",
+          "Milk frother",
+          "One-touch",
+          "Budget price"
+        ],
+        "badge": "Best Budget Entry",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "De'Longhi Stilosa EC260BK",
+        "brand": "De'Longhi",
+        "asin": "B08C96BG9H",
+        "blurb": "Key specs: 15-bar pump, Manual frother, Compact design.",
+        "strengths": [
+          "Lowest price of any machine with a real pump espresso mechanism on this list",
+          "Compact design fits small kitchens",
+          "Manual steam wand froths milk for cappuccino and lattes"
+        ],
+        "limitations": [
+          "Pressurized basket limits the ceiling versus a tuned semi-automatic",
+          "Build quality is lighter-duty than Breville or Gaggia at this end of the price spectrum"
+        ],
+        "features": [
+          "15-bar pump",
+          "Manual frother",
+          "Compact design",
+          "Budget price"
+        ],
+        "badge": "Best Ultra Budget",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "Baratza Encore ESP Conical Burr Grinder",
+        "brand": "Baratza",
+        "asin": "B0BW272XCV",
+        "blurb": "Key specs: Conical burr, Espresso-capable, 40mm burr.",
+        "strengths": [
+          "Espresso-capable grind range not available on the standard Encore",
+          "40mm conical burr produces consistent espresso particle sizes",
+          "Baratza repair program extends the grinder's life well beyond competitors",
+          "The correct entry-level espresso grinder to pair with every machine on this list"
+        ],
+        "limitations": [
+          "Not stepless, adjustment steps are larger than high-end grinders",
+          "Not suitable for pour-over at the fine end of its range"
+        ],
+        "features": [
+          "Conical burr",
+          "Espresso-capable",
+          "40mm burr",
+          "Baratza repair support"
+        ],
+        "badge": "Best Grinder Pairing"
+      },
+      {
+        "name": "Gaggia Classic Evo Pro Espresso Machine",
+        "brand": "Gaggia",
+        "asin": "B086H42T3V",
+        "blurb": "",
+        "strengths": [
+          "Commercial 58mm portafilter",
+          "Powerful commercial steam wand",
+          "Simple, repairable design",
+          "Large enthusiast community and parts"
+        ],
+        "limitations": [
+          "No PID temperature control as standard",
+          "Steep learning curve",
+          "Needs a capable separate grinder"
+        ],
+        "features": []
+      },
+      {
+        "name": "CASABREWS 3700 Essential Espresso Machine",
+        "brand": "CASABREWS",
+        "asin": "B0BRSP8YT6",
+        "blurb": "",
+        "strengths": [
+          "Low price for a semi-automatic",
+          "Steam wand for milk drinks",
+          "Removable 43.9 oz tank",
+          "Compact stainless body"
+        ],
+        "limitations": [
+          "Pressurized baskets limit fine-tuning",
+          "Steam wand is basic",
+          "Needs a capable grinder for best shots"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

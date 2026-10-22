@@ -1,0 +1,119 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Dog Beds Under $150",
+  "h1": "The 5 Best Dog Beds Under $150",
+  "metaDescription": "Our 5 picks for dog beds under $150, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at dog beds under $150 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-dog-beds",
+  "related": [
+    "best-dog-beds"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Furhaven Orthopedic Dog Bed Jumbo/XL",
+        "brand": "Furhaven",
+        "asin": "B00D2VB54O",
+        "blurb": "Key specs: Jumbo/XL size for dogs up to 95 pounds, Egg-crate orthopedic foam base, Ultra-plush faux fur and suede cover.",
+        "strengths": [
+          "Highest review volume of any bed in this category",
+          "Leaves room in the budget for a second bed or a cover replacement later"
+        ],
+        "limitations": [
+          "Egg-crate foam compresses faster than the solid foam used in pricier beds",
+          "No waterproof liner protecting the foam itself"
+        ],
+        "features": [
+          "Jumbo/XL size for dogs up to 95 pounds",
+          "Egg-crate orthopedic foam base",
+          "Ultra-plush faux fur and suede cover",
+          "Typically $70 to $90"
+        ]
+      },
+      {
+        "name": "PetFusion Ultimate Dog Bed",
+        "brand": "PetFusion",
+        "asin": "B00TQ47CPW",
+        "blurb": "Key specs: Solid 4-inch memory foam base, Waterproof inner liner, YKK zippers on both compartments.",
+        "strengths": [
+          "Solid foam base outlasts egg-crate and fiber fill by a meaningful margin",
+          "Waterproof liner protects the foam itself, not just the outer cover",
+          "Highest sustained rating of any bed in this category"
+        ],
+        "limitations": [
+          "Firm foam feels stiffer than plush pillow-style beds"
+        ],
+        "features": [
+          "Solid 4-inch memory foam base",
+          "Waterproof inner liner",
+          "YKK zippers on both compartments",
+          "Large and Jumbo sizes typically $130 to $180"
+        ]
+      },
+      {
+        "name": "Kuranda Chewproof Elevated Dog Bed",
+        "brand": "Kuranda",
+        "asin": "B004E2GC2U",
+        "blurb": "Key specs: PVC frame rated to 250 pounds, Ballistic-grade Cordura or vinyl fabric, No foam or stuffing to destroy.",
+        "strengths": [
+          "Elevated, foam-free design withstands chewing that destroys soft beds",
+          "Rated to 250 pounds, covering nearly any breed size"
+        ],
+        "limitations": [
+          "No cushioning, a real tradeoff for dogs needing joint support",
+          "Rigid frame takes up more permanent floor space than a soft mat"
+        ],
+        "features": [
+          "PVC frame rated to 250 pounds",
+          "Ballistic-grade Cordura or vinyl fabric",
+          "No foam or stuffing to destroy",
+          "Typically $110 to $150"
+        ]
+      },
+      {
+        "name": "Bedsure Orthopedic Memory Foam Dog Bed, XL",
+        "brand": "Bedsure",
+        "asin": "B08F2FXYQT",
+        "blurb": "",
+        "strengths": [
+          "Memory foam plus egg-crate support",
+          "Waterproof inner liner",
+          "Removable washable cover",
+          "Good value"
+        ],
+        "limitations": [
+          "Foam less dense than premium beds",
+          "Bolsters compress over time",
+          "Sizing runs slightly small"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "BarksBar Snuggly Sleeper Orthopedic Dog Bed, Large",
+        "brand": "BarksBar",
+        "asin": "B01HJ1ICLQ",
+        "blurb": "",
+        "strengths": [
+          "Solid orthopedic foam base",
+          "Soft bolster for head support",
+          "Plush sleeping surface",
+          "Affordable"
+        ],
+        "limitations": [
+          "Owners report mixed fit for very large dogs",
+          "Cover sheds lint at first",
+          "Bolster compresses over time"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

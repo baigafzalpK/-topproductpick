@@ -1,0 +1,115 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Portable Air Conditioners for Apartments Without Window Access",
+  "h1": "The 4 Best Portable Air Conditioners for Apartments Without Window Access",
+  "metaDescription": "Our 4 picks for portable air conditioners for apartments without window access, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at portable air conditioners for apartments without window access using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-portable-air-conditioners",
+  "related": [
+    "best-portable-air-conditioners"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Whynter ARC-14S 14,000 BTU Dual Hose Portable Air Conditioner",
+        "brand": "Whynter",
+        "asin": "B0028AYQDC",
+        "blurb": "Key specs: 14,000 BTU ASHRAE / 9,500 BTU SACC dual-hose cooling, Cools rooms up to 500 sq ft, Built-in dehumidifier, up to 101 pints per day.",
+        "strengths": [
+          "Dual-hose design pulls air from outside instead of recirculating already-cooled room air, so it recovers temperature faster between compressor cycles",
+          "Auto drain means no manual bucket emptying under normal humidity"
+        ],
+        "limitations": [
+          "Needs two hose openings in the window kit, more setup than a single-hose unit",
+          "56 lbs and a larger footprint than single-hose competitors",
+          "Costs more upfront than most single-hose 14,000 BTU units"
+        ],
+        "features": [
+          "14,000 BTU ASHRAE / 9,500 BTU SACC dual-hose cooling",
+          "Cools rooms up to 500 sq ft",
+          "Built-in dehumidifier, up to 101 pints per day",
+          "Auto drain with condensate self-evaporation",
+          "24-hour programmable timer, thermostat range 61°F to 89°F"
+        ],
+        "bestFor": "apartments without window access"
+      },
+      {
+        "name": "BLACK+DECKER BPACT14WT Smart Portable Air Conditioner",
+        "brand": "BLACK+DECKER",
+        "asin": "B01DLPUWHQ",
+        "blurb": "Key specs: 14,000 BTU (10,200 BTU SACC) single-hose cooling, rated up to 700 sq ft, Wi-Fi app control plus Alexa and Google Assistant support, Follow Me remote reads temperature from where you're sitting.",
+        "strengths": [
+          "Wi-Fi and voice control is the most complete smart home integration in this list",
+          "Follow Me remote gives a more accurate reading than the unit's built-in sensor alone",
+          "Single-hose install is faster than setting up a dual-hose kit"
+        ],
+        "limitations": [
+          "Manufacturer's 700 sq ft rating runs optimistic for real single-hose performance",
+          "Smart app reliability gets mixed reports on some home networks",
+          "Single-hose exhaust pulls some already-cooled room air out with it"
+        ],
+        "features": [
+          "14,000 BTU (10,200 BTU SACC) single-hose cooling, rated up to 700 sq ft",
+          "Wi-Fi app control plus Alexa and Google Assistant support",
+          "Follow Me remote reads temperature from where you're sitting",
+          "24-hour programmable timer",
+          "Included window venting kit"
+        ],
+        "bestFor": "apartments without window access"
+      },
+      {
+        "name": "Honeywell HL14CESWK Contempo Series Portable Air Conditioner",
+        "brand": "Honeywell",
+        "asin": "B01CS3JJ5I",
+        "blurb": "Key specs: 14,000 BTU cooling, dehumidifier and fan modes, rated up to 550-700 sq ft, Dual filtration system: washable pre-filter plus activated carbon, Dual motor design rated at 49 to 52 dB at high fan speed.",
+        "strengths": [
+          "Dual filtration is more thorough than the single washable filter on most competitors",
+          "Dual motor design measurably quieter at high fan speed than single-motor units",
+          "Polished two-tone cabinet is a step up from typical plastic housings"
+        ],
+        "limitations": [
+          "Single-hose design, less efficient than dual-hose in very hot rooms",
+          "Fewer smart features than the BLACK+DECKER BPACT14WT"
+        ],
+        "features": [
+          "14,000 BTU cooling, dehumidifier and fan modes, rated up to 550-700 sq ft",
+          "Dual filtration system: washable pre-filter plus activated carbon",
+          "Dual motor design rated at 49 to 52 dB at high fan speed",
+          "Full-function remote control",
+          "Included window venting kit"
+        ],
+        "bestFor": "apartments without window access"
+      },
+      {
+        "name": "LG LP0621WSR 6,000 BTU Portable Air Conditioner",
+        "brand": "LG",
+        "asin": "B094XJQ27S",
+        "blurb": "Key specs: 6,000 BTU DOE (8,000 BTU ASHRAE) cooling, rated up to 250 sq ft, 3-in-1 operation: cool, dehumidify, fan, Easy-roll casters and auto-swing air vent.",
+        "strengths": [
+          "Smallest footprint and lightest weight in this list, easiest to move room to room",
+          "Washable filter cuts down on replacement filter costs over time",
+          "Quieter running than the larger 14,000 BTU units in this list"
+        ],
+        "limitations": [
+          "250 sq ft coverage is meaningfully smaller than the 14,000 BTU models here",
+          "Single-hose design, less efficient in high-heat rooms than dual-hose units",
+          "No smart app or voice control"
+        ],
+        "features": [
+          "6,000 BTU DOE (8,000 BTU ASHRAE) cooling, rated up to 250 sq ft",
+          "3-in-1 operation: cool, dehumidify, fan",
+          "Easy-roll casters and auto-swing air vent",
+          "Washable air filter with filter alarm",
+          "LCD remote and window installation kit"
+        ],
+        "bestFor": "apartments without window access"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

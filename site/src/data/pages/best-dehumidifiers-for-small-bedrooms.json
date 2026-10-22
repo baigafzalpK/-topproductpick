@@ -1,0 +1,107 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Dehumidifiers for Small Bedrooms",
+  "h1": "The 4 Best Dehumidifiers for Small Bedrooms",
+  "metaDescription": "Our 4 picks for dehumidifiers for small bedrooms, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at dehumidifiers for small bedrooms using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-dehumidifiers",
+  "related": [
+    "best-dehumidifiers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Midea Cube 35-Pint Smart Dehumidifier with Pump",
+        "brand": "Midea",
+        "asin": "B0B4BK9XVP",
+        "blurb": "Key specs: 35-pint-per-day rating, covers up to 3,500 sq ft, Wi-Fi control via the MideaAir app, works with Alexa, Lift-and-twist Cube design for compact nested storage.",
+        "strengths": [
+          "Nested Cube form factor takes up less floor space next to furniture than a boxy unit",
+          "App control lets you check the bedroom's humidity from another room without walking in"
+        ],
+        "limitations": [
+          "Costs more than the Vremi or TOSOT for a bedroom-scale need",
+          "35-pint capacity is more than most single bedrooms actually require",
+          "Learning the Cube's lift-and-twist mechanism takes a try or two"
+        ],
+        "features": [
+          "35-pint-per-day rating, covers up to 3,500 sq ft",
+          "Wi-Fi control via the MideaAir app, works with Alexa",
+          "Lift-and-twist Cube design for compact nested storage",
+          "Draws as little as 512 watts at 50% RH"
+        ],
+        "badge": "Top pick",
+        "bestFor": "small bedrooms"
+      },
+      {
+        "name": "Vremi 50-Pint Dehumidifier for 4,500 Sq Ft Spaces",
+        "brand": "Vremi",
+        "asin": "B07JMZJX4B",
+        "blurb": "Key specs: 50-pint-per-day rating, more capacity than a typical bedroom needs, 1.8-gallon tank with full-tank auto shut-off, Adjustable humidistat and 24-hour timer.",
+        "strengths": [
+          "Lowest typical price of the units in this list",
+          "Caster wheels make it easy to roll between a bedroom and a closet or nursery",
+          "Adjustable humidistat lets you dial in a comfortable overnight target"
+        ],
+        "limitations": [
+          "Runs louder than the Midea Cube on comparable settings per owner reports",
+          "50-pint capacity is oversized for a single small bedroom",
+          "Larger footprint than the Cube in its nested position"
+        ],
+        "features": [
+          "50-pint-per-day rating, more capacity than a typical bedroom needs",
+          "1.8-gallon tank with full-tank auto shut-off",
+          "Adjustable humidistat and 24-hour timer",
+          "Built-in caster wheels for easy repositioning"
+        ],
+        "bestFor": "small bedrooms"
+      },
+      {
+        "name": "TOSOT 50-Pint Dehumidifier with Internal Pump",
+        "brand": "TOSOT",
+        "asin": "B07FJHZ58L",
+        "blurb": "Key specs: 50-pint-per-day rating for up to 4,500 sq ft, Internal pump lifts water up to 15 feet through an included hose, 52-decibel peak sound level.",
+        "strengths": [
+          "52dB peak volume is reasonably quiet for a 50-pint unit",
+          "Pump lets you drain directly into an ensuite bathroom sink without hand-emptying a bucket",
+          "Auto-restart keeps settings intact after a power blip overnight"
+        ],
+        "limitations": [
+          "50-pint capacity and footprint are larger than most bedrooms need",
+          "Owner reports note compressor longevity issues after 2 to 3 years of heavy use"
+        ],
+        "features": [
+          "50-pint-per-day rating for up to 4,500 sq ft",
+          "Internal pump lifts water up to 15 feet through an included hose",
+          "52-decibel peak sound level",
+          "Auto-restart after a power outage"
+        ],
+        "bestFor": "small bedrooms"
+      },
+      {
+        "name": "Frigidaire FHDD3534Y1 35-Pint Wi-Fi Dehumidifier",
+        "brand": "Frigidaire",
+        "asin": "B0FP2WS38M",
+        "blurb": "",
+        "strengths": [
+          "Wi-Fi app control and alerts",
+          "Energy Star certified",
+          "Continuous drain option",
+          "Right-sized for bedrooms"
+        ],
+        "limitations": [
+          "1.7-gallon bucket fills quickly in damp rooms",
+          "Audible compressor",
+          "App setup required for smart features"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

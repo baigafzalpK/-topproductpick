@@ -1,0 +1,89 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Checked Luggage",
+  "h1": "The 3 Best Checked Luggage",
+  "metaDescription": "Our 3 picks for checked luggage, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at checked luggage using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-luggage",
+  "related": [
+    "best-luggage"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Briggs & Riley Baseline 28-Inch Large Expandable Spinner",
+        "brand": "Briggs & Riley",
+        "asin": "B008M6ZDAG",
+        "blurb": "Key specs: 28-inch expandable softside shell, One-touch compression system, Double-swivel spinner wheels.",
+        "strengths": [
+          "Compression system packs more usable volume without straining the zippers",
+          "Lifetime guarantee covers airline damage indefinitely with no receipt required",
+          "Double-swivel wheels outlast basic casters under repeated baggage handling"
+        ],
+        "limitations": [
+          "Heavier once packed than lighter hardside competitors",
+          "No bright colorways for easy carousel spotting"
+        ],
+        "features": [
+          "28-inch expandable softside shell",
+          "One-touch compression system",
+          "Double-swivel spinner wheels",
+          "Internal hanging garment system",
+          "Unconditional lifetime guarantee"
+        ],
+        "bestFor": "checked bags"
+      },
+      {
+        "name": "Travelpro Platinum Elite 29-Inch Checked Spinner",
+        "brand": "Travelpro",
+        "asin": "B07DL4DYMW",
+        "blurb": "Key specs: 29-inch expandable softside shell, 8 MagnaTrac spinner wheels, Tip-resistant tapered expansion.",
+        "strengths": [
+          "29-inch size and expansion panel fit two weeks of clothing without a second bag",
+          "8-wheel tracking rolls straighter than 4-wheel bags when fully loaded"
+        ],
+        "limitations": [
+          "Close to the 62-inch linear size limit many airlines enforce when fully expanded",
+          "Softside shell offers less rain protection than hardside competitors"
+        ],
+        "features": [
+          "29-inch expandable softside shell",
+          "8 MagnaTrac spinner wheels",
+          "Tip-resistant tapered expansion",
+          "Fold-out garment suiter",
+          "Integrated TSA lock"
+        ],
+        "bestFor": "checked bags"
+      },
+      {
+        "name": "Samsonite Freeform 24-Inch Medium Hardside Spinner",
+        "brand": "Samsonite",
+        "asin": "B01LXOCPFG",
+        "blurb": "Key specs: 24-inch expandable polypropylene hardshell, Dual 360-degree spinner wheels, TSA-approved combination lock.",
+        "strengths": [
+          "8.5-pound empty weight leaves more of the 50-pound checked limit for belongings",
+          "Hardshell protects better against impact than a comparably priced softside bag"
+        ],
+        "limitations": [
+          "Scuffs and scratches show more visibly than on textured or fabric shells",
+          "Wheel housings wear faster under heavy repeated use than premium double-swivel designs",
+          "10-year limited warranty doesn't match Briggs & Riley's unconditional lifetime coverage"
+        ],
+        "features": [
+          "24-inch expandable polypropylene hardshell",
+          "Dual 360-degree spinner wheels",
+          "TSA-approved combination lock",
+          "8.5-pound empty weight",
+          "10-year limited warranty"
+        ],
+        "bestFor": "checked bags"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

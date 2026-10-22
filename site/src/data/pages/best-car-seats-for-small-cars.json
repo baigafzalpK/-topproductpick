@@ -1,0 +1,124 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Car Seats for Small Cars",
+  "h1": "The 5 Best Car Seats for Small Cars",
+  "metaDescription": "Our 5 picks for car seats for small cars, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at car seats for small cars using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-car-seats",
+  "related": [
+    "best-car-seats"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Chicco KeyFit 35 Infant Car Seat",
+        "brand": "Chicco",
+        "asin": "B089HG2QTT",
+        "blurb": "Key specs: Compact base without an anti-rebound bar, Fits infants 4 to 35 pounds, Load leg for a shorter recline footprint.",
+        "strengths": [
+          "One of the shallower infant seat bases available, which helps in short rear seats",
+          "Load leg design reduces how far the base needs to recline compared to bases without one",
+          "Widely reported as fitting well in compact sedans and small SUVs"
+        ],
+        "limitations": [
+          "Still needs a proper recline angle, which can push the front passenger seat forward in very small cars",
+          "Height limit around 30 inches means an earlier switch to a convertible seat",
+          "No anti-rebound bar option, which some parents specifically want"
+        ],
+        "features": [
+          "Compact base without an anti-rebound bar",
+          "Fits infants 4 to 35 pounds",
+          "Load leg for a shorter recline footprint",
+          "Removable infant insert",
+          "Level indicator for accurate recline angle"
+        ],
+        "badge": "Best overall",
+        "bestFor": "small cars"
+      },
+      {
+        "name": "Britax Boulevard ClickTight Convertible Car Seat",
+        "brand": "Britax",
+        "asin": "B0796435J1",
+        "blurb": "Key specs: ClickTight installation through the vehicle seat belt path, Rear-facing 5 to 40 pounds, Narrow shell profile relative to its side impact protection.",
+        "strengths": [
+          "ClickTight's belt-path install often seats the seat flatter against the vehicle seat than LATCH-only installs",
+          "Narrower shell than many convertible seats with comparable side impact protection",
+          "No separate base to store or misplace"
+        ],
+        "limitations": [
+          "Still one of the deeper convertible seats when reclined for rear-facing",
+          "Heavier to reposition between rows or vehicles than a lighter convertible",
+          "Anti-rebound bar version, if chosen, adds noticeable depth"
+        ],
+        "features": [
+          "ClickTight installation through the vehicle seat belt path",
+          "Rear-facing 5 to 40 pounds",
+          "Narrow shell profile relative to its side impact protection",
+          "14-position no-rethread harness",
+          "Steel-belt-tensioning install system"
+        ],
+        "bestFor": "small cars"
+      },
+      {
+        "name": "Evenflo Sonus Convertible Car Seat",
+        "brand": "Evenflo",
+        "asin": "B01N7T4LM4",
+        "blurb": "",
+        "strengths": [
+          "Light and easy to move between cars",
+          "Budget price for a convertible seat",
+          "Rear- and forward-facing use",
+          "Compact enough for smaller back seats"
+        ],
+        "limitations": [
+          "Fewer padding and convenience features",
+          "Harness height adjustment requires rethreading",
+          "Less legroom rear-facing than extended-legroom seats"
+        ],
+        "features": []
+      },
+      {
+        "name": "Graco Contender Slim Convertible Car Seat",
+        "brand": "Graco",
+        "asin": "B09NPLTZLR",
+        "blurb": "",
+        "strengths": [
+          "Slim profile saves space",
+          "FAA approved for flights",
+          "No-rethread harness",
+          "Rear-facing to 40 lb"
+        ],
+        "limitations": [
+          "Lower rear-facing limit than Extend2Fit",
+          "Less padding",
+          "Cup holder takes space"
+        ],
+        "features": []
+      },
+      {
+        "name": "Graco SlimFit3 LX 3-in-1 Car Seat",
+        "brand": "Graco",
+        "asin": "B08K2RZKZF",
+        "blurb": "",
+        "strengths": [
+          "Narrow design fits three across",
+          "Rear-facing 5-40 lb, booster to 100 lb",
+          "10-position headrest",
+          "Push-button LATCH"
+        ],
+        "limitations": [
+          "Heavy",
+          "Higher price than single-mode seats",
+          "Rear-facing takes front-seat legroom"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

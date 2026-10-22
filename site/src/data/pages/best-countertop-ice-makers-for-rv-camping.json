@@ -1,0 +1,111 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Countertop Ice Makers for RV and Camping",
+  "h1": "The 4 Best Countertop Ice Makers for RV and Camping",
+  "metaDescription": "Our 4 picks for countertop ice makers for rv and camping, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at countertop ice makers for rv and camping using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-ice-makers",
+  "related": [
+    "best-ice-makers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Frigidaire Countertop Ice Maker",
+        "brand": "Frigidaire",
+        "asin": "B07J1YVSNQ",
+        "blurb": "Key specs: 26 lbs of bullet-shaped ice per day, 9 pieces ready in about 7 minutes, Compact, light enough for one person to carry.",
+        "strengths": [
+          "Light and compact enough to stow in an RV cabinet or truck bed between trips",
+          "Simple controls mean nothing to configure once you're set up at a campsite",
+          "26 lbs a day is enough for a cooler and drinks for a small group"
+        ],
+        "limitations": [
+          "Bullet ice melts faster than nugget ice, so a cooler needs more frequent topping off",
+          "No handle on most versions, slightly awkward to carry loaded with water",
+          "Draws power the whole time it's cycling, worth checking against your generator or inverter capacity"
+        ],
+        "features": [
+          "26 lbs of bullet-shaped ice per day",
+          "9 pieces ready in about 7 minutes",
+          "Compact, light enough for one person to carry",
+          "Simple one-button operation",
+          "No water line or drain needed"
+        ],
+        "bestFor": "rv camping"
+      },
+      {
+        "name": "Igloo Automatic Self-Cleaning Ice Maker",
+        "brand": "Igloo",
+        "asin": "B0B1FXF76C",
+        "blurb": "Key specs: 26 lbs of ice per 24 hours, Automatic 5-cycle self-cleaning function, Large or small cube selector.",
+        "strengths": [
+          "Self-cleaning cycle matters more on a machine that sits unused between trips and can develop odors",
+          "Compact size fits a cabinet shelf or a milk crate for transport",
+          "Choice of cube size is handy for coolers versus drinks"
+        ],
+        "limitations": [
+          "Reservoir needs refilling roughly daily with steady use at a campsite",
+          "Plastic housing is less rugged-feeling than metal RV gear",
+          "9 to 10 minutes per fresh batch feels slow when a cooler is empty"
+        ],
+        "features": [
+          "26 lbs of ice per 24 hours",
+          "Automatic 5-cycle self-cleaning function",
+          "Large or small cube selector",
+          "Compact, sub-10-inch-wide footprint",
+          "Included scoop and basket"
+        ],
+        "bestFor": "rv camping"
+      },
+      {
+        "name": "Euhomy Nugget Ice Maker Countertop",
+        "brand": "Euhomy",
+        "asin": "B0C32SGKMJ",
+        "blurb": "Key specs: Up to 34 lbs of nugget ice per day, First batch ready in about 6 minutes, Built-in carry handle.",
+        "strengths": [
+          "Higher 34 lb/day output keeps up with a group filling a cooler for a multi-day trip",
+          "Carry handle is a genuine plus for loading it in and out of a vehicle",
+          "Nugget ice packs a cooler more densely than bullet ice, which helps with cold retention"
+        ],
+        "limitations": [
+          "Larger and heavier than the compact bullet-ice machines",
+          "Higher power draw during production, more to consider on limited generator or battery power",
+          "Costs more than the basic Frigidaire or Igloo"
+        ],
+        "features": [
+          "Up to 34 lbs of nugget ice per day",
+          "First batch ready in about 6 minutes",
+          "Built-in carry handle",
+          "Self-cleaning cycle",
+          "Removable top cover"
+        ],
+        "bestFor": "rv camping"
+      },
+      {
+        "name": "EUHOMY Countertop Bullet Ice Maker, 26 lb/Day",
+        "brand": "EUHOMY",
+        "asin": "B09SH86T8M",
+        "blurb": "",
+        "strengths": [
+          "Fast first batch",
+          "Carry handle for RVs and parties",
+          "Self-cleaning cycle",
+          "Two cube sizes"
+        ],
+        "limitations": [
+          "Ice melts in the unrefrigerated basket",
+          "Small 1.2 L tank",
+          "Bullet ice, not nugget"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

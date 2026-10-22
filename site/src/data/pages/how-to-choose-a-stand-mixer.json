@@ -1,0 +1,39 @@
+{
+  "type": "buying-guide",
+  "title": "How to Choose a Stand Mixer: Size, Design and Attachments",
+  "h1": "How to Choose a Stand Mixer",
+  "metaDescription": "Tilt-head or bowl-lift, 4.5 or 6 quarts? A practical guide to choosing a stand mixer you'll keep for years.",
+  "lede": "Stand mixers last a long time, so it's worth getting the basics right: bowl size, head design and whether you'll use attachments.",
+  "updatedAt": "2026-10-19",
+  "category": "stand-mixers",
+  "related": ["best-stand-mixers", "kitchenaid-artisan-vs-classic"],
+  "data": {
+    "sections": [
+      {
+        "h": "Tilt-head or bowl-lift?",
+        "p": [
+          "On a tilt-head mixer, the top hinges back so you can lock the bowl in and add ingredients easily. They're usually shorter and fit under cabinets.",
+          "On a bowl-lift mixer, the head is fixed and a lever raises the bowl. This design is sturdier with heavy bread doughs but is taller and slightly less convenient for adding ingredients."
+        ]
+      },
+      {
+        "h": "Choose the bowl size",
+        "p": ["Pick by how much you bake at once:"],
+        "list": ["4.5 quarts: occasional baking and smaller batches", "5 to 5.5 quarts: most households and regular bakers", "6 quarts and up: large families, big batches and frequent bread baking"]
+      },
+      {
+        "h": "Attachments",
+        "p": ["Some mixers have a power hub for attachments such as pasta rollers, meat grinders and spiralizers. If you want these, check which attachments exist for the brand before you buy."]
+      },
+      {
+        "h": "Practical checks",
+        "p": ["Before buying, check these:"],
+        "list": ["Height with the head raised, if you'll store it under cabinets", "Weight, if you need to move it in and out of storage", "Which beaters are included (flat beater, dough hook, whisk)", "Whether a splash guard is included"]
+      }
+    ],
+    "faqs": [
+      { "q": "Is a stand mixer worth it over a hand mixer?", "a": "If you bake often or make bread, yes: a stand mixer works hands-free and handles thick doughs. For occasional whipped cream or cake batter, a hand mixer is cheaper and smaller." },
+      { "q": "Can a stand mixer knead bread dough?", "a": "Yes, with the dough hook. For large or very stiff batches, follow the manufacturer's maximum flour capacity to avoid straining the motor." }
+    ]
+  }
+}

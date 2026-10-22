@@ -1,0 +1,87 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Electric Skillets Under $70",
+  "h1": "The 3 Best Electric Skillets Under $70",
+  "metaDescription": "Our 3 picks for electric skillets under $70, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at electric skillets under $70 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-electric-skillets",
+  "related": [
+    "best-electric-skillets"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Cuisinart CSK-150 Oval Electric Skillet",
+        "brand": "Cuisinart",
+        "asin": "B0002YE6I6",
+        "blurb": "Key specs: Oval nonstick cooking surface, 1,500W element, Warm to 450°F range.",
+        "strengths": [
+          "450°F top temperature is the widest range of any pick on this list, enabling a real sear",
+          "1,500W element recovers heat quickly between batches",
+          "Stainless steel housing feels and looks more premium than painted metal",
+          "Dishwasher-safe pan body once the probe is removed"
+        ],
+        "limitations": [
+          "Oval shape holds less food than a larger rectangular or round pan",
+          "Stainless exterior shows fingerprints and needs regular wiping"
+        ],
+        "features": [
+          "Oval nonstick cooking surface",
+          "1,500W element",
+          "Warm to 450°F range",
+          "Brushed stainless steel housing",
+          "Dishwasher-safe pan with probe removed"
+        ]
+      },
+      {
+        "name": "Oster Titanium Infused DuraCeramic 12x16 Electric Skillet",
+        "brand": "Oster",
+        "asin": "B079L5TMXR",
+        "blurb": "Key specs: 12x16-inch ceramic nonstick surface, Hinged lift-and-serve lid, 1,500W element.",
+        "strengths": [
+          "Titanium-infused ceramic coating resists scratching from metal utensils better than standard nonstick",
+          "12x16 surface offers more total cooking area than the Cuisinart's oval pan",
+          "Hinged lid stays attached for easier serving straight from counter to table",
+          "Ceramic coating releases food with less added oil, a nice bonus for lighter cooking"
+        ],
+        "limitations": [
+          "Hinged lid cannot be fully removed, limiting deep-cleaning access",
+          "Fewer total reviews than more established brands in this category",
+          "Bulkier to store than the Cuisinart's oval shape"
+        ],
+        "features": [
+          "12x16-inch ceramic nonstick surface",
+          "Hinged lift-and-serve lid",
+          "1,500W element",
+          "Titanium-infused DuraCeramic coating",
+          "Dishwasher-safe hinged lid"
+        ]
+      },
+      {
+        "name": "Presto 16-Inch Ceramic Electric Skillet with Glass Cover",
+        "brand": "Presto",
+        "asin": "B0795ZJB61",
+        "blurb": "",
+        "strengths": [
+          "Large 16-inch cooking surface for family meals",
+          "Ceramic nonstick coating",
+          "Fully immersible for cleaning with the heat control removed",
+          "Tempered glass cover"
+        ],
+        "limitations": [
+          "Large to store",
+          "Ceramic coatings lose slickness with high heat",
+          "Edges can run cooler than the center"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

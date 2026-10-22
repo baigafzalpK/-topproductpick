@@ -1,0 +1,284 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 10 Best Chef Knives Under $100",
+  "h1": "The 10 Best Chef Knives Under $100",
+  "metaDescription": "Our 10 picks for chef knives under $100, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at chef knives under $100 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "chef-knives",
+  "related": [
+    "chef-knives"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Victorinox Fibrox Pro 8-Inch Chef Knife",
+        "brand": "Victorinox",
+        "asin": "B008M5U1C2",
+        "blurb": "Key specs: Stamped X55CrMo14 stainless steel at 56 HRC, 15-degree factory edge per side, Fibrox thermoplastic handle, slip-resistant when wet.",
+        "strengths": [
+          "Sharpens in minutes on a basic whetstone because the softer steel removes quickly",
+          "Survives culinary-school-level abuse and still holds a working edge",
+          "Fibrox handle grips securely in wet or greasy hands without extra effort",
+          "Delivers cutting performance closer to a 150-dollar knife than its roughly 35-dollar price implies"
+        ],
+        "limitations": [
+          "Edge retention is only 2 to 3 weeks of daily home cooking before it needs more than a honing steel",
+          "Stamped blade feels lighter and less substantial than forged options like the Mercer Genesis",
+          "Handle design is utilitarian rather than ergonomically refined",
+          "No bolster removes the finger-guard feel some cooks prefer during fast cutting"
+        ],
+        "features": [
+          "Stamped X55CrMo14 stainless steel at 56 HRC",
+          "15-degree factory edge per side",
+          "Fibrox thermoplastic handle, slip-resistant when wet",
+          "No bolster for full-length sharpening",
+          "Standard issue in most culinary school knife kits",
+          "Commercial dishwasher rated"
+        ],
+        "badge": "Best Overall Budget",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "Tojiro DP Series 8.2-Inch Gyutou Chef Knife",
+        "brand": "Tojiro",
+        "asin": "B000UAPQGS",
+        "blurb": "Key specs: VG-10 core steel at 60 HRC, laminated with stainless cladding, 16-degree inclusive edge grind, True gyutou profile with a flatter belly.",
+        "strengths": [
+          "Arrives factory-sharper than most German knives at three times the price",
+          "VG-10 steel at 60 HRC holds an edge for 4 to 6 weeks, far longer than any stamped budget knife",
+          "Thinner grind slips through dense carrots and squash with noticeably less resistance",
+          "Cheapest reliable entry point into genuine laminated Japanese steel construction",
+          "Flatter gyutou profile rewards push-cutting with cleaner, more efficient cuts"
+        ],
+        "limitations": [
+          "Basic laminated wood handle is functional but unrefined compared to pakkawood options",
+          "Chips if used on bone, frozen food, or a glass cutting board",
+          "Requires whetstone maintenance rather than a simple honing steel"
+        ],
+        "features": [
+          "VG-10 core steel at 60 HRC, laminated with stainless cladding",
+          "16-degree inclusive edge grind",
+          "True gyutou profile with a flatter belly",
+          "Laminated wood handle with bolster",
+          "Under 50 dollars for genuine Japanese laminated steel",
+          "Slightly blade-forward balance"
+        ],
+        "badge": "Best Japanese Budget",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "Mercer Culinary Genesis 8-Inch Chef Knife",
+        "brand": "Mercer",
+        "asin": "B000OOQZMY",
+        "blurb": "Key specs: High-carbon German steel at 57 HRC, forged, Full tang with tapered bolster, Santoprene textured handle.",
+        "strengths": [
+          "Competes directly with entry-level Wusthof and Zwilling at roughly half the price",
+          "Tapered bolster allows sharpening the full edge, avoiding the heel obstruction of cheaper forged knives",
+          "Santoprene handle grips confidently even when wet",
+          "Forged full-tang build feels more solid in hand than the stamped knives on this list"
+        ],
+        "limitations": [
+          "Edge retention of about 3 weeks trails the Tojiro and matches, not beats, the Victorinox",
+          "Less handle refinement than the Victorinox Swiss Modern's contoured synthetic grip",
+          "Lower brand recognition than Wusthof or Zwilling despite similar forged construction",
+          "57 HRC steel still needs eventual whetstone maintenance as honing alone stops working"
+        ],
+        "features": [
+          "High-carbon German steel at 57 HRC, forged",
+          "Full tang with tapered bolster",
+          "Santoprene textured handle",
+          "15-degree edge per side",
+          "Moderate belly for both rocking and push-cutting",
+          "About 3 weeks of edge retention under daily use"
+        ]
+      },
+      {
+        "name": "Victorinox Swiss Modern 8-Inch Chef Knife",
+        "brand": "Victorinox",
+        "asin": "B0061SWV8Y",
+        "blurb": "Key specs: Same X55CrMo14 steel as the Fibrox Pro at 56 HRC, Redesigned contemporary synthetic handle, Marginally straighter blade profile than the Fibrox.",
+        "strengths": [
+          "More contoured, contemporary handle sits better in a pinch grip than the Fibrox's rounded profile",
+          "Identical proven steel and edge retention to the Fibrox Pro carries directly over",
+          "Slightly straighter profile suits cooks who prefer push-cutting over rocking",
+          "Retains the Fibrox's fast, easy sharpening on a basic whetstone",
+          "No bolster allows full-edge sharpening including the heel"
+        ],
+        "limitations": [
+          "Costs more than the Fibrox Pro for what is largely a handle redesign",
+          "Same 2 to 3 week edge retention ceiling as the Fibrox at 56 HRC",
+          "The straighter profile difference is subtle enough that most cooks will not notice it",
+          "Smaller rating pool than the Fibrox Pro offers less long-term validation"
+        ],
+        "features": [
+          "Same X55CrMo14 steel as the Fibrox Pro at 56 HRC",
+          "Redesigned contemporary synthetic handle",
+          "Marginally straighter blade profile than the Fibrox",
+          "15-degree edge per side",
+          "No bolster for full-length sharpening access",
+          "Slip-resistant grip material"
+        ]
+      },
+      {
+        "name": "Mercer Culinary Millennia 8-Inch Chef Knife",
+        "brand": "Mercer",
+        "asin": "B000PS2XI4",
+        "blurb": "Key specs: Stamped steel at approximately 55 HRC, Ergrip textured handle for all-day comfort, Standard issue in culinary-school kits alongside the Victorinox.",
+        "strengths": [
+          "Ergrip handle is purpose-built for the long prep sessions that define culinary school life",
+          "Softer 55 HRC steel sharpens quickly, useful for cooks still learning to maintain an edge",
+          "Reliable fallback that performs immediately when a Victorinox is out of stock",
+          "Lightweight blade is easy to control for extended cutting tasks"
+        ],
+        "limitations": [
+          "Softer steel than the Genesis means shorter edge retention, under 2 weeks under heavy use",
+          "Stamped construction lacks the heft of forged options like the Mercer Genesis",
+          "Falls behind the Victorinox on both edge retention and overall reputation",
+          "Handle grip preference is subjective and not universally better than the Fibrox"
+        ],
+        "features": [
+          "Stamped steel at approximately 55 HRC",
+          "Ergrip textured handle for all-day comfort",
+          "Standard issue in culinary-school kits alongside the Victorinox",
+          "Softer, easy-to-sharpen steel",
+          "Bolster-free for full-length edge access",
+          "Lightweight stamped construction"
+        ]
+      },
+      {
+        "name": "Imarku Pro Kitchen 8-Inch Chef Knife",
+        "brand": "Imarku",
+        "asin": "B073ZR9BQ4",
+        "blurb": "Key specs: High-carbon German stainless steel blade, Pakkawood handle, Half-tang construction.",
+        "strengths": [
+          "Surprisingly refined feel in hand for a lower-heritage brand at this price",
+          "Comfortable pakkawood handle outperforms expectations for a budget knife",
+          "Arrives genuinely sharp out of the box, not just adequate",
+          "Serviceable for light home cooking without any glaring defects"
+        ],
+        "limitations": [
+          "Softer steel dulls faster than the Victorinox, needing more frequent sharpening",
+          "Pakkawood handle is less moisture-resistant than the Fibrox's thermoplastic over years of use",
+          "Half-tang construction is less robust long-term than the full-tang Mercer Genesis",
+          "Heavy-use cooks are better served spending 10 dollars more on the Victorinox"
+        ],
+        "features": [
+          "High-carbon German stainless steel blade",
+          "Pakkawood handle",
+          "Half-tang construction",
+          "Factory edge that arrives sharp",
+          "Budget-tier pricing from a lower-heritage brand",
+          "Ergonomic contoured grip"
+        ]
+      },
+      {
+        "name": "Dexter-Russell Sani-Safe 8-Inch Chef Knife",
+        "brand": "Dexter-Russell",
+        "asin": "B00ADPCXXY",
+        "blurb": "Key specs: DEXSTEEL high-carbon stain-free steel, NSF-rated textured polypropylene handle, Commercial kitchen heritage since 1818.",
+        "strengths": [
+          "NSF-rated construction and sanitation-first design suit cooks who prioritize commercial-grade hygiene standards",
+          "Larger handle is preferred by cooks with bigger hands during extended heavy-duty work",
+          "Soft, easy-to-sharpen steel keeps maintenance simple",
+          "Backed by a company making butcher and commercial kitchen knives since 1818",
+          "Function-first design holds up to hard daily use without babying"
+        ],
+        "limitations": [
+          "Aesthetics are purely utilitarian with none of the polish of the Cuisinart or Cangshan",
+          "Chunkier handle can feel less nimble for cooks with smaller hands or a tight pinch grip",
+          "Edge retention is only moderate, requiring similar sharpening frequency to the Victorinox"
+        ],
+        "features": [
+          "DEXSTEEL high-carbon stain-free steel",
+          "NSF-rated textured polypropylene handle",
+          "Commercial kitchen heritage since 1818",
+          "Larger, chunkier grip than the Victorinox",
+          "Moderate edge retention, easy to sharpen",
+          "Designed for sanitation-focused commercial use"
+        ]
+      },
+      {
+        "name": "Cuisinart Classic Forged Triple Rivet 8-Inch Chef Knife",
+        "brand": "Cuisinart",
+        "asin": "B01C0XVBSY",
+        "blurb": "Key specs: High-carbon German stainless steel, forged, Triple-rivet full tang handle, Polished mirror finish.",
+        "strengths": [
+          "Arrives genuinely sharp with a fit-and-finish that looks more expensive than the price",
+          "Forged full-tang construction gives a solid, balanced feel",
+          "Polished bolster resists staining well over daily use",
+          "Triple-rivet handle is comfortable through a full prep session"
+        ],
+        "limitations": [
+          "Does not meaningfully outperform the far cheaper Victorinox despite the more polished look",
+          "Full bolster makes sharpening the heel of the blade more awkward",
+          "Not the value leader its branding and packaging suggest",
+          "Less-established reputation in professional kitchens than Mercer or Victorinox"
+        ],
+        "features": [
+          "High-carbon German stainless steel, forged",
+          "Triple-rivet full tang handle",
+          "Polished mirror finish",
+          "15-degree edge per side",
+          "Comes sharp out of the box",
+          "Full bolster construction"
+        ]
+      },
+      {
+        "name": "Henckels Solution 8-Inch Chef Knife",
+        "brand": "Henckels",
+        "asin": "B084GC1KQH",
+        "blurb": "Key specs: Stamped stainless steel blade, Curved polypropylene handle, Slightly wider blade profile than the Victorinox.",
+        "strengths": [
+          "Familiar Henckels branding at an entry-level price offers a comfort factor for gift buyers",
+          "Lighter stamped blade is easy to handle for cooks who dislike heavier forged knives",
+          "Takes a decent working edge for everyday tasks",
+          "Simple curved handle is easy to clean and maintain"
+        ],
+        "limitations": [
+          "Sits below the Victorinox on every meaningful metric: handle comfort, edge retention, and value",
+          "Average edge retention for the price range with no standout advantage",
+          "Lighter weight may feel insubstantial to cooks used to forged knives",
+          "No distinguishing feature that would justify choosing it over the cheaper, better-reviewed Fibrox Pro"
+        ],
+        "features": [
+          "Stamped stainless steel blade",
+          "Curved polypropylene handle",
+          "Slightly wider blade profile than the Victorinox",
+          "Entry-level Zwilling sub-brand pricing",
+          "Lighter weight than forged alternatives",
+          "15-degree edge per side"
+        ]
+      },
+      {
+        "name": "Cangshan D Series 8-Inch Chef Knife",
+        "brand": "Cangshan",
+        "asin": "B013KZDVRA",
+        "blurb": "Key specs: Swedish Sandvik 14C28N steel at 58 HRC, 15-degree edge per side, Wood composite full-tang handle.",
+        "strengths": [
+          "58 HRC Sandvik steel holds an edge noticeably longer than most sub-100-dollar competitors",
+          "Full-tang wood composite handle gives it a balanced feel that rivals pricier forged knives",
+          "A genuine dark-horse pick for cooks who prioritize edge retention over brand recognition",
+          "Moderate belly handles both rocking and push-cutting without committing hard to either"
+        ],
+        "limitations": [
+          "Wood composite handle lacks the refined feel of pakkawood or blackwood options",
+          "Replacement parts and warranty support are less standardized than for major brands"
+        ],
+        "features": [
+          "Swedish Sandvik 14C28N steel at 58 HRC",
+          "15-degree edge per side",
+          "Wood composite full-tang handle",
+          "Moderate belly for rocking and push-cutting",
+          "Harder steel than most knives at this price",
+          "Balanced, forged-knife-like heft"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

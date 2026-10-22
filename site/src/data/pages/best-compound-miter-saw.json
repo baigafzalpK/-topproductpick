@@ -1,0 +1,208 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 8 Best Compound Miter Saw 2026",
+  "h1": "The 8 Best Compound Miter Saw 2026",
+  "metaDescription": "Our 8 picks for compound miter saw 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at compound miter saw 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-woodworking",
+  "related": [
+    "best-woodworking"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "DEWALT 12 Inch Double Bevel Sliding Compound Miter Saw (DWS779)",
+        "brand": "DEWALT",
+        "asin": "B01ESCU5WS",
+        "blurb": "Key specs: 15-amp motor, 12-inch blade, 14-inch horizontal cutting capacity.",
+        "strengths": [
+          "14-inch horizontal capacity handles wide stock without repositioning",
+          "Tall sliding fence supports crown molding upright for accurate nested compound cuts",
+          "Cam-lock miter detent mechanism clicks accurately to common angles",
+          "15-amp motor handles 12-inch blades through hardwood without bogging"
+        ],
+        "limitations": [
+          "Heavy at 56 lbs, not easy to move around the shop regularly",
+          "No laser guide, add-on available separately"
+        ],
+        "features": [
+          "15-amp motor",
+          "12-inch blade",
+          "14-inch horizontal cutting capacity",
+          "Tall sliding fence supports crown and base molding"
+        ],
+        "badge": "Best Overall",
+        "bestFor": "buyers who want the best overall package"
+      },
+      {
+        "name": "BOSCH GCM12SD 15 Amp 12 Inch Corded Dual-Bevel Sliding Glide Miter Saw with 60 Tooth Saw Blade & MS1234 Miter Saw Length Stop",
+        "brand": "Bosch",
+        "asin": "B08P6RB1FG",
+        "blurb": "Key specs: Axial-glide sliding mechanism, smaller footprint than rail-slide saws, 15-amp motor, Dual bevel, tilts left and right without flipping the workpiece.",
+        "strengths": [
+          "Axial-glide mechanism needs only 3 inches of wall clearance vs 12+ for rail-slide saws",
+          "Dual bevel enables left and right tilts without repositioning crown molding",
+          "Electronic speed control maintains blade speed under load in hardwood",
+          "Lower table height than many competitors, better ergonomics at workbench height"
+        ],
+        "limitations": [
+          "Higher price than DEWALT DWS779",
+          "Glide mechanism is complex and expensive to repair if damaged"
+        ],
+        "features": [
+          "Axial-glide sliding mechanism, smaller footprint than rail-slide saws",
+          "15-amp motor",
+          "Dual bevel, tilts left and right without flipping the workpiece",
+          "Electronic speed control"
+        ],
+        "badge": "Best Glide"
+      },
+      {
+        "name": "Makita LS1019L 10\" Dual-Bevel Sliding Compound Miter Saw with Laser",
+        "brand": "Makita",
+        "asin": "B073K99HWJ",
+        "blurb": "Key specs: 10-inch blade, Laser guide built-in, Dual bevel.",
+        "strengths": [
+          "Built-in laser guide shows exact cut line, the best integrated laser on any saw",
+          "Direct-drive motor is quieter and requires less maintenance than belt-drive designs",
+          "Dual bevel handles crown and coped joints without workpiece repositioning",
+          "Makita engineering quality is excellent, accurate detents out of the box"
+        ],
+        "limitations": [
+          "10-inch blade limits maximum cut depth vs 12-inch saws",
+          "Higher price than entry-level 10-inch saws"
+        ],
+        "features": [
+          "10-inch blade",
+          "Laser guide built-in",
+          "Dual bevel",
+          "Direct-drive motor, quieter than belt-drive"
+        ]
+      },
+      {
+        "name": "CRAFTSMAN V20 Cordless Sliding Miter Saw, 7-1/4 inch, Single Bevel, Battery and Charger Included (CMCS714M1)",
+        "brand": "CRAFTSMAN",
+        "asin": "B07LFPYPCQ",
+        "blurb": "Key specs: 20V MAX cordless, battery and charger included, 7-1/4-inch blade, Single bevel.",
+        "strengths": [
+          "Lowest price on this list for a sliding compound miter saw with battery included",
+          "Cordless operation, no cord to manage on job sites without power",
+          "Compact 7-1/4-inch size is lightweight and easy to carry",
+          "Sliding rail extends crosscut capacity beyond fixed-head compact saws"
+        ],
+        "limitations": [
+          "7-1/4-inch blade limits cut depth compared to 10 or 12-inch saws",
+          "Single bevel only, no right-tilt without flipping the workpiece"
+        ],
+        "features": [
+          "20V MAX cordless, battery and charger included",
+          "7-1/4-inch blade",
+          "Single bevel",
+          "Sliding rail for extended crosscut capacity"
+        ],
+        "badge": "Best Budget",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "SKIL MS6305-00 10-Inch Dual Bevel Sliding Compound Miter Saw",
+        "brand": "SKIL",
+        "asin": "B08J7N3VYW",
+        "blurb": "Key specs: 15-amp motor, 10-inch blade, LED shadow line.",
+        "strengths": [
+          "Dual bevel at the lowest price in the 12-inch segment",
+          "Laser guide included, helpful for cut alignment without marking each piece",
+          "15-amp motor handles standard woodworking materials",
+          "Simple setup, ready to cut out of the box"
+        ],
+        "limitations": [
+          "No sliding carriage, cut capacity limited to blade diameter",
+          "Fence quality lower than premium alternatives, check with a square before cutting trim"
+        ],
+        "features": [
+          "15-amp motor",
+          "10-inch blade",
+          "LED shadow line",
+          "Dual bevel, left and right"
+        ],
+        "badge": "Best Entry"
+      },
+      {
+        "name": "Metabo HPT C12RSH2 12-Inch Sliding Compound Miter Saw",
+        "brand": "Metabo HPT",
+        "asin": "B07LGTFH8Y",
+        "blurb": "Key specs: 15.5-amp motor, 12-inch sliding capacity, Compact sliding design, reduced rear footprint.",
+        "strengths": [
+          "Lighter than DEWALT DWS779, easier to move between sites",
+          "Compact rear slide design requires less wall clearance than standard rail-slide saws",
+          "15.5-amp motor is the highest amperage on this list, handles demanding cuts well",
+          "Laser guide built in at a competitive price"
+        ],
+        "limitations": [
+          "Metabo HPT brand (formerly Hitachi) less represented in service centers than DEWALT",
+          "Compact slide limits travel slightly compared to full-extension rail designs"
+        ],
+        "features": [
+          "15.5-amp motor",
+          "12-inch sliding capacity",
+          "Compact sliding design, reduced rear footprint",
+          "Laser guide"
+        ],
+        "badge": "Best Lightweight"
+      },
+      {
+        "name": "Festool 575306 Kapex KS 120 REB Sliding Compound Miter Saw",
+        "brand": "Festool",
+        "asin": "B07XS93BT7",
+        "blurb": "Key specs: Dust extraction port, minimal chip scatter, Dual bevel, Electronic motor control.",
+        "strengths": [
+          "Dust extraction system captures the majority of chips, cleanest cut environment",
+          "Electronic motor control maintains exact blade speed regardless of load",
+          "Compact folding design collapses for transport, lightest 12V equivalent footprint",
+          "Festool quality: angles accurate out of the box, adjustments minimal"
+        ],
+        "limitations": [
+          "Extremely high price, difficult to justify outside of professional daily use",
+          "Festool proprietary system, dust port designed for Festool extractors"
+        ],
+        "features": [
+          "Dust extraction port, minimal chip scatter",
+          "Dual bevel",
+          "Electronic motor control",
+          "Compact folding design"
+        ],
+        "badge": "Best Premium",
+        "bestFor": "buyers who want the best overall package"
+      },
+      {
+        "name": "WEN MM1015 15-Amp 10-Inch Dual Bevel Sliding Compound Miter Saw",
+        "brand": "WEN",
+        "asin": "B0BMK1HB2D",
+        "blurb": "Key specs: 15-amp motor, 10-inch blade, Bevel up to 45 degrees.",
+        "strengths": [
+          "Lowest price for a functional 10-inch compound miter saw",
+          "Built-in clamp holds workpieces during cuts without a separate accessory",
+          "Compact and lightweight, easy to move around a small shop",
+          "WEN brand provides accessible warranty service"
+        ],
+        "limitations": [
+          "No sliding carriage, cut capacity limited to blade diameter",
+          "Single bevel, only tilts left",
+          "Fence calibration less precise than professional alternatives"
+        ],
+        "features": [
+          "15-amp motor",
+          "10-inch blade",
+          "Bevel up to 45 degrees",
+          "Built-in clamp"
+        ],
+        "badge": "Best Compact"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

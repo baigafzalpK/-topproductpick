@@ -1,0 +1,129 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Dog Beds for Senior Dogs With Joint Pain",
+  "h1": "The 5 Best Dog Beds for Senior Dogs With Joint Pain",
+  "metaDescription": "Our 5 picks for dog beds for senior dogs with joint pain, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at dog beds for senior dogs with joint pain using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-dog-beds",
+  "related": [
+    "best-dog-beds"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "PetFusion Ultimate Dog Bed",
+        "brand": "PetFusion",
+        "asin": "B00TQ47CPW",
+        "blurb": "Key specs: Solid 4-inch memory foam base, medium firmness, Waterproof liner for accident protection, Low-profile design for easy entry.",
+        "strengths": [
+          "Solid foam base gives genuine pressure relief across hips and elbows",
+          "Medium firmness supports weight without letting a dog sink through to the floor",
+          "Waterproof liner is a real advantage for senior dogs with occasional accidents",
+          "Low profile keeps entry effort minimal for dogs with limited mobility"
+        ],
+        "limitations": [
+          "Firm foam takes some dogs a few nights to adjust to",
+          "No raised headrest for dogs that specifically like resting their chin on an edge"
+        ],
+        "features": [
+          "Solid 4-inch memory foam base, medium firmness",
+          "Waterproof liner for accident protection",
+          "Low-profile design for easy entry",
+          "YKK zippers on both compartments",
+          "1-year warranty"
+        ],
+        "badge": "Best overall",
+        "bestFor": "senior dogs with joint pain"
+      },
+      {
+        "name": "Furhaven Orthopedic Dog Bed Jumbo/XL",
+        "brand": "Furhaven",
+        "asin": "B00D2VB54O",
+        "blurb": "Key specs: Jumbo/XL size for dogs up to 95 pounds, Egg-crate orthopedic foam base, Ultra-plush faux fur and suede cover.",
+        "strengths": [
+          "Egg-crate foam still relieves more pressure than flat fiber fill",
+          "Large sleeping surface at a price well below memory-foam competitors",
+          "Washable cover matters for senior dogs with more frequent accidents"
+        ],
+        "limitations": [
+          "Egg-crate foam compresses faster than solid foam and needs replacing sooner",
+          "Support noticeably drops after about 18 months of daily senior-dog use",
+          "No waterproof liner protecting the foam layer itself"
+        ],
+        "features": [
+          "Jumbo/XL size for dogs up to 95 pounds",
+          "Egg-crate orthopedic foam base",
+          "Ultra-plush faux fur and suede cover",
+          "Removable, machine-washable cover"
+        ],
+        "bestFor": "senior dogs with joint pain"
+      },
+      {
+        "name": "Casper Dog Bed",
+        "brand": "Casper",
+        "asin": "B07BMK97JT",
+        "blurb": "Key specs: Two-layer memory and support foam, Supportive foam bolsters for head and neck, Bonded microfiber cover.",
+        "strengths": [
+          "Two-layer construction is specifically built for older, less active dogs per the brand's own positioning",
+          "Owners report no foam breakdown or sagging after a full year of daily use",
+          "Bolster edge gives arthritic dogs a soft place to rest their head without climbing"
+        ],
+        "limitations": [
+          "Not built for dogs that still chew or dig at bedding",
+          "Smaller review base than Furhaven or PetFusion, so less long-term failure data exists"
+        ],
+        "features": [
+          "Two-layer memory and support foam",
+          "Supportive foam bolsters for head and neck",
+          "Bonded microfiber cover",
+          "Machine-washable removable cover"
+        ],
+        "bestFor": "senior dogs with joint pain"
+      },
+      {
+        "name": "Big Barker 7\" Orthopedic Dog Bed with Headrest (Large)",
+        "brand": "Big Barker",
+        "asin": "B009G9Y5UC",
+        "blurb": "",
+        "strengths": [
+          "Thick 7-inch supportive foam",
+          "Made in USA",
+          "Brand's 10-year flattening guarantee",
+          "Headrest for dogs that like a pillow"
+        ],
+        "limitations": [
+          "Expensive",
+          "Heavy and large",
+          "Cover is not chew-proof"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "Bedsure SupportMax Orthopedic Dog Bed, Large",
+        "brand": "Bedsure",
+        "asin": "B0F1CQ4DRR",
+        "blurb": "",
+        "strengths": [
+          "Extra-thick supportive foam",
+          "Waterproof washable cover",
+          "Bolster headrest",
+          "Non-skid bottom"
+        ],
+        "limitations": [
+          "Bulky",
+          "Sherpa top can be warm",
+          "New line with limited long-term data"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

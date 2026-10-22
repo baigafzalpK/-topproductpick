@@ -1,0 +1,135 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Mini Fridges for Dorm Rooms",
+  "h1": "The 5 Best Mini Fridges for Dorm Rooms",
+  "metaDescription": "Our 5 picks for mini fridges for dorm rooms, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at mini fridges for dorm rooms using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-mini-fridges",
+  "related": [
+    "best-mini-fridges"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "BLACK+DECKER BCRK25V 2.5 Cu Ft Compact Refrigerator",
+        "brand": "BLACK+DECKER",
+        "asin": "B01DZQI700",
+        "blurb": "Key specs: 2.5 cu ft single-door capacity, ENERGY STAR certified, about 212 kWh/year, Small freezer compartment with ice tray.",
+        "strengths": [
+          "Glass shelves and a door bin fit tall bottles that many mini fridges can't",
+          "Reversible door lets it fit either side of a dorm layout without extra clearance"
+        ],
+        "limitations": [
+          "Small top freezer compartment barely holds an ice tray, not a real freezer",
+          "Manual defrost needed every few months to prevent frost buildup",
+          "Some owners report the freezer section struggles to hold a hard freeze"
+        ],
+        "features": [
+          "2.5 cu ft single-door capacity",
+          "ENERGY STAR certified, about 212 kWh/year",
+          "Small freezer compartment with ice tray",
+          "Two removable glass shelves",
+          "Reversible door, adjustable thermostat"
+        ],
+        "badge": "Best overall",
+        "bestFor": "dorm rooms"
+      },
+      {
+        "name": "Midea WHS-160RB1 4.4 Cu Ft Compact Refrigerator",
+        "brand": "Midea",
+        "asin": "B00MVVIF2G",
+        "blurb": "Key specs: 4.4 cu ft capacity, the largest single-door option in this list, 42 dB rated noise level, Reversible door with adjustable legs.",
+        "strengths": [
+          "4.4 cu ft is enough for two people's groceries, not just drinks and snacks",
+          "42 dB rating is quiet enough for an overnight bedroom or dorm setting",
+          "Adjustable legs make it easy to level on uneven dorm flooring"
+        ],
+        "limitations": [
+          "Chiller compartment is not a real freezer -- no ice cubes, no frozen food",
+          "33.86-inch height is taller than most true mini fridges and won't fit under some desks",
+          "Some owners report occasional compressor hum after a year of use"
+        ],
+        "features": [
+          "4.4 cu ft capacity, the largest single-door option in this list",
+          "42 dB rated noise level",
+          "Reversible door with adjustable legs",
+          "Small chiller compartment, not a true freezer",
+          "Push-button mechanical thermostat"
+        ],
+        "bestFor": "dorm rooms"
+      },
+      {
+        "name": "Frigidaire EFR176 1.6 Cu Ft Retro Mini Fridge",
+        "brand": "Frigidaire",
+        "asin": "B07LDVXK4Q",
+        "blurb": "Key specs: 1.6 cu ft capacity, the smallest footprint in this list, Retro-styled body with a side-mounted bottle opener, Flush-back design for tight against-the-wall placement.",
+        "strengths": [
+          "1.6 cu ft and a flush back give it the smallest usable footprint here",
+          "Side bottle opener is a genuinely useful built-in feature",
+          "Retro color options stand out from the typical black or white dorm fridge"
+        ],
+        "limitations": [
+          "1.6 cu ft is tight -- mostly drinks and snacks, not a grocery run",
+          "Plastic door handle feels less durable than the metal handles on larger models",
+          "Runs slightly louder than the Midea at full cooling cycle per owner reports"
+        ],
+        "features": [
+          "1.6 cu ft capacity, the smallest footprint in this list",
+          "Retro-styled body with a side-mounted bottle opener",
+          "Flush-back design for tight against-the-wall placement",
+          "Wire shelf, 2-liter door bin, small chiller/ice tray compartment",
+          "Reversible door"
+        ],
+        "bestFor": "dorm rooms"
+      },
+      {
+        "name": "Galanz GLR31TBEER 3.1 Cu Ft Retro Mini Fridge",
+        "brand": "Galanz",
+        "asin": "B07DQSWT42",
+        "blurb": "Key specs: 3.1 cu ft total, split into 2.1 cu ft fridge and separate top freezer, True dual-door design with an actual freezer, not just a chiller box, Adjustable mechanical thermostat.",
+        "strengths": [
+          "The only fridge in this list with a genuine separate freezer for ice and frozen food",
+          "3.1 cu ft split across two compartments balances fridge and freezer space",
+          "Retro styling with a quiet, sub-42 dB compressor"
+        ],
+        "limitations": [
+          "Pricier than the single-door options in this list",
+          "Some owners report inconsistent cooling after a couple years of daily use",
+          "Plastic interior parts feel less sturdy than the metal shelving on pricier fridges"
+        ],
+        "features": [
+          "3.1 cu ft total, split into 2.1 cu ft fridge and separate top freezer",
+          "True dual-door design with an actual freezer, not just a chiller box",
+          "Adjustable mechanical thermostat",
+          "Retro-styled body, rated under 42 dB",
+          "Removable glass shelves and a produce crisper"
+        ],
+        "bestFor": "dorm rooms"
+      },
+      {
+        "name": "Midea WHS-65LB1 1.6 Cu Ft Compact Refrigerator",
+        "brand": "Midea",
+        "asin": "B00MVVI1FC",
+        "blurb": "",
+        "strengths": [
+          "Energy Star certified",
+          "Reversible door",
+          "Compact cube size",
+          "Quiet for bedrooms"
+        ],
+        "limitations": [
+          "Chiller won't freeze food",
+          "Only one shelf",
+          "Can over-chill items near the top"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

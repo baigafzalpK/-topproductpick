@@ -1,0 +1,86 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Window Air Conditioners Under $400",
+  "h1": "The 3 Best Window Air Conditioners Under $400",
+  "metaDescription": "Our 3 picks for window air conditioners under $400, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at window air conditioners under $400 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-window-air-conditioners",
+  "related": [
+    "best-window-air-conditioners"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Midea 8,000 BTU U-Shaped Smart Inverter Window Air Conditioner",
+        "brand": "Midea",
+        "asin": "B0FDQGPCG7",
+        "blurb": "Key specs: 8,000 BTU inverter compressor, Cools rooms up to 350 sq ft, As low as 32 dBA on low fan.",
+        "strengths": [
+          "37% efficiency gain lowers the electric bill over a full cooling season",
+          "U-shaped frame lets the window lock down for added security"
+        ],
+        "limitations": [
+          "Installation across the sash takes longer than a standard slide-in unit",
+          "Midea's 2025 recall and repair program covers some early U-shaped units over a mold-related drain issue"
+        ],
+        "features": [
+          "8,000 BTU inverter compressor",
+          "Cools rooms up to 350 sq ft",
+          "As low as 32 dBA on low fan",
+          "37% more efficient than the federal minimum standard",
+          "Typically $230 to $400 depending on sale timing"
+        ],
+        "badge": "Best overall"
+      },
+      {
+        "name": "LG 8,000 BTU Smart Window Air Conditioner LW8017ERSM1",
+        "brand": "LG",
+        "asin": "B0BM57MTL7",
+        "blurb": "Key specs: 8,000 BTU cooling capacity, Cools rooms up to 340 sq ft, LG ThinQ Wi-Fi app control.",
+        "strengths": [
+          "LG ThinQ app adds remote scheduling that some pricier fixed-speed units skip",
+          "340 sq ft coverage handles most bedrooms and smaller living rooms"
+        ],
+        "limitations": [
+          "Fixed-speed compressor is louder at full cooling than the inverter units in this list",
+          "No U-shaped or flex-depth frame for a tighter window seal"
+        ],
+        "features": [
+          "8,000 BTU cooling capacity",
+          "Cools rooms up to 340 sq ft",
+          "LG ThinQ Wi-Fi app control",
+          "3 cooling and 3 fan speeds",
+          "Typically $300 to $320"
+        ]
+      },
+      {
+        "name": "Frigidaire 8,000 BTU Smart Inverter Window Air Conditioner FHWW085WE1",
+        "brand": "Frigidaire",
+        "asin": "B0CFYFCNBW",
+        "blurb": "Key specs: 8,000 BTU inverter compressor, Cools rooms up to 350 sq ft, 6-way directional airflow.",
+        "strengths": [
+          "Inverter compressor at a price close to the LG's fixed-speed unit",
+          "6-way vents throw air further across a wider room than a fixed 2-way vent",
+          "PureAir washable filter is simple to maintain"
+        ],
+        "limitations": [
+          "Fewer long-term owner reviews than the LG or Midea",
+          "42 dBA is the highest rated noise figure among the inverter units in this list"
+        ],
+        "features": [
+          "8,000 BTU inverter compressor",
+          "Cools rooms up to 350 sq ft",
+          "6-way directional airflow",
+          "42 dBA rated operation",
+          "Typically $329 to $429"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

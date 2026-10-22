@@ -1,0 +1,78 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Budget Standing Desks Under $400 in 2026",
+  "h1": "The 3 Best Budget Standing Desks Under $400 in 2026",
+  "metaDescription": "Our 3 picks for budget standing desks under $400 in 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at budget standing desks under $400 in 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "standing-desks",
+  "related": [
+    "standing-desks"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "FEZIBO 48 x 24 Electric Standing Desk with Drawers",
+        "brand": "FEZIBO",
+        "asin": "B09F6V1ZTK",
+        "blurb": "",
+        "strengths": [
+          "Built-in drawers and top shelf",
+          "Four height presets",
+          "Electric lift at a budget price",
+          "Quiet motor"
+        ],
+        "limitations": [
+          "Single motor is slower than dual-motor desks",
+          "Some wobble at standing height",
+          "Heavy to assemble"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "FLEXISPOT EC1 Electric Standing Desk, 48 x 24",
+        "brand": "FLEXISPOT",
+        "asin": "B08M5QV64S",
+        "blurb": "",
+        "strengths": [
+          "Established brand with frame warranty",
+          "Simple electric height control",
+          "Steel frame",
+          "Good value"
+        ],
+        "limitations": [
+          "Single motor, slower lift",
+          "Lower weight capacity than dual-motor frames",
+          "Basic controller"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "VIVO Electric 55 x 24 Standing Desk with Storage",
+        "brand": "VIVO",
+        "asin": "B0D4BQ33MG",
+        "blurb": "",
+        "strengths": [
+          "Built-in power strip",
+          "Storage drawers",
+          "Memory height presets",
+          "Wider 55-inch top"
+        ],
+        "limitations": [
+          "Heavy and bulky",
+          "Single motor",
+          "Higher minimum height than some desks"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

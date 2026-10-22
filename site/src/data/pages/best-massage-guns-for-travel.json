@@ -1,0 +1,148 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 6 Best Massage Guns for Travel",
+  "h1": "The 6 Best Massage Guns for Travel",
+  "metaDescription": "Our 6 picks for massage guns for travel, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at massage guns for travel using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-massage-guns",
+  "related": [
+    "best-massage-guns"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Hyperice Hypervolt Go 2",
+        "brand": "Hyperice",
+        "asin": "B09W737GFR",
+        "blurb": "Key specs: 1.5 lb compact body, 40W brushless motor, 3 speeds.",
+        "strengths": [
+          "1.5 lbs and a genuinely compact footprint make this the easiest full-brand gun to pack",
+          "USB-C charging shares a cable with most phones and laptops",
+          "QuietGlide motor is quiet enough for hotel rooms or shared travel spaces"
+        ],
+        "limitations": [
+          "Only 3 speeds compared with 5 on full-size competitors",
+          "Lower stall force than larger guns, fine for maintenance, less so for deep tissue work"
+        ],
+        "features": [
+          "1.5 lb compact body",
+          "40W brushless motor",
+          "3 speeds",
+          "QuietGlide technology",
+          "USB-C charging, 3-hour battery"
+        ],
+        "badge": "Best overall",
+        "bestFor": "travel"
+      },
+      {
+        "name": "TOLOCO Massage Gun",
+        "brand": "TOLOCO",
+        "asin": "B083L8RNJR",
+        "blurb": "Key specs: 10 massage heads, Silent brushless motor, Multiple speed levels.",
+        "strengths": [
+          "Low price makes it less stressful to travel with than a premium gun",
+          "Ten heads included covers most needs without extra purchases",
+          "Widely available, easy to replace if lost or damaged on a trip"
+        ],
+        "limitations": [
+          "Larger and heavier than dedicated compact travel guns like the Hypervolt Go 2",
+          "Auto shut-off at 10 minutes can interrupt longer recovery sessions"
+        ],
+        "features": [
+          "10 massage heads",
+          "Silent brushless motor",
+          "Multiple speed levels",
+          "Auto shut-off after 10 minutes",
+          "Carrying pouch typically included"
+        ],
+        "bestFor": "travel"
+      },
+      {
+        "name": "RENPHO Active Massage Gun",
+        "brand": "RENPHO",
+        "asin": "B085NTR26K",
+        "blurb": "Key specs: 5 speed settings, 5 interchangeable heads, Carry case included.",
+        "strengths": [
+          "Included carry case is built for exactly this use, keeping heads organized in one bag",
+          "USB-C charging is travel-friendly and shares a cable with most other devices",
+          "Strong enough for regular home use so you don't need a second gun just for trips"
+        ],
+        "limitations": [
+          "Not as compact or light as the Hypervolt Go 2",
+          "Five heads add bulk to the carry case versus a minimal travel setup"
+        ],
+        "features": [
+          "5 speed settings",
+          "5 interchangeable heads",
+          "Carry case included",
+          "USB-C charging",
+          "Quiet brushless motor"
+        ],
+        "bestFor": "travel"
+      },
+      {
+        "name": "Bob and Brad Q2 Mini Massage Gun",
+        "brand": "Bob and Brad",
+        "asin": "B08M8YSFC7",
+        "blurb": "",
+        "strengths": [
+          "Pocket size",
+          "Under 1 lb",
+          "Quiet",
+          "Carry case"
+        ],
+        "limitations": [
+          "7mm amplitude is gentle",
+          "Less stall force than full-size guns",
+          "Shorter handle"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "TheraGun Mini (1st Gen)",
+        "brand": "Therabody",
+        "asin": "B086Z6LNVS",
+        "blurb": "",
+        "strengths": [
+          "Compact, easy-grip shape",
+          "Quiet motor",
+          "Simple three-speed control",
+          "Premium brand"
+        ],
+        "limitations": [
+          "Older generation",
+          "Single attachment on base kit",
+          "Pricier than rivals"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "Ekrin Athletics Bantam Mini Massage Gun",
+        "brand": "Ekrin",
+        "asin": "B08M8P7ZVD",
+        "blurb": "",
+        "strengths": [
+          "Light and compact",
+          "Long battery life",
+          "Four attachments",
+          "Travel-friendly"
+        ],
+        "limitations": [
+          "Less power than full-size",
+          "Only three speeds",
+          "Short reach"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

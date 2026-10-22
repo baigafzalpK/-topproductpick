@@ -1,0 +1,106 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Milk Frothers for Matcha",
+  "h1": "The 4 Best Milk Frothers for Matcha",
+  "metaDescription": "Our 4 picks for milk frothers for matcha, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at milk frothers for matcha using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-milk-frothers",
+  "related": [
+    "best-milk-frothers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Zulay Original Milk Frother",
+        "brand": "Zulay",
+        "asin": "B07TB9R9V2",
+        "blurb": "Key specs: Fast handheld whisk motor, Narrow whisk head fits small mugs and bowls, Battery-powered, no cord or jug.",
+        "strengths": [
+          "Narrow whisk head dissolves matcha powder into a smooth paste faster than a wide countertop jug allows",
+          "Works directly in whatever bowl or mug the matcha is being prepared in",
+          "Portable enough to use for matcha at a desk or while traveling"
+        ],
+        "limitations": [
+          "Doesn't heat water or milk, so the water for the matcha paste needs separate warming",
+          "Requires holding the whisk at an angle to fully reach clumped powder at the bottom of a narrow cup",
+          "Battery-powered motor is less consistent in speed than a mains-powered unit over long sessions"
+        ],
+        "features": [
+          "Fast handheld whisk motor",
+          "Narrow whisk head fits small mugs and bowls",
+          "Battery-powered, no cord or jug",
+          "Included stand"
+        ],
+        "badge": "Top pick",
+        "bestFor": "matcha"
+      },
+      {
+        "name": "Nespresso Aeroccino4",
+        "brand": "Nespresso",
+        "asin": "B01JCEKE8C",
+        "blurb": "Key specs: 4 modes including cold froth, Induction heating for the milk portion, Non-stick jug.",
+        "strengths": [
+          "Handles the milk-frothing half of a matcha latte well, leaving the matcha whisking to a separate small bowl step",
+          "Cold froth mode works for iced matcha lattes, an increasingly common order",
+          "Consistent foam texture pairs well with a pre-made matcha paste poured in afterward"
+        ],
+        "limitations": [
+          "Not suited to whisking the matcha powder itself, the jug is too wide and deep for a small amount of powder and water",
+          "Fixed hot setting can run hotter than ideal if matcha paste is added directly instead of premixed separately",
+          "Best used as a two-step process alongside a separate matcha whisk"
+        ],
+        "features": [
+          "4 modes including cold froth",
+          "Induction heating for the milk portion",
+          "Non-stick jug",
+          "One-button operation"
+        ],
+        "bestFor": "matcha"
+      },
+      {
+        "name": "PowerLix Handheld Milk Frother with Stand",
+        "brand": "PowerLix",
+        "asin": "B06X6JLZ1T",
+        "blurb": "",
+        "strengths": [
+          "Very cheap",
+          "Works with hot or cold drinks",
+          "Great for whisking matcha",
+          "Stand included"
+        ],
+        "limitations": [
+          "Doesn't heat milk",
+          "Needs AA batteries",
+          "Foam is less fine than a jug frother"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "Maestri House LunaFro 2.0 Rechargeable Milk Frother",
+        "brand": "Maestri House",
+        "asin": "B0G56GHV1S",
+        "blurb": "",
+        "strengths": [
+          "Rechargeable, no batteries",
+          "Stepless speed control",
+          "Three whisk heads",
+          "Good for matcha and protein shakes"
+        ],
+        "limitations": [
+          "Doesn't heat milk",
+          "Needs charging",
+          "Less fine foam than a jug"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

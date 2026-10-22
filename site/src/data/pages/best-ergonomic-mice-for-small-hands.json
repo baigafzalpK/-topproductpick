@@ -1,0 +1,106 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Ergonomic Mice for Small Hands 2026",
+  "h1": "The 4 Best Ergonomic Mice for Small Hands 2026",
+  "metaDescription": "Our 4 picks for ergonomic mice for small hands 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at ergonomic mice for small hands 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "ergonomic-mice",
+  "related": [
+    "ergonomic-mice"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Anker 2.4G Wireless Vertical Mouse (Small)",
+        "brand": "Anker",
+        "asin": "B00BIFNTMC",
+        "blurb": "Key specs: Compact vertical body, 2.4GHz wireless, 1000/1600 DPI.",
+        "strengths": [
+          "Compact dimensions fit small hands under 17cm",
+          "Reliable 2.4GHz wireless"
+        ],
+        "limitations": [
+          "AA battery rather than rechargeable",
+          "Lower build quality than Logitech"
+        ],
+        "features": [
+          "Compact vertical body",
+          "2.4GHz wireless",
+          "1000/1600 DPI",
+          "AA battery"
+        ],
+        "badge": "Best Budget Small",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "Kensington Expert Wireless Trackball Mouse",
+        "brand": "Kensington",
+        "asin": "B01936N73I",
+        "blurb": "Key specs: 57mm trackball, Bluetooth + USB receiver, Scroll ring around the ball.",
+        "strengths": [
+          "Eliminates all wrist and forearm movement",
+          "Hand size irrelevant, no grip required",
+          "Scroll ring is more ergonomic than scroll wheel for extended use"
+        ],
+        "limitations": [
+          "Significant learning curve, 2 to 4 weeks to reach full tracking accuracy",
+          "Not portable, designed for fixed desk use"
+        ],
+        "features": [
+          "57mm trackball",
+          "Bluetooth + USB receiver",
+          "Scroll ring around the ball",
+          "4 programmable buttons"
+        ],
+        "badge": "Best Trackball Small Hands",
+        "bestFor": "small hands"
+      },
+      {
+        "name": "Logitech MX Vertical",
+        "brand": "Logitech",
+        "asin": "B07FNJB8TT",
+        "blurb": "Key specs: 57-degree vertical angle, Bluetooth + Unifying receiver, 4000 DPI.",
+        "strengths": [
+          "57-degree angle reduces forearm pronation",
+          "Bluetooth multi-device"
+        ],
+        "limitations": [
+          "Too large for small hands under 17cm"
+        ],
+        "features": [
+          "57-degree vertical angle",
+          "Bluetooth + Unifying receiver",
+          "4000 DPI",
+          "USB-C rechargeable"
+        ],
+        "badge": "Best Medium Hands",
+        "bestFor": "small hands"
+      },
+      {
+        "name": "Logitech Lift Vertical Ergonomic Mouse",
+        "brand": "Logitech",
+        "asin": "B09J1TB35S",
+        "blurb": "",
+        "strengths": [
+          "Designed for small to medium hands",
+          "Quiet clicks",
+          "Bluetooth or Logi Bolt",
+          "Customizable buttons"
+        ],
+        "limitations": [
+          "Right-handed version only in some colors",
+          "Too small for large hands",
+          "Uses AA battery"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

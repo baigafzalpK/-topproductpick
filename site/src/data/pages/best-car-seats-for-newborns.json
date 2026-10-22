@@ -1,0 +1,115 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Car Seats for Newborns",
+  "h1": "The 4 Best Car Seats for Newborns",
+  "metaDescription": "Our 4 picks for car seats for newborns, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at car seats for newborns using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-car-seats",
+  "related": [
+    "best-car-seats"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Chicco KeyFit 35 Infant Car Seat",
+        "brand": "Chicco",
+        "asin": "B089HG2QTT",
+        "blurb": "Key specs: Fits infants 4 to 35 pounds, Removable infant head and body support insert, Stay-in-car base with load leg and level indicator.",
+        "strengths": [
+          "Fits from 4 pounds with the included insert, one of the lowest starting weights of any infant seat",
+          "Consistently rated one of the easiest infant seats to install correctly on the first try",
+          "Detaches from the base to double as a carrier and click into compatible strollers"
+        ],
+        "limitations": [
+          "Height limit around 30 inches means many babies outgrow it before 35 pounds",
+          "Heavier carrier shell than some newer lightweight infant seats",
+          "Extra bases sold separately for a second car add to the total cost"
+        ],
+        "features": [
+          "Fits infants 4 to 35 pounds",
+          "Removable infant head and body support insert",
+          "Stay-in-car base with load leg and level indicator",
+          "UPF 50+ full-coverage canopy",
+          "Compatible with most Chicco strollers for a travel system"
+        ],
+        "badge": "Top pick",
+        "bestFor": "newborns"
+      },
+      {
+        "name": "Evenflo LiteMax 35 Infant Car Seat",
+        "brand": "Evenflo",
+        "asin": "B06VXZG5JH",
+        "blurb": "Key specs: Fits infants 4 to 35 pounds, 8.7-pound carrier, one of the lightest in its class, Belt lock-off for base-free installation.",
+        "strengths": [
+          "Lightest carrier shell in this list, easier to carry one-handed with a diaper bag",
+          "NHTSA ease-of-use rating of four out of five stars"
+        ],
+        "limitations": [
+          "LATCH connectors on the base are reported as stiffer to attach than Chicco's",
+          "Fewer stroller travel-system pairings than Chicco or Graco",
+          "Fabric and padding feel less premium than the pricier picks"
+        ],
+        "features": [
+          "Fits infants 4 to 35 pounds",
+          "8.7-pound carrier, one of the lightest in its class",
+          "Belt lock-off for base-free installation",
+          "Dual weight range recline indicator",
+          "Removable infant head and body pillow"
+        ],
+        "bestFor": "newborns"
+      },
+      {
+        "name": "Britax Boulevard ClickTight Convertible Car Seat",
+        "brand": "Britax",
+        "asin": "B0796435J1",
+        "blurb": "Key specs: Rear-facing 5 to 40 pounds, forward-facing 20 to 65 pounds, ClickTight installation system with a steel tensioner, Two layers of side impact protection.",
+        "strengths": [
+          "One seat that goes from newborn to booster years, no need to buy a second convertible seat later",
+          "ClickTight install is widely regarded as one of the easiest convertible installs to get tight",
+          "14-position harness grows with the child without rethreading straps"
+        ],
+        "limitations": [
+          "5-pound minimum means it will not fit the smallest newborns or preemies",
+          "Does not detach from the car, so there is no carrier or stroller function",
+          "Bulkier and heavier to move between vehicles than an infant seat and base"
+        ],
+        "features": [
+          "Rear-facing 5 to 40 pounds, forward-facing 20 to 65 pounds",
+          "ClickTight installation system with a steel tensioner",
+          "Two layers of side impact protection",
+          "14-position no-rethread harness",
+          "Click & Safe snug harness indicator"
+        ],
+        "bestFor": "newborns"
+      },
+      {
+        "name": "Graco 4Ever DLX 4-in-1 Car Seat",
+        "brand": "Graco",
+        "asin": "B07J37RTPG",
+        "blurb": "Key specs: Rear-facing 4 to 40 pounds, 10-year usable lifespan from a single seat, Simply Safe Adjust harness with integrated buckle lock-off.",
+        "strengths": [
+          "Fits from 4 pounds, the lowest starting weight of the convertible seats in this list",
+          "Covers 4 stages of use through roughly age 10, the longest usable span here"
+        ],
+        "limitations": [
+          "No detachable carrier, same tradeoff as any convertible seat",
+          "Bulkier footprint than the Boulevard in some smaller back seats",
+          "Booster mode years away is a feature most newborn buyers will not use for years"
+        ],
+        "features": [
+          "Rear-facing 4 to 40 pounds",
+          "10-year usable lifespan from a single seat",
+          "Simply Safe Adjust harness with integrated buckle lock-off",
+          "Rapid Remove washable cover"
+        ],
+        "bestFor": "newborns"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Jogging Strollers",
+  "h1": "The 3 Best Jogging Strollers",
+  "metaDescription": "Our 3 picks for jogging strollers, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at jogging strollers using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-strollers",
+  "related": [
+    "best-strollers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "BOB Gear Revolution Flex 3.0 Jogging Stroller",
+        "brand": "BOB Gear",
+        "asin": "B0829PMJ8D",
+        "blurb": "Key specs: Swivel-locking front wheel, Mountain-bike-style suspension with air-filled tires, Adjustable handlebar.",
+        "strengths": [
+          "Suspension and air-filled tires produce a noticeably smoother ride than crossover joggers on trail or uneven pavement",
+          "Swivel-locking front wheel gives true running stability when locked and everyday maneuverability when unlocked",
+          "Adjustable handlebar fits a wide range of parent heights, useful when both parents run with it",
+          "6 storage pockets are a real convenience on longer runs"
+        ],
+        "limitations": [
+          "Larger folded footprint than everyday strollers, less ideal for small trunks",
+          "Air-filled tires can go flat and need occasional inflation, unlike foam-filled alternatives"
+        ],
+        "features": [
+          "Swivel-locking front wheel",
+          "Mountain-bike-style suspension with air-filled tires",
+          "Adjustable handlebar",
+          "6 storage pockets including a cell phone pocket",
+          "Extra-large UPF 50+ canopy"
+        ],
+        "badge": "Best overall",
+        "bestFor": "jogging"
+      },
+      {
+        "name": "Thule Urban Glide 2 Jogging Stroller",
+        "brand": "Thule",
+        "asin": "B08J1F5GWL",
+        "blurb": "Key specs: 16-inch rear wheels with suspension, 5-point padded safety harness, Multi-position, ventilated canopy.",
+        "strengths": [
+          "Large 16-inch rear wheels smooth out cracks and curbs better than smaller-wheeled everyday strollers",
+          "Quick-release rear wheels make it genuinely more compact for trunk storage than most joggers",
+          "75 lb capacity means it stays usable well past toddler stage",
+          "Balances running-stroller stability with everyday city maneuverability better than bulkier joggers"
+        ],
+        "limitations": [
+          "No storage-focused accessories included, like a cell phone pocket, out of the box",
+          "Front wheel swivel-lock mechanism takes a bit of practice to engage quickly"
+        ],
+        "features": [
+          "16-inch rear wheels with suspension",
+          "5-point padded safety harness",
+          "Multi-position, ventilated canopy",
+          "Quick-release rear wheels for compact storage",
+          "75 lb weight capacity"
+        ],
+        "bestFor": "jogging"
+      },
+      {
+        "name": "Graco FastAction Fold Jogger Stroller",
+        "brand": "Graco",
+        "asin": "B00UVW45Q2",
+        "blurb": "Key specs: One-second, one-hand FastAction fold, Lockable front swivel wheels, Click Connect infant car seat compatibility.",
+        "strengths": [
+          "Front wheel lock gives basic running stability for light jogging",
+          "Click Connect compatibility means it can double as a newborn travel system",
+          "One-hand fold is fast for everyday errands, not just running"
+        ],
+        "limitations": [
+          "Wheels and suspension are noticeably more basic than the BOB or Thule for sustained running",
+          "Not intended for serious trail running or high-mileage use",
+          "Heavier and less agile than dedicated three-wheel joggers at running speed"
+        ],
+        "features": [
+          "One-second, one-hand FastAction fold",
+          "Lockable front swivel wheels",
+          "Click Connect infant car seat compatibility",
+          "Deluxe padded seat with multi-position recline",
+          "Extra-large canopy"
+        ],
+        "bestFor": "jogging"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

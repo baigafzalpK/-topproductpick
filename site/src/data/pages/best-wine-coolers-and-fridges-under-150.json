@@ -1,0 +1,100 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Wine Coolers and Fridges Under $150",
+  "h1": "The 4 Best Wine Coolers and Fridges Under $150",
+  "metaDescription": "Our 4 picks for wine coolers and fridges under $150, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at wine coolers and fridges under $150 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-wine-coolers",
+  "related": [
+    "best-wine-coolers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "NutriChef 33 Bottle Dual Zone Wine Fridge",
+        "brand": "NutriChef",
+        "asin": "B0BGM9FR2L",
+        "blurb": "Key specs: 33-bottle dual-zone capacity, Compressor cooling, not thermoelectric, 41°F to 64°F adjustable range.",
+        "strengths": [
+          "True compressor cooling at a price that undercuts most similarly sized compressor units",
+          "Worth stretching the budget toward if capacity and reliability both matter"
+        ],
+        "limitations": [
+          "Fewer long-term reliability reports than more established brands",
+          "Freestanding only, needs clearance"
+        ],
+        "features": [
+          "33-bottle dual-zone capacity",
+          "Compressor cooling, not thermoelectric",
+          "41°F to 64°F adjustable range",
+          "Digital touch controls",
+          "Typically found around $380 to $420"
+        ],
+        "badge": "Top pick"
+      },
+      {
+        "name": "Ivation 12-Bottle Compressor Wine Cooler with Lock",
+        "brand": "Ivation",
+        "asin": "B0864S2FPR",
+        "blurb": "",
+        "strengths": [
+          "Compressor cools reliably in warm rooms",
+          "Door lock",
+          "UV-resistant double-pane glass",
+          "Slim footprint"
+        ],
+        "limitations": [
+          "12-bottle capacity",
+          "Compressor hum",
+          "Tall and narrow"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "Koolatron 12-Bottle Thermoelectric Wine Fridge",
+        "brand": "Koolatron",
+        "asin": "B09D3YZ3GQ",
+        "blurb": "",
+        "strengths": [
+          "Quiet, vibration-free cooling",
+          "Countertop size",
+          "Removable wire racks",
+          "Affordable"
+        ],
+        "limitations": [
+          "Struggles in warm rooms",
+          "Short warranty",
+          "Limited cooling range"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "Antarctic Star 12-Bottle Wine and Beverage Cooler",
+        "brand": "Antarctic Star",
+        "asin": "B07F9RNZPB",
+        "blurb": "",
+        "strengths": [
+          "Holds wine or cans",
+          "Adjustable shelves",
+          "Glass door display",
+          "Compact"
+        ],
+        "limitations": [
+          "Not wine-specific racks",
+          "Limited temperature precision",
+          "Small capacity"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

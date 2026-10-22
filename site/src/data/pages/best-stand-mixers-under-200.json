@@ -1,0 +1,260 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 10 Best Stand Mixers Under $200",
+  "h1": "The 10 Best Stand Mixers Under $200",
+  "metaDescription": "Our 10 picks for stand mixers under $200, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at stand mixers under $200 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "stand-mixers",
+  "related": [
+    "stand-mixers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Cuisinart SM-50 5.5-Quart 500W Stand Mixer",
+        "brand": "Cuisinart",
+        "asin": "B01N9XSZTQ",
+        "blurb": "Key specs: 5.5-quart, 500W, 12 speeds.",
+        "strengths": [
+          "500W motor, 55% more than KitchenAid Artisan at half the price",
+          "5.5-quart is larger than most comparable models in this price range"
+        ],
+        "limitations": [
+          "Not compatible with KitchenAid's attachment ecosystem"
+        ],
+        "features": [
+          "5.5-quart",
+          "500W",
+          "12 speeds",
+          "$150 to $200"
+        ],
+        "badge": "Best Overall",
+        "bestFor": "buyers who want the best overall package"
+      },
+      {
+        "name": "Hamilton Beach 63390 4-Quart Stand Mixer",
+        "brand": "Hamilton Beach",
+        "asin": "B00JR5AAYU",
+        "blurb": "Key specs: 4-quart, 7 speeds, Under $80.",
+        "strengths": [
+          "Planetary mixing action",
+          "Tilt-head design",
+          "Budget price",
+          "Includes beater, whisk, dough hook"
+        ],
+        "limitations": [
+          "Less powerful for heavy dough",
+          "Plastic build",
+          "Smaller bowl"
+        ],
+        "features": [
+          "4-quart",
+          "7 speeds",
+          "Under $80",
+          "Hamilton Beach"
+        ],
+        "badge": "Best Large Budget",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "KitchenAid KSM3316X Artisan Mini 3.5-Quart",
+        "brand": "KitchenAid",
+        "asin": "B01HKATXF0",
+        "blurb": "Key specs: 3.5-quart, 250W, KitchenAid.",
+        "strengths": [
+          "Compact footprint",
+          "Works with KitchenAid attachments",
+          "Durable build",
+          "Many colors"
+        ],
+        "limitations": [
+          "Smaller bowl",
+          "Less suited for large batches",
+          "Higher price than budget mixers"
+        ],
+        "features": [
+          "3.5-quart",
+          "250W",
+          "KitchenAid",
+          "Mini"
+        ],
+        "badge": "Best Kitchenaid Budget",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "Oster 350-Watt 12-Speed All Metal Stand Mixer",
+        "brand": "Oster",
+        "asin": "B00451B7UM",
+        "blurb": "Key specs: 4.6-quart, 350W, Under $80.",
+        "strengths": [
+          "Metal construction",
+          "12 speeds",
+          "Affordable",
+          "Includes attachments"
+        ],
+        "limitations": [
+          "Not for heavy dough",
+          "Less refined",
+          "Limited availability"
+        ],
+        "features": [
+          "4.6-quart",
+          "350W",
+          "Under $80",
+          "Oster"
+        ],
+        "badge": "Best Watt Budget",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "Kenmore Elite 89008 5-Quart Stand Mixer",
+        "brand": "Kenmore",
+        "asin": "B075BDGJJ7",
+        "blurb": "Key specs: 5-quart, Kenmore, Under $150.",
+        "strengths": [
+          "5-quart bowl",
+          "Planetary mixing",
+          "Pour shield",
+          "Good value"
+        ],
+        "limitations": [
+          "Fewer accessories than KitchenAid",
+          "Brand support varies",
+          "Heavy"
+        ],
+        "features": [
+          "5-quart",
+          "Kenmore",
+          "Under $150",
+          "10 speeds"
+        ],
+        "badge": "Best Kenmore"
+      },
+      {
+        "name": "Chefman RJ32-B Legacy Series Power Stand Mixer",
+        "brand": "Chefman",
+        "asin": "B00W9HRP9G",
+        "blurb": "Key specs: 3.5-quart, Tilt-head, Under $80.",
+        "strengths": [
+          "Very affordable",
+          "Tilt-head",
+          "Multiple attachments",
+          "Lightweight"
+        ],
+        "limitations": [
+          "Less durable",
+          "Weak for heavy dough",
+          "Plastic build"
+        ],
+        "features": [
+          "3.5-quart",
+          "Tilt-head",
+          "Under $80",
+          "Chefman"
+        ],
+        "badge": "Best Ultra Budget",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "Dash Everyday Stand Mixer 3-Quart",
+        "brand": "Dash",
+        "asin": "B078ZKQ8S1",
+        "blurb": "Key specs: 3-quart, Mini, Under $50.",
+        "strengths": [
+          "Compact enough for apartments with minimal counter or storage space"
+        ],
+        "limitations": [
+          "3-quart, only for small batches",
+          "Low wattage, not for any stiff mixing"
+        ],
+        "features": [
+          "3-quart",
+          "Mini",
+          "Under $50",
+          "Dash"
+        ],
+        "badge": "Best Mini Budget",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "Cuisinart SM-35 3.5-Quart Compact Stand Mixer",
+        "brand": "Cuisinart",
+        "asin": "B07H6G5D46",
+        "blurb": "Key specs: 3.5-quart, Cuisinart, Compact.",
+        "strengths": [
+          "Compact",
+          "Die-cast metal",
+          "Tilt-head",
+          "Multiple speeds"
+        ],
+        "limitations": [
+          "Small bowl",
+          "Less powerful",
+          "Limited accessories"
+        ],
+        "features": [
+          "3.5-quart",
+          "Cuisinart",
+          "Compact",
+          "Under $100"
+        ],
+        "badge": "Best Cuisinart Compact"
+      },
+      {
+        "name": "BLACK+DECKER M650 Bowl and Stand Mixer",
+        "brand": "BLACK+DECKER",
+        "asin": "B009USKBFM",
+        "blurb": "Key specs: Under $50, 5-speed, BLACK+DECKER.",
+        "strengths": [
+          "Hand and stand mixer combo",
+          "Affordable",
+          "Lightweight",
+          "Easy storage"
+        ],
+        "limitations": [
+          "Not for heavy dough",
+          "Basic build",
+          "Small bowl"
+        ],
+        "features": [
+          "Under $50",
+          "5-speed",
+          "BLACK+DECKER",
+          "Basic"
+        ],
+        "badge": "Best Black Decker"
+      },
+      {
+        "name": "Sunbeam 2594 MixMaster Stand Mixer 350W",
+        "brand": "Sunbeam",
+        "asin": "B0019R6KFM",
+        "blurb": "Key specs: 4-quart, 350W, Under $100.",
+        "strengths": [
+          "Classic design",
+          "Two bowls",
+          "Affordable",
+          "Multiple speeds"
+        ],
+        "limitations": [
+          "Not planetary mixing",
+          "Less suited for dough",
+          "Plastic parts"
+        ],
+        "features": [
+          "4-quart",
+          "350W",
+          "Under $100",
+          "Sunbeam"
+        ],
+        "badge": "Best Large Watt Budget",
+        "bestFor": "value-focused buyers who want the most for their money"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

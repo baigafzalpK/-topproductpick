@@ -1,0 +1,94 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Wine Coolers and Fridges for Small Apartments",
+  "h1": "The 3 Best Wine Coolers and Fridges for Small Apartments",
+  "metaDescription": "Our 3 picks for wine coolers and fridges for small apartments, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at wine coolers and fridges for small apartments using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-wine-coolers",
+  "related": [
+    "best-wine-coolers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Kalamera 24-Inch Beverage and Wine Cooler",
+        "brand": "Kalamera",
+        "asin": "B0H9SBG1CF",
+        "blurb": "Key specs: 24-inch built-in or freestanding footprint, Front-venting design, Dual-zone compressor cooling.",
+        "strengths": [
+          "Front venting means it can slide into a tight kitchen gap without a rear air gap",
+          "Doubles as beverage storage, useful when apartment fridge space is limited",
+          "Compressor cooling stays stable even in a small, warmer apartment kitchen"
+        ],
+        "limitations": [
+          "16-bottle wine capacity alone is on the smaller side",
+          "Heavier than a basic thermoelectric cooler, harder to move once installed",
+          "Price is higher than compact single-zone alternatives"
+        ],
+        "features": [
+          "24-inch built-in or freestanding footprint",
+          "Front-venting design",
+          "Dual-zone compressor cooling",
+          "16 bottles plus 118 cans of storage",
+          "Digital touch controls"
+        ],
+        "badge": "Best overall",
+        "bestFor": "small apartments"
+      },
+      {
+        "name": "NewAir 24 Bottle Wine Cooler Refrigerator French Door",
+        "brand": "NewAir",
+        "asin": "B0BMS6HFYM",
+        "blurb": "Key specs: 24-bottle dual-zone capacity, Freestanding French door design, 41°F to 64°F digital temperature range.",
+        "strengths": [
+          "Freestanding means it can move between apartments without a built-in cutout",
+          "French doors work in a corner where a single wide door wouldn't clear cabinetry",
+          "24-bottle dual-zone capacity is generous for the footprint"
+        ],
+        "limitations": [
+          "Needs side and rear clearance, so it can't go in a snug closed cabinet",
+          "Compressor hum is more noticeable in an open-plan studio apartment",
+          "Stainless trim shows fingerprints in a high-traffic kitchen"
+        ],
+        "features": [
+          "24-bottle dual-zone capacity",
+          "Freestanding French door design",
+          "41°F to 64°F digital temperature range",
+          "Stainless steel trim",
+          "Compact 21-inch-class footprint"
+        ],
+        "bestFor": "small apartments"
+      },
+      {
+        "name": "NutriChef 33 Bottle Dual Zone Wine Fridge",
+        "brand": "NutriChef",
+        "asin": "B0BGM9FR2L",
+        "blurb": "Key specs: 33-bottle dual-zone capacity, 17-inch depth, Built-in circulation fan.",
+        "strengths": [
+          "17-inch depth is shallow enough for a narrow apartment kitchen counter",
+          "33 bottles is a large capacity relative to its compact footprint",
+          "Dual zones let a small household keep both red and white on hand"
+        ],
+        "limitations": [
+          "33-inch height needs clearance under upper cabinets",
+          "Freestanding only, needs airflow space on the back",
+          "Fewer long-term reliability reports than NewAir or Kalamera"
+        ],
+        "features": [
+          "33-bottle dual-zone capacity",
+          "17-inch depth",
+          "Built-in circulation fan",
+          "Digital touch controls with interior light",
+          "41°F to 64°F range"
+        ],
+        "bestFor": "small apartments"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

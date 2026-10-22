@@ -1,0 +1,85 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Pet Cameras Under $150",
+  "h1": "The 3 Best Pet Cameras Under $150",
+  "metaDescription": "Our 3 picks for pet cameras under $150, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at pet cameras under $150 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-pet-cameras",
+  "related": [
+    "best-pet-cameras"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Ring Indoor Cam (2nd Gen)",
+        "brand": "Ring",
+        "asin": "B0B6GJBKRK",
+        "blurb": "Key specs: 1080p HD video with color night vision, 115° horizontal field of view, Two-way talk.",
+        "strengths": [
+          "Deepest smart home integration if a household runs Alexa or Echo devices",
+          "Costs well under half this budget even at full price",
+          "Compact plug-in design with a simple swivel mount"
+        ],
+        "limitations": [
+          "115° fixed field of view is narrower than pan/tilt alternatives in this same budget",
+          "No pet-specific AI detection",
+          "Ring Protect subscription needed to save and review clips"
+        ],
+        "features": [
+          "1080p HD video with color night vision",
+          "115° horizontal field of view",
+          "Two-way talk",
+          "Works with Alexa"
+        ]
+      },
+      {
+        "name": "Wyze Cam Pan v3",
+        "brand": "Wyze",
+        "asin": "B0B9TWY11Q",
+        "blurb": "Key specs: 360° pan / 180° tilt coverage, 1080p color night vision, Pan Scan auto-patrol with 4 waypoints.",
+        "strengths": [
+          "Full 180° tilt covers the most total room area of any camera in this budget",
+          "Pan Scan auto-patrol checks multiple waypoints automatically",
+          "Motion tracking follows a moving pet without manual input"
+        ],
+        "limitations": [
+          "Two-way audio is thinner than the Petcube's 4-microphone array",
+          "Cloud clip storage needs an optional Cam Plus subscription"
+        ],
+        "features": [
+          "360° pan / 180° tilt coverage",
+          "1080p color night vision",
+          "Pan Scan auto-patrol with 4 waypoints",
+          "No subscription required for live view"
+        ]
+      },
+      {
+        "name": "TP-Link Tapo C210",
+        "brand": "TP-Link",
+        "asin": "B08ZNTM1X1",
+        "blurb": "Key specs: 2K resolution, 360° pan / 114° tilt, Motion detection with tracking, MicroSD storage up to 512GB.",
+        "strengths": [
+          "2K resolution is the sharpest image in this list",
+          "Local microSD storage avoids a mandatory subscription across multiple units",
+          "360° pan covers a full room per camera"
+        ],
+        "limitations": [
+          "114° tilt range is narrower than the Wyze Cam Pan's full 180°",
+          "Fewer smart home integrations than Ring"
+        ],
+        "features": [
+          "2K resolution, 360° pan / 114° tilt",
+          "Motion detection with tracking",
+          "MicroSD storage up to 512GB",
+          "Works with Alexa and Google Assistant"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

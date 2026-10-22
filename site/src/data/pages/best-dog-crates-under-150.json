@@ -1,0 +1,83 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Dog Crates Under $150",
+  "h1": "The 3 Best Dog Crates Under $150",
+  "metaDescription": "Our 3 picks for dog crates under $150, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at dog crates under $150 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-dog-crates",
+  "related": [
+    "best-dog-crates"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Carlson Pet Products Double Door Metal Dog Crate, Large 42-Inch",
+        "brand": "Carlson Pet Products",
+        "asin": "B00MYDM72A",
+        "blurb": "Key specs: Typically $90 to $110, Rated up to 95 lbs, Multi-point locking latches.",
+        "strengths": [
+          "Best balance of price and sturdiness in this range",
+          "Multi-point latches are a real upgrade over single slide-bolts",
+          "42-inch size and 95 lb rating cover most large breeds"
+        ],
+        "limitations": [
+          "Heavier than budget crates to move between rooms",
+          "Still wire construction, not for the most extreme chewers",
+          "No wheels included at this price"
+        ],
+        "features": [
+          "Typically $90 to $110",
+          "Rated up to 95 lbs",
+          "Multi-point locking latches",
+          "Front and side doors"
+        ]
+      },
+      {
+        "name": "Go Pet Club 44-Inch Heavy Duty Stackable Dog Crate",
+        "brand": "Go Pet Club",
+        "asin": "B077NP4KMN",
+        "blurb": "Key specs: Typically $130 to $150, Heaviest wire gauge in this roundup, Stackable up to three tiers.",
+        "strengths": [
+          "Thickest wire gauge available at this price point",
+          "Wheels genuinely help moving a crate this large",
+          "Stacking is useful for households or small kennels with multiple dogs"
+        ],
+        "limitations": [
+          "At the top of this price range",
+          "Some reports of weld quality issues on individual units",
+          "Assembly goes faster with two people"
+        ],
+        "features": [
+          "Typically $130 to $150",
+          "Heaviest wire gauge in this roundup",
+          "Stackable up to three tiers",
+          "Includes wheels and two water bowls"
+        ]
+      },
+      {
+        "name": "MidWest LifeStages 42-Inch Double Door Dog Crate",
+        "brand": "MidWest",
+        "asin": "B0002AT3ME",
+        "blurb": "",
+        "strengths": [
+          "Fits large breeds",
+          "Double doors",
+          "Divider panel included",
+          "Folds flat"
+        ],
+        "limitations": [
+          "Heavy and bulky",
+          "Not for strong escape artists",
+          "Takes up floor space"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Electric Skillets for Pancakes",
+  "h1": "The 3 Best Electric Skillets for Pancakes",
+  "metaDescription": "Our 3 picks for electric skillets for pancakes, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at electric skillets for pancakes using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-electric-skillets",
+  "related": [
+    "best-electric-skillets"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Presto 16-Inch Electric Skillet with Glass Cover",
+        "brand": "Presto",
+        "asin": "B0007XRTDG",
+        "blurb": "Key specs: 16-inch round cast aluminum cooking surface, High-dome glass cover, Removable temperature control probe.",
+        "strengths": [
+          "16-inch flat surface fits 4 to 5 pancakes at once, finishing a family batch in fewer rounds",
+          "Cast aluminum base holds a steady temperature across the full surface, reducing uneven browning",
+          "High-dome cover can trap a little steam heat to help thicker pancakes set through evenly"
+        ],
+        "limitations": [
+          "5 fixed settings require some trial and error to find the ideal pancake temperature",
+          "Large footprint is more than needed for cooking pancakes for just one or two people",
+          "No handles for tilting the pan to redistribute batter"
+        ],
+        "features": [
+          "16-inch round cast aluminum cooking surface",
+          "High-dome glass cover",
+          "Removable temperature control probe",
+          "5 fixed temperature settings",
+          "Dishwasher-safe pan body"
+        ],
+        "badge": "Top pick",
+        "bestFor": "pancakes"
+      },
+      {
+        "name": "Oster Titanium Infused DuraCeramic 12x16 Electric Skillet",
+        "brand": "Oster",
+        "asin": "B079L5TMXR",
+        "blurb": "Key specs: 12x16-inch ceramic nonstick surface, Hinged lift-and-serve lid, 1,500W element.",
+        "strengths": [
+          "Ceramic coating releases pancakes cleanly with little to no added butter, keeping flavor consistent batch to batch",
+          "Rectangular shape arranges pancakes in tidy rows, making flip timing easier to track",
+          "Titanium infusion resists scratching from a metal spatula better than standard nonstick over years of flipping",
+          "Large 12x16 surface handles a full batch for a family of four in one round"
+        ],
+        "limitations": [
+          "Hinged lid cannot be fully removed, which can make wiping the surface between batches slightly slower",
+          "Costs more than the Presto or BLACK+DECKER at typical pricing",
+          "Fewer total reviews than the more established Presto or BLACK+DECKER models"
+        ],
+        "features": [
+          "12x16-inch ceramic nonstick surface",
+          "Hinged lift-and-serve lid",
+          "1,500W element",
+          "Titanium-infused DuraCeramic coating",
+          "Dishwasher-safe hinged lid"
+        ],
+        "bestFor": "pancakes"
+      },
+      {
+        "name": "Cuisinart CSK-150 Oval Electric Skillet",
+        "brand": "Cuisinart",
+        "asin": "B0002YE6I6",
+        "blurb": "Key specs: Oval nonstick cooking surface, 1,500W element, Warm to 450°F range.",
+        "strengths": [
+          "Wide Warm to 450°F range makes it easier to dial in the exact 375°F pancake sweet spot",
+          "1,500W element recovers temperature quickly between batches, reducing the common first-batch-pale, later-batch-dark problem",
+          "Oval shape is easier to store for households that only make pancakes occasionally",
+          "Stainless housing wipes clean of batter drips easily"
+        ],
+        "limitations": [
+          "Smaller surface than the Presto or Oster, meaning more batches for a larger family",
+          "Priced higher than the Presto or BLACK+DECKER",
+          "Oval shape fits fewer pancakes per row than a rectangular surface"
+        ],
+        "features": [
+          "Oval nonstick cooking surface",
+          "1,500W element",
+          "Warm to 450°F range",
+          "Brushed stainless steel housing",
+          "Dishwasher-safe pan with probe removed"
+        ],
+        "bestFor": "pancakes"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

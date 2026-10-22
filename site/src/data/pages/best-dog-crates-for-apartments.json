@@ -1,0 +1,85 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Dog Crates for Apartments",
+  "h1": "The 3 Best Dog Crates for Apartments",
+  "metaDescription": "Our 3 picks for dog crates for apartments, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at dog crates for apartments using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-dog-crates",
+  "related": [
+    "best-dog-crates"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "MidWest iCrate 36-Inch Double Door Dog Crate",
+        "brand": "MidWest Homes for Pets",
+        "asin": "B000QFT1R2",
+        "blurb": "Key specs: Folds flat for storage, 36\"L x 23\"W x 25\"H, Rubber feet reduce floor noise and scratching.",
+        "strengths": [
+          "Folds down to a few inches thick, easy to tuck away when not set up",
+          "Rubber feet protect rental flooring and cut down on rattling",
+          "Mid-size footprint works in most one-bedroom and studio layouts"
+        ],
+        "limitations": [
+          "Still a real footprint once set up, measure your space before buying",
+          "Wire sides offer no visual privacy without an added cover",
+          "No wheels for repositioning within the apartment"
+        ],
+        "features": [
+          "Folds flat for storage",
+          "36\"L x 23\"W x 25\"H",
+          "Rubber feet reduce floor noise and scratching",
+          "Divider panel for growing puppies"
+        ],
+        "bestFor": "apartments"
+      },
+      {
+        "name": "SportPet Designs Sport Pet Large Portable Kennel",
+        "brand": "SportPet Designs",
+        "asin": "B07GD1VLG4",
+        "blurb": "Key specs: Lightweight folding wire construction, Carrying handle, Quick fold and setup.",
+        "strengths": [
+          "Easiest crate in this list to carry between rooms or to a car",
+          "Lightweight build is ideal for apartment dwellers who move often",
+          "Quick fold makes it practical for weekend trips as well as home use"
+        ],
+        "limitations": [
+          "Lighter wire gauge than the iCrate, best for calm dogs",
+          "Fewer size options than MidWest's lineup",
+          "Not rated for dogs that chew or lean hard on the frame"
+        ],
+        "features": [
+          "Lightweight folding wire construction",
+          "Carrying handle",
+          "Quick fold and setup",
+          "Compact stored footprint"
+        ],
+        "bestFor": "apartments"
+      },
+      {
+        "name": "MidWest LifeStages 24-Inch Double Door Dog Crate",
+        "brand": "MidWest",
+        "asin": "B000HCLDFC",
+        "blurb": "",
+        "strengths": [
+          "Double doors for flexible placement",
+          "Divider panel for puppies",
+          "Leak-proof plastic pan",
+          "Folds flat with a carry handle"
+        ],
+        "limitations": [
+          "Only suits small breeds",
+          "Wire crates are less den-like",
+          "Some dogs learn to push the pan"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

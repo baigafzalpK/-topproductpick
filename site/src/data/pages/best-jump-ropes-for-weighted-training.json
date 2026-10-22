@@ -1,0 +1,124 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Jump Ropes for Weighted Training",
+  "h1": "The 5 Best Jump Ropes for Weighted Training",
+  "metaDescription": "Our 5 picks for jump ropes for weighted training, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at jump ropes for weighted training using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-jump-ropes",
+  "related": [
+    "best-jump-ropes"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Gaiam Weighted Jump Rope 1-Pound Set",
+        "brand": "Gaiam",
+        "asin": "B0964D93SJ",
+        "blurb": "Key specs: 0.5-pound foam handles, 1 pound total, Adjustable up to 9 feet, PVC-covered rope.",
+        "strengths": [
+          "1-pound total weight is enough to add real shoulder and forearm demand without wrecking rotation speed",
+          "Foam grip stays comfortable through longer sets than a hard plastic handle would",
+          "Adjustable cable fits a wide range of heights without buying a separate size"
+        ],
+        "limitations": [
+          "Slower rotation than an unweighted speed rope, so it's not the tool for double-under practice",
+          "Handle weight adds fatigue faster than a standard rope over long sessions",
+          "PVC rope is less durable long term than coated steel cable"
+        ],
+        "features": [
+          "0.5-pound foam handles, 1 pound total",
+          "Adjustable up to 9 feet",
+          "PVC-covered rope",
+          "Firm foam grip"
+        ],
+        "bestFor": "weighted training"
+      },
+      {
+        "name": "WOD Nation Speed Jump Rope",
+        "brand": "WOD Nation",
+        "asin": "B00ZWFYJFU",
+        "blurb": "Key specs: 2.2mm coated steel cable, 4-bearing handle system, Adjustable up to 10 feet.",
+        "strengths": [
+          "The included thicker cable adds some resistance without going fully weighted, a useful middle step",
+          "Fast rotation makes it the natural complement to a weighted rope for cardio-focused sessions",
+          "Durable enough to handle daily alternating use alongside a weighted rope"
+        ],
+        "limitations": [
+          "Not actually a weighted rope, so it doesn't replace the strength benefit of the Gaiam set",
+          "Thin steel cable feels like a big jump in speed right after using a weighted rope",
+          "Bearing screws need occasional re-tightening with heavy rotation"
+        ],
+        "features": [
+          "2.2mm coated steel cable",
+          "4-bearing handle system",
+          "Adjustable up to 10 feet",
+          "Includes a second, thicker cable"
+        ],
+        "bestFor": "weighted training"
+      },
+      {
+        "name": "Crossrope Get Strong Weighted Jump Rope Set",
+        "brand": "Crossrope",
+        "asin": "B087Z9M7G8",
+        "blurb": "",
+        "strengths": [
+          "Heavy ropes build upper-body strength",
+          "Quick-clip rope swaps",
+          "Comfortable Power Handles",
+          "Durable coated ropes"
+        ],
+        "limitations": [
+          "Expensive",
+          "Heavy ropes are slow for footwork",
+          "App features may need membership"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "EliteSRS Muay Thai 2.0 Heavy Jump Rope",
+        "brand": "EliteSRS",
+        "asin": "B07XDN4L4J",
+        "blurb": "",
+        "strengths": [
+          "Heavy rope builds shoulders and endurance",
+          "Durable PVC",
+          "Good for boxing and MMA conditioning",
+          "Comfortable handles"
+        ],
+        "limitations": [
+          "Fixed length",
+          "Too heavy for speed work",
+          "Needs space overhead"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "Elite Jumps Heavy Beaded Jump Rope",
+        "brand": "Elite Jumps",
+        "asin": "B06XS99S4K",
+        "blurb": "",
+        "strengths": [
+          "Beads give audible rhythm",
+          "Adjustable 10 ft length",
+          "Long 8-inch handles",
+          "Durable on hard surfaces"
+        ],
+        "limitations": [
+          "Beads hurt if they hit you",
+          "Slower than cable ropes",
+          "Not truly heavy"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best String Trimmers for Steep Hills and Slopes",
+  "h1": "The 4 Best String Trimmers for Steep Hills and Slopes",
+  "metaDescription": "Our 4 picks for string trimmers for steep hills and slopes, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at string trimmers for steep hills and slopes using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-string-trimmers",
+  "related": [
+    "best-string-trimmers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "EGO Power+ ST1521S 15-Inch String Trimmer",
+        "brand": "EGO",
+        "asin": "B07BBW8P9Y",
+        "blurb": "Key specs: 15-inch cutting swath, Carbon fiber split shaft, adjustable length, 56V ARC Lithium battery, 2.5Ah included.",
+        "strengths": [
+          "Carbon fiber shaft keeps weight low without sacrificing reach on an incline",
+          "Adjustable shaft length helps you stand on flatter ground and reach up a slope",
+          "56V torque holds cutting speed even when working at an awkward uphill angle"
+        ],
+        "limitations": [
+          "Still needs two hands for full control, no single-handed operation on the steepest grades",
+          "56V battery adds cost over more basic 40V options",
+          "No specific anti-slip grip texture beyond the standard handle"
+        ],
+        "features": [
+          "15-inch cutting swath",
+          "Carbon fiber split shaft, adjustable length",
+          "56V ARC Lithium battery, 2.5Ah included",
+          "Brushless motor",
+          "Under 8 pounds"
+        ],
+        "bestFor": "steep hills"
+      },
+      {
+        "name": "Husqvarna 128LD Gas String Trimmer",
+        "brand": "Husqvarna",
+        "asin": "B004Q0HUYO",
+        "blurb": "Key specs: 28cc 2-cycle gas engine, 17-inch cutting swath, Straight shaft.",
+        "strengths": [
+          "No battery to run down partway through a large sloped lot",
+          "17-inch swath covers more ground per pass on long hillside runs",
+          "Straight shaft gives good reach on a graded slope"
+        ],
+        "limitations": [
+          "Heavier than any cordless option here, a real factor on unstable footing",
+          "Vibration and engine weight add fatigue over a long uphill session",
+          "No adjustable shaft length to change reach on the fly"
+        ],
+        "features": [
+          "28cc 2-cycle gas engine",
+          "17-inch cutting swath",
+          "Straight shaft",
+          "Smart Start recoil system"
+        ],
+        "bestFor": "steep hills"
+      },
+      {
+        "name": "Worx WG183 40V String Trimmer",
+        "brand": "Worx",
+        "asin": "B08RW9X1QM",
+        "blurb": "Key specs: 13-inch dual-exit cutting head, 40V PowerShare, 2 x 2.0Ah batteries included, Under 5 pounds.",
+        "strengths": [
+          "Lightest trimmer in this list, easiest to hold steady on a steep, short section",
+          "Two batteries mean you're not stuck mid-slope with a dead pack",
+          "Low weight reduces arm fatigue holding the tool at an uphill angle"
+        ],
+        "limitations": [
+          "13-inch swath means more back-and-forth passes on a wide slope",
+          "Fixed shaft length, less reach flexibility than the EGO's adjustable design",
+          "Less motor torque for thick growth that often collects on untended slopes"
+        ],
+        "features": [
+          "13-inch dual-exit cutting head",
+          "40V PowerShare, 2 x 2.0Ah batteries included",
+          "Under 5 pounds",
+          "Pivoting head"
+        ],
+        "bestFor": "steep hills"
+      },
+      {
+        "name": "Greenworks 40V 12-Inch Cordless String Trimmer",
+        "brand": "Greenworks",
+        "asin": "B01GEW1AJC",
+        "blurb": "Key specs: 12-inch cutting swath, 40V lithium battery, 2.0Ah included, Dual line auto-feed.",
+        "strengths": [
+          "Light enough to handle on a moderate incline without excess fatigue",
+          "Lowest price of the group for occasional slope maintenance",
+          "Variable speed trigger helps conserve the smaller battery on shorter slope sessions"
+        ],
+        "limitations": [
+          "2.0Ah battery has the shortest runtime, a real constraint on a long slope",
+          "12-inch swath is the narrowest here for covering hillside ground",
+          "Less motor torque than the EGO for thick growth on an untended slope"
+        ],
+        "features": [
+          "12-inch cutting swath",
+          "40V lithium battery, 2.0Ah included",
+          "Dual line auto-feed",
+          "Variable speed trigger"
+        ],
+        "bestFor": "steep hills"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

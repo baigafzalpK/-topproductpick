@@ -1,0 +1,93 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Travel Adapters for International Travel",
+  "h1": "The 3 Best Travel Adapters for International Travel",
+  "metaDescription": "Our 3 picks for travel adapters for international travel, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at travel adapters for international travel using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-travel-adapters",
+  "related": [
+    "best-travel-adapters"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "OREI World Travel Plug Adapter M8 Max",
+        "brand": "OREI",
+        "asin": "B07R3FD5RH",
+        "blurb": "Key specs: 2 USA-standard outlets, 3 USB-A ports plus 1 USB-C PD 18W port, Interchangeable plug attachments for 150+ countries.",
+        "strengths": [
+          "Six charging points in one unit, two AC outlets and four USB ports",
+          "18W USB-C PD port charges a phone meaningfully faster than USB-A-only competitors",
+          "Grounded plug design adds a safety margin over ungrounded 2-prong adapters",
+          "Interchangeable heads mean one unit for an entire multi-country itinerary"
+        ],
+        "limitations": [
+          "Larger footprint than compact single-outlet adapters",
+          "18W USB-C is enough for a phone but not fast enough to usefully charge a laptop",
+          "Some plug heads fit slightly loose on certain regional outlet styles per owner reports"
+        ],
+        "features": [
+          "2 USA-standard outlets",
+          "3 USB-A ports plus 1 USB-C PD 18W port",
+          "Interchangeable plug attachments for 150+ countries",
+          "Grounded 3-prong design",
+          "Built-in fuse protection"
+        ],
+        "bestFor": "international travel"
+      },
+      {
+        "name": "BESTEK Universal Travel Adapter",
+        "brand": "BESTEK",
+        "asin": "B07R2JMHQR",
+        "blurb": "Key specs: 100-220V to 110V step-down voltage conversion, 250W, 6A 4-port USB charging, 3 AC sockets.",
+        "strengths": [
+          "Genuine step-down voltage conversion, not just a plug shape adapter, matters for single-voltage hair tools",
+          "Three AC sockets plus four USB ports cover a full family's devices from one wall plug",
+          "Wide plug attachment set covers most common destinations"
+        ],
+        "limitations": [
+          "250W ceiling means it cannot run high-draw appliances like full-size hair dryers",
+          "Bulkier and heavier than plug-only adapters since it houses conversion electronics",
+          "Audible fan noise reported by some owners during conversion"
+        ],
+        "features": [
+          "100-220V to 110V step-down voltage conversion, 250W",
+          "6A 4-port USB charging",
+          "3 AC sockets",
+          "EU/UK/AU/US/India plug attachments",
+          "Covers 150+ countries"
+        ],
+        "bestFor": "international travel"
+      },
+      {
+        "name": "OREI World Travel Plug Adapter",
+        "brand": "OREI",
+        "asin": "B07R744XM9",
+        "blurb": "Key specs: 2 USB-A ports (2A each), 1 universal AC outlet, Slide-out plug attachments for Europe, Asia, China, Japan, Africa.",
+        "strengths": [
+          "Lowest price of any kit-style adapter in this list without dropping multi-country coverage",
+          "Compact size fits easily in a daypack side pocket",
+          "Safety shutters block accidental contact with live pins, a nice touch at this price"
+        ],
+        "limitations": [
+          "Only one AC outlet, so a laptop and a lamp cannot be plugged in simultaneously",
+          "2A USB ports are noticeably slower than PD-equipped competitors for tablets"
+        ],
+        "features": [
+          "2 USB-A ports (2A each)",
+          "1 universal AC outlet",
+          "Slide-out plug attachments for Europe, Asia, China, Japan, Africa",
+          "Built-in safety shutters and fuse protection",
+          "Compact form factor"
+        ],
+        "bestFor": "international travel"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Sous Vide Machines for Small Kitchens",
+  "h1": "The 3 Best Sous Vide Machines for Small Kitchens",
+  "metaDescription": "Our 3 picks for sous vide machines for small kitchens, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at sous vide machines for small kitchens using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-sous-vide-machines",
+  "related": [
+    "best-sous-vide-machines"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Anova Precision Cooker Nano 3.0, 800W",
+        "brand": "Anova Culinary",
+        "asin": "B0BQ93XGWC",
+        "blurb": "Key specs: 12.8-inch compact body, 800W heating element, 8L/min flow rate, matching the full-size Precision Cooker.",
+        "strengths": [
+          "Smallest footprint of any circulator in this list that still matches flagship-level accuracy and flow rate",
+          "Fits standing in a standard kitchen drawer, unlike full-size 15-inch units",
+          "Same 0.1°C precision as Anova's larger Precision Cooker 3.0"
+        ],
+        "limitations": [
+          "800W recovers more slowly than the 1100W flagship on large or cold batches",
+          "Smaller clamp range than the full-size Precision Cooker for oversized pots",
+          "No onboard display, app-dependent for monitoring"
+        ],
+        "features": [
+          "12.8-inch compact body",
+          "800W heating element",
+          "8L/min flow rate, matching the full-size Precision Cooker",
+          "32°F to 197°F range, ±0.1°C accuracy",
+          "WiFi app control"
+        ],
+        "badge": "Best overall",
+        "bestFor": "small kitchens"
+      },
+      {
+        "name": "Breville Joule Turbo Sous Vide, Polished Stainless Steel",
+        "brand": "Breville",
+        "asin": "B0C384T4P2",
+        "blurb": "Key specs: 11-inch stainless steel body, 1100W heating element with Turbo mode, WiFi and Bluetooth control.",
+        "strengths": [
+          "Shortest circulator body in this list at 11 inches, while still packing 1100W",
+          "Stainless steel housing is narrow and slips into tight drawer spaces",
+          "Turbo mode partially offsets the compact body's smaller physical footprint with faster cook times"
+        ],
+        "limitations": [
+          "App-only control means no glanceable onboard display",
+          "Fewer ratings than Anova, less long-term data on this specific model"
+        ],
+        "features": [
+          "11-inch stainless steel body",
+          "1100W heating element with Turbo mode",
+          "WiFi and Bluetooth control",
+          "Visual Doneness app selection",
+          "No onboard display, fully app-controlled"
+        ],
+        "bestFor": "small kitchens"
+      },
+      {
+        "name": "Instant Pot Accu Slim Sous Vide Immersion Circulator, 800W",
+        "brand": "Instant Pot",
+        "asin": "B07898VZN9",
+        "blurb": "Key specs: Slim profile designed for Instant Pot inner pots, 800W heating element, Onboard touchscreen.",
+        "strengths": [
+          "Slim design was built specifically to clamp inside a 6 or 8-quart pot, minimizing wasted space",
+          "No separate stockpot needed if you already own an Instant Pot"
+        ],
+        "limitations": [
+          "Not as physically short as the Nano or Joule Turbo when clamped to a full stockpot",
+          "No app or WiFi features",
+          "800W is the slowest to recover of the picks in this list"
+        ],
+        "features": [
+          "Slim profile designed for Instant Pot inner pots",
+          "800W heating element",
+          "Onboard touchscreen",
+          "68°F to 203°F range",
+          "Quiet 12V DC motor"
+        ],
+        "bestFor": "small kitchens"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

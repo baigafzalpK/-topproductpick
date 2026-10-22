@@ -1,0 +1,153 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 6 Best String Trimmers for Thick Weeds and Overgrown Lots",
+  "h1": "The 6 Best String Trimmers for Thick Weeds and Overgrown Lots",
+  "metaDescription": "Our 6 picks for string trimmers for thick weeds and overgrown lots, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at string trimmers for thick weeds and overgrown lots using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-string-trimmers",
+  "related": [
+    "best-string-trimmers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Husqvarna 128LD Gas String Trimmer",
+        "brand": "Husqvarna",
+        "asin": "B004Q0HUYO",
+        "blurb": "Key specs: 28cc 2-cycle gas engine, 17-inch cutting swath, Straight shaft with Tap 'n Go head.",
+        "strengths": [
+          "28cc engine holds RPM through woody stems and dense brush that stalls smaller trimmers",
+          "No battery to run down during an extended clearing session",
+          "Click-on attachment compatibility allows swapping to a brush cutter blade for the thickest growth"
+        ],
+        "limitations": [
+          "Requires mixed 2-cycle fuel and periodic carburetor maintenance",
+          "Heavier and louder than any battery model in this list",
+          "Manual pull start each time versus instant trigger start on electric models"
+        ],
+        "features": [
+          "28cc 2-cycle gas engine",
+          "17-inch cutting swath",
+          "Straight shaft with Tap 'n Go head",
+          "Smart Start recoil system",
+          "Accepts click-on brush cutter attachments"
+        ],
+        "bestFor": "thick weeds"
+      },
+      {
+        "name": "EGO Power+ ST1521S 15-Inch String Trimmer",
+        "brand": "EGO",
+        "asin": "B07BBW8P9Y",
+        "blurb": "Key specs: 15-inch cutting swath, accepts 0.095-inch line, 56V ARC Lithium battery, 2.5Ah included, Brushless motor.",
+        "strengths": [
+          "56V brushless motor holds line speed noticeably better than 40V competitors under thick growth",
+          "Accepts 0.095-inch line, thick enough for woody weeds without stalling",
+          "Runtime on the included 2.5Ah battery is adequate for a typical overgrown-patch session"
+        ],
+        "limitations": [
+          "Larger battery packs (5.0Ah or more) cost extra and are sold separately",
+          "Still not a substitute for a brush cutter blade on truly woody brush",
+          "56V battery doesn't interchange with more common 40V tool lines"
+        ],
+        "features": [
+          "15-inch cutting swath, accepts 0.095-inch line",
+          "56V ARC Lithium battery, 2.5Ah included",
+          "Brushless motor",
+          "Carbon fiber split shaft",
+          "POWERLOAD auto-feed"
+        ],
+        "bestFor": "thick weeds"
+      },
+      {
+        "name": "Greenworks 40V 12-Inch Cordless String Trimmer",
+        "brand": "Greenworks",
+        "asin": "B01GEW1AJC",
+        "blurb": "Key specs: 12-inch cutting swath, 40V lithium battery, 2.0Ah included, Dual line auto-feed.",
+        "strengths": [
+          "Handles moderate weeds and overgrown grass reasonably well for the price",
+          "Variable speed trigger lets you dial up power only when needed, saving battery",
+          "3-year warranty is longer than most trimmers at this price point"
+        ],
+        "limitations": [
+          "2.0Ah battery bogs down noticeably faster than 4.0Ah or larger packs in dense material",
+          "12-inch swath and narrower line struggle with truly woody stems",
+          "Not a realistic substitute for a gas trimmer on genuinely overgrown lots"
+        ],
+        "features": [
+          "12-inch cutting swath",
+          "40V lithium battery, 2.0Ah included",
+          "Dual line auto-feed",
+          "Variable speed trigger",
+          "3-year warranty"
+        ],
+        "bestFor": "thick weeds"
+      },
+      {
+        "name": "Worx WG183 40V String Trimmer",
+        "brand": "Worx",
+        "asin": "B08RW9X1QM",
+        "blurb": "Key specs: 13-inch dual-exit cutting head, 40V PowerShare, 2 x 2.0Ah batteries included, Auto-feed line advance.",
+        "strengths": [
+          "Two batteries extend total runtime across a larger overgrown area",
+          "Light weight reduces fatigue compared with heavier gas trimmers on long clearing sessions",
+          "Dual-exit head keeps decent cutting efficiency for grass and light weeds"
+        ],
+        "limitations": [
+          "Least motor torque in this list, struggles once growth turns genuinely woody",
+          "13-inch swath means more passes across a large overgrown lot",
+          "Not designed for brush-cutter blade attachments"
+        ],
+        "features": [
+          "13-inch dual-exit cutting head",
+          "40V PowerShare, 2 x 2.0Ah batteries included",
+          "Auto-feed line advance",
+          "Under 5 pounds",
+          "Pivoting head"
+        ],
+        "bestFor": "thick weeds"
+      },
+      {
+        "name": "EGO Power+ ST1511T 15\" Cordless String Trimmer",
+        "brand": "EGO",
+        "asin": "B08VRVVFHJ",
+        "blurb": "",
+        "strengths": [
+          "Gas-like power for thick weeds",
+          "PowerLoad winds line automatically",
+          "Telescopic shaft",
+          "Battery and charger included"
+        ],
+        "limitations": [
+          "Heavier than 20V trimmers",
+          "EGO battery platform lock-in",
+          "Premium price"
+        ],
+        "features": []
+      },
+      {
+        "name": "EGO POWER+ ST1610T 16\" String Trimmer (Tool Only)",
+        "brand": "EGO",
+        "asin": "B0DP2CSD6B",
+        "blurb": "",
+        "strengths": [
+          "POWERLOAD winds line automatically",
+          "Light carbon fiber telescopic shaft",
+          "Strong 56V power",
+          "16-inch cutting swath"
+        ],
+        "limitations": [
+          "Battery and charger sold separately",
+          "Premium price",
+          "EGO battery platform lock-in"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

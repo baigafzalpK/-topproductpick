@@ -1,0 +1,106 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Car Seats for Travel",
+  "h1": "The 4 Best Car Seats for Travel",
+  "metaDescription": "Our 4 picks for car seats for travel, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at car seats for travel using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-car-seats",
+  "related": [
+    "best-car-seats"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Evenflo LiteMax 35 Infant Car Seat",
+        "brand": "Evenflo",
+        "asin": "B06VXZG5JH",
+        "blurb": "Key specs: 8.7-pound carrier shell, Fits infants 4 to 35 pounds, Belt lock-off for base-free installation.",
+        "strengths": [
+          "Lightest carrier in this list, a real difference when carrying it through an airport terminal",
+          "Belt lock-off means it installs securely in a rental car without needing to bring or check the base",
+          "Typically the least expensive seat here, lowering the stakes if travel handling causes wear"
+        ],
+        "limitations": [
+          "Still needs to be checked or gate-checked without a base, since the base itself is bulky to travel with",
+          "Fewer premium comfort features than the pricier picks",
+          "Height limit means it will not last as long for an older, taller toddler"
+        ],
+        "features": [
+          "8.7-pound carrier shell",
+          "Fits infants 4 to 35 pounds",
+          "Belt lock-off for base-free installation",
+          "FAA-approved for aircraft use",
+          "Ergonomic carry handle"
+        ],
+        "badge": "Best overall",
+        "bestFor": "travel"
+      },
+      {
+        "name": "Chicco KeyFit 35 Infant Car Seat",
+        "brand": "Chicco",
+        "asin": "B089HG2QTT",
+        "blurb": "Key specs: Fits infants 4 to 35 pounds, FAA-approved for aircraft use, Belt path routing built into the shell for base-free installs.",
+        "strengths": [
+          "Belt path routing on the shell itself means the seat installs without its base in a rental car",
+          "Widely reported as producing a correct install on the first try, useful when rushed at an airport counter",
+          "If you already own this seat at home, bringing the same one keeps install muscle memory consistent"
+        ],
+        "limitations": [
+          "Heavier carrier than the LiteMax 35, more tiring across a long terminal walk",
+          "Base is not practical to bring along, so travel means base-free belt installs only",
+          "Height limit around 30 inches limits how long it works for an older child"
+        ],
+        "features": [
+          "Fits infants 4 to 35 pounds",
+          "FAA-approved for aircraft use",
+          "Belt path routing built into the shell for base-free installs",
+          "Removable infant insert",
+          "Level indicator for accurate recline angle"
+        ],
+        "bestFor": "travel"
+      },
+      {
+        "name": "Evenflo Sonus Convertible Car Seat",
+        "brand": "Evenflo",
+        "asin": "B01N7T4LM4",
+        "blurb": "",
+        "strengths": [
+          "Light and easy to move between cars",
+          "Budget price for a convertible seat",
+          "Rear- and forward-facing use",
+          "Compact enough for smaller back seats"
+        ],
+        "limitations": [
+          "Fewer padding and convenience features",
+          "Harness height adjustment requires rethreading",
+          "Less legroom rear-facing than extended-legroom seats"
+        ],
+        "features": []
+      },
+      {
+        "name": "Graco Contender Slim Convertible Car Seat",
+        "brand": "Graco",
+        "asin": "B09NPLTZLR",
+        "blurb": "",
+        "strengths": [
+          "Slim profile saves space",
+          "FAA approved for flights",
+          "No-rethread harness",
+          "Rear-facing to 40 lb"
+        ],
+        "limitations": [
+          "Lower rear-facing limit than Extend2Fit",
+          "Less padding",
+          "Cup holder takes space"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 10 Best Griddles for Smash Burgers",
+  "h1": "The 10 Best Griddles for Smash Burgers",
+  "metaDescription": "Our 10 picks for griddles for smash burgers, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at griddles for smash burgers using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "griddles",
+  "related": [
+    "griddles"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Blackstone 22-Inch E-Series Electric Griddle",
+        "brand": "Blackstone",
+        "asin": "B09DQ7DX8P",
+        "blurb": "Key specs: 358 sq in, Dual heating zones, 400°F+.",
+        "strengths": [
+          "358 sq in, room for 6 to 8 smash burger patties simultaneously",
+          "Dual independent zones: maintain high heat on one side while warming buns on the other",
+          "Reaches and holds 400°F+ consistently"
+        ],
+        "limitations": [],
+        "features": [
+          "358 sq in",
+          "Dual heating zones",
+          "400°F+",
+          "Blackstone"
+        ],
+        "badge": "Best Overall",
+        "bestFor": "buyers who want the best overall package"
+      },
+      {
+        "name": "Cuisinart GR-300WS Griddler Elite",
+        "brand": "Cuisinart",
+        "asin": "B00ALDPXE4",
+        "blurb": "Key specs: Open flat mode, Removable plates, High temp.",
+        "strengths": [
+          "Full-open flat griddle mode at 400°F+ for consistent searing",
+          "Dishwasher-safe removable plates, fat cleanup after smash burgers is easy"
+        ],
+        "limitations": [
+          "Smaller than Blackstone"
+        ],
+        "features": [
+          "Open flat mode",
+          "Removable plates",
+          "High temp",
+          "Cuisinart"
+        ],
+        "badge": "Best Versatile",
+        "bestFor": "smash burgers"
+      },
+      {
+        "name": "Zojirushi EA-DCC10 Gourmet Sizzler",
+        "brand": "Zojirushi",
+        "asin": "B00G2TVNCC",
+        "blurb": "Key specs: Precise temp, Zojirushi, High recovery.",
+        "strengths": [
+          "Precise temperature control up to high searing heat",
+          "Durable nonstick plate",
+          "Even heating across the surface",
+          "Removable plate for cleaning"
+        ],
+        "limitations": [
+          "Smaller surface than full-size griddles",
+          "Higher price",
+          "Compact size limits batch cooking"
+        ],
+        "features": [
+          "Precise temp",
+          "Zojirushi",
+          "High recovery",
+          "Premium"
+        ],
+        "badge": "Best Precision",
+        "bestFor": "smash burgers"
+      },
+      {
+        "name": "Gotham Steel Smokeless Grill and Griddle",
+        "brand": "Gotham Steel",
+        "asin": "B079F8SNZQ",
+        "blurb": "Key specs: Smokeless, High heat, Gotham Steel.",
+        "strengths": [
+          "Smoke reduction for indoor apartment smash burgers",
+          "Reaches adequate smash burger temperature"
+        ],
+        "limitations": [
+          "Not truly smoke-free at full temperature"
+        ],
+        "features": [
+          "Smokeless",
+          "High heat",
+          "Gotham Steel",
+          "Under $60"
+        ],
+        "badge": "Best Indoor",
+        "bestFor": "smash burgers"
+      },
+      {
+        "name": "Presto 07061 22-Inch Electric Griddle",
+        "brand": "Presto",
+        "asin": "B005FYF3OY",
+        "blurb": "Key specs: 240 sq in, Under $40, Tilt drain.",
+        "strengths": [
+          "Best budget option for smash burgers, 240 sq in and rated 400°F",
+          "Tilt drain removes excess fat"
+        ],
+        "limitations": [
+          "Less consistent surface temperature than premium models"
+        ],
+        "features": [
+          "240 sq in",
+          "Under $40",
+          "Tilt drain",
+          "Presto"
+        ],
+        "badge": "Best Budget",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "Lodge Cast Iron Reversible Griddle",
+        "brand": "Lodge",
+        "asin": "B002CMLTXG",
+        "blurb": "Key specs: Cast iron, Lodge, Reversible.",
+        "strengths": [
+          "Cast iron holds heat better than any electric griddle, once hot, does not drop when cold beef is added",
+          "Can exceed 500°F on gas burner for maximum sear"
+        ],
+        "limitations": [
+          "Requires stovetop, oven seasoning, and more maintenance than non-stick"
+        ],
+        "features": [
+          "Cast iron",
+          "Lodge",
+          "Reversible",
+          "Stovetop"
+        ],
+        "badge": "Best Cast Iron",
+        "bestFor": "smash burgers"
+      },
+      {
+        "name": "Ninja Woodfire Electric Outdoor Grill",
+        "brand": "Ninja",
+        "asin": "B0B88YBB2J",
+        "blurb": "Key specs: Outdoor, Ninja, 700°F max.",
+        "strengths": [
+          "Adds real smoke flavor from pellets",
+          "Electric, no propane or charcoal",
+          "Grill, smoke and air-fry modes",
+          "Compact for patios and balconies"
+        ],
+        "limitations": [
+          "Cooking area smaller than full grills",
+          "Needs an outdoor outlet",
+          "Not a flat-top griddle for large batches"
+        ],
+        "features": [
+          "Outdoor",
+          "Ninja",
+          "700°F max",
+          "Woodfire"
+        ],
+        "badge": "Best Outdoor",
+        "bestFor": "smash burgers"
+      },
+      {
+        "name": "De'Longhi BGR50 Reversible Grill/Griddle",
+        "brand": "De'Longhi",
+        "asin": "B00E4B3SV4",
+        "blurb": "Key specs: Compact, De'Longhi, High heat.",
+        "strengths": [
+          "Reversible grill and griddle plates",
+          "Compact footprint",
+          "Adjustable thermostat",
+          "Dishwasher-safe plates"
+        ],
+        "limitations": [
+          "Small cooking area",
+          "Lower heat than outdoor griddles",
+          "Limited availability"
+        ],
+        "features": [
+          "Compact",
+          "De'Longhi",
+          "High heat",
+          "Under $80"
+        ],
+        "badge": "Best Compact",
+        "bestFor": "smash burgers"
+      },
+      {
+        "name": "Hamilton Beach 38546 3-in-1 Electric Griddle",
+        "brand": "Hamilton Beach",
+        "asin": "B0083I7TCI",
+        "blurb": "Key specs: Removable plates, 3-in-1, High heat.",
+        "strengths": [
+          "Dishwasher-safe removable plates for easy post-smash-burger cleanup",
+          "Adequate searing temperature"
+        ],
+        "limitations": [
+          "Not the highest temperature in this list"
+        ],
+        "features": [
+          "Removable plates",
+          "3-in-1",
+          "High heat",
+          "Under $60"
+        ],
+        "badge": "Best Hamilton",
+        "bestFor": "smash burgers"
+      },
+      {
+        "name": "GreenLife 20-Inch Ceramic Electric Griddle",
+        "brand": "GreenLife",
+        "asin": "B09RGQ4JHC",
+        "blurb": "Key specs: Ceramic, PTFE-free, GreenLife.",
+        "strengths": [
+          "Ceramic nonstick surface",
+          "Large 20-inch cooking area",
+          "Easy cleanup",
+          "Bright colorful design"
+        ],
+        "limitations": [
+          "Ceramic coatings can lose slickness over time",
+          "Heats less evenly at edges",
+          "Avoid high heat"
+        ],
+        "features": [
+          "Ceramic",
+          "PTFE-free",
+          "GreenLife",
+          "Under $50"
+        ],
+        "badge": "Best Ceramic",
+        "bestFor": "smash burgers"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 2 Best NAS for Plex Media Server 2026",
+  "h1": "The 2 Best NAS for Plex Media Server 2026",
+  "metaDescription": "Our 2 picks for nas for plex media server 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at nas for plex media server 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "nas-devices",
+  "related": [
+    "nas-devices"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Synology DS220+ (budget Plex option)",
+        "brand": "Synology",
+        "asin": "B07NF9XDWG",
+        "blurb": "Key specs: Intel Celeron J4025 with hardware transcoding, Plex Pass hardware transcoding compatible, 2-bay expansion.",
+        "strengths": [
+          "Hardware transcoding (with Plex Pass) handles 1080p streams efficiently",
+          "Lower price, good entry point for Plex on a 2-drive setup"
+        ],
+        "limitations": [
+          "Software 4K transcoding is too slow on Intel Celeron, hardware transcoding required for 4K"
+        ],
+        "features": [
+          "Intel Celeron J4025 with hardware transcoding",
+          "Plex Pass hardware transcoding compatible",
+          "2-bay expansion"
+        ],
+        "bestFor": "plex"
+      },
+      {
+        "name": "UGREEN NASync DXP2800 2-Bay NAS",
+        "brand": "UGREEN",
+        "asin": "B0D22HBFK1",
+        "blurb": "",
+        "strengths": [
+          "Intel N100 handles Plex hardware transcoding",
+          "2.5GbE port",
+          "Two M.2 NVMe slots plus two drive bays",
+          "Docker and VM support"
+        ],
+        "limitations": [
+          "Drives sold separately",
+          "Software ecosystem younger than Synology's",
+          "Only two drive bays"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

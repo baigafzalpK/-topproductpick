@@ -1,0 +1,90 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Dehumidifiers for Humid Climates",
+  "h1": "The 3 Best Dehumidifiers for Humid Climates",
+  "metaDescription": "Our 3 picks for dehumidifiers for humid climates, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at dehumidifiers for humid climates using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-dehumidifiers",
+  "related": [
+    "best-dehumidifiers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Frigidaire FFAP5033W1 50-Pint Dehumidifier with Pump",
+        "brand": "Frigidaire",
+        "asin": "B07Z5Q7M3N",
+        "blurb": "Key specs: 50-pint-per-day moisture removal, 4,500 sq ft coverage, Built-in condensate pump for continuous automatic drainage, Energy Star certified for lower running costs over long duty cycles.",
+        "strengths": [
+          "Built-in pump supports genuinely unattended continuous operation for weeks at a time",
+          "41°F operating floor covers humid shoulder seasons, not just peak summer"
+        ],
+        "limitations": [
+          "1.8-gallon bucket needs the pump hose connected for true continuous operation",
+          "Higher typical price than the Vremi for the same 50-pint rating",
+          "Casters struggle on uneven flooring if repositioning between rooms"
+        ],
+        "features": [
+          "50-pint-per-day moisture removal, 4,500 sq ft coverage",
+          "Built-in condensate pump for continuous automatic drainage",
+          "Energy Star certified for lower running costs over long duty cycles",
+          "Custom humidity control with 24-hour timer",
+          "Rated to operate down to 41°F for shoulder-season humidity"
+        ],
+        "bestFor": "humid climates"
+      },
+      {
+        "name": "TOSOT 50-Pint Dehumidifier with Internal Pump",
+        "brand": "TOSOT",
+        "asin": "B07FJHZ58L",
+        "blurb": "Key specs: 50-pint-per-day rating for up to 4,500 sq ft, Internal pump lifts water up to 15 feet through a 19-foot hose, Energy Star certified and UL listed.",
+        "strengths": [
+          "15-foot pump lift and long hose reach a distant drain in homes without a nearby floor drain",
+          "Auto-restart after storm-related power outages keeps the unit running without manual resets",
+          "Energy Star certification manages costs over sustained runtime"
+        ],
+        "limitations": [
+          "Owner reports note compressor longevity concerns after 2 to 3 humid seasons of heavy use",
+          "Bucket-full sensor occasionally stops the unit prematurely per owner reports",
+          "Louder at full fan speed than the Midea Cube"
+        ],
+        "features": [
+          "50-pint-per-day rating for up to 4,500 sq ft",
+          "Internal pump lifts water up to 15 feet through a 19-foot hose",
+          "Energy Star certified and UL listed",
+          "Auto-restart resumes settings after a power outage, common during storm season"
+        ],
+        "bestFor": "humid climates"
+      },
+      {
+        "name": "Vremi 50-Pint Dehumidifier for 4,500 Sq Ft Spaces",
+        "brand": "Vremi",
+        "asin": "B07JMZJX4B",
+        "blurb": "Key specs: 50-pint-per-day rating for spaces up to 4,500 sq ft, Continuous drain hose option in addition to the 1.8-gallon tank, Energy Star certified compressor.",
+        "strengths": [
+          "Lowest typical price for a 50-pint, continuous-drain-capable unit in this roundup",
+          "Continuous drain hose option supports round-the-clock operation without hand-emptying",
+          "Energy Star certification keeps a sustained duty cycle affordable"
+        ],
+        "limitations": [
+          "Runs louder than the Frigidaire or Midea Cube at comparable settings",
+          "Housing feels less durable for years of near-continuous operation than the Frigidaire",
+          "Shorter warranty than the Frigidaire or Midea"
+        ],
+        "features": [
+          "50-pint-per-day rating for spaces up to 4,500 sq ft",
+          "Continuous drain hose option in addition to the 1.8-gallon tank",
+          "Energy Star certified compressor",
+          "Adjustable humidistat and 24-hour timer"
+        ],
+        "bestFor": "humid climates"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

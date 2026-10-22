@@ -1,0 +1,85 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Packing Cubes Under $20",
+  "h1": "The 3 Best Packing Cubes Under $20",
+  "metaDescription": "Our 3 picks for packing cubes under $20, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at packing cubes under $20 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-packing-cubes",
+  "related": [
+    "best-packing-cubes"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "TravelWise Packing Cube System 5 Piece Weekender Plus Set",
+        "brand": "TravelWise",
+        "asin": "B00HHBR008",
+        "blurb": "Key specs: 5 cubes: 1 small, 2 medium, 2 large, Mesh top panel on each cube, 2-way pull zippers.",
+        "strengths": [
+          "5 cubes at this price is close to the lowest per-piece cost available",
+          "2 medium plus 2 large sizes cover a week of clothing for one traveler",
+          "Mesh tops and working 2-way zippers, the core features, are present despite the low price"
+        ],
+        "limitations": [
+          "Fabric and zippers are noticeably thinner than premium ripstop sets",
+          "No compression zipper",
+          "Fewer color options than pricier competitors"
+        ],
+        "features": [
+          "5 cubes: 1 small, 2 medium, 2 large",
+          "Mesh top panel on each cube",
+          "2-way pull zippers",
+          "Frequently priced near or under $20 for the set"
+        ],
+        "badge": "Best overall"
+      },
+      {
+        "name": "Gonex Compression Packing Cubes 10 Set",
+        "brand": "Gonex",
+        "asin": "B073B3YHX4",
+        "blurb": "Key specs: 10-piece set: 1 XL, 2 large, 2 medium cubes plus specialty bags, Double zipper compression, Honeycomb ripstop fabric.",
+        "strengths": [
+          "Only compression option that regularly comes close to this price range",
+          "10 pieces, including a shoe and laundry bag, at a very low per-piece cost when on sale",
+          "Honeycomb ripstop resists tearing better than plain thin nylon"
+        ],
+        "limitations": [
+          "Compression zippers wear faster than the main zippers under heavy use",
+          "10 loose pieces means more to track for a simple, quick trip"
+        ],
+        "features": [
+          "10-piece set: 1 XL, 2 large, 2 medium cubes plus specialty bags",
+          "Double zipper compression",
+          "Honeycomb ripstop fabric",
+          "Typically priced $30 to $35 for 10 pieces, often on sale nearer $20 to $25"
+        ]
+      },
+      {
+        "name": "eBags Classic 4 Piece Packing Cube Set",
+        "brand": "eBags",
+        "asin": "B016CIVJ26",
+        "blurb": "Key specs: 4 cubes: large, medium, small, and slim, TechLite diamond nylon, YKK zippers.",
+        "strengths": [
+          "Lifetime warranty adds long-term value even at a slightly higher price",
+          "4 distinct sizes cover more item types than a basic 3-piece budget set"
+        ],
+        "limitations": [
+          "No compression zipper",
+          "Requires waiting for a sale to fit this specific budget tier"
+        ],
+        "features": [
+          "4 cubes: large, medium, small, and slim",
+          "TechLite diamond nylon",
+          "YKK zippers",
+          "Usually priced above $20, occasionally on sale near it"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

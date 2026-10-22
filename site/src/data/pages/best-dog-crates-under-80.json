@@ -1,0 +1,99 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Dog Crates Under $80",
+  "h1": "The 4 Best Dog Crates Under $80",
+  "metaDescription": "Our 4 picks for dog crates under $80, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at dog crates under $80 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-dog-crates",
+  "related": [
+    "best-dog-crates"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "MidWest iCrate 36-Inch Double Door Dog Crate",
+        "brand": "MidWest Homes for Pets",
+        "asin": "B000QFT1R2",
+        "blurb": "Key specs: Typically $55 to $65, Included divider panel, Double door, leak-proof tray.",
+        "strengths": [
+          "Includes the divider panel most budget competitors charge extra for",
+          "Double door design usually costs more on other budget crates"
+        ],
+        "limitations": [
+          "Standard wire gauge, not for determined chewers",
+          "Plastic tray is durable but not indestructible over years of use"
+        ],
+        "features": [
+          "Typically $55 to $65",
+          "Included divider panel",
+          "Double door, leak-proof tray",
+          "36\"L x 23\"W x 25\"H"
+        ]
+      },
+      {
+        "name": "SportPet Designs Sport Pet Large Portable Kennel",
+        "brand": "SportPet Designs",
+        "asin": "B07GD1VLG4",
+        "blurb": "Key specs: Typically $65 to $80, Lightweight folding wire construction, Carrying handle.",
+        "strengths": [
+          "Cheapest genuinely portable option in this price range",
+          "Lightweight design suits buyers who move the crate often",
+          "Quick setup and fold for occasional travel use"
+        ],
+        "limitations": [
+          "Lighter wire gauge than the MidWest, best for calm and smaller dogs",
+          "Fewer size options than the iCrate lineup",
+          "Smaller accessory ecosystem"
+        ],
+        "features": [
+          "Typically $65 to $80",
+          "Lightweight folding wire construction",
+          "Carrying handle",
+          "Indoor and outdoor rated"
+        ]
+      },
+      {
+        "name": "MidWest LifeStages 24-Inch Double Door Dog Crate",
+        "brand": "MidWest",
+        "asin": "B000HCLDFC",
+        "blurb": "",
+        "strengths": [
+          "Double doors for flexible placement",
+          "Divider panel for puppies",
+          "Leak-proof plastic pan",
+          "Folds flat with a carry handle"
+        ],
+        "limitations": [
+          "Only suits small breeds",
+          "Wire crates are less den-like",
+          "Some dogs learn to push the pan"
+        ],
+        "features": []
+      },
+      {
+        "name": "MidWest LifeStages 30-Inch Single Door Dog Crate",
+        "brand": "MidWest",
+        "asin": "B00063MQKI",
+        "blurb": "",
+        "strengths": [
+          "Divider grows with a puppy",
+          "Folds flat for storage",
+          "Secure slide-bolt latches",
+          "Leak-proof pan"
+        ],
+        "limitations": [
+          "Single door limits placement",
+          "Not for escape artists",
+          "Pan can rattle"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

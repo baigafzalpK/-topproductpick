@@ -1,0 +1,61 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 2 Best Bread Machines Under $100 in 2026",
+  "h1": "The 2 Best Bread Machines Under $100 in 2026",
+  "metaDescription": "Our 2 picks for bread machines under $100 in 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at bread machines under $100 in 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-bread-machines",
+  "related": [
+    "best-bread-machines"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Hamilton Beach Digital Bread Maker 29885",
+        "brand": "Hamilton Beach",
+        "asin": "B07684XDM9",
+        "blurb": "Key specs: 2-lb capacity, 14 programmable settings, Gluten-free and whole grain settings.",
+        "strengths": [
+          "14 settings including gluten-free and whole grain cover the vast majority of home baking needs",
+          "Dishwasher-safe pan and paddle simplify cleanup"
+        ],
+        "limitations": [
+          "Single heating element produces less even crust browning than dual-heater machines",
+          "Single kneading paddle struggles more with dense whole wheat or gluten-free batter",
+          "Shorter reported lifespan, 3 to 5 years, than premium machines under regular use"
+        ],
+        "features": [
+          "2-lb capacity",
+          "14 programmable settings",
+          "Gluten-free and whole grain settings",
+          "3 loaf sizes, 3 crust shades",
+          "Dishwasher-safe pan and paddle"
+        ]
+      },
+      {
+        "name": "Amazon Basics Programmable Bread Maker, 2 lb",
+        "brand": "Amazon Basics",
+        "asin": "B07VB8Y1MD",
+        "blurb": "",
+        "strengths": [
+          "Low price for a 2 lb machine",
+          "14 programs including gluten-free and dough",
+          "ExpressBake cycle under 90 minutes",
+          "Three crust settings"
+        ],
+        "limitations": [
+          "Single paddle makes a tall loaf with a hole in the base",
+          "Louder kneading than premium machines",
+          "Basic build"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Travel Adapters Under $40",
+  "h1": "The 3 Best Travel Adapters Under $40",
+  "metaDescription": "Our 3 picks for travel adapters under $40, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at travel adapters under $40 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-travel-adapters",
+  "related": [
+    "best-travel-adapters"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "OREI World Travel Plug Adapter M8 Max",
+        "brand": "OREI",
+        "asin": "B07R3FD5RH",
+        "blurb": "Key specs: 2 USA outlets, 3 USB-A ports, 1 USB-C PD 18W port, Interchangeable plug attachments for 150+ countries, Grounded 3-prong design.",
+        "strengths": [
+          "18W USB-C PD is a genuine speed upgrade over basic USB-A-only budget adapters",
+          "Grounded design covers laptop chargers safely"
+        ],
+        "limitations": [
+          "18W USB-C still isn't enough to fast-charge a laptop directly",
+          "Larger than a minimal single-outlet budget adapter"
+        ],
+        "features": [
+          "2 USA outlets, 3 USB-A ports, 1 USB-C PD 18W port",
+          "Interchangeable plug attachments for 150+ countries",
+          "Grounded 3-prong design",
+          "Built-in fuse protection"
+        ]
+      },
+      {
+        "name": "BESTEK Universal Travel Adapter",
+        "brand": "BESTEK",
+        "asin": "B07R2JMHQR",
+        "blurb": "Key specs: 100-220V to 110V step-down voltage conversion, 250W, 6A 4-port USB charging, 3 AC sockets.",
+        "strengths": [
+          "The only model in this list that performs genuine voltage conversion, not just plug adaptation",
+          "250W ceiling covers most single-voltage travel appliances",
+          "Three AC sockets plus four USB ports cover a full device load"
+        ],
+        "limitations": [
+          "Bulkiest and heaviest option here",
+          "Overkill if none of your devices are single-voltage"
+        ],
+        "features": [
+          "100-220V to 110V step-down voltage conversion, 250W",
+          "6A 4-port USB charging",
+          "3 AC sockets",
+          "EU/UK/AU/US/India plug attachments"
+        ]
+      },
+      {
+        "name": "EPICKA Universal Travel Adapter with USB-C",
+        "brand": "EPICKA",
+        "asin": "B095BJFBW9",
+        "blurb": "",
+        "strengths": [
+          "One adapter for most countries",
+          "Charges several devices at once",
+          "Built-in fuse",
+          "Compact"
+        ],
+        "limitations": [
+          "Not a voltage converter",
+          "Not for high-power hair tools",
+          "Bulky in tight outlets"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

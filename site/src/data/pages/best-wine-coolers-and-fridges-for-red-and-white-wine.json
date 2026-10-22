@@ -1,0 +1,93 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Wine Coolers and Fridges for Red and White Wine",
+  "h1": "The 3 Best Wine Coolers and Fridges for Red and White Wine",
+  "metaDescription": "Our 3 picks for wine coolers and fridges for red and white wine, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at wine coolers and fridges for red and white wine using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-wine-coolers",
+  "related": [
+    "best-wine-coolers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "EdgeStar CWB2886FD 28 Bottle Wine and Beverage Cooler",
+        "brand": "EdgeStar",
+        "asin": "B01MQG0VPJ",
+        "blurb": "Key specs: Independently controlled left and right zones, Left zone 40°F to 65°F, right zone 38°F to 65°F, French doors with UV-resistant glass.",
+        "strengths": [
+          "Fully independent zone thermostats hold the widest and most reliable temperature gap between compartments on this list",
+          "UV-resistant glass on both doors protects both red and white equally",
+          "28-bottle capacity is enough to keep a real stock of both styles simultaneously"
+        ],
+        "limitations": [
+          "Higher price than a freestanding dual-zone unit of similar capacity",
+          "Requires a built-in cabinet cutout, not a simple counter placement",
+          "Overkill for a household that mostly drinks one style"
+        ],
+        "features": [
+          "Independently controlled left and right zones",
+          "Left zone 40°F to 65°F, right zone 38°F to 65°F",
+          "French doors with UV-resistant glass",
+          "28-bottle plus 86-can capacity",
+          "Built-in, front-venting"
+        ],
+        "badge": "Top pick",
+        "bestFor": "red and white wine"
+      },
+      {
+        "name": "NewAir 24 Bottle Wine Cooler Refrigerator French Door",
+        "brand": "NewAir",
+        "asin": "B0BMS6HFYM",
+        "blurb": "Key specs: 24-bottle dual-zone capacity, 41°F to 64°F digital range per zone, French door with double-layer tempered glass.",
+        "strengths": [
+          "41°F to 64°F range comfortably covers both correct red and correct white storage temperatures",
+          "French doors give quick access to whichever zone you need without opening the whole cabinet",
+          "Widely reviewed with a strong track record for holding its set temperature"
+        ],
+        "limitations": [
+          "Zone divider is fixed, so the ratio of upper to lower zone space can't be adjusted",
+          "24 bottles fills up quickly once split roughly in half between two styles"
+        ],
+        "features": [
+          "24-bottle dual-zone capacity",
+          "41°F to 64°F digital range per zone",
+          "French door with double-layer tempered glass",
+          "Freestanding, quiet compressor",
+          "Removable racks"
+        ],
+        "bestFor": "red and white wine"
+      },
+      {
+        "name": "NutriChef 33 Bottle Dual Zone Wine Fridge",
+        "brand": "NutriChef",
+        "asin": "B0BGM9FR2L",
+        "blurb": "Key specs: 33-bottle dual-zone capacity, 41°F to 64°F adjustable range, Built-in circulation fan.",
+        "strengths": [
+          "33-bottle total capacity means each zone can comfortably hold a real stock without crowding",
+          "Circulation fan helps each zone recover temperature faster after the door opens",
+          "Digital display makes it easy to confirm both zones independently"
+        ],
+        "limitations": [
+          "Fewer long-term reliability reports than NewAir or EdgeStar",
+          "Zone split is fixed, similar to most units in this price range",
+          "Freestanding cabinet is bulkier than a similarly priced compressor unit"
+        ],
+        "features": [
+          "33-bottle dual-zone capacity",
+          "41°F to 64°F adjustable range",
+          "Built-in circulation fan",
+          "Digital touch controls per zone",
+          "Freestanding cabinet"
+        ],
+        "bestFor": "red and white wine"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

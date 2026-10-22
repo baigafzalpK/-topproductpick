@@ -1,0 +1,102 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Yoga Mats Under $60",
+  "h1": "The 4 Best Yoga Mats Under $60",
+  "metaDescription": "Our 4 picks for yoga mats under $60, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at yoga mats under $60 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-yoga-mats",
+  "related": [
+    "best-yoga-mats"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "prAna E.C.O. Yoga Mat",
+        "brand": "prAna",
+        "asin": "B004GECD5G",
+        "blurb": "Key specs: 5mm closed-cell natural rubber, Two-sided texturing for grip, Non-toxic, PVC-free construction.",
+        "strengths": [
+          "Natural rubber grip and durability meaningfully outperform foam mats in this price bracket",
+          "PVC-free construction appeals to practitioners avoiding synthetic materials",
+          "Two-sided texture holds up better under sweat than basic foam"
+        ],
+        "limitations": [
+          "Rubber smell out of the box takes a week or two to fully fade",
+          "Fewer ratings than mass-market foam mats, less long-term data available"
+        ],
+        "features": [
+          "5mm closed-cell natural rubber",
+          "Two-sided texturing for grip",
+          "Non-toxic, PVC-free construction",
+          "Wipes clean easily",
+          "Typically $65 to $75, watch for sales under $60"
+        ],
+        "badge": "Top pick"
+      },
+      {
+        "name": "Gaiam Essentials Thick Yoga Mat",
+        "brand": "Gaiam",
+        "asin": "B07H9P7QYC",
+        "blurb": "Key specs: 10mm (2/5-inch) NBR foam cushioning, Textured non-slip surface, Easy-cinch carrying strap.",
+        "strengths": [
+          "10mm cushioning is comfortable for both practice and general floor exercises"
+        ],
+        "limitations": [
+          "Foam construction doesn't match the durability of rubber mats at the top of this budget range",
+          "Grip performance under heavy sweat trails behind rubber options"
+        ],
+        "features": [
+          "10mm (2/5-inch) NBR foam cushioning",
+          "Textured non-slip surface",
+          "Easy-cinch carrying strap",
+          "72 x 24-inch size",
+          "Typically $20 to $25"
+        ]
+      },
+      {
+        "name": "BalanceFrom GoYoga All-Purpose Yoga Mat",
+        "brand": "BalanceFrom",
+        "asin": "B01MQA0EGZ",
+        "blurb": "Key specs: 1/4-inch (6mm) high-density foam, Double-sided non-slip texture, Includes carrying strap.",
+        "strengths": [
+          "6mm cushioning and double-sided texture cover general practice reliably"
+        ],
+        "limitations": [
+          "Foam wears faster than rubber options also available in this price range",
+          "Better suited to buyers prioritizing accessories over a premium single mat"
+        ],
+        "features": [
+          "1/4-inch (6mm) high-density foam",
+          "Double-sided non-slip texture",
+          "Includes carrying strap",
+          "71-inch length",
+          "Typically $20 to $25"
+        ]
+      },
+      {
+        "name": "Gaiam Premium 6mm Print Yoga Mat",
+        "brand": "Gaiam",
+        "asin": "B00FLID5EO",
+        "blurb": "",
+        "strengths": [
+          "6mm cushioning for knees",
+          "Printed alignment guides",
+          "Sticky non-slip surface",
+          "Many designs"
+        ],
+        "limitations": [
+          "PVC isn't eco-friendly",
+          "Slippery when sweaty",
+          "Thick mats reduce balance stability"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

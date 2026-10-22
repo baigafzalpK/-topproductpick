@@ -1,0 +1,276 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 10 Best Ergonomic Keyboards for Programmers",
+  "h1": "The 10 Best Ergonomic Keyboards for Programmers",
+  "metaDescription": "Our 10 picks for ergonomic keyboards for programmers, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at ergonomic keyboards for programmers using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "ergonomic-keyboards",
+  "related": [
+    "ergonomic-keyboards"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Kinesis Freestyle2 Blue for PC (9 Inch Separation)",
+        "brand": "Kinesis",
+        "asin": "B00NMVJZ1E",
+        "blurb": "Key specs: Fully split halves connected by pivot tether, 0 to 9 inches of separation, Standard QWERTY stagger, no columnar relearning, Optional VIP3 kit adds 5/10/15-degree tenting and palm rests.",
+        "strengths": [
+          "Shoulder-width positioning is the only design on this list that addresses upper back and shoulder strain, not just wrist angle",
+          "Standard QWERTY layout means the adjustment period is about hand positioning, not relearning key locations",
+          "Tether-connected halves survive daily repositioning without connector wear",
+          "Works identically on Mac and PC via a physical DIP switch, no drivers needed"
+        ],
+        "limitations": [
+          "No integrated palm rest or tenting out of the box; VIP3 accessories are a separate purchase that pushes total cost to 120-150 dollars",
+          "1 to 2 week adaptation period, longer than fixed-split boards like the K860",
+          "Membrane switches feel mushy next to the mechanical Kinesis Advantage2",
+          "9-inch max separation is tethered, not fully wireless between halves"
+        ],
+        "features": [
+          "Fully split halves connected by pivot tether, 0 to 9 inches of separation",
+          "Standard QWERTY stagger, no columnar relearning",
+          "Optional VIP3 kit adds 5/10/15-degree tenting and palm rests",
+          "Low-force membrane switches",
+          "Bluetooth (Blue model) plus wired USB, Mac/PC DIP switch toggle"
+        ],
+        "badge": "Best Fully Split",
+        "bestFor": "programmers"
+      },
+      {
+        "name": "Logitech Ergo K860 Wireless Ergonomic Split Keyboard",
+        "brand": "Logitech",
+        "asin": "B07ZWK2TQT",
+        "blurb": "Key specs: 9-degree fixed splay with curved split key groups, Integrated memory foam palm rest, Adjustable tenting legs for negative tilt.",
+        "strengths": [
+          "Addresses wrist angle, contact pressure, and pronation in a single unit with no accessory purchases",
+          "3 to 5 day adaptation period is the shortest of any split keyboard on this list",
+          "One-button Bluetooth switching between 3 paired computers suits multi-machine developer setups",
+          "2 years per battery set eliminates the recharge-anxiety of most wireless keyboards"
+        ],
+        "limitations": [
+          "Fixed chassis caps splay at 9 degrees and cannot address shoulder-width positioning",
+          "Full-size layout with integrated number pad pushes the mouse further right",
+          "Membrane switches lack the tactile break programmers get from mechanical boards",
+          "At 100-130 dollars it costs more than most budget splits without offering mechanical switches"
+        ],
+        "features": [
+          "9-degree fixed splay with curved split key groups",
+          "Integrated memory foam palm rest",
+          "Adjustable tenting legs for negative tilt",
+          "Bluetooth multi-device switching across 3 computers plus Logitech Unifying receiver",
+          "2-year battery life on 2 AAA batteries"
+        ],
+        "badge": "Best Mainstream",
+        "bestFor": "programmers"
+      },
+      {
+        "name": "Perixx Periboard-512B Ergonomic Split Keyboard",
+        "brand": "Perixx",
+        "asin": "B075GZVD4T",
+        "blurb": "Key specs: Wired USB split layout, Integrated palm rest, Fixed splay angle, no independent half positioning.",
+        "strengths": [
+          "Under 40 dollars is the cheapest genuine split-layout entry point on this list",
+          "Wired connection means zero input latency and no battery to manage",
+          "Integrated palm rest delivers real ergonomic benefit despite the low price",
+          "Good low-risk way to test whether a split layout helps before spending more"
+        ],
+        "limitations": [
+          "Key feel is noticeably mushy compared to the K860 or Freestyle2",
+          "Build quality is basic plastic that flexes more than premium options",
+          "Fixed splay means no tenting or adjustment once purchased",
+          "No wireless option, tying the keyboard to a single desk position"
+        ],
+        "features": [
+          "Wired USB split layout",
+          "Integrated palm rest",
+          "Fixed splay angle, no independent half positioning",
+          "Standard QWERTY key stagger"
+        ],
+        "bestFor": "programmers"
+      },
+      {
+        "name": "Microsoft Ergonomic Keyboard (LXM-00004)",
+        "brand": "Microsoft",
+        "asin": "B07YGNN6N1",
+        "blurb": "Key specs: Wired USB split layout with cushioned palm rest, Conventional key stagger for a shorter adjustment period, Crisp membrane switch feel.",
+        "strengths": [
+          "Crisp key feel for a membrane keyboard, better than most budget splits",
+          "Conventional layout keeps the learning curve short, typically under a week",
+          "Cushioned palm rest is integrated rather than a separate add-on",
+          "Simple wired USB setup that IT departments can standardize without software installs"
+        ],
+        "limitations": [
+          "No tenting or adjustable splay, the angle is fixed at the factory",
+          "Wired only, no Bluetooth or wireless option",
+          "Splay is modest, so it does less for shoulder strain than a fully split board",
+          "No programmable keys or macro support"
+        ],
+        "features": [
+          "Wired USB split layout with cushioned palm rest",
+          "Conventional key stagger for a shorter adjustment period",
+          "Crisp membrane switch feel",
+          "No software or drivers required"
+        ],
+        "bestFor": "programmers"
+      },
+      {
+        "name": "Kinesis Advantage2 Quiet LF Mechanical Ergonomic Keyboard",
+        "brand": "Kinesis",
+        "asin": "B07K1SMRGS",
+        "blurb": "Key specs: Contoured concave key wells with columnar key layout, Integrated thumb cluster for modifier keys, Quiet Cherry MX Silent Red mechanical switches.",
+        "strengths": [
+          "Concave key wells and thumb cluster eliminate the finger stretching that causes strain on flat keyboards",
+          "Cherry MX Silent Red switches give tactile, low-force mechanical feedback without loud clacking",
+          "SmartSet programmable engine supports full remapping for Vim motions and IDE shortcuts without extra software",
+          "Widely regarded by programmers as delivering the largest ergonomic improvement of any keyboard in this list"
+        ],
+        "limitations": [
+          "Columnar, concave layout requires 1 to 2 weeks of real relearning, not just repositioning",
+          "At 300-350 dollars it is the most expensive keyboard on this list by a wide margin",
+          "Large footprint and unconventional shape make it impractical to travel with",
+          "No backlighting and a dated USB-only connection, no Bluetooth"
+        ],
+        "features": [
+          "Contoured concave key wells with columnar key layout",
+          "Integrated thumb cluster for modifier keys",
+          "Quiet Cherry MX Silent Red mechanical switches",
+          "Fully programmable via Kinesis SmartSet engine, onboard remapping and macros",
+          "Integrated palm supports"
+        ],
+        "bestFor": "programmers"
+      },
+      {
+        "name": "Microsoft Sculpt Ergonomic Keyboard for Business",
+        "brand": "Microsoft",
+        "asin": "B00CYX26BC",
+        "blurb": "Key specs: Dome-shaped split key bed with detached number pad, Cushioned detachable palm rest, Proprietary wireless dongle paired at the factory.",
+        "strengths": [
+          "At 45-60 dollars it is the cheapest genuine ergonomic improvement on this list",
+          "Detached number pad keeps the mouse close to the keyboard, reducing reach-related shoulder strain",
+          "Dome shape reduces ulnar deviation about as effectively as pricier split boards",
+          "Over a decade of market presence with a large installed base and known reliability"
+        ],
+        "limitations": [
+          "Wireless dongle is proprietary and factory-paired; losing it means replacing the whole keyboard",
+          "No tenting adjustment, the dome angle is fixed",
+          "Detached number pad adds desk clutter compared to single-unit keyboards",
+          "Membrane switches with limited key travel feel low-effort under sustained typing"
+        ],
+        "features": [
+          "Dome-shaped split key bed with detached number pad",
+          "Cushioned detachable palm rest",
+          "Proprietary wireless dongle paired at the factory",
+          "Compact footprint that keeps the mouse close to centerline"
+        ],
+        "bestFor": "programmers"
+      },
+      {
+        "name": "Goldtouch V2 Adjustable Comfort Keyboard",
+        "brand": "Goldtouch",
+        "asin": "B005ZLTNN4",
+        "blurb": "Key specs: Independently rotating halves, up to 30 degrees splay each, Independent tenting up to 15 degrees per half, Wired USB connection.",
+        "strengths": [
+          "Independent per-half rotation and tenting is a rare feature at this price point",
+          "Lets programmers dial in the exact splay and pronation angle that feels neutral, rather than accepting a factory-fixed angle",
+          "Solid build for a budget adjustable split keyboard",
+          "Compact modular halves take up less desk space than a fully split tethered board"
+        ],
+        "limitations": [
+          "Wired only, no wireless option",
+          "Adjustment mechanism adds a learning curve to find the right angle, more fiddly than fixed-splay boards",
+          "No integrated palm rest included",
+          "Membrane switches with a plasticky feel compared to mechanical options"
+        ],
+        "features": [
+          "Independently rotating halves, up to 30 degrees splay each",
+          "Independent tenting up to 15 degrees per half",
+          "Wired USB connection",
+          "Compact modular design"
+        ],
+        "bestFor": "programmers"
+      },
+      {
+        "name": "Logitech Wave Keys Wireless Ergonomic Keyboard",
+        "brand": "Logitech",
+        "asin": "B0BTNY72VD",
+        "blurb": "Key specs: Gentle wave-shaped key bed, not a full split, Integrated palm rest, Bluetooth and Logitech Unifying receiver connectivity.",
+        "strengths": [
+          "Wave shape guides fingers into a natural arc with almost no adjustment period",
+          "Good transition board for typists moving from a flat keyboard toward a full split like the K860 or Freestyle2",
+          "Integrated palm rest and quiet keys make it comfortable for open-office use",
+          "Reliable Logitech wireless connectivity with long battery life"
+        ],
+        "limitations": [
+          "Gentle curve delivers less ulnar deviation relief than a true split like the K860",
+          "No tenting adjustment",
+          "Not a meaningful upgrade path for programmers with existing wrist pain who need a real split",
+          "Full-size layout takes up more desk space than compact alternatives"
+        ],
+        "features": [
+          "Gentle wave-shaped key bed, not a full split",
+          "Integrated palm rest",
+          "Bluetooth and Logitech Unifying receiver connectivity",
+          "Quiet membrane switches"
+        ],
+        "bestFor": "programmers"
+      },
+      {
+        "name": "Kensington Pro Fit Ergonomic Wireless Keyboard",
+        "brand": "Kensington",
+        "asin": "B07X7GL76R",
+        "blurb": "Key specs: Wireless split keyboard with moderate splay angle, Quiet key switches, Compact low-profile design.",
+        "strengths": [
+          "Moderate splay is easier to adjust to than aggressive split designs",
+          "Quiet keys suit open-office and shared-space environments",
+          "Low-profile build fits under standard monitor arms and keyboard trays",
+          "Reliable 2.4GHz wireless with minimal input lag"
+        ],
+        "limitations": [
+          "Moderate splay means less ulnar deviation relief than a fully split board",
+          "No tenting legs included",
+          "Palm rest is thinner and less supportive than the K860's",
+          "Battery life is shorter than AAA-powered competitors, requiring more frequent recharging"
+        ],
+        "features": [
+          "Wireless split keyboard with moderate splay angle",
+          "Quiet key switches",
+          "Compact low-profile design",
+          "2.4GHz wireless receiver"
+        ],
+        "bestFor": "programmers"
+      },
+      {
+        "name": "Adesso Tru-Form Media Contoured Ergonomic Keyboard",
+        "brand": "Adesso",
+        "asin": "B00HEL47YI",
+        "blurb": "Key specs: Split keyboard with built-in touchpad, Wired USB connection, Contoured key wells.",
+        "strengths": [
+          "Integrated touchpad removes the constant keyboard-to-mouse reach that contributes to shoulder strain",
+          "Split layout with contoured wells gives real ergonomic benefit at a mid-range price",
+          "Single-cable wired setup with no dongle or pairing required",
+          "Useful for tight desks where a separate mouse isn't practical"
+        ],
+        "limitations": [
+          "Built-in touchpad is less precise than a dedicated mouse for detailed editing or design work",
+          "Bulkier chassis than a standard split keyboard due to the touchpad module",
+          "Membrane switches feel basic and offer little tactile feedback",
+          "Wired only, no wireless option"
+        ],
+        "features": [
+          "Split keyboard with built-in touchpad",
+          "Wired USB connection",
+          "Contoured key wells",
+          "Eliminates separate mouse for reduced reach"
+        ],
+        "bestFor": "programmers"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

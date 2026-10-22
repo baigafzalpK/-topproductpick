@@ -1,0 +1,242 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 10 Best Coffee Makers Under $100",
+  "h1": "The 10 Best Coffee Makers Under $100",
+  "metaDescription": "Our 10 picks for coffee makers under $100, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at coffee makers under $100 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "coffee-makers",
+  "related": [
+    "coffee-makers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Bonavita BV1901TS 8-Cup One-Touch Coffee Brewer",
+        "brand": "Bonavita",
+        "asin": "B076PFMRGX",
+        "blurb": "Key specs: SCA-certified brew temperature of 198 to 205 degrees, Pre-infusion bloom mode for even saturation, 8-cup stainless steel thermal carafe.",
+        "strengths": [
+          "Bloom mode wets grounds evenly before extraction, a step almost no other machine in this range includes",
+          "Thermal carafe avoids the burnt, stale taste a hot plate produces after 20 minutes",
+          "Flat-bottom showerhead distributes water more evenly than the cone filters most competitors use"
+        ],
+        "limitations": [
+          "No programmable timer, must be started by hand every time",
+          "No digital display or brew-strength adjustment",
+          "8-cup capacity is limiting for larger households"
+        ],
+        "features": [
+          "SCA-certified brew temperature of 198 to 205 degrees",
+          "Pre-infusion bloom mode for even saturation",
+          "8-cup stainless steel thermal carafe",
+          "One-touch, single-button operation",
+          "Flat-bottom showerhead filter design"
+        ]
+      },
+      {
+        "name": "Cuisinart DCC-3200P1 PerfecTemp 14-Cup Programmable",
+        "brand": "Cuisinart",
+        "asin": "B00MVWGQX0",
+        "blurb": "Key specs: 192 to 196 degree PerfecTemp brewing system, 14-cup glass carafe capacity, 24-hour programmable timer.",
+        "strengths": [
+          "14-cup capacity is the largest in this guide, suited to bigger households",
+          "192 to 196 degree brew temperature beats most machines in this price tier, even if below the SCA minimum",
+          "Programmable timer and adjustable warming plate add flexibility budget machines skip"
+        ],
+        "limitations": [
+          "Brews below the 195-degree SCA minimum, so extraction is not as complete as the Bonavita's",
+          "Glass carafe on a hot plate continues cooking coffee, degrading flavor after 20 minutes",
+          "Bulkier footprint than the smaller 8 to 12-cup machines here"
+        ],
+        "features": [
+          "192 to 196 degree PerfecTemp brewing system",
+          "14-cup glass carafe capacity",
+          "24-hour programmable timer",
+          "Adjustable warming plate with 4 heat settings",
+          "Self-clean cycle"
+        ]
+      },
+      {
+        "name": "Ninja CE251 Programmable 12-Cup Coffee Maker",
+        "brand": "Ninja",
+        "asin": "B07S98411N",
+        "blurb": "Key specs: Flat-bottom filter basket for even extraction, 12-cup glass carafe, Rich and Classic brew strength settings.",
+        "strengths": [
+          "Flat-bottom filter design distributes water more evenly than the cone filters on most competitors",
+          "Rich brew setting genuinely produces a bolder cup, not just a marketing label"
+        ],
+        "limitations": [
+          "Does not publish a specific brew temperature or carry SCA certification",
+          "Glass carafe and hot plate degrade coffee flavor after 20 to 30 minutes",
+          "Plastic housing feels less durable than metal-bodied competitors"
+        ],
+        "features": [
+          "Flat-bottom filter basket for even extraction",
+          "12-cup glass carafe",
+          "Rich and Classic brew strength settings",
+          "24-hour programmable timer",
+          "Adjustable warming plate"
+        ]
+      },
+      {
+        "name": "Hamilton Beach 49350 2-Way Brewer 12-Cup",
+        "brand": "Hamilton Beach",
+        "asin": "B003KYSLMC",
+        "blurb": "Key specs: 12-cup carafe side plus single-serve side, Compatible with any K-Cup or reusable filter pod, Independent operation of each brewing side.",
+        "strengths": [
+          "Genuinely useful dual-function design for households with mixed single-cup and full-pot needs",
+          "Single-serve side accepts any K-Cup or a reusable filter, unlike brand-locked machines"
+        ],
+        "limitations": [
+          "Neither side publishes a specific brew temperature",
+          "Single-serve side lacks strength or temperature adjustment",
+          "Build quality feels noticeably more plastic than the single-purpose Bonavita or Cuisinart machines"
+        ],
+        "features": [
+          "12-cup carafe side plus single-serve side",
+          "Compatible with any K-Cup or reusable filter pod",
+          "Independent operation of each brewing side",
+          "Auto-off safety shutoff",
+          "Compact dual-brew footprint"
+        ]
+      },
+      {
+        "name": "Mr. Coffee 12-Cup Coffee Maker BVMC-SJX33GT",
+        "brand": "Mr. Coffee",
+        "asin": "B000AQSMPO",
+        "blurb": "Key specs: 12-cup glass carafe, Simple one-button brew start, Pause-and-serve function.",
+        "strengths": [
+          "Pause n Serve lets you pour a cup mid-brew without dripping on the hot plate",
+          "Dead-simple one-button operation with nothing to configure or break"
+        ],
+        "limitations": [
+          "Brews at 185 to 192 degrees, well below the SCA-recommended range, producing under-extracted coffee",
+          "No programmable timer or brew-strength adjustment",
+          "Glass carafe on a hot plate cooks coffee further the longer it sits"
+        ],
+        "features": [
+          "12-cup glass carafe",
+          "Simple one-button brew start",
+          "Pause-and-serve function",
+          "Pause n Serve mid-brew pouring",
+          "Pre-programmed automatic shutoff"
+        ]
+      },
+      {
+        "name": "Cuisinart DTC-975BKN 12-Cup Automatic Thermal Coffeemaker",
+        "brand": "Cuisinart",
+        "asin": "B0000YTYGM",
+        "blurb": "Key specs: 12-cup double-wall stainless thermal carafe, Fully automatic brewing with 24-hour programmability, Gold-tone commercial style permanent filter.",
+        "strengths": [
+          "Double-wall stainless carafe holds heat significantly longer than the single-wall BLACK+DECKER carafe",
+          "Gold-tone permanent filter avoids the ongoing cost and waste of paper filters",
+          "Long production history behind this specific Cuisinart line gives it a proven reliability record",
+          "Fully programmable with adjustable auto shutoff for flexible schedules"
+        ],
+        "limitations": [
+          "Does not publish a brew temperature or carry SCA certification",
+          "Older design lacks the flat-bottom filter geometry of the Bonavita or Ninja"
+        ],
+        "features": [
+          "12-cup double-wall stainless thermal carafe",
+          "Fully automatic brewing with 24-hour programmability",
+          "Gold-tone commercial style permanent filter",
+          "Adjustable auto shutoff",
+          "Brew-pause feature"
+        ]
+      },
+      {
+        "name": "Keurig K-Compact Single Serve Coffee Maker",
+        "brand": "Keurig",
+        "asin": "B071FQS4TM",
+        "blurb": "Key specs: 3 cup sizes: 8, 10, and 12 ounces, 5-inch-wide compact footprint, Removable 36-ounce reservoir.",
+        "strengths": [
+          "Fastest brew of any machine here at roughly 30 seconds",
+          "Smallest footprint in this guide, fits the narrowest counters",
+          "Zero cleanup beyond removing the used pod"
+        ],
+        "limitations": [
+          "No temperature control or strength setting",
+          "12-cup drip machines in this guide produce better coffee per dollar for households, not solo drinkers"
+        ],
+        "features": [
+          "3 cup sizes: 8, 10, and 12 ounces",
+          "5-inch-wide compact footprint",
+          "Removable 36-ounce reservoir",
+          "Compatible with all K-Cup pods",
+          "Auto-off after 90 seconds idle"
+        ]
+      },
+      {
+        "name": "Kalita Wave Pour-Over Coffee Dripper 185",
+        "brand": "Kalita",
+        "asin": "B004W5KPSQ",
+        "blurb": "Key specs: Flat-bottom design with three small holes, Wave-shaped filter for consistent flow, Brews 1 to 2 cups per session.",
+        "strengths": [
+          "Flat-bottom geometry produces more even extraction than any electric drip machine in this guide",
+          "Wave filter's consistent flow forgives imprecise pour technique better than cone drippers",
+          "Stainless build survives drops that would break a ceramic dripper"
+        ],
+        "limitations": [
+          "Requires a separate gooseneck kettle for proper technique",
+          "Proprietary wave filters cost more per filter than standard cone filters",
+          "Manual method means no programmable timer for automatic morning brewing"
+        ],
+        "features": [
+          "Flat-bottom design with three small holes",
+          "Wave-shaped filter for consistent flow",
+          "Brews 1 to 2 cups per session",
+          "No electricity required",
+          "Stainless steel construction"
+        ]
+      },
+      {
+        "name": "Hamilton Beach 49933 2-Way Single Serve and 12-Cup Coffee Maker",
+        "brand": "Hamilton Beach",
+        "asin": "B0896NP59N",
+        "blurb": "Key specs: 12-cup carafe side plus K-Cup-compatible single-serve side, Independent brewing on each side, Adjustable single-serve cup sizes.",
+        "strengths": [
+          "Programmable timer on the carafe side is a genuine upgrade over the non-programmable 49350",
+          "Adjustable single-serve cup sizes add flexibility K-Cup-only machines lack",
+          "One machine covers both a full pot for guests and a single cup for daily use"
+        ],
+        "limitations": [
+          "Neither side publishes a specific brew temperature or carries SCA certification",
+          "Costs more than the simpler 49350 for incremental convenience",
+          "Single-serve side lacks strength adjustment found on dedicated Keurig machines"
+        ],
+        "features": [
+          "12-cup carafe side plus K-Cup-compatible single-serve side",
+          "Independent brewing on each side",
+          "Adjustable single-serve cup sizes",
+          "Programmable 24-hour timer on the carafe side",
+          "Compact dual-brew design"
+        ]
+      },
+      {
+        "name": "Keurig K-Express Single Serve Coffee Maker",
+        "brand": "Keurig",
+        "asin": "B09715G57M",
+        "blurb": "",
+        "strengths": [
+          "Brews 8, 10 or 12 oz cups",
+          "Strong button for bolder coffee",
+          "42 oz reservoir means fewer refills",
+          "Simple, affordable entry to K-Cups"
+        ],
+        "limitations": [
+          "Pod costs add up over time",
+          "No temperature or iced settings",
+          "Plastic build"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

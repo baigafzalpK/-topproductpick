@@ -1,0 +1,148 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 6 Best Strollers for Small Cars",
+  "h1": "The 6 Best Strollers for Small Cars",
+  "metaDescription": "Our 6 picks for strollers for small cars, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at strollers for small cars using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-strollers",
+  "related": [
+    "best-strollers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Kolcraft Cloud Plus Lightweight Stroller",
+        "brand": "Kolcraft",
+        "asin": "B019DHBCXE",
+        "blurb": "Key specs: 13 lb lightweight frame, Folds to roughly 12 by 34 inches, Multi-position reclining seat.",
+        "strengths": [
+          "13 lbs and a genuinely flat fold make it the easiest stroller in this list to lift into a small trunk one-handed",
+          "Folds flatter than most umbrella strollers, leaving more trunk space for other cargo",
+          "Reclining seat and large canopy are unusually full-featured for such a light, compact frame"
+        ],
+        "limitations": [
+          "No infant car seat compatibility, designed for toddlers who can sit supported",
+          "Smaller wheels mean a noticeably bumpier ride on rough sidewalks than full-size strollers",
+          "Storage basket is smaller than mid-size and full-size strollers"
+        ],
+        "features": [
+          "13 lb lightweight frame",
+          "Folds to roughly 12 by 34 inches",
+          "Multi-position reclining seat",
+          "3-tier extendable canopy with peekaboo window",
+          "Supports up to 50 lbs / 40 inches"
+        ],
+        "badge": "Best overall",
+        "bestFor": "small cars"
+      },
+      {
+        "name": "Summer Infant 3Dpac CS+ Compact Fold Stroller",
+        "brand": "Summer Infant",
+        "asin": "B0799CLJ2Z",
+        "blurb": "Key specs: 16 lb lightweight frame, Compact tri-fold with auto lock and carry strap, Folds to roughly 20.5 by 21.5 by 14.5 inches.",
+        "strengths": [
+          "Car seat compatibility without an adapter is rare at this compact a fold",
+          "Auto-lock tri-fold with carry strap makes it easy to sling over a shoulder while loading a trunk",
+          "16 lbs is light enough for one-handed lifting with a baby on the other arm"
+        ],
+        "limitations": [
+          "Folded footprint is larger than the Cloud Plus, though still small-car friendly",
+          "Ride comfort and suspension are basic compared to full-size strollers",
+          "Canopy coverage is smaller than premium strollers' extendable canopies"
+        ],
+        "features": [
+          "16 lb lightweight frame",
+          "Compact tri-fold with auto lock and carry strap",
+          "Folds to roughly 20.5 by 21.5 by 14.5 inches",
+          "Car seat compatible with Graco Click Connect and Chicco KeyFit, no adapter",
+          "Multi-position recline and leg rest"
+        ],
+        "bestFor": "small cars"
+      },
+      {
+        "name": "Graco Modes Pramette Stroller",
+        "brand": "Graco",
+        "asin": "B07Y5X8G4B",
+        "blurb": "Key specs: One-hand fold, True pram mode with flat-lying reversible seat, 3-in-1: car seat carrier, pramette, toddler stroller.",
+        "strengths": [
+          "One-hand fold is fast even though the folded size is larger than dedicated compact strollers",
+          "True pram mode and 3-in-1 versatility that neither the Cloud Plus nor 3Dpac CS+ offer",
+          "Still fits most hatchback and mid-size sedan trunks despite the larger feature set"
+        ],
+        "limitations": [
+          "Larger folded footprint than the Cloud Plus or 3Dpac CS+, tighter in a very small trunk",
+          "Heavier frame than dedicated lightweight compact strollers",
+          "Not marketed as a compact stroller, so small-car buyers need to check the fold size against their trunk"
+        ],
+        "features": [
+          "One-hand fold",
+          "True pram mode with flat-lying reversible seat",
+          "3-in-1: car seat carrier, pramette, toddler stroller",
+          "Removable child tray with cup holders",
+          "Standard, mid-size folded footprint"
+        ],
+        "bestFor": "small cars"
+      },
+      {
+        "name": "Graco NimbleLite Travel System",
+        "brand": "Graco",
+        "asin": "B07Y5TWJRP",
+        "blurb": "",
+        "strengths": [
+          "Very light frame",
+          "Includes infant car seat",
+          "Compact fold",
+          "Car seat clicks in"
+        ],
+        "limitations": [
+          "Small wheels for rough sidewalks",
+          "Basic canopy",
+          "Limited storage basket"
+        ],
+        "features": []
+      },
+      {
+        "name": "Chicco Liteway Stroller",
+        "brand": "Chicco",
+        "asin": "B0D98VGYVZ",
+        "blurb": "",
+        "strengths": [
+          "Rear-wheel suspension",
+          "One-hand 4-position recline",
+          "Compact fold",
+          "Toe-tap brakes"
+        ],
+        "limitations": [
+          "Heavier than ultralight strollers",
+          "40 lb limit",
+          "Bulky folded length"
+        ],
+        "features": []
+      },
+      {
+        "name": "Summer Infant 3Dlite Convenience Stroller",
+        "brand": "Summer Infant",
+        "asin": "B07N16CCQC",
+        "blurb": "",
+        "strengths": [
+          "Light 13 lb aluminum frame",
+          "Large storage basket",
+          "4-position recline",
+          "Affordable"
+        ],
+        "limitations": [
+          "Small wheels",
+          "Not for newborns without a car seat",
+          "Basic suspension"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Pet Cameras for Dogs With Separation Anxiety",
+  "h1": "The 5 Best Pet Cameras for Dogs With Separation Anxiety",
+  "metaDescription": "Our 5 picks for pet cameras for dogs with separation anxiety, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at pet cameras for dogs with separation anxiety using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-pet-cameras",
+  "related": [
+    "best-pet-cameras"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Petcube Bites 2",
+        "brand": "Petcube",
+        "asin": "B07QZ4BWY1",
+        "blurb": "Key specs: 1080p HD video with 160° full-room view, Built-in treat dispenser with adjustable toss distance, 4-microphone array with 2-way audio.",
+        "strengths": [
+          "Treat dispenser gives a concrete way to reward calm moments during a departure, not just talk",
+          "4-microphone array picks up whining and barking more reliably than single-mic cameras",
+          "Alexa built-in allows hands-free check-ins and treat dispensing from any Echo device",
+          "160° view covers more of a room than a fixed 110° lens, useful for pacing dogs"
+        ],
+        "limitations": [
+          "Treat hopper needs refilling every few days with regular use"
+        ],
+        "features": [
+          "1080p HD video with 160° full-room view",
+          "Built-in treat dispenser with adjustable toss distance",
+          "4-microphone array with 2-way audio",
+          "Alexa built-in",
+          "Sound and motion alerts"
+        ],
+        "badge": "Best overall",
+        "bestFor": "dogs with separation anxiety"
+      },
+      {
+        "name": "Ring Indoor Cam (2nd Gen)",
+        "brand": "Ring",
+        "asin": "B0B6GJBKRK",
+        "blurb": "Key specs: 1080p HD video with color night vision, 115° horizontal field of view, Two-way talk.",
+        "strengths": [
+          "Two-way talk is clear enough for a dog to recognize an owner's voice from across the room",
+          "Motion alerts fire quickly enough to catch the start of pacing or whining",
+          "Compact plug-in body means it can sit near a dog's usual resting spot"
+        ],
+        "limitations": [
+          "No pet-specific AI, alerts trigger on any movement including shadows or a ceiling fan",
+          "Saving clips for later review requires a Ring Protect subscription",
+          "115° field of view misses dogs that wander into adjacent rooms"
+        ],
+        "features": [
+          "1080p HD video with color night vision",
+          "115° horizontal field of view",
+          "Two-way talk",
+          "Works with Alexa",
+          "Optional Ring Protect cloud storage"
+        ],
+        "bestFor": "dogs with separation anxiety"
+      },
+      {
+        "name": "Wyze Cam Pan v3",
+        "brand": "Wyze",
+        "asin": "B0B9TWY11Q",
+        "blurb": "Key specs: 360° pan / 180° tilt coverage, 1080p color night vision, 2-way audio.",
+        "strengths": [
+          "Full pan and tilt range follows a dog that paces between rooms instead of staying in frame",
+          "Motion tracking automatically re-centers on a moving dog without manual adjustment",
+          "Works fully without a subscription for live view and short event clips",
+          "Lowest price of the pan/tilt cameras in this list"
+        ],
+        "limitations": [
+          "No treat dispenser for interactive rewards",
+          "Two-way audio is noticeably thinner than the Petcube's 4-microphone array",
+          "Cloud storage for longer clips needs the optional Cam Plus plan"
+        ],
+        "features": [
+          "360° pan / 180° tilt coverage",
+          "1080p color night vision",
+          "2-way audio",
+          "Motion tracking that follows movement around the room",
+          "No subscription required for live view and basic alerts"
+        ],
+        "bestFor": "dogs with separation anxiety"
+      },
+      {
+        "name": "TP-Link Tapo C210",
+        "brand": "TP-Link",
+        "asin": "B08ZNTM1X1",
+        "blurb": "Key specs: 2K resolution, 360° pan / 114° tilt, Motion detection with tracking, 2-way audio with built-in siren.",
+        "strengths": [
+          "Sharpest image in this list at 2K resolution, useful for reading subtle body language",
+          "Local microSD storage avoids a mandatory subscription to review footage later",
+          "Motion tracking keeps a moving dog centered in frame"
+        ],
+        "limitations": [
+          "No treat dispenser or interactive feeding option",
+          "114° tilt range is narrower than the Wyze Cam Pan's full 180°",
+          "App setup takes a few more steps than Ring's for first-time smart camera users"
+        ],
+        "features": [
+          "2K resolution, 360° pan / 114° tilt",
+          "Motion detection with tracking",
+          "2-way audio with built-in siren",
+          "MicroSD storage up to 512GB",
+          "Works with Alexa and Google Assistant"
+        ],
+        "bestFor": "dogs with separation anxiety"
+      },
+      {
+        "name": "Furbo 360° Dog Camera",
+        "brand": "Furbo",
+        "asin": "B09GDQZLD1",
+        "blurb": "",
+        "strengths": [
+          "360° rotating view",
+          "Treat tossing from your phone",
+          "Barking alerts",
+          "Two-way audio"
+        ],
+        "limitations": [
+          "Advanced alerts need a paid plan",
+          "Treat size must fit the dispenser",
+          "Premium price"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Dog Crates for Anxious Dogs",
+  "h1": "The 3 Best Dog Crates for Anxious Dogs",
+  "metaDescription": "Our 3 picks for dog crates for anxious dogs, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at dog crates for anxious dogs using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-dog-crates",
+  "related": [
+    "best-dog-crates"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Carlson Pet Products Double Door Metal Dog Crate, Large 42-Inch",
+        "brand": "Carlson Pet Products",
+        "asin": "B00MYDM72A",
+        "blurb": "Key specs: Multi-point locking latch system, Heavier wire gauge than entry-level crates, Front and side doors for flexible placement near you.",
+        "strengths": [
+          "Multi-point latches resist the paw-pawing and nose-nudging common during panic",
+          "Sturdier wire holds shape better than basic crates under repeated stress",
+          "Dual doors let you place the crate where the dog can see you"
+        ],
+        "limitations": [
+          "Not marketed specifically as anxiety-proof, so severe cases may still need reinforcement",
+          "Heavier and pricier than a basic wire crate",
+          "Open wire sides still allow visual stimulation unless covered"
+        ],
+        "features": [
+          "Multi-point locking latch system",
+          "Heavier wire gauge than entry-level crates",
+          "Front and side doors for flexible placement near you",
+          "Removable divider panel"
+        ],
+        "bestFor": "anxious dogs"
+      },
+      {
+        "name": "Go Pet Club 44-Inch Heavy Duty Stackable Dog Crate",
+        "brand": "Go Pet Club",
+        "asin": "B077NP4KMN",
+        "blurb": "Key specs: Heaviest wire gauge in this category, 44.25\"L x 28\"W x 32.5\"H with wheels, Removable divider and two water bowls.",
+        "strengths": [
+          "Thickest wire of any crate reviewed on this site, resists bending during panic",
+          "Large footprint gives a stressed dog more room to pace without feeling trapped",
+          "Wheels let you reposition the crate to a calmer room quickly"
+        ],
+        "limitations": [
+          "Bulkiest crate here, needs real floor space",
+          "Some reports of weld quality issues on individual units",
+          "Assembly is easier with two people"
+        ],
+        "features": [
+          "Heaviest wire gauge in this category",
+          "44.25\"L x 28\"W x 32.5\"H with wheels",
+          "Removable divider and two water bowls",
+          "Stackable heavy-duty frame"
+        ],
+        "bestFor": "anxious dogs"
+      },
+      {
+        "name": "SportPet Designs Sport Pet Large Portable Kennel",
+        "brand": "SportPet Designs",
+        "asin": "B07GD1VLG4",
+        "blurb": "Key specs: Folding wire construction, Indoor and outdoor rated, Carrying handle.",
+        "strengths": [
+          "Lightweight enough to move to whichever room keeps the dog calmest",
+          "Budget-friendly for households still figuring out what their dog needs",
+          "Folds down small for travel, useful if anxiety is tied to new environments"
+        ],
+        "limitations": [
+          "Lighter wire gauge is not rated for dogs that bend or chew bars",
+          "Not a fit for moderate to severe crate anxiety",
+          "Fewer size options than the MidWest or Carlson lines"
+        ],
+        "features": [
+          "Folding wire construction",
+          "Indoor and outdoor rated",
+          "Carrying handle",
+          "Quick fold for travel"
+        ],
+        "bestFor": "anxious dogs"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

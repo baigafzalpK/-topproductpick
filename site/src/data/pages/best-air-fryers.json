@@ -1,0 +1,136 @@
+{
+  "type": "roundup",
+  "title": "4 Best Air Fryers in 2026, Matched to Your Kitchen",
+  "h1": "The 4 Best Air Fryers",
+  "metaDescription": "The best air fryers for small kitchens, families and everyday cooking, with honest strengths and limitations for each pick.",
+  "lede": "Most people need a basket air fryer that fits their household size and is easy to clean. These four cover solo cooks to families of five, based on manufacturer specs, independent reviews and owner reports.",
+  "updatedAt": "2026-10-19",
+  "category": "air-fryers",
+  "related": [
+    "how-to-choose-an-air-fryer",
+    "ninja-af101-vs-cosori-pro-le",
+    "best-multi-cookers",
+    "air-fryers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "COSORI Pro LE 5-Qt Air Fryer",
+        "brand": "COSORI",
+        "asin": "B0936FGLQS",
+        "searchQuery": "COSORI Pro LE 5 qt air fryer L501",
+        "badge": "Best overall",
+        "bestFor": "households of two to four",
+        "blurb": "A 5-quart basket model with a square basket, simple touch controls and preset programs. It is a common recommendation for people buying their first air fryer.",
+        "features": [
+          "5-quart basket",
+          "Nonstick, dishwasher-safe basket",
+          "Touch-panel presets"
+        ],
+        "strengths": [
+          "Square basket uses space well for its size",
+          "Straightforward controls",
+          "Basket is easy to clean"
+        ],
+        "limitations": [
+          "Too small for batch cooking for large families",
+          "Nonstick coating needs gentle utensils"
+        ]
+      },
+      {
+        "name": "Ninja AF101 Air Fryer 4-Qt",
+        "brand": "Ninja",
+        "asin": "B07FDJMC9Q",
+        "searchQuery": "Ninja AF101 Air Fryer 4 quart",
+        "badge": "Best for small kitchens",
+        "bestFor": "one or two people",
+        "blurb": "A compact 4-quart air fryer with a wide temperature range and a dehydrate function. It suits small counters and smaller portions.",
+        "features": [
+          "4-quart basket",
+          "105 to 400°F range (Ninja spec)",
+          "Air fry, roast, reheat, dehydrate"
+        ],
+        "strengths": [
+          "Small footprint",
+          "Low temperatures make dehydrating possible",
+          "Dishwasher-safe basket and crisper plate"
+        ],
+        "limitations": [
+          "Capacity is tight for more than two servings",
+          "Fewer presets than larger models"
+        ]
+      },
+      {
+        "name": "Ninja Foodi DZ201 8-Qt DualZone Air Fryer",
+        "brand": "Ninja",
+        "asin": "B089TQWJKK",
+        "searchQuery": "Ninja Foodi DZ201 8 quart DualZone air fryer",
+        "badge": "Best for families",
+        "bestFor": "families and cooking two foods at once",
+        "blurb": "Two independent 4-quart baskets let you cook two foods at different settings, and a sync feature finishes both at the same time.",
+        "features": [
+          "Two 4-quart baskets",
+          "Smart Finish and Match Cook",
+          "Six cooking functions"
+        ],
+        "strengths": [
+          "Cook a main and a side together",
+          "Large total capacity",
+          "Each basket runs on its own settings"
+        ],
+        "limitations": [
+          "Takes up a lot of counter space",
+          "Each basket is narrower than a single large basket"
+        ]
+      },
+      {
+        "name": "Instant Vortex Plus 6-Qt Air Fryer with ClearCook",
+        "brand": "Instant",
+        "asin": "B096N28SZP",
+        "searchQuery": "Instant Vortex Plus 6 quart ClearCook air fryer",
+        "badge": "Best with a viewing window",
+        "bestFor": "people who like to watch food cook",
+        "blurb": "A 6-quart basket air fryer with a window in the drawer and an internal light, so you can check browning without pulling the basket.",
+        "features": [
+          "6-quart basket",
+          "ClearCook window and light",
+          "OdorErase filters"
+        ],
+        "strengths": [
+          "Check food without opening the drawer",
+          "Roomy basket for three to four people",
+          "Odor filters help in small homes"
+        ],
+        "limitations": [
+          "Window needs regular cleaning to stay clear",
+          "Bulkier than 4 to 5 quart models"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "We started from manufacturer specs: capacity, temperature range and cleaning requirements.",
+      "We cross-checked independent reviews and owner reports for reliability and ease of use.",
+      "Each pick has a different job, so you can choose by household size rather than by hype.",
+      "We do not list prices or star ratings because they change daily. Check Amazon for current details."
+    ],
+    "sections": [
+      {
+        "h": "What size air fryer do you need?",
+        "p": [
+          "As a rough guide, 2 to 4 quarts suits one or two people, 5 to 6 quarts suits three or four, and 8 quarts or a dual-basket model suits families or anyone who cooks a main and a side together.",
+          "Remember that air fryers cook best with food in a single layer. A bigger basket means fewer batches, but it also means more counter space."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Is a dual-basket air fryer worth it?",
+        "a": "If you regularly cook two foods at once, yes. If you mostly cook one item, a single large basket is usually more flexible because it is wider."
+      },
+      {
+        "q": "Are air fryer baskets dishwasher safe?",
+        "a": "Many are, including the baskets on all four picks here according to their makers, but hand washing helps nonstick coatings last longer. Always check your manual."
+      }
+    ]
+  }
+}

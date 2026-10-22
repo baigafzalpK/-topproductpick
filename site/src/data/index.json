@@ -1,0 +1,3042 @@
+{
+  "3d-printers": {
+    "title": "3D Printers",
+    "type": "category"
+  },
+  "about": {
+    "title": "About TopProductPick",
+    "type": "page"
+  },
+  "affiliate-disclosure": {
+    "title": "Affiliate Disclosure",
+    "type": "page"
+  },
+  "air-fryers": {
+    "title": "Air Fryers",
+    "type": "category"
+  },
+  "air-purifiers": {
+    "title": "Air Purifiers",
+    "type": "category"
+  },
+  "baby-and-kids": {
+    "title": "Baby & Kids",
+    "type": "department"
+  },
+  "best-2-slice-toasters": {
+    "title": "The 10 Best 2-Slice Toasters",
+    "type": "roundup"
+  },
+  "best-3d-printers-for-beginners": {
+    "title": "Our Top Pick: 3D Printers for Beginners in 2026, Easy Setup, Great Results",
+    "type": "roundup"
+  },
+  "best-3d-printers": {
+    "title": "Our Top Pick: 3D Printers of 2026",
+    "type": "roundup"
+  },
+  "best-4k-monitors": {
+    "title": "The 3 Best 4K Monitors 2026",
+    "type": "roundup"
+  },
+  "best-90-degree-wood-clamp": {
+    "title": "The 8 Best 90 Degree Wood Clamp 2026",
+    "type": "roundup"
+  },
+  "best-a-wood-to-concrete-glue": {
+    "title": "The 8 Best Glue for Wood to Concrete 2026",
+    "type": "roundup"
+  },
+  "best-adjustable-dumbbells-for-beginners": {
+    "title": "The 4 Best Adjustable Dumbbells for Beginners",
+    "type": "roundup"
+  },
+  "best-adjustable-dumbbells-for-heavy-lifting": {
+    "title": "The 4 Best Adjustable Dumbbells for Heavy Lifting",
+    "type": "roundup"
+  },
+  "best-adjustable-dumbbells-for-home-gyms": {
+    "title": "The 4 Best Adjustable Dumbbells for Home Gyms",
+    "type": "roundup"
+  },
+  "best-adjustable-dumbbells-for-small-apartments": {
+    "title": "The 4 Best Adjustable Dumbbells for Small Apartments",
+    "type": "roundup"
+  },
+  "best-adjustable-dumbbells-under-200": {
+    "title": "The 4 Best Adjustable Dumbbells Under $200",
+    "type": "roundup"
+  },
+  "best-adjustable-dumbbells-under-400": {
+    "title": "The 4 Best Adjustable Dumbbells Under $400",
+    "type": "roundup"
+  },
+  "best-adjustable-dumbbells": {
+    "title": "Adjustable Dumbbells",
+    "type": "category"
+  },
+  "best-air-fryer-toaster-ovens": {
+    "title": "The 9 Best Air Fryer Toaster Ovens",
+    "type": "roundup"
+  },
+  "best-air-fryers-for-families": {
+    "title": "The 12 Best Air Fryers for Families",
+    "type": "roundup"
+  },
+  "best-air-fryers-under-100": {
+    "title": "The 12 Best Air Fryers Under $100",
+    "type": "roundup"
+  },
+  "best-air-fryers": {
+    "title": "The 4 Best Air Fryers",
+    "type": "roundup"
+  },
+  "best-air-purifiers-for-allergies": {
+    "title": "The 10 Best Air Purifiers for Allergies",
+    "type": "roundup"
+  },
+  "best-air-purifiers-under-200": {
+    "title": "The 10 Best Air Purifiers Under $200",
+    "type": "roundup"
+  },
+  "best-air-purifiers": {
+    "title": "The 12 Best Air Purifiers",
+    "type": "roundup"
+  },
+  "best-automatic-pet-feeders-for-cats-on-diets": {
+    "title": "The 6 Best Automatic Pet Feeders for Cats on Diets",
+    "type": "roundup"
+  },
+  "best-automatic-pet-feeders-for-multi-pet-households": {
+    "title": "The 5 Best Automatic Pet Feeders for Multi-Pet Households",
+    "type": "roundup"
+  },
+  "best-automatic-pet-feeders-for-vacations": {
+    "title": "The 4 Best Automatic Pet Feeders for Vacations",
+    "type": "roundup"
+  },
+  "best-automatic-pet-feeders-for-wet-food": {
+    "title": "The 5 Best Automatic Pet Feeders for Wet Food",
+    "type": "roundup"
+  },
+  "best-automatic-pet-feeders-under-150": {
+    "title": "The 4 Best Automatic Pet Feeders Under $150",
+    "type": "roundup"
+  },
+  "best-automatic-pet-feeders-under-60": {
+    "title": "The 5 Best Automatic Pet Feeders Under $60",
+    "type": "roundup"
+  },
+  "best-automatic-pet-feeders": {
+    "title": "Automatic Pet Feeders",
+    "type": "category"
+  },
+  "best-baby-bottles-for-breastfed-babies": {
+    "title": "The 4 Best Baby Bottles for Breastfed Babies",
+    "type": "roundup"
+  },
+  "best-baby-bottles-for-colic": {
+    "title": "The 5 Best Baby Bottles for Colic",
+    "type": "roundup"
+  },
+  "best-baby-bottles-for-daycare": {
+    "title": "The 4 Best Baby Bottles for Daycare",
+    "type": "roundup"
+  },
+  "best-baby-bottles-for-newborns": {
+    "title": "The 4 Best Baby Bottles for Newborns",
+    "type": "roundup"
+  },
+  "best-baby-bottles-under-15": {
+    "title": "The 4 Best Baby Bottles Under $15",
+    "type": "roundup"
+  },
+  "best-baby-bottles-under-30": {
+    "title": "The 4 Best Baby Bottles Under $30",
+    "type": "roundup"
+  },
+  "best-baby-bottles": {
+    "title": "Baby Bottles",
+    "type": "category"
+  },
+  "best-baby-monitors-for-large-homes": {
+    "title": "The 4 Best Baby Monitors for Large Homes",
+    "type": "roundup"
+  },
+  "best-baby-monitors-for-no-wifi-needed": {
+    "title": "The 5 Best Baby Monitors With No Wi-Fi Needed",
+    "type": "roundup"
+  },
+  "best-baby-monitors-for-toddlers": {
+    "title": "The 3 Best Baby Monitors for Toddlers",
+    "type": "roundup"
+  },
+  "best-baby-monitors-for-twins": {
+    "title": "The 4 Best Baby Monitors for Twins",
+    "type": "roundup"
+  },
+  "best-baby-monitors-under-100": {
+    "title": "The 3 Best Baby Monitors Under $100",
+    "type": "roundup"
+  },
+  "best-baby-monitors-under-200": {
+    "title": "The 4 Best Baby Monitors Under $200",
+    "type": "roundup"
+  },
+  "best-baby-monitors": {
+    "title": "Baby Monitors",
+    "type": "category"
+  },
+  "best-band-saws": {
+    "title": "The 8 Best Band Saws 2026",
+    "type": "roundup"
+  },
+  "best-bandsaw-blades-for-woodworking": {
+    "title": "The 8 Best Bandsaw Blades for Woodworking 2026",
+    "type": "roundup"
+  },
+  "best-bathroom-covers": {
+    "title": "Bathroom Covers",
+    "type": "category"
+  },
+  "best-beginner-wood-lathe": {
+    "title": "The 8 Best Beginner Wood Lathe 2026",
+    "type": "roundup"
+  },
+  "best-belgian-waffle-makers": {
+    "title": "The 10 Best Belgian Waffle Makers",
+    "type": "roundup"
+  },
+  "best-bench-clamps-for-woodworking": {
+    "title": "The 8 Best Bench Clamps for Woodworking 2026",
+    "type": "roundup"
+  },
+  "best-bench-vise": {
+    "title": "The 8 Best Bench Vise 2026",
+    "type": "roundup"
+  },
+  "best-biscuit-joiner": {
+    "title": "The 8 Best Biscuit Joiner 2026",
+    "type": "roundup"
+  },
+  "best-blackout-curtains-for-bright-bedrooms": {
+    "title": "The 4 Best Blackout Curtains for Bright Bedrooms",
+    "type": "roundup"
+  },
+  "best-blackout-curtains-for-nurseries": {
+    "title": "The 4 Best Blackout Curtains for Nurseries",
+    "type": "roundup"
+  },
+  "best-blackout-curtains-for-shift-workers": {
+    "title": "The 6 Best Blackout Curtains for Shift Workers",
+    "type": "roundup"
+  },
+  "best-blackout-curtains-for-small-windows": {
+    "title": "The 4 Best Blackout Curtains for Small Windows",
+    "type": "roundup"
+  },
+  "best-blackout-curtains-under-30": {
+    "title": "The 3 Best Blackout Curtains Under $30",
+    "type": "roundup"
+  },
+  "best-blackout-curtains-under-60": {
+    "title": "The 4 Best Blackout Curtains Under $60",
+    "type": "roundup"
+  },
+  "best-blackout-curtains": {
+    "title": "Blackout Curtains",
+    "type": "category"
+  },
+  "best-blenders-for-smoothies": {
+    "title": "The 10 Best Blenders for Smoothies",
+    "type": "roundup"
+  },
+  "best-blenders-under-100": {
+    "title": "The 11 Best Blenders Under $100",
+    "type": "roundup"
+  },
+  "best-blenders": {
+    "title": "The 4 Best Blenders",
+    "type": "roundup"
+  },
+  "best-bluetooth-speakers-for-outdoors": {
+    "title": "The 10 Best Bluetooth Speakers for Outdoors",
+    "type": "roundup"
+  },
+  "best-bluetooth-speakers-under-100": {
+    "title": "The 10 Best Bluetooth Speakers Under $100",
+    "type": "roundup"
+  },
+  "best-brad-nailer": {
+    "title": "The 8 Best Brad Nailer 2026",
+    "type": "roundup"
+  },
+  "best-bread-machines-for-beginners": {
+    "title": "The 5 Best Bread Machines for Beginners in 2026",
+    "type": "roundup"
+  },
+  "best-bread-machines-for-gluten-free-bread": {
+    "title": "The 4 Best Bread Machines for Gluten-Free Bread in 2026",
+    "type": "roundup"
+  },
+  "best-bread-machines-for-small-households": {
+    "title": "The 5 Best Bread Machines for Small Households in 2026",
+    "type": "roundup"
+  },
+  "best-bread-machines-for-whole-wheat": {
+    "title": "The 4 Best Bread Machines for Whole Wheat Bread in 2026",
+    "type": "roundup"
+  },
+  "best-bread-machines-under-100": {
+    "title": "The 2 Best Bread Machines Under $100 in 2026",
+    "type": "roundup"
+  },
+  "best-bread-machines-under-150": {
+    "title": "The 5 Best Bread Machines Under $150 in 2026",
+    "type": "roundup"
+  },
+  "best-bread-machines": {
+    "title": "Bread Machines",
+    "type": "category"
+  },
+  "best-budget-3d-printers": {
+    "title": "Our Top Pick: Budget 3D Printers Under $300 (2026)",
+    "type": "roundup"
+  },
+  "best-budget-gaming-headsets": {
+    "title": "The 2 Best Budget Gaming Headsets Under $75 in 2026",
+    "type": "roundup"
+  },
+  "best-budget-mechanical-keyboards": {
+    "title": "The 3 Best Budget Mechanical Keyboards Under $100 (2026)",
+    "type": "roundup"
+  },
+  "best-budget-office-chairs": {
+    "title": "The 6 Best Budget Office Chairs Under $400 in 2026",
+    "type": "roundup"
+  },
+  "best-budget-standing-desks": {
+    "title": "The 3 Best Budget Standing Desks Under $400 in 2026",
+    "type": "roundup"
+  },
+  "best-budget-usb-microphones": {
+    "title": "The 2 Best Budget USB Microphones Under $100 in 2026",
+    "type": "roundup"
+  },
+  "best-budget-wifi-routers": {
+    "title": "The 5 Best Budget WiFi Routers 2026",
+    "type": "roundup"
+  },
+  "best-budget-wireless-earbuds": {
+    "title": "The 3 Best Budget Wireless Earbuds Under $50 in 2026",
+    "type": "roundup"
+  },
+  "best-ca-glue-for-woodworking": {
+    "title": "The 8 Best CA Glue for Woodworking 2026",
+    "type": "roundup"
+  },
+  "best-cabinet-saw": {
+    "title": "The 8 Best Cabinet Table Saw 2026",
+    "type": "roundup"
+  },
+  "best-cable-management-for-desks": {
+    "title": "The 2 Best Cable Management for Desks 2026",
+    "type": "roundup"
+  },
+  "best-cable-management-for-standing-desks": {
+    "title": "The 3 Best Cable Management for Standing Desks 2026",
+    "type": "roundup"
+  },
+  "best-cable-management": {
+    "title": "Cable Management",
+    "type": "category"
+  },
+  "best-cable-raceways": {
+    "title": "The 3 Best Cable Raceways 2026",
+    "type": "roundup"
+  },
+  "best-capture-cards": {
+    "title": "The 3 Best Capture Cards 2026",
+    "type": "roundup"
+  },
+  "best-car-seats-for-convertible-use": {
+    "title": "The 6 Best Convertible Car Seats",
+    "type": "roundup"
+  },
+  "best-car-seats-for-newborns": {
+    "title": "The 4 Best Car Seats for Newborns",
+    "type": "roundup"
+  },
+  "best-car-seats-for-small-cars": {
+    "title": "The 5 Best Car Seats for Small Cars",
+    "type": "roundup"
+  },
+  "best-car-seats-for-travel": {
+    "title": "The 4 Best Car Seats for Travel",
+    "type": "roundup"
+  },
+  "best-car-seats-under-150": {
+    "title": "The 3 Best Car Seats Under $150",
+    "type": "roundup"
+  },
+  "best-car-seats-under-300": {
+    "title": "The 5 Best Car Seats Under $300",
+    "type": "roundup"
+  },
+  "best-car-seats": {
+    "title": "Car Seats",
+    "type": "category"
+  },
+  "best-car-wash-equipment": {
+    "title": "Our Top Pick: Car Wash Equipment 2026",
+    "type": "roundup"
+  },
+  "best-car-wash-kits": {
+    "title": "The 3 Best Car Wash Kits 2026",
+    "type": "roundup"
+  },
+  "best-card-scraper": {
+    "title": "The 8 Best Card Scraper 2026",
+    "type": "roundup"
+  },
+  "best-carving-tools-for-beginners": {
+    "title": "The 8 Best Carving Tools for Beginners 2026",
+    "type": "roundup"
+  },
+  "best-cat-litter-boxes-for-multi-cat-households": {
+    "title": "The 6 Best Cat Litter Boxes for Multi-Cat Households in 2026",
+    "type": "roundup"
+  },
+  "best-cat-litter-boxes-for-odor-control": {
+    "title": "The 6 Best Cat Litter Boxes for Odor Control in 2026",
+    "type": "roundup"
+  },
+  "best-cat-litter-boxes-for-senior-cats": {
+    "title": "The 5 Best Cat Litter Boxes for Senior Cats in 2026",
+    "type": "roundup"
+  },
+  "best-cat-litter-boxes-for-small-apartments": {
+    "title": "The 4 Best Cat Litter Boxes for Small Apartments in 2026",
+    "type": "roundup"
+  },
+  "best-cat-litter-boxes-under-200": {
+    "title": "The 2 Best Cat Litter Boxes Under $200 in 2026",
+    "type": "roundup"
+  },
+  "best-cat-litter-boxes-under-80": {
+    "title": "The 3 Best Cat Litter Boxes Under $80 in 2026",
+    "type": "roundup"
+  },
+  "best-cat-litter-boxes": {
+    "title": "Cat Litter Boxes",
+    "type": "category"
+  },
+  "best-chef-knives-for-beginners": {
+    "title": "The 10 Best Chef Knives for Beginners",
+    "type": "roundup"
+  },
+  "best-chef-knives-under-100": {
+    "title": "The 10 Best Chef Knives Under $100",
+    "type": "roundup"
+  },
+  "best-chef-knives": {
+    "title": "The 12 Best Chef Knives in 2026",
+    "type": "roundup"
+  },
+  "best-chisel-sharpening-kit": {
+    "title": "The 8 Best Chisel Sharpening Kit 2026",
+    "type": "roundup"
+  },
+  "best-chisels-for-carving": {
+    "title": "The 8 Best Chisels for Carving 2026",
+    "type": "roundup"
+  },
+  "best-chisels-for-woodworking": {
+    "title": "The 8 Best Chisels for Woodworking 2026",
+    "type": "roundup"
+  },
+  "best-coffee-grinders-for-espresso": {
+    "title": "The 11 Best Coffee Grinders for Espresso 2026",
+    "type": "roundup"
+  },
+  "best-coffee-grinders-under-200": {
+    "title": "The 11 Best Coffee Grinders Under $200 in 2026",
+    "type": "roundup"
+  },
+  "best-coffee-grinders": {
+    "title": "The 13 Best Coffee Grinders 2026",
+    "type": "roundup"
+  },
+  "best-coffee-makers-for-one-person": {
+    "title": "The 13 Best Coffee Makers for One Person",
+    "type": "roundup"
+  },
+  "best-coffee-makers-under-100": {
+    "title": "The 10 Best Coffee Makers Under $100",
+    "type": "roundup"
+  },
+  "best-coffee-makers": {
+    "title": "The 5 Best Coffee Makers",
+    "type": "roundup"
+  },
+  "best-compound-miter-saw": {
+    "title": "The 8 Best Compound Miter Saw 2026",
+    "type": "roundup"
+  },
+  "best-coping-saw": {
+    "title": "The 8 Best Coping Saw 2026",
+    "type": "roundup"
+  },
+  "best-cordless-immersion-blenders": {
+    "title": "The 10 Best Cordless Immersion Blenders of 2026",
+    "type": "roundup"
+  },
+  "best-cordless-jigsaw": {
+    "title": "The 8 Best Cordless Jigsaw 2026",
+    "type": "roundup"
+  },
+  "best-cork-desk-pads": {
+    "title": "The 2 Best Cork Desk Pads 2026",
+    "type": "roundup"
+  },
+  "best-corner-clamps-for-woodworking": {
+    "title": "The 8 Best Corner Clamps for Woodworking 2026",
+    "type": "roundup"
+  },
+  "best-countertop-ice-makers-for-entertaining": {
+    "title": "The 4 Best Countertop Ice Makers for Entertaining and Parties",
+    "type": "roundup"
+  },
+  "best-countertop-ice-makers-for-nugget-ice": {
+    "title": "The 3 Best Countertop Nugget Ice Makers",
+    "type": "roundup"
+  },
+  "best-countertop-ice-makers-for-rv-camping": {
+    "title": "The 4 Best Countertop Ice Makers for RV and Camping",
+    "type": "roundup"
+  },
+  "best-countertop-ice-makers-for-small-kitchens": {
+    "title": "The 5 Best Countertop Ice Makers for Small Kitchens",
+    "type": "roundup"
+  },
+  "best-countertop-ice-makers-under-100": {
+    "title": "The 2 Best Countertop Ice Makers Under $100",
+    "type": "roundup"
+  },
+  "best-countertop-ice-makers-under-200": {
+    "title": "The 4 Best Countertop Ice Makers Under $200",
+    "type": "roundup"
+  },
+  "best-cushioned-running-shoes": {
+    "title": "The 5 Best Cushioned Running Shoes",
+    "type": "roundup"
+  },
+  "best-dado-set-for-table-saw": {
+    "title": "The 8 Best Dado Set for Table Saw 2026",
+    "type": "roundup"
+  },
+  "best-deep-fryers-for-french-fries": {
+    "title": "The 3 Best Deep Fryers for French Fries",
+    "type": "roundup"
+  },
+  "best-deep-fryers-for-fried-chicken": {
+    "title": "The 4 Best Deep Fryers for Fried Chicken",
+    "type": "roundup"
+  },
+  "best-deep-fryers-for-small-kitchens": {
+    "title": "The 3 Best Deep Fryers for Small Kitchens",
+    "type": "roundup"
+  },
+  "best-deep-fryers-for-turkey": {
+    "title": "The 3 Best Deep Fryers for Turkey",
+    "type": "roundup"
+  },
+  "best-deep-fryers-under-100": {
+    "title": "The 3 Best Deep Fryers Under $100",
+    "type": "roundup"
+  },
+  "best-deep-fryers-under-50": {
+    "title": "The 3 Best Deep Fryers Under $50",
+    "type": "roundup"
+  },
+  "best-deep-fryers": {
+    "title": "Deep Fryers",
+    "type": "category"
+  },
+  "best-dehumidifiers-for-basements": {
+    "title": "The 5 Best Dehumidifiers for Basements",
+    "type": "roundup"
+  },
+  "best-dehumidifiers-for-crawl-spaces": {
+    "title": "The 5 Best Dehumidifiers for Crawl Spaces",
+    "type": "roundup"
+  },
+  "best-dehumidifiers-for-humid-climates": {
+    "title": "The 3 Best Dehumidifiers for Humid Climates",
+    "type": "roundup"
+  },
+  "best-dehumidifiers-for-small-bedrooms": {
+    "title": "The 4 Best Dehumidifiers for Small Bedrooms",
+    "type": "roundup"
+  },
+  "best-dehumidifiers-under-150": {
+    "title": "The 4 Best Dehumidifiers Under $150",
+    "type": "roundup"
+  },
+  "best-dehumidifiers-under-250": {
+    "title": "The 6 Best Dehumidifiers Under $250",
+    "type": "roundup"
+  },
+  "best-dehumidifiers": {
+    "title": "Dehumidifiers",
+    "type": "category"
+  },
+  "best-desk-lamps-for-home-office": {
+    "title": "The 2 Best Desk Lamps for Home Office 2026",
+    "type": "roundup"
+  },
+  "best-desk-lamps-for-studying": {
+    "title": "Our Top Pick: Desk Lamps for Studying 2026",
+    "type": "roundup"
+  },
+  "best-detail-sander": {
+    "title": "The 8 Best Detail Sander 2026",
+    "type": "roundup"
+  },
+  "best-diaper-bags-for-dads": {
+    "title": "The 4 Best Diaper Bags for Dads",
+    "type": "roundup"
+  },
+  "best-diaper-bags-for-minimalist-parents": {
+    "title": "The 2 Best Diaper Bags for Minimalist Parents",
+    "type": "roundup"
+  },
+  "best-diaper-bags-for-travel": {
+    "title": "The 4 Best Diaper Bags for Travel",
+    "type": "roundup"
+  },
+  "best-diaper-bags-for-twins": {
+    "title": "The 3 Best Diaper Bags for Twins",
+    "type": "roundup"
+  },
+  "best-diaper-bags-under-100": {
+    "title": "The 3 Best Diaper Bags Under $100",
+    "type": "roundup"
+  },
+  "best-diaper-bags-under-50": {
+    "title": "The 3 Best Diaper Bags Under $50",
+    "type": "roundup"
+  },
+  "best-diaper-bags": {
+    "title": "Diaper Bags",
+    "type": "category"
+  },
+  "best-dog-beds-for-chewers": {
+    "title": "The 4 Best Dog Beds for Chewers",
+    "type": "roundup"
+  },
+  "best-dog-beds-for-hot-climates": {
+    "title": "The 5 Best Dog Beds for Hot Climates",
+    "type": "roundup"
+  },
+  "best-dog-beds-for-large-breeds": {
+    "title": "The 7 Best Dog Beds for Large Breeds",
+    "type": "roundup"
+  },
+  "best-dog-beds-for-senior-dogs-with-joint-pain": {
+    "title": "The 5 Best Dog Beds for Senior Dogs With Joint Pain",
+    "type": "roundup"
+  },
+  "best-dog-beds-under-150": {
+    "title": "The 5 Best Dog Beds Under $150",
+    "type": "roundup"
+  },
+  "best-dog-beds-under-60": {
+    "title": "The 5 Best Dog Beds Under $60",
+    "type": "roundup"
+  },
+  "best-dog-beds": {
+    "title": "Dog Beds",
+    "type": "category"
+  },
+  "best-dog-crates-for-anxious-dogs": {
+    "title": "The 3 Best Dog Crates for Anxious Dogs",
+    "type": "roundup"
+  },
+  "best-dog-crates-for-apartments": {
+    "title": "The 3 Best Dog Crates for Apartments",
+    "type": "roundup"
+  },
+  "best-dog-crates-for-crate-training-puppies": {
+    "title": "The 4 Best Dog Crates for Crate Training Puppies",
+    "type": "roundup"
+  },
+  "best-dog-crates-for-large-breeds": {
+    "title": "The 3 Best Dog Crates for Large Breeds",
+    "type": "roundup"
+  },
+  "best-dog-crates-under-150": {
+    "title": "The 3 Best Dog Crates Under $150",
+    "type": "roundup"
+  },
+  "best-dog-crates-under-80": {
+    "title": "The 4 Best Dog Crates Under $80",
+    "type": "roundup"
+  },
+  "best-dog-crates": {
+    "title": "Dog Crates",
+    "type": "category"
+  },
+  "best-double-sided-tape-for-woodworking": {
+    "title": "The 8 Best Double Sided Tape for Woodworking 2026",
+    "type": "roundup"
+  },
+  "best-dovetail-jig": {
+    "title": "The 8 Best Dovetail Jig 2026",
+    "type": "roundup"
+  },
+  "best-dovetail-saw": {
+    "title": "The 7 Best Dovetail Saw 2026",
+    "type": "roundup"
+  },
+  "best-dowel-jig": {
+    "title": "The 8 Best Dowel Jig 2026",
+    "type": "roundup"
+  },
+  "best-drawing-tablets-for-animation": {
+    "title": "The 2 Best Drawing Tablets for Animation 2026",
+    "type": "roundup"
+  },
+  "best-drawing-tablets-for-beginners": {
+    "title": "Our Top Pick: Drawing Tablets for Beginners 2026",
+    "type": "roundup"
+  },
+  "best-drawing-tablets": {
+    "title": "Our Top Pick: Drawing Tablets 2026",
+    "type": "roundup"
+  },
+  "best-drawknife": {
+    "title": "The 8 Best Drawknife 2026",
+    "type": "roundup"
+  },
+  "best-drip-coffee-makers-under-100": {
+    "title": "The 11 Best Drip Coffee Makers Under $100 in 2026",
+    "type": "roundup"
+  },
+  "best-drip-coffee-makers": {
+    "title": "The 16 Best Drip Coffee Makers of 2026",
+    "type": "roundup"
+  },
+  "best-dry-lubricants": {
+    "title": "The 3 Best Dry Lubricants 2026",
+    "type": "roundup"
+  },
+  "best-dual-monitor-arms": {
+    "title": "Our Top Pick: Dual Monitor Arms 2026",
+    "type": "roundup"
+  },
+  "best-dust-collector-for-woodworking": {
+    "title": "The 8 Best Dust Collector for Woodworking 2026",
+    "type": "roundup"
+  },
+  "best-edge-router-bit": {
+    "title": "The 8 Best Edge Router Bit 2026",
+    "type": "roundup"
+  },
+  "best-electric-can-openers-for-arthritis": {
+    "title": "The 3 Best Electric Can Openers for Arthritis",
+    "type": "roundup"
+  },
+  "best-electric-can-openers-for-large-cans": {
+    "title": "The 3 Best Electric Can Openers for Large Cans",
+    "type": "roundup"
+  },
+  "best-electric-can-openers-for-one-handed-use": {
+    "title": "The 3 Best Electric Can Openers for One-Handed Use",
+    "type": "roundup"
+  },
+  "best-electric-can-openers-for-seniors": {
+    "title": "The 3 Best Electric Can Openers for Seniors",
+    "type": "roundup"
+  },
+  "best-electric-can-openers-under-30": {
+    "title": "The 2 Best Electric Can Openers Under $30",
+    "type": "roundup"
+  },
+  "best-electric-can-openers-under-50": {
+    "title": "The 3 Best Electric Can Openers Under $50",
+    "type": "roundup"
+  },
+  "best-electric-can-openers": {
+    "title": "Electric Can Openers",
+    "type": "category"
+  },
+  "best-electric-kettles-under-50": {
+    "title": "The 16 Best Electric Kettles Under $50",
+    "type": "roundup"
+  },
+  "best-electric-kettles": {
+    "title": "The 4 Best Electric Kettles",
+    "type": "roundup"
+  },
+  "best-electric-pressure-cookers": {
+    "title": "The 10 Best Electric Pressure Cookers",
+    "type": "roundup"
+  },
+  "best-electric-skillets-for-camping": {
+    "title": "The 4 Best Electric Skillets for Camping",
+    "type": "roundup"
+  },
+  "best-electric-skillets-for-dorm-cooking": {
+    "title": "The 3 Best Electric Skillets for Dorm Cooking",
+    "type": "roundup"
+  },
+  "best-electric-skillets-for-large-family-meals": {
+    "title": "The 3 Best Electric Skillets for Large Family Meals",
+    "type": "roundup"
+  },
+  "best-electric-skillets-for-pancakes": {
+    "title": "The 3 Best Electric Skillets for Pancakes",
+    "type": "roundup"
+  },
+  "best-electric-skillets-under-40": {
+    "title": "The 3 Best Electric Skillets Under $40",
+    "type": "roundup"
+  },
+  "best-electric-skillets-under-70": {
+    "title": "The 3 Best Electric Skillets Under $70",
+    "type": "roundup"
+  },
+  "best-electric-skillets": {
+    "title": "Electric Skillets",
+    "type": "category"
+  },
+  "best-electric-toothbrushes": {
+    "title": "The 4 Best Electric Toothbrushes",
+    "type": "roundup"
+  },
+  "best-epoxy-glue-for-wood": {
+    "title": "The 8 Best Epoxy Glue for Wood 2026",
+    "type": "roundup"
+  },
+  "best-ergonomic-keyboards-for-programmers": {
+    "title": "The 10 Best Ergonomic Keyboards for Programmers",
+    "type": "roundup"
+  },
+  "best-ergonomic-keyboards-under-100": {
+    "title": "The 10 Best Ergonomic Keyboards Under $100",
+    "type": "roundup"
+  },
+  "best-ergonomic-keyboards": {
+    "title": "The 7 Best Ergonomic Keyboards 2026",
+    "type": "roundup"
+  },
+  "best-ergonomic-mice-for-small-hands": {
+    "title": "The 4 Best Ergonomic Mice for Small Hands 2026",
+    "type": "roundup"
+  },
+  "best-ergonomic-mice": {
+    "title": "The 3 Best Ergonomic Mice 2026",
+    "type": "roundup"
+  },
+  "best-espresso-machines-for-beginners": {
+    "title": "The 11 Best Espresso Machines for Beginners 2026",
+    "type": "roundup"
+  },
+  "best-espresso-machines-under-500": {
+    "title": "The 12 Best Espresso Machines Under $500 in 2026",
+    "type": "roundup"
+  },
+  "best-espresso-machines": {
+    "title": "The 13 Best Espresso Machines 2026",
+    "type": "roundup"
+  },
+  "best-exterior-wood-glue": {
+    "title": "The 8 Best Exterior Wood Glue 2026",
+    "type": "roundup"
+  },
+  "best-fast-drying-wood-glue": {
+    "title": "The 8 Best Fast Drying Wood Glue 2026",
+    "type": "roundup"
+  },
+  "best-featherboard": {
+    "title": "The 8 Best Featherboard 2026",
+    "type": "roundup"
+  },
+  "best-finish-nailer": {
+    "title": "The 8 Best Finish Nailer 2026",
+    "type": "roundup"
+  },
+  "best-fitness-trackers-for-running": {
+    "title": "The 4 Best Fitness Trackers for Running",
+    "type": "roundup"
+  },
+  "best-fitness-trackers-for-seniors": {
+    "title": "The 4 Best Fitness Trackers for Seniors",
+    "type": "roundup"
+  },
+  "best-fitness-trackers-for-sleep-tracking": {
+    "title": "The 4 Best Fitness Trackers for Sleep Tracking",
+    "type": "roundup"
+  },
+  "best-fitness-trackers-for-swimming": {
+    "title": "The 4 Best Fitness Trackers for Swimming",
+    "type": "roundup"
+  },
+  "best-fitness-trackers-under-150": {
+    "title": "The 4 Best Fitness Trackers Under $150",
+    "type": "roundup"
+  },
+  "best-fitness-trackers-under-50": {
+    "title": "The 4 Best Fitness Trackers Under $50",
+    "type": "roundup"
+  },
+  "best-fitness-trackers": {
+    "title": "Fitness Trackers",
+    "type": "category"
+  },
+  "best-flush-trim-router-bit": {
+    "title": "The 8 Best Flush Trim Router Bit 2026",
+    "type": "roundup"
+  },
+  "best-foam-rollers-for-beginners": {
+    "title": "The 4 Best Foam Rollers for Beginners",
+    "type": "roundup"
+  },
+  "best-foam-rollers-for-deep-tissue-massage": {
+    "title": "The 4 Best Foam Rollers for Deep Tissue Massage",
+    "type": "roundup"
+  },
+  "best-foam-rollers-for-lower-back-pain": {
+    "title": "The 4 Best Foam Rollers for Lower Back Pain",
+    "type": "roundup"
+  },
+  "best-foam-rollers-for-runners": {
+    "title": "The 4 Best Foam Rollers for Runners",
+    "type": "roundup"
+  },
+  "best-foam-rollers-under-20": {
+    "title": "The 4 Best Foam Rollers Under $20",
+    "type": "roundup"
+  },
+  "best-foam-rollers-under-40": {
+    "title": "The 4 Best Foam Rollers Under $40",
+    "type": "roundup"
+  },
+  "best-foam-rollers": {
+    "title": "Foam Rollers",
+    "type": "category"
+  },
+  "best-food-dehydrators-for-dog-treats": {
+    "title": "The 4 Best Food Dehydrators for Homemade Dog Treats",
+    "type": "roundup"
+  },
+  "best-food-dehydrators-for-fruit-leather": {
+    "title": "The 4 Best Food Dehydrators for Fruit Leather",
+    "type": "roundup"
+  },
+  "best-food-dehydrators-for-herbs": {
+    "title": "The 5 Best Food Dehydrators for Herbs",
+    "type": "roundup"
+  },
+  "best-food-dehydrators-for-jerky": {
+    "title": "The 4 Best Food Dehydrators for Jerky",
+    "type": "roundup"
+  },
+  "best-food-dehydrators-under-150": {
+    "title": "The 4 Best Food Dehydrators Under $150",
+    "type": "roundup"
+  },
+  "best-food-dehydrators-under-80": {
+    "title": "The 5 Best Food Dehydrators Under $80",
+    "type": "roundup"
+  },
+  "best-food-dehydrators": {
+    "title": "Food Dehydrators",
+    "type": "category"
+  },
+  "best-food-processors-for-small-kitchens": {
+    "title": "The 11 Best Food Processors for Small Kitchens",
+    "type": "roundup"
+  },
+  "best-food-processors-under-100": {
+    "title": "The 11 Best Food Processors Under $100",
+    "type": "roundup"
+  },
+  "best-food-processors": {
+    "title": "The 13 Best Food Processors",
+    "type": "roundup"
+  },
+  "best-furniture-covers": {
+    "title": "Furniture Covers",
+    "type": "category"
+  },
+  "best-gaming-chairs-for-back-pain": {
+    "title": "The 10 Best Gaming Chairs for Back Pain",
+    "type": "roundup"
+  },
+  "best-gaming-chairs-under-300": {
+    "title": "The 10 Best Gaming Chairs Under $300",
+    "type": "roundup"
+  },
+  "best-gaming-chairs": {
+    "title": "Our Top Pick: Gaming Chairs 2026",
+    "type": "roundup"
+  },
+  "best-gaming-headsets-for-ps5": {
+    "title": "Our Top Pick: Gaming Headsets for PS5 in 2026",
+    "type": "roundup"
+  },
+  "best-gaming-headsets": {
+    "title": "Our Top Pick: Gaming Headsets 2026",
+    "type": "roundup"
+  },
+  "best-gaming-mice-under-50": {
+    "title": "The 2 Best Gaming Mice Under $50 in 2026",
+    "type": "roundup"
+  },
+  "best-gaming-mice": {
+    "title": "The 2 Best Gaming Mice 2026",
+    "type": "roundup"
+  },
+  "best-gaming-monitors": {
+    "title": "The 6 Best Gaming Monitors 2026",
+    "type": "roundup"
+  },
+  "best-garden-hoses-for-drinking-water-safe": {
+    "title": "The 3 Best Drinking Water Safe Garden Hoses",
+    "type": "roundup"
+  },
+  "best-garden-hoses-for-hot-climates": {
+    "title": "The 4 Best Garden Hoses for Hot Climates",
+    "type": "roundup"
+  },
+  "best-garden-hoses-for-no-kink-use": {
+    "title": "The 4 Best No-Kink Garden Hoses",
+    "type": "roundup"
+  },
+  "best-garden-hoses-for-small-yards": {
+    "title": "The 4 Best Garden Hoses for Small Yards",
+    "type": "roundup"
+  },
+  "best-garden-hoses-under-30": {
+    "title": "The 3 Best Garden Hoses Under $30",
+    "type": "roundup"
+  },
+  "best-garden-hoses-under-60": {
+    "title": "The 4 Best Garden Hoses Under $60",
+    "type": "roundup"
+  },
+  "best-garden-hoses": {
+    "title": "Garden Hoses",
+    "type": "category"
+  },
+  "best-gel-wrist-rests": {
+    "title": "Our Top Pick: Gel Wrist Rests 2026",
+    "type": "roundup"
+  },
+  "best-gooseneck-kettles": {
+    "title": "The 12 Best Gooseneck Kettles of 2026",
+    "type": "roundup"
+  },
+  "best-griddles-for-smash-burgers": {
+    "title": "The 10 Best Griddles for Smash Burgers",
+    "type": "roundup"
+  },
+  "best-griddles-under-50": {
+    "title": "The 10 Best Griddles Under $50",
+    "type": "roundup"
+  },
+  "best-griddles": {
+    "title": "The 12 Best Griddles",
+    "type": "roundup"
+  },
+  "best-hand-mixers-for-baking": {
+    "title": "The 10 Best Hand Mixers for Baking",
+    "type": "roundup"
+  },
+  "best-hand-mixers-under-50": {
+    "title": "The 10 Best Hand Mixers Under $50",
+    "type": "roundup"
+  },
+  "best-hand-mixers": {
+    "title": "The 12 Best Hand Mixers of 2026",
+    "type": "roundup"
+  },
+  "best-hand-plane-for-beginners": {
+    "title": "The 8 Best Hand Plane for Beginners 2026",
+    "type": "roundup"
+  },
+  "best-hand-saws-for-woodworking": {
+    "title": "The 8 Best Hand Saws for Woodworking 2026",
+    "type": "roundup"
+  },
+  "best-hard-tonneau-covers": {
+    "title": "The 10 Best Hard Tonneau Covers",
+    "type": "roundup"
+  },
+  "best-headphone-hangers": {
+    "title": "The 3 Best Headphone Hangers 2026",
+    "type": "roundup"
+  },
+  "best-headphone-stands-with-usb-hub": {
+    "title": "Our Top Pick: Headphone Stands with USB Hub 2026",
+    "type": "roundup"
+  },
+  "best-hearing-protection-woodworking": {
+    "title": "The 8 Best Hearing Protection for Woodworking 2026",
+    "type": "roundup"
+  },
+  "best-humidifiers-for-allergies": {
+    "title": "The 4 Best Humidifiers for Allergies",
+    "type": "roundup"
+  },
+  "best-humidifiers-for-babies-nursery": {
+    "title": "The 3 Best Humidifiers for Babies and the Nursery",
+    "type": "roundup"
+  },
+  "best-humidifiers-for-dry-winter-air": {
+    "title": "The 4 Best Humidifiers for Dry Winter Air",
+    "type": "roundup"
+  },
+  "best-humidifiers-for-large-rooms": {
+    "title": "The 4 Best Humidifiers for Large Rooms",
+    "type": "roundup"
+  },
+  "best-humidifiers-under-100": {
+    "title": "The 4 Best Humidifiers Under $100",
+    "type": "roundup"
+  },
+  "best-humidifiers-under-40": {
+    "title": "The 4 Best Humidifiers Under $40",
+    "type": "roundup"
+  },
+  "best-humidifiers": {
+    "title": "Humidifiers",
+    "type": "category"
+  },
+  "best-ice-makers": {
+    "title": "Ice Makers",
+    "type": "category"
+  },
+  "best-immersion-blenders-under-50": {
+    "title": "The 12 Best Immersion Blenders Under $50",
+    "type": "roundup"
+  },
+  "best-immersion-blenders": {
+    "title": "The 14 Best Immersion Blenders of 2026",
+    "type": "roundup"
+  },
+  "best-inground-pool-covers": {
+    "title": "The 10 Best Inground Pool Covers",
+    "type": "roundup"
+  },
+  "best-instant-pots-for-beginners": {
+    "title": "The 10 Best Instant Pots for Beginners",
+    "type": "roundup"
+  },
+  "best-instant-pots-under-100": {
+    "title": "The 10 Best Instant Pots Under $100",
+    "type": "roundup"
+  },
+  "best-instant-pots": {
+    "title": "The 11 Best Instant Pots and Electric Pressure Cookers",
+    "type": "roundup"
+  },
+  "best-jigsaw-blades-for-wood": {
+    "title": "The 8 Best Jigsaw Blades for Wood 2026",
+    "type": "roundup"
+  },
+  "best-jointer": {
+    "title": "The 8 Best Jointer 2026",
+    "type": "roundup"
+  },
+  "best-juicers-for-beginners": {
+    "title": "The 4 Best Juicers for Beginners",
+    "type": "roundup"
+  },
+  "best-juicers-for-celery-juice": {
+    "title": "The 5 Best Juicers for Celery Juice",
+    "type": "roundup"
+  },
+  "best-juicers-for-hard-vegetables": {
+    "title": "The 3 Best Juicers for Hard Vegetables",
+    "type": "roundup"
+  },
+  "best-juicers-for-leafy-greens": {
+    "title": "The 5 Best Juicers for Leafy Greens",
+    "type": "roundup"
+  },
+  "best-juicers-for-small-kitchens": {
+    "title": "The 3 Best Juicers for Small Kitchens",
+    "type": "roundup"
+  },
+  "best-juicers-under-100": {
+    "title": "The 5 Best Juicers Under $100",
+    "type": "roundup"
+  },
+  "best-juicers-under-200": {
+    "title": "The 4 Best Juicers Under $200",
+    "type": "roundup"
+  },
+  "best-juicers": {
+    "title": "Juicers",
+    "type": "category"
+  },
+  "best-jump-ropes-for-beginners": {
+    "title": "The 4 Best Jump Ropes for Beginners",
+    "type": "roundup"
+  },
+  "best-jump-ropes-for-double-unders": {
+    "title": "The 4 Best Jump Ropes for Double Unders",
+    "type": "roundup"
+  },
+  "best-jump-ropes-for-small-spaces": {
+    "title": "The 3 Best Jump Ropes for Small Spaces",
+    "type": "roundup"
+  },
+  "best-jump-ropes-for-weighted-training": {
+    "title": "The 5 Best Jump Ropes for Weighted Training",
+    "type": "roundup"
+  },
+  "best-jump-ropes-under-15": {
+    "title": "The 3 Best Jump Ropes Under $15",
+    "type": "roundup"
+  },
+  "best-jump-ropes-under-30": {
+    "title": "The 3 Best Jump Ropes Under $30",
+    "type": "roundup"
+  },
+  "best-jump-ropes": {
+    "title": "Jump Ropes",
+    "type": "category"
+  },
+  "best-key-lights-for-streaming": {
+    "title": "The 3 Best Key Lights for Streaming 2026",
+    "type": "roundup"
+  },
+  "best-keycap-sets-for-gaming": {
+    "title": "The 3 Best Keycap Sets for Gaming 2026",
+    "type": "roundup"
+  },
+  "best-keycaps": {
+    "title": "Keycaps",
+    "type": "category"
+  },
+  "best-laptop-backpacks": {
+    "title": "The 2 Best Laptop Backpacks 2026",
+    "type": "roundup"
+  },
+  "best-laptop-bags-for-work": {
+    "title": "The 2 Best Laptop Bags for Work 2026",
+    "type": "roundup"
+  },
+  "best-laptop-bags": {
+    "title": "Laptop Bags",
+    "type": "category"
+  },
+  "best-laptop-cooling-pads-for-gaming": {
+    "title": "The 2 Best Laptop Cooling Pads for Gaming 2026",
+    "type": "roundup"
+  },
+  "best-laptop-cooling-pads-for-macbook": {
+    "title": "Our Top Pick: Laptop Cooling Pads for MacBook 2026",
+    "type": "roundup"
+  },
+  "best-laptop-cooling-pads": {
+    "title": "The 2 Best Laptop Cooling Pads 2026",
+    "type": "roundup"
+  },
+  "best-laptop-stands-for-desks": {
+    "title": "Our Top Pick: Laptop Stands for Desks 2026",
+    "type": "roundup"
+  },
+  "best-laptop-stands": {
+    "title": "Our Top Pick: Laptop Stands 2026",
+    "type": "roundup"
+  },
+  "best-large-air-fryers": {
+    "title": "The 10 Best Large Air Fryers",
+    "type": "roundup"
+  },
+  "best-leaf-blowers-for-gutter-cleaning": {
+    "title": "The 4 Best Leaf Blowers for Gutter Cleaning",
+    "type": "roundup"
+  },
+  "best-leaf-blowers-for-large-properties": {
+    "title": "The 4 Best Leaf Blowers for Large Properties",
+    "type": "roundup"
+  },
+  "best-leaf-blowers-for-small-yards": {
+    "title": "The 6 Best Leaf Blowers for Small Yards",
+    "type": "roundup"
+  },
+  "best-leaf-blowers-for-wet-leaves": {
+    "title": "The 4 Best Leaf Blowers for Wet Leaves",
+    "type": "roundup"
+  },
+  "best-leaf-blowers-under-100": {
+    "title": "The 5 Best Leaf Blowers Under $100",
+    "type": "roundup"
+  },
+  "best-leaf-blowers-under-200": {
+    "title": "The 4 Best Leaf Blowers Under $200",
+    "type": "roundup"
+  },
+  "best-leaf-blowers": {
+    "title": "Leaf Blowers",
+    "type": "category"
+  },
+  "best-leather-desk-pads": {
+    "title": "The 3 Best Leather Desk Pads 2026",
+    "type": "roundup"
+  },
+  "best-license-plate-covers": {
+    "title": "Our Top Pick: License Plate Covers 2026",
+    "type": "roundup"
+  },
+  "best-license-plate-frames": {
+    "title": "The 2 Best License Plate Frames 2026",
+    "type": "roundup"
+  },
+  "best-linear-switches": {
+    "title": "Our Top Pick: Linear Switches 2026",
+    "type": "roundup"
+  },
+  "best-lubricants-for-door-hinges": {
+    "title": "The 3 Best Lubricants for Door Hinges 2026",
+    "type": "roundup"
+  },
+  "best-lubricants-oils": {
+    "title": "Lubricants",
+    "type": "category"
+  },
+  "best-luggage-for-business-trips": {
+    "title": "The 3 Best Luggage for Business Trips",
+    "type": "roundup"
+  },
+  "best-luggage-for-carry-on-only": {
+    "title": "The 5 Best Carry-On Only Luggage",
+    "type": "roundup"
+  },
+  "best-luggage-for-checked-bags": {
+    "title": "The 3 Best Checked Luggage",
+    "type": "roundup"
+  },
+  "best-luggage-for-international-travel": {
+    "title": "The 4 Best Luggage for International Travel",
+    "type": "roundup"
+  },
+  "best-luggage-under-150": {
+    "title": "The 3 Best Luggage Under $150",
+    "type": "roundup"
+  },
+  "best-luggage-under-300": {
+    "title": "The 3 Best Luggage Under $300",
+    "type": "roundup"
+  },
+  "best-luggage": {
+    "title": "Luggage",
+    "type": "category"
+  },
+  "best-magnetic-tape-measure": {
+    "title": "The 8 Best Magnetic Tape Measure 2026",
+    "type": "roundup"
+  },
+  "best-manual-coffee-grinders": {
+    "title": "The 10 Best Manual Coffee Grinders 2026",
+    "type": "roundup"
+  },
+  "best-marking-gauge": {
+    "title": "The 8 Best Marking Gauge 2026",
+    "type": "roundup"
+  },
+  "best-massage-guns-for-lower-back-pain": {
+    "title": "The 5 Best Massage Guns for Lower Back Pain",
+    "type": "roundup"
+  },
+  "best-massage-guns-for-quiet-operation": {
+    "title": "The 4 Best Quiet Massage Guns",
+    "type": "roundup"
+  },
+  "best-massage-guns-for-runners": {
+    "title": "The 4 Best Massage Guns for Runners",
+    "type": "roundup"
+  },
+  "best-massage-guns-for-travel": {
+    "title": "The 6 Best Massage Guns for Travel",
+    "type": "roundup"
+  },
+  "best-massage-guns-under-100": {
+    "title": "The 4 Best Massage Guns Under $100",
+    "type": "roundup"
+  },
+  "best-massage-guns-under-200": {
+    "title": "The 4 Best Massage Guns Under $200",
+    "type": "roundup"
+  },
+  "best-massage-guns": {
+    "title": "Massage Guns",
+    "type": "category"
+  },
+  "best-mattress-toppers-for-back-pain": {
+    "title": "The 5 Best Mattress Toppers for Back Pain",
+    "type": "roundup"
+  },
+  "best-mattress-toppers-for-firm-mattresses": {
+    "title": "The 5 Best Mattress Toppers for Firm Mattresses",
+    "type": "roundup"
+  },
+  "best-mattress-toppers-for-hot-sleepers": {
+    "title": "The 4 Best Mattress Toppers for Hot Sleepers",
+    "type": "roundup"
+  },
+  "best-mattress-toppers-for-side-sleepers": {
+    "title": "The 5 Best Mattress Toppers for Side Sleepers",
+    "type": "roundup"
+  },
+  "best-mattress-toppers-under-150": {
+    "title": "The 4 Best Mattress Toppers Under $150",
+    "type": "roundup"
+  },
+  "best-mattress-toppers-under-80": {
+    "title": "The 4 Best Mattress Toppers Under $80",
+    "type": "roundup"
+  },
+  "best-mattress-toppers": {
+    "title": "Mattress Toppers",
+    "type": "category"
+  },
+  "best-meat-thermometers-for-baking": {
+    "title": "Our Top Pick: Meat Thermometers for Baking",
+    "type": "roundup"
+  },
+  "best-meat-thermometers-for-grilling": {
+    "title": "Our Top Pick: Meat Thermometers for Grilling",
+    "type": "roundup"
+  },
+  "best-meat-thermometers-for-smoking": {
+    "title": "Our Top Pick: Meat Thermometers for Smoking",
+    "type": "roundup"
+  },
+  "best-meat-thermometers-under-20": {
+    "title": "The 2 Best Meat Thermometers Under $20",
+    "type": "roundup"
+  },
+  "best-meat-thermometers-under-50": {
+    "title": "The 2 Best Meat Thermometers Under $50",
+    "type": "roundup"
+  },
+  "best-meat-thermometers": {
+    "title": "Meat Thermometers",
+    "type": "category"
+  },
+  "best-mechanical-keyboards-for-gaming": {
+    "title": "The 3 Best Mechanical Keyboards for Gaming 2026",
+    "type": "roundup"
+  },
+  "best-mechanical-keyboards": {
+    "title": "The 2 Best Mechanical Keyboards 2026",
+    "type": "roundup"
+  },
+  "best-mesh-wifi-systems": {
+    "title": "The 3 Best Mesh Wi-Fi Systems 2026",
+    "type": "roundup"
+  },
+  "best-microphone-accessories": {
+    "title": "Microphone Accessories",
+    "type": "category"
+  },
+  "best-microphone-boom-arms": {
+    "title": "The 2 Best Microphone Boom Arms 2026",
+    "type": "roundup"
+  },
+  "best-microphone-stands": {
+    "title": "The 3 Best Microphone Stands 2026",
+    "type": "roundup"
+  },
+  "best-milk-frothers-for-cold-foam": {
+    "title": "The 4 Best Milk Frothers for Cold Foam",
+    "type": "roundup"
+  },
+  "best-milk-frothers-for-lattes-at-home": {
+    "title": "The 4 Best Milk Frothers for Lattes at Home",
+    "type": "roundup"
+  },
+  "best-milk-frothers-for-matcha": {
+    "title": "The 4 Best Milk Frothers for Matcha",
+    "type": "roundup"
+  },
+  "best-milk-frothers-for-oat-milk": {
+    "title": "The 3 Best Milk Frothers for Oat Milk",
+    "type": "roundup"
+  },
+  "best-milk-frothers-under-30": {
+    "title": "The 3 Best Milk Frothers Under $30",
+    "type": "roundup"
+  },
+  "best-milk-frothers-under-50": {
+    "title": "The 5 Best Milk Frothers Under $50",
+    "type": "roundup"
+  },
+  "best-milk-frothers": {
+    "title": "Milk Frothers",
+    "type": "category"
+  },
+  "best-mini-cordless-drill": {
+    "title": "The 8 Best Mini Cordless Drill 2026",
+    "type": "roundup"
+  },
+  "best-mini-food-processors": {
+    "title": "The 10 Best Mini Food Processors",
+    "type": "roundup"
+  },
+  "best-mini-fridges-for-bedrooms": {
+    "title": "The 5 Best Mini Fridges for Bedrooms",
+    "type": "roundup"
+  },
+  "best-mini-fridges-for-dorm-rooms": {
+    "title": "The 5 Best Mini Fridges for Dorm Rooms",
+    "type": "roundup"
+  },
+  "best-mini-fridges-for-garages": {
+    "title": "The 4 Best Mini Fridges for Garages",
+    "type": "roundup"
+  },
+  "best-mini-fridges-for-offices": {
+    "title": "The 4 Best Mini Fridges for Offices",
+    "type": "roundup"
+  },
+  "best-mini-fridges-under-100": {
+    "title": "The 2 Best Mini Fridges Under $100",
+    "type": "roundup"
+  },
+  "best-mini-fridges-under-150": {
+    "title": "The 4 Best Mini Fridges Under $150",
+    "type": "roundup"
+  },
+  "best-mini-fridges": {
+    "title": "Mini Fridges",
+    "type": "category"
+  },
+  "best-mini-table-saw-for-crafts": {
+    "title": "The 8 Best Mini Table Saw for Crafts 2026",
+    "type": "roundup"
+  },
+  "best-mini-table-saw": {
+    "title": "The 8 Best Mini Table Saw 2026",
+    "type": "roundup"
+  },
+  "best-miter-saw-stand": {
+    "title": "The 8 Best Miter Saw Stand 2026",
+    "type": "roundup"
+  },
+  "best-miter-saw-with-slide": {
+    "title": "The 8 Best Miter Saw with Slide 2026",
+    "type": "roundup"
+  },
+  "best-moisture-meter-for-wood": {
+    "title": "The 8 Best Moisture Meter for Wood 2026",
+    "type": "roundup"
+  },
+  "best-mold-resistant-shower-curtains": {
+    "title": "The 10 Best Mold-Resistant Shower Curtains and Liners",
+    "type": "roundup"
+  },
+  "best-monitor-arms-for-ultrawide": {
+    "title": "The 3 Best Monitor Arms for Ultrawide Monitors 2026",
+    "type": "roundup"
+  },
+  "best-monitor-arms": {
+    "title": "Our Top Pick: Monitor Arms 2026",
+    "type": "roundup"
+  },
+  "best-monitor-light-bars": {
+    "title": "The 2 Best Monitor Light Bars 2026",
+    "type": "roundup"
+  },
+  "best-monitors-for-home-office": {
+    "title": "The 3 Best Monitors for Home Office 2026",
+    "type": "roundup"
+  },
+  "best-monitors": {
+    "title": "Monitors",
+    "type": "category"
+  },
+  "best-mortise-chisel": {
+    "title": "The 8 Best Mortise Chisel 2026",
+    "type": "roundup"
+  },
+  "best-mouse-wrist-rests": {
+    "title": "Our Top Pick: Mouse Wrist Rests 2026",
+    "type": "roundup"
+  },
+  "best-multi-cookers": {
+    "title": "The 4 Best Multi-Cookers and Slow Cookers",
+    "type": "roundup"
+  },
+  "best-multi-device-wireless-chargers": {
+    "title": "The 2 Best Multi-Device Wireless Chargers 2026",
+    "type": "roundup"
+  },
+  "best-nas-devices-for-home": {
+    "title": "The 2 Best NAS Devices for Home Use 2026",
+    "type": "roundup"
+  },
+  "best-nas-for-plex": {
+    "title": "The 2 Best NAS for Plex Media Server 2026",
+    "type": "roundup"
+  },
+  "best-neck-pillows": {
+    "title": "Neck Pillows",
+    "type": "category"
+  },
+  "best-noise-cancelling-headphones-for-office": {
+    "title": "The 2 Best Noise Cancelling Headphones for Office 2026",
+    "type": "roundup"
+  },
+  "best-noise-cancelling-headphones-for-travel": {
+    "title": "The 3 Best Noise Cancelling Headphones for Travel 2026",
+    "type": "roundup"
+  },
+  "best-noise-cancelling-headphones": {
+    "title": "The 6 Best Noise Cancelling Headphones 2026",
+    "type": "roundup"
+  },
+  "best-office-chairs": {
+    "title": "Our Top Pick: Office Chairs 2026",
+    "type": "roundup"
+  },
+  "best-oscillating-spindle-sander": {
+    "title": "The 8 Best Oscillating Spindle Sander 2026",
+    "type": "roundup"
+  },
+  "best-packing-cubes-for-backpacking": {
+    "title": "The 4 Best Packing Cubes for Backpacking",
+    "type": "roundup"
+  },
+  "best-packing-cubes-for-carry-on-travel": {
+    "title": "The 5 Best Packing Cubes for Carry-On Travel",
+    "type": "roundup"
+  },
+  "best-packing-cubes-for-family-trips": {
+    "title": "The 4 Best Packing Cubes for Family Trips",
+    "type": "roundup"
+  },
+  "best-packing-cubes-for-minimalist-packers": {
+    "title": "The 4 Best Packing Cubes for Minimalist Packers",
+    "type": "roundup"
+  },
+  "best-packing-cubes-under-20": {
+    "title": "The 3 Best Packing Cubes Under $20",
+    "type": "roundup"
+  },
+  "best-packing-cubes-under-40": {
+    "title": "The 4 Best Packing Cubes Under $40",
+    "type": "roundup"
+  },
+  "best-packing-cubes": {
+    "title": "Packing Cubes",
+    "type": "category"
+  },
+  "best-panel-clamps-woodworking": {
+    "title": "The 7 Best Panel Clamps for Woodworking 2026",
+    "type": "roundup"
+  },
+  "best-panini-presses-and-sandwich-makers-for-dorm-rooms": {
+    "title": "The 4 Best Panini Presses and Sandwich Makers for Dorm Rooms",
+    "type": "roundup"
+  },
+  "best-panini-presses-and-sandwich-makers-for-grilled-cheese": {
+    "title": "The 3 Best Panini Presses and Sandwich Makers for Grilled Cheese",
+    "type": "roundup"
+  },
+  "best-panini-presses-and-sandwich-makers-for-quesadillas": {
+    "title": "The 3 Best Panini Presses and Sandwich Makers for Quesadillas",
+    "type": "roundup"
+  },
+  "best-panini-presses-and-sandwich-makers-for-small-kitchens": {
+    "title": "The 4 Best Panini Presses and Sandwich Makers for Small Kitchens",
+    "type": "roundup"
+  },
+  "best-panini-presses-and-sandwich-makers-under-30": {
+    "title": "The 2 Best Panini Presses and Sandwich Makers Under $30",
+    "type": "roundup"
+  },
+  "best-panini-presses-and-sandwich-makers-under-60": {
+    "title": "The 4 Best Panini Presses and Sandwich Makers Under $60",
+    "type": "roundup"
+  },
+  "best-panini-presses": {
+    "title": "Panini Presses",
+    "type": "category"
+  },
+  "best-patio-heaters-for-covered-porches": {
+    "title": "The 3 Best Patio Heaters for Covered Porches",
+    "type": "roundup"
+  },
+  "best-patio-heaters-for-large-decks": {
+    "title": "The 5 Best Patio Heaters for Large Decks",
+    "type": "roundup"
+  },
+  "best-patio-heaters-for-small-patios": {
+    "title": "The 6 Best Patio Heaters for Small Patios",
+    "type": "roundup"
+  },
+  "best-patio-heaters-for-tables": {
+    "title": "The 5 Best Patio Heaters for Tables",
+    "type": "roundup"
+  },
+  "best-patio-heaters-under-150": {
+    "title": "The 5 Best Patio Heaters Under $150",
+    "type": "roundup"
+  },
+  "best-patio-heaters-under-300": {
+    "title": "The 4 Best Patio Heaters Under $300",
+    "type": "roundup"
+  },
+  "best-patio-heaters": {
+    "title": "Patio Heaters",
+    "type": "category"
+  },
+  "best-personal-blenders": {
+    "title": "The 10 Best Personal Blenders of 2026",
+    "type": "roundup"
+  },
+  "best-pet-cameras-for-apartments": {
+    "title": "The 5 Best Pet Cameras for Apartments",
+    "type": "roundup"
+  },
+  "best-pet-cameras-for-dogs-with-separation-anxiety": {
+    "title": "The 5 Best Pet Cameras for Dogs With Separation Anxiety",
+    "type": "roundup"
+  },
+  "best-pet-cameras-for-multi-pet-homes": {
+    "title": "The 5 Best Pet Cameras for Multi-Pet Homes",
+    "type": "roundup"
+  },
+  "best-pet-cameras-for-treat-dispensing": {
+    "title": "The 5 Best Pet Cameras for Treat Dispensing",
+    "type": "roundup"
+  },
+  "best-pet-cameras-under-150": {
+    "title": "The 3 Best Pet Cameras Under $150",
+    "type": "roundup"
+  },
+  "best-pet-cameras-under-60": {
+    "title": "The 5 Best Pet Cameras Under $60",
+    "type": "roundup"
+  },
+  "best-pet-cameras": {
+    "title": "Pet Cameras",
+    "type": "category"
+  },
+  "best-pet-proof-sofa-covers": {
+    "title": "The 6 Best Pet-Proof Sofa Covers for Scratches, Hair, and Accidents",
+    "type": "roundup"
+  },
+  "best-plunge-router-bits": {
+    "title": "The 8 Best Plunge Router Bits 2026",
+    "type": "roundup"
+  },
+  "best-pocket-hole-jig": {
+    "title": "The 8 Best Pocket Hole Jig 2026",
+    "type": "roundup"
+  },
+  "best-polyurethane-for-wood": {
+    "title": "The 8 Best Polyurethane for Wood 2026",
+    "type": "roundup"
+  },
+  "best-pool-covers-you-can-walk-on": {
+    "title": "The 10 Best Pool Covers You Can Walk On",
+    "type": "roundup"
+  },
+  "best-pool-covers": {
+    "title": "The 10 Best Pool Covers",
+    "type": "roundup"
+  },
+  "best-portable-air-conditioners-for-apartments-without-window-access": {
+    "title": "The 4 Best Portable Air Conditioners for Apartments Without Window Access",
+    "type": "roundup"
+  },
+  "best-portable-air-conditioners-for-large-rooms": {
+    "title": "The 4 Best Portable Air Conditioners for Large Rooms and Open Floor Plans",
+    "type": "roundup"
+  },
+  "best-portable-air-conditioners-for-no-exhaust-hose-setup": {
+    "title": "The 2 Best Portable Air Conditioners for No-Exhaust-Hose Setups",
+    "type": "roundup"
+  },
+  "best-portable-air-conditioners-for-server-rooms": {
+    "title": "The 3 Best Portable Air Conditioners for Server Rooms and Home Labs",
+    "type": "roundup"
+  },
+  "best-portable-air-conditioners-under-300": {
+    "title": "The 3 Best Portable Air Conditioners Under $300",
+    "type": "roundup"
+  },
+  "best-portable-air-conditioners-under-500": {
+    "title": "The 3 Best Portable Air Conditioners Under $500",
+    "type": "roundup"
+  },
+  "best-portable-air-conditioners": {
+    "title": "Portable Air Conditioners",
+    "type": "category"
+  },
+  "best-portable-laptop-stands": {
+    "title": "The 2 Best Portable Laptop Stands 2026",
+    "type": "roundup"
+  },
+  "best-portable-ssds-for-video-editing": {
+    "title": "The 3 Best Portable SSDs for Video Editing 2026",
+    "type": "roundup"
+  },
+  "best-portable-ssds": {
+    "title": "The 3 Best Portable SSDs 2026",
+    "type": "roundup"
+  },
+  "best-portable-tire-inflators-for-bicycle-tires": {
+    "title": "The 4 Best Portable Tire Inflators for Bicycle Tires",
+    "type": "roundup"
+  },
+  "best-portable-tire-inflators-for-emergency-kits": {
+    "title": "The 4 Best Portable Tire Inflators for Emergency Kits",
+    "type": "roundup"
+  },
+  "best-portable-tire-inflators-for-off-roading": {
+    "title": "The 4 Best Portable Tire Inflators for Off-Roading",
+    "type": "roundup"
+  },
+  "best-portable-tire-inflators-for-road-trips": {
+    "title": "The 4 Best Portable Tire Inflators for Road Trips",
+    "type": "roundup"
+  },
+  "best-portable-tire-inflators-under-30": {
+    "title": "The 4 Best Portable Tire Inflators Under $30",
+    "type": "roundup"
+  },
+  "best-portable-tire-inflators-under-80": {
+    "title": "The 4 Best Portable Tire Inflators Under $80",
+    "type": "roundup"
+  },
+  "best-power-banks-for-laptops": {
+    "title": "Our Top Pick: Power Banks for Laptops 2026",
+    "type": "roundup"
+  },
+  "best-power-banks-for-travel": {
+    "title": "Our Top Pick: Power Banks for Travel 2026",
+    "type": "roundup"
+  },
+  "best-power-banks": {
+    "title": "The 4 Best Power Banks 2026",
+    "type": "roundup"
+  },
+  "best-power-tools-for-home-improvement": {
+    "title": "Our Top Pick: Power Tools for Home Improvement 2026",
+    "type": "roundup"
+  },
+  "best-power-tools": {
+    "title": "Power Tools",
+    "type": "category"
+  },
+  "best-pressure-cookers-under-100": {
+    "title": "The 10 Best Pressure Cookers Under $100",
+    "type": "roundup"
+  },
+  "best-pressure-cookers": {
+    "title": "The 12 Best Pressure Cookers",
+    "type": "roundup"
+  },
+  "best-pressure-washers-for-car-detailing": {
+    "title": "The 4 Best Pressure Washers for Car Detailing",
+    "type": "roundup"
+  },
+  "best-pressure-washers-for-cars": {
+    "title": "The 3 Best Pressure Washers for Cars 2026",
+    "type": "roundup"
+  },
+  "best-pressure-washers-for-decks": {
+    "title": "The 4 Best Pressure Washers for Decks",
+    "type": "roundup"
+  },
+  "best-pressure-washers-for-driveways": {
+    "title": "The 4 Best Pressure Washers for Driveways",
+    "type": "roundup"
+  },
+  "best-pressure-washers-for-small-jobs-around-the-house": {
+    "title": "The 4 Best Pressure Washers for Small Jobs Around the House",
+    "type": "roundup"
+  },
+  "best-pressure-washers-under-150": {
+    "title": "The 5 Best Pressure Washers Under $150",
+    "type": "roundup"
+  },
+  "best-pressure-washers-under-300": {
+    "title": "The 4 Best Pressure Washers Under $300",
+    "type": "roundup"
+  },
+  "best-pressure-washers": {
+    "title": "Pressure Washers",
+    "type": "category"
+  },
+  "best-programmable-coffee-makers": {
+    "title": "The 10 Best Programmable Coffee Makers of 2026",
+    "type": "roundup"
+  },
+  "best-programmable-slow-cookers": {
+    "title": "The 10 Best Programmable Slow Cookers",
+    "type": "roundup"
+  },
+  "best-pull-up-bars-for-doorways": {
+    "title": "The 8 Best Doorway Pull-Up Bars",
+    "type": "roundup"
+  },
+  "best-pull-up-bars-for-garages": {
+    "title": "The 4 Best Pull-Up Bars for Garages",
+    "type": "roundup"
+  },
+  "best-pull-up-bars-for-heavy-users": {
+    "title": "The 5 Best Pull-Up Bars for Heavy Users",
+    "type": "roundup"
+  },
+  "best-pull-up-bars-for-small-apartments": {
+    "title": "The 4 Best Pull-Up Bars for Small Apartments and Tight Spaces",
+    "type": "roundup"
+  },
+  "best-pull-up-bars-under-30": {
+    "title": "The 3 Best Pull-Up Bars Under $30",
+    "type": "roundup"
+  },
+  "best-pull-up-bars-under-80": {
+    "title": "The 6 Best Pull-Up Bars Under $80",
+    "type": "roundup"
+  },
+  "best-pull-up-bars": {
+    "title": "Pull up Bars",
+    "type": "category"
+  },
+  "best-rabbet-plane": {
+    "title": "The 8 Best Rabbet Plane 2026",
+    "type": "roundup"
+  },
+  "best-rabbet-router-bit": {
+    "title": "The 8 Best Rabbet Router Bit 2026",
+    "type": "roundup"
+  },
+  "best-random-orbital-sander": {
+    "title": "The 8 Best Random Orbital Sander 2026",
+    "type": "roundup"
+  },
+  "best-recliner-covers": {
+    "title": "The 8 Best Recliner Covers for Chairs and Loveseats",
+    "type": "roundup"
+  },
+  "best-resistance-bands-for-beginners": {
+    "title": "The 4 Best Resistance Bands for Beginners",
+    "type": "roundup"
+  },
+  "best-resistance-bands-for-glutes": {
+    "title": "The 4 Best Resistance Bands for Glutes",
+    "type": "roundup"
+  },
+  "best-resistance-bands-for-physical-therapy": {
+    "title": "The 3 Best Resistance Bands for Physical Therapy",
+    "type": "roundup"
+  },
+  "best-resistance-bands-for-travel-workouts": {
+    "title": "The 3 Best Resistance Bands for Travel Workouts",
+    "type": "roundup"
+  },
+  "best-resistance-bands-under-15": {
+    "title": "The 3 Best Resistance Bands Under $15",
+    "type": "roundup"
+  },
+  "best-resistance-bands-under-30": {
+    "title": "The 3 Best Resistance Bands Under $30",
+    "type": "roundup"
+  },
+  "best-resistance-bands": {
+    "title": "Resistance Bands",
+    "type": "category"
+  },
+  "best-respirator-woodworking": {
+    "title": "The 8 Best Respirator for Woodworking 2026",
+    "type": "roundup"
+  },
+  "best-rice-cookers-for-brown-rice": {
+    "title": "The 10 Best Rice Cookers for Brown Rice",
+    "type": "roundup"
+  },
+  "best-rice-cookers-under-100": {
+    "title": "The 10 Best Rice Cookers Under $100",
+    "type": "roundup"
+  },
+  "best-rice-cookers-under-50": {
+    "title": "The 11 Best Rice Cookers Under $50",
+    "type": "roundup"
+  },
+  "best-rice-cookers": {
+    "title": "The 13 Best Rice Cookers of 2026",
+    "type": "roundup"
+  },
+  "best-ring-lights-for-video-calls": {
+    "title": "The 2 Best Ring Lights for Video Calls 2026",
+    "type": "roundup"
+  },
+  "best-robot-lawn-mowers-for-large-properties": {
+    "title": "The 4 Best Robot Lawn Mowers for Large Properties in 2026",
+    "type": "roundup"
+  },
+  "best-robot-lawn-mowers-for-pet-owners": {
+    "title": "The 3 Best Robot Lawn Mowers for Pet Owners in 2026",
+    "type": "roundup"
+  },
+  "best-robot-lawn-mowers-for-sloped-lawns": {
+    "title": "The 5 Best Robot Lawn Mowers for Sloped Lawns in 2026",
+    "type": "roundup"
+  },
+  "best-robot-lawn-mowers-for-small-yards": {
+    "title": "The 7 Best Robot Lawn Mowers for Small Yards in 2026",
+    "type": "roundup"
+  },
+  "best-robot-lawn-mowers-under-1500": {
+    "title": "The 3 Best Robot Lawn Mowers Under $1,500 in 2026",
+    "type": "roundup"
+  },
+  "best-robot-lawn-mowers-under-800": {
+    "title": "The 3 Best Robot Lawn Mowers Under $800 in 2026",
+    "type": "roundup"
+  },
+  "best-robot-lawn-mowers": {
+    "title": "Robot Lawn Mowers",
+    "type": "category"
+  },
+  "best-robot-vacuums-for-pet-hair": {
+    "title": "The 10 Best Robot Vacuums for Pet Hair 2026",
+    "type": "roundup"
+  },
+  "best-robot-vacuums-under-300": {
+    "title": "The 10 Best Robot Vacuums Under $300 in 2026",
+    "type": "roundup"
+  },
+  "best-robot-vacuums": {
+    "title": "The 12 Best Robot Vacuums 2026",
+    "type": "roundup"
+  },
+  "best-round-over-router-bit": {
+    "title": "The 8 Best Roundover Router Bit 2026",
+    "type": "roundup"
+  },
+  "best-router-bits-for-beginners": {
+    "title": "The 8 Best Router Bits for Beginners 2026",
+    "type": "roundup"
+  },
+  "best-router-for-woodworking": {
+    "title": "The 8 Best Router for Woodworking 2026",
+    "type": "roundup"
+  },
+  "best-router-table-and-table-saw": {
+    "title": "The 8 Best Router Table and Table Saw Combination 2026",
+    "type": "roundup"
+  },
+  "best-routers": {
+    "title": "Routers",
+    "type": "category"
+  },
+  "best-running-shoes-for-beginners": {
+    "title": "The 5 Best Running Shoes for Beginners",
+    "type": "roundup"
+  },
+  "best-running-shoes": {
+    "title": "The 10 Best Running Shoes",
+    "type": "roundup"
+  },
+  "best-safety-glasses-woodworking": {
+    "title": "The 8 Best Safety Glasses for Woodworking 2026",
+    "type": "roundup"
+  },
+  "best-saw-horses": {
+    "title": "The 8 Best Saw Horses 2026",
+    "type": "roundup"
+  },
+  "best-scroll-saws": {
+    "title": "The 8 Best Scroll Saws 2026",
+    "type": "roundup"
+  },
+  "best-sectional-sofa-covers": {
+    "title": "The 6 Best Sectional Sofa Covers for L-Shaped Couches",
+    "type": "roundup"
+  },
+  "best-sharpening-stones": {
+    "title": "The 8 Best Sharpening Stones 2026",
+    "type": "roundup"
+  },
+  "best-shop-vac-for-woodworking": {
+    "title": "The 8 Best Shop Vac for Woodworking 2026",
+    "type": "roundup"
+  },
+  "best-shower-curtains": {
+    "title": "The 10 Best Shower Curtains",
+    "type": "roundup"
+  },
+  "best-sliding-miter-saw": {
+    "title": "The 8 Best Sliding Compound Miter Saw 2026",
+    "type": "roundup"
+  },
+  "best-slow-cookers-under-50": {
+    "title": "The 14 Best Slow Cookers Under $50",
+    "type": "roundup"
+  },
+  "best-slow-cookers": {
+    "title": "The 16 Best Slow Cookers",
+    "type": "roundup"
+  },
+  "best-small-rice-cookers": {
+    "title": "The 10 Best Small Rice Cookers for One or Two People",
+    "type": "roundup"
+  },
+  "best-small-ring-lights": {
+    "title": "Our Top Pick: Small Ring Lights 2026",
+    "type": "roundup"
+  },
+  "best-smart-home": {
+    "title": "Smart Home",
+    "type": "category"
+  },
+  "best-smart-lights": {
+    "title": "The 4 Best Smart Lights 2026",
+    "type": "roundup"
+  },
+  "best-smart-plugs": {
+    "title": "The 3 Best Smart Plugs 2026",
+    "type": "roundup"
+  },
+  "best-smart-speakers": {
+    "title": "The 3 Best Smart Speakers 2026",
+    "type": "roundup"
+  },
+  "best-sofa-covers": {
+    "title": "The 10 Best Sofa Covers 2026",
+    "type": "roundup"
+  },
+  "best-soft-tonneau-covers": {
+    "title": "The 10 Best Soft Tonneau Covers",
+    "type": "roundup"
+  },
+  "best-solar-pool-covers": {
+    "title": "The 10 Best Solar Pool Covers",
+    "type": "roundup"
+  },
+  "best-sous-vide-machines-for-beginners": {
+    "title": "The 3 Best Sous Vide Machines for Beginners",
+    "type": "roundup"
+  },
+  "best-sous-vide-machines-for-large-batch-cooking": {
+    "title": "The 3 Best Sous Vide Machines for Large Batch Cooking",
+    "type": "roundup"
+  },
+  "best-sous-vide-machines-for-meal-prep": {
+    "title": "The 3 Best Sous Vide Machines for Meal Prep",
+    "type": "roundup"
+  },
+  "best-sous-vide-machines-for-small-kitchens": {
+    "title": "The 3 Best Sous Vide Machines for Small Kitchens",
+    "type": "roundup"
+  },
+  "best-sous-vide-machines-for-steak": {
+    "title": "The 4 Best Sous Vide Machines for Steak",
+    "type": "roundup"
+  },
+  "best-sous-vide-machines-under-100": {
+    "title": "The 3 Best Sous Vide Machines Under $100",
+    "type": "roundup"
+  },
+  "best-sous-vide-machines-under-150": {
+    "title": "The 3 Best Sous Vide Machines Under $150",
+    "type": "roundup"
+  },
+  "best-sous-vide-machines": {
+    "title": "Sous Vide Machines",
+    "type": "category"
+  },
+  "best-space-heaters-for-garages": {
+    "title": "The 4 Best Space Heaters for Garages",
+    "type": "roundup"
+  },
+  "best-space-heaters-for-large-rooms": {
+    "title": "The 4 Best Space Heaters for Large Rooms",
+    "type": "roundup"
+  },
+  "best-space-heaters-for-offices": {
+    "title": "The 4 Best Space Heaters for Offices",
+    "type": "roundup"
+  },
+  "best-space-heaters-for-pet-safe-use": {
+    "title": "The 4 Best Pet-Safe Space Heaters",
+    "type": "roundup"
+  },
+  "best-space-heaters-under-100": {
+    "title": "The 4 Best Space Heaters Under $100",
+    "type": "roundup"
+  },
+  "best-space-heaters-under-40": {
+    "title": "The 3 Best Space Heaters Under $40",
+    "type": "roundup"
+  },
+  "best-space-heaters": {
+    "title": "Space Heaters",
+    "type": "category"
+  },
+  "best-spokeshave": {
+    "title": "The 8 Best Spokeshave 2026",
+    "type": "roundup"
+  },
+  "best-stand-mixers-for-bread": {
+    "title": "The 10 Best Stand Mixers for Bread",
+    "type": "roundup"
+  },
+  "best-stand-mixers-under-200": {
+    "title": "The 10 Best Stand Mixers Under $200",
+    "type": "roundup"
+  },
+  "best-stand-mixers-under-300": {
+    "title": "The 10 Best Stand Mixers Under $300",
+    "type": "roundup"
+  },
+  "best-stand-mixers": {
+    "title": "The 4 Best Stand Mixers",
+    "type": "roundup"
+  },
+  "best-standing-desks-for-home-office": {
+    "title": "Our Top Pick: Standing Desks for Home Office 2026",
+    "type": "roundup"
+  },
+  "best-standing-desks": {
+    "title": "The 4 Best Standing Desks 2026",
+    "type": "roundup"
+  },
+  "best-straight-router-bits": {
+    "title": "The 8 Best Straight Router Bits 2026",
+    "type": "roundup"
+  },
+  "best-streaming-webcams-for-content-creators": {
+    "title": "The 2 Best Streaming Webcams for Content Creators",
+    "type": "roundup"
+  },
+  "best-string-trimmers-for-edging": {
+    "title": "The 5 Best String Trimmers for Edging",
+    "type": "roundup"
+  },
+  "best-string-trimmers-for-small-yards": {
+    "title": "The 5 Best String Trimmers for Small Yards",
+    "type": "roundup"
+  },
+  "best-string-trimmers-for-steep-hills": {
+    "title": "The 4 Best String Trimmers for Steep Hills and Slopes",
+    "type": "roundup"
+  },
+  "best-string-trimmers-for-thick-weeds": {
+    "title": "The 6 Best String Trimmers for Thick Weeds and Overgrown Lots",
+    "type": "roundup"
+  },
+  "best-string-trimmers-under-100": {
+    "title": "The 4 Best String Trimmers Under $100",
+    "type": "roundup"
+  },
+  "best-string-trimmers-under-200": {
+    "title": "The 6 Best String Trimmers Under $200",
+    "type": "roundup"
+  },
+  "best-string-trimmers": {
+    "title": "String Trimmers",
+    "type": "category"
+  },
+  "best-strollers-for-jogging": {
+    "title": "The 3 Best Jogging Strollers",
+    "type": "roundup"
+  },
+  "best-strollers-for-newborns": {
+    "title": "The 6 Best Strollers for Newborns",
+    "type": "roundup"
+  },
+  "best-strollers-for-small-cars": {
+    "title": "The 6 Best Strollers for Small Cars",
+    "type": "roundup"
+  },
+  "best-strollers-for-twins": {
+    "title": "The 3 Best Strollers for Twins",
+    "type": "roundup"
+  },
+  "best-strollers-under-200": {
+    "title": "The 5 Best Strollers Under $200",
+    "type": "roundup"
+  },
+  "best-strollers-under-400": {
+    "title": "The 4 Best Strollers Under $400",
+    "type": "roundup"
+  },
+  "best-strollers": {
+    "title": "Strollers",
+    "type": "category"
+  },
+  "best-super-automatic-espresso-machines": {
+    "title": "The 10 Best Super Automatic Espresso Machines 2026",
+    "type": "roundup"
+  },
+  "best-super-glue-for-wood": {
+    "title": "The 8 Best Super Glue for Wood 2026",
+    "type": "roundup"
+  },
+  "best-table-for-router": {
+    "title": "The 8 Best Router Table 2026",
+    "type": "roundup"
+  },
+  "best-table-saw-blades": {
+    "title": "The 8 Best Table Saw Blades 2026",
+    "type": "roundup"
+  },
+  "best-table-saw-fences": {
+    "title": "The 8 Best Table Saw Fence 2026",
+    "type": "roundup"
+  },
+  "best-table-saw-for-small-shop": {
+    "title": "The 8 Best Table Saw for Small Shop 2026",
+    "type": "roundup"
+  },
+  "best-tactile-switches": {
+    "title": "Our Top Pick: Tactile Switches 2026",
+    "type": "roundup"
+  },
+  "best-tape-measure-with-fractions": {
+    "title": "The 8 Best Tape Measure with Fractions 2026",
+    "type": "roundup"
+  },
+  "best-tape-measure-with-laser": {
+    "title": "The 8 Best Tape Measure with Laser 2026",
+    "type": "roundup"
+  },
+  "best-teak-oil": {
+    "title": "The 8 Best Teak Oil 2026",
+    "type": "roundup"
+  },
+  "best-tire-inflators": {
+    "title": "Tire Inflators",
+    "type": "category"
+  },
+  "best-toaster-ovens-for-baking": {
+    "title": "The 10 Best Toaster Ovens for Baking",
+    "type": "roundup"
+  },
+  "best-toaster-ovens-under-100": {
+    "title": "The 11 Best Toaster Ovens Under $100",
+    "type": "roundup"
+  },
+  "best-toaster-ovens": {
+    "title": "The 13 Best Toaster Ovens",
+    "type": "roundup"
+  },
+  "best-toasters-under-50": {
+    "title": "The 11 Best Toasters Under $50",
+    "type": "roundup"
+  },
+  "best-toasters": {
+    "title": "The 13 Best Toasters of 2026",
+    "type": "roundup"
+  },
+  "best-toilet-seat-covers": {
+    "title": "The 8 Best Toilet Seat Covers",
+    "type": "roundup"
+  },
+  "best-tonneau-covers-for-f150": {
+    "title": "The 10 Best Tonneau Covers for Ford F-150",
+    "type": "roundup"
+  },
+  "best-tonneau-covers": {
+    "title": "The 10 Best Tonneau Covers",
+    "type": "roundup"
+  },
+  "best-travel-adapters-for-europe": {
+    "title": "The 2 Best Travel Adapters for Europe",
+    "type": "roundup"
+  },
+  "best-travel-adapters-for-international-travel": {
+    "title": "The 3 Best Travel Adapters for International Travel",
+    "type": "roundup"
+  },
+  "best-travel-adapters-for-laptops": {
+    "title": "The 2 Best Travel Adapters for Laptops",
+    "type": "roundup"
+  },
+  "best-travel-adapters-for-multiple-devices": {
+    "title": "The 4 Best Travel Adapters for Multiple Devices",
+    "type": "roundup"
+  },
+  "best-travel-adapters-under-20": {
+    "title": "The 2 Best Travel Adapters Under $20",
+    "type": "roundup"
+  },
+  "best-travel-adapters-under-40": {
+    "title": "The 3 Best Travel Adapters Under $40",
+    "type": "roundup"
+  },
+  "best-travel-adapters": {
+    "title": "Travel Adapters",
+    "type": "category"
+  },
+  "best-travel-backpacks-for-backpacking-europe": {
+    "title": "The 3 Best Travel Backpacks for Backpacking Europe",
+    "type": "roundup"
+  },
+  "best-travel-backpacks-for-carry-on-only-travel": {
+    "title": "The 4 Best Travel Backpacks for Carry-On Only Travel",
+    "type": "roundup"
+  },
+  "best-travel-backpacks-for-digital-nomads": {
+    "title": "The 3 Best Travel Backpacks for Digital Nomads",
+    "type": "roundup"
+  },
+  "best-travel-backpacks-for-weekend-trips": {
+    "title": "The 3 Best Travel Backpacks for Weekend Trips",
+    "type": "roundup"
+  },
+  "best-travel-backpacks-under-100": {
+    "title": "The 3 Best Travel Backpacks Under $100",
+    "type": "roundup"
+  },
+  "best-travel-backpacks-under-200": {
+    "title": "The 3 Best Travel Backpacks Under $200",
+    "type": "roundup"
+  },
+  "best-travel-backpacks": {
+    "title": "Travel Backpacks",
+    "type": "category"
+  },
+  "best-travel-neck-pillows-for-kids": {
+    "title": "The 4 Best Travel Neck Pillows for Kids",
+    "type": "roundup"
+  },
+  "best-travel-neck-pillows-for-long-haul-flights": {
+    "title": "The 4 Best Travel Neck Pillows for Long-Haul Flights",
+    "type": "roundup"
+  },
+  "best-travel-neck-pillows-for-road-trips": {
+    "title": "The 4 Best Travel Neck Pillows for Road Trips",
+    "type": "roundup"
+  },
+  "best-travel-neck-pillows-for-side-sleepers": {
+    "title": "The 4 Best Travel Neck Pillows for Side Sleepers",
+    "type": "roundup"
+  },
+  "best-travel-neck-pillows-under-20": {
+    "title": "The 4 Best Travel Neck Pillows Under $20",
+    "type": "roundup"
+  },
+  "best-travel-neck-pillows-under-40": {
+    "title": "The 4 Best Travel Neck Pillows Under $40",
+    "type": "roundup"
+  },
+  "best-type-of-glue-for-wood-and-vinyl-trim": {
+    "title": "The 8 Best Glue for Wood and Vinyl Trim 2026",
+    "type": "roundup"
+  },
+  "best-usb-c-hubs": {
+    "title": "The 3 Best USB-C Hubs 2026",
+    "type": "roundup"
+  },
+  "best-usb-c-portable-ssds": {
+    "title": "The 3 Best USB-C Portable SSDs 2026",
+    "type": "roundup"
+  },
+  "best-usb-hubs-for-home-office": {
+    "title": "The 4 Best USB Hubs for Home Office 2026",
+    "type": "roundup"
+  },
+  "best-usb-hubs-for-macbook": {
+    "title": "Our Top Pick: USB-C Hubs for MacBook 2026",
+    "type": "roundup"
+  },
+  "best-usb-hubs": {
+    "title": "USB Hubs",
+    "type": "category"
+  },
+  "best-usb-microphones-for-podcasting": {
+    "title": "The 2 Best USB Microphones for Podcasting 2026",
+    "type": "roundup"
+  },
+  "best-usb-microphones": {
+    "title": "The 2 Best USB Microphones 2026",
+    "type": "roundup"
+  },
+  "best-vertical-mice": {
+    "title": "The 4 Best Vertical Mice 2026",
+    "type": "roundup"
+  },
+  "best-waffle-makers-under-50": {
+    "title": "The 10 Best Waffle Makers Under $50",
+    "type": "roundup"
+  },
+  "best-waffle-makers": {
+    "title": "The 13 Best Waffle Makers of 2026",
+    "type": "roundup"
+  },
+  "best-water-bottles": {
+    "title": "The 4 Best Insulated Water Bottles",
+    "type": "roundup"
+  },
+  "best-waterproof-wood-glue": {
+    "title": "The 8 Best Waterproof Wood Glue 2026",
+    "type": "roundup"
+  },
+  "best-webcams-for-streaming": {
+    "title": "Our Top Pick: Webcams for Streaming 2026",
+    "type": "roundup"
+  },
+  "best-webcams-under-100": {
+    "title": "The 2 Best Webcams Under $100 in 2026",
+    "type": "roundup"
+  },
+  "best-webcams": {
+    "title": "Our Top Pick: Webcams 2026",
+    "type": "roundup"
+  },
+  "best-weighted-blankets-for-anxiety": {
+    "title": "Our Top Pick: Weighted Blankets for Anxiety",
+    "type": "roundup"
+  },
+  "best-weighted-blankets-for-hot-sleepers": {
+    "title": "The 2 Best Weighted Blankets for Hot Sleepers",
+    "type": "roundup"
+  },
+  "best-weighted-blankets-under-100": {
+    "title": "Our Top Pick: Weighted Blankets Under $100",
+    "type": "roundup"
+  },
+  "best-weighted-blankets": {
+    "title": "Weighted Blankets",
+    "type": "category"
+  },
+  "best-wifi-routers-for-gaming": {
+    "title": "The 2 Best WiFi Routers for Gaming 2026",
+    "type": "roundup"
+  },
+  "best-wifi-routers": {
+    "title": "Our Top Pick: Wi-Fi Routers 2026",
+    "type": "roundup"
+  },
+  "best-window-air-conditioners-for-casement-windows": {
+    "title": "The 3 Best Window Air Conditioners for Casement Windows",
+    "type": "roundup"
+  },
+  "best-window-air-conditioners-for-large-living-rooms": {
+    "title": "The 4 Best Window Air Conditioners for Large Living Rooms",
+    "type": "roundup"
+  },
+  "best-window-air-conditioners-for-quiet-operation": {
+    "title": "The 4 Best Quiet Window Air Conditioners, Ranked by Decibel Rating",
+    "type": "roundup"
+  },
+  "best-window-air-conditioners-for-small-bedrooms": {
+    "title": "The 4 Best Window Air Conditioners for Small Bedrooms in 2026",
+    "type": "roundup"
+  },
+  "best-window-air-conditioners-under-200": {
+    "title": "The 3 Best Window Air Conditioners Under $200",
+    "type": "roundup"
+  },
+  "best-window-air-conditioners-under-400": {
+    "title": "The 3 Best Window Air Conditioners Under $400",
+    "type": "roundup"
+  },
+  "best-window-air-conditioners": {
+    "title": "Window Air Conditioners",
+    "type": "category"
+  },
+  "best-wine-coolers-and-fridges-for-red-and-white-wine": {
+    "title": "The 3 Best Wine Coolers and Fridges for Red and White Wine",
+    "type": "roundup"
+  },
+  "best-wine-coolers-and-fridges-for-small-apartments": {
+    "title": "The 3 Best Wine Coolers and Fridges for Small Apartments",
+    "type": "roundup"
+  },
+  "best-wine-coolers-and-fridges-for-under-counter-install": {
+    "title": "The 3 Best Wine Coolers and Fridges for Under-Counter Installation",
+    "type": "roundup"
+  },
+  "best-wine-coolers-and-fridges-for-wine-collectors": {
+    "title": "The 4 Best Wine Coolers and Fridges for Wine Collectors in 2026",
+    "type": "roundup"
+  },
+  "best-wine-coolers-and-fridges-under-150": {
+    "title": "The 4 Best Wine Coolers and Fridges Under $150",
+    "type": "roundup"
+  },
+  "best-wine-coolers-and-fridges-under-300": {
+    "title": "The 4 Best Wine Coolers and Fridges Under $300",
+    "type": "roundup"
+  },
+  "best-wine-coolers": {
+    "title": "Wine Coolers",
+    "type": "category"
+  },
+  "best-wireless-chargers-for-iphone": {
+    "title": "The 2 Best Wireless Chargers for iPhone 2026",
+    "type": "roundup"
+  },
+  "best-wireless-earbuds-for-android": {
+    "title": "The 2 Best Wireless Earbuds for Android in 2026",
+    "type": "roundup"
+  },
+  "best-wireless-earbuds": {
+    "title": "The 5 Best Wireless Earbuds",
+    "type": "roundup"
+  },
+  "best-wireless-gaming-mice": {
+    "title": "The 2 Best Wireless Gaming Mice 2026",
+    "type": "roundup"
+  },
+  "best-wood-burning-kit": {
+    "title": "The 8 Best Wood Burning Kit 2026",
+    "type": "roundup"
+  },
+  "best-wood-carving-tools": {
+    "title": "The 8 Best Wood Carving Tools 2026",
+    "type": "roundup"
+  },
+  "best-wood-clamps": {
+    "title": "The 7 Best Wood Clamps 2026",
+    "type": "roundup"
+  },
+  "best-wood-conditioner": {
+    "title": "The 8 Best Wood Conditioner 2026",
+    "type": "roundup"
+  },
+  "best-wood-filler": {
+    "title": "The 8 Best Wood Filler 2026",
+    "type": "roundup"
+  },
+  "best-wood-finishing-oil": {
+    "title": "The 8 Best Wood Finishing Oil 2026",
+    "type": "roundup"
+  },
+  "best-wood-hand-planes": {
+    "title": "The 8 Best Wood Hand Planes 2026",
+    "type": "roundup"
+  },
+  "best-wood-lathe": {
+    "title": "The 6 Best Wood Lathe 2026",
+    "type": "roundup"
+  },
+  "best-wood-turning-tools": {
+    "title": "The 8 Best Wood Turning Tools 2026",
+    "type": "roundup"
+  },
+  "best-wooden-headphone-stands": {
+    "title": "The 2 Best Wooden Headphone Stands 2026",
+    "type": "roundup"
+  },
+  "best-woodworking-chisels": {
+    "title": "The 8 Best Woodworking Chisels 2026",
+    "type": "roundup"
+  },
+  "best-woodworking-clamps": {
+    "title": "The 7 Best Woodworking Clamps 2026",
+    "type": "roundup"
+  },
+  "best-woodworking-respirator": {
+    "title": "The 8 Best Woodworking Respirator 2026",
+    "type": "roundup"
+  },
+  "best-woodworking-router-table": {
+    "title": "The 8 Best Woodworking Router Table 2026",
+    "type": "roundup"
+  },
+  "best-woodworking-squares": {
+    "title": "The 8 Best Woodworking Squares 2026",
+    "type": "roundup"
+  },
+  "best-woodworking-vise": {
+    "title": "The 2 Best Woodworking Vise 2026",
+    "type": "roundup"
+  },
+  "best-woodworking": {
+    "title": "Woodworking",
+    "type": "category"
+  },
+  "best-workbench-vise": {
+    "title": "The 8 Best Workbench Vise 2026",
+    "type": "roundup"
+  },
+  "best-workshop-lighting": {
+    "title": "The 8 Best Workshop Lighting 2026",
+    "type": "roundup"
+  },
+  "best-wrist-rests-for-keyboards": {
+    "title": "The 3 Best Wrist Rests for Keyboards 2026",
+    "type": "roundup"
+  },
+  "best-wrist-rests": {
+    "title": "Wrist Rests",
+    "type": "category"
+  },
+  "best-xlr-cables": {
+    "title": "The 3 Best XLR Cables for Microphones 2026",
+    "type": "roundup"
+  },
+  "best-yoga-mats-for-beginners": {
+    "title": "The 5 Best Yoga Mats for Beginners",
+    "type": "roundup"
+  },
+  "best-yoga-mats-for-hot-yoga": {
+    "title": "The 4 Best Yoga Mats for Hot Yoga",
+    "type": "roundup"
+  },
+  "best-yoga-mats-for-sensitive-knees": {
+    "title": "The 5 Best Yoga Mats for Sensitive Knees",
+    "type": "roundup"
+  },
+  "best-yoga-mats-for-travel": {
+    "title": "The 4 Best Yoga Mats for Travel",
+    "type": "roundup"
+  },
+  "best-yoga-mats-under-30": {
+    "title": "The 2 Best Yoga Mats Under $30",
+    "type": "roundup"
+  },
+  "best-yoga-mats-under-60": {
+    "title": "The 4 Best Yoga Mats Under $60",
+    "type": "roundup"
+  },
+  "best-yoga-mats": {
+    "title": "Yoga Mats",
+    "type": "category"
+  },
+  "blenders": {
+    "title": "Blenders",
+    "type": "category"
+  },
+  "bluetooth-speakers": {
+    "title": "Bluetooth Speakers",
+    "type": "category"
+  },
+  "breville-bambino-plus-review": {
+    "title": "Breville Bambino Plus Review",
+    "type": "review"
+  },
+  "car-wash-equipment": {
+    "title": "Car Wash Equipment",
+    "type": "category"
+  },
+  "chef-knives": {
+    "title": "Chef's Knives",
+    "type": "category"
+  },
+  "coffee-grinders": {
+    "title": "Coffee Grinders",
+    "type": "category"
+  },
+  "coffee-makers": {
+    "title": "Coffee Makers",
+    "type": "category"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "type": "page"
+  },
+  "desk-lamps": {
+    "title": "Desk Lamps",
+    "type": "category"
+  },
+  "desk-pads": {
+    "title": "Desk Pads",
+    "type": "category"
+  },
+  "drawing-tablets": {
+    "title": "Drawing Tablets",
+    "type": "category"
+  },
+  "drip-coffee-makers": {
+    "title": "Drip Coffee Makers",
+    "type": "category"
+  },
+  "editorial-policy": {
+    "title": "Editorial Policy",
+    "type": "page"
+  },
+  "electric-kettles": {
+    "title": "Electric Kettles",
+    "type": "category"
+  },
+  "electric-toothbrushes": {
+    "title": "Electric Toothbrushes",
+    "type": "category"
+  },
+  "electronics": {
+    "title": "Electronics",
+    "type": "department"
+  },
+  "ergonomic-keyboards": {
+    "title": "Ergonomic Keyboards",
+    "type": "category"
+  },
+  "ergonomic-mice": {
+    "title": "Ergonomic Mice",
+    "type": "category"
+  },
+  "espresso-machines": {
+    "title": "Espresso Machines",
+    "type": "category"
+  },
+  "food-processors": {
+    "title": "Food Processors",
+    "type": "category"
+  },
+  "gaming-chairs": {
+    "title": "Gaming Chairs",
+    "type": "category"
+  },
+  "gaming-headsets": {
+    "title": "Gaming Headsets",
+    "type": "category"
+  },
+  "gaming-mice": {
+    "title": "Gaming Mice",
+    "type": "category"
+  },
+  "griddles": {
+    "title": "Griddles",
+    "type": "category"
+  },
+  "hand-mixers": {
+    "title": "Hand Mixers",
+    "type": "category"
+  },
+  "headphone-stands": {
+    "title": "Headphone Stands",
+    "type": "category"
+  },
+  "health-and-fitness": {
+    "title": "Health & Fitness",
+    "type": "department"
+  },
+  "home-and-living": {
+    "title": "Home & Living",
+    "type": "department"
+  },
+  "how-to-choose-a-blender": {
+    "title": "How to Choose a Blender",
+    "type": "buying-guide"
+  },
+  "how-to-choose-a-stand-mixer": {
+    "title": "How to Choose a Stand Mixer",
+    "type": "buying-guide"
+  },
+  "how-to-choose-a-water-bottle": {
+    "title": "How to Choose a Water Bottle",
+    "type": "buying-guide"
+  },
+  "how-to-choose-an-air-fryer": {
+    "title": "How to Choose an Air Fryer",
+    "type": "buying-guide"
+  },
+  "how-to-choose-an-electric-kettle": {
+    "title": "How to Choose an Electric Kettle",
+    "type": "buying-guide"
+  },
+  "how-to-choose-an-electric-toothbrush": {
+    "title": "How to Choose an Electric Toothbrush",
+    "type": "buying-guide"
+  },
+  "how-to-choose-wireless-earbuds": {
+    "title": "How to Choose Wireless Earbuds",
+    "type": "buying-guide"
+  },
+  "how-to-clean-a-coffee-maker": {
+    "title": "How to Clean and Descale a Coffee Maker",
+    "type": "howto"
+  },
+  "immersion-blenders": {
+    "title": "Immersion Blenders",
+    "type": "category"
+  },
+  "instant-pot-duo-vs-duo-plus": {
+    "title": "Instant Pot Duo vs Duo Plus",
+    "type": "comparison"
+  },
+  "instant-pots": {
+    "title": "Instant Pots",
+    "type": "category"
+  },
+  "keyboard-switches": {
+    "title": "Keyboard Switches",
+    "type": "category"
+  },
+  "kitchen-and-dining": {
+    "title": "Kitchen & Dining",
+    "type": "department"
+  },
+  "kitchenaid-artisan-vs-classic": {
+    "title": "KitchenAid Artisan vs Classic",
+    "type": "comparison"
+  },
+  "laptop-cooling-pads": {
+    "title": "Laptop Cooling Pads",
+    "type": "category"
+  },
+  "laptop-stands": {
+    "title": "Laptop Stands",
+    "type": "category"
+  },
+  "license-plate-covers": {
+    "title": "License Plate Covers",
+    "type": "category"
+  },
+  "mechanical-keyboards": {
+    "title": "Mechanical Keyboards",
+    "type": "category"
+  },
+  "methodology": {
+    "title": "How We Research Products",
+    "type": "page"
+  },
+  "monitor-arms": {
+    "title": "Monitor Arms",
+    "type": "category"
+  },
+  "more-topics": {
+    "title": "More Topics",
+    "type": "department"
+  },
+  "multi-cookers": {
+    "title": "Multi-Cookers and Slow Cookers",
+    "type": "category"
+  },
+  "nas-devices": {
+    "title": "Nas Devices",
+    "type": "category"
+  },
+  "ninja-af101-vs-cosori-pro-le": {
+    "title": "Ninja AF101 vs COSORI Pro LE",
+    "type": "comparison"
+  },
+  "noise-cancelling-headphones": {
+    "title": "Noise Cancelling Headphones",
+    "type": "category"
+  },
+  "office-chairs": {
+    "title": "Office Chairs",
+    "type": "category"
+  },
+  "outdoor-and-garden": {
+    "title": "Outdoor & Garden",
+    "type": "department"
+  },
+  "pets": {
+    "title": "Pets",
+    "type": "department"
+  },
+  "pool-covers": {
+    "title": "Pool Covers",
+    "type": "category"
+  },
+  "portable-ssds": {
+    "title": "Portable SSDs",
+    "type": "category"
+  },
+  "power-banks": {
+    "title": "Power Banks",
+    "type": "category"
+  },
+  "pressure-cooker-vs-slow-cooker": {
+    "title": "Pressure Cooker vs Slow Cooker",
+    "type": "buying-guide"
+  },
+  "pressure-cookers": {
+    "title": "Pressure Cookers",
+    "type": "category"
+  },
+  "privacy-policy": {
+    "title": "Privacy Policy",
+    "type": "page"
+  },
+  "rice-cookers": {
+    "title": "Rice Cookers",
+    "type": "category"
+  },
+  "ring-lights": {
+    "title": "Ring Lights",
+    "type": "category"
+  },
+  "robot-vacuums": {
+    "title": "Robot Vacuums",
+    "type": "category"
+  },
+  "running-shoes": {
+    "title": "Running Shoes",
+    "type": "category"
+  },
+  "slow-cookers": {
+    "title": "Slow Cookers",
+    "type": "category"
+  },
+  "stand-mixers": {
+    "title": "Stand Mixers",
+    "type": "category"
+  },
+  "standing-desks": {
+    "title": "Standing Desks",
+    "type": "category"
+  },
+  "streaming-accessories": {
+    "title": "Streaming Accessories",
+    "type": "category"
+  },
+  "terms-of-use": {
+    "title": "Terms of Use",
+    "type": "page"
+  },
+  "toaster-ovens": {
+    "title": "Toaster Ovens",
+    "type": "category"
+  },
+  "toasters": {
+    "title": "Toasters",
+    "type": "category"
+  },
+  "tonneau-covers": {
+    "title": "Tonneau Covers",
+    "type": "category"
+  },
+  "tools-and-workshop": {
+    "title": "Workshop & Tools",
+    "type": "department"
+  },
+  "travel": {
+    "title": "Travel",
+    "type": "department"
+  },
+  "usb-microphones": {
+    "title": "USB Microphones",
+    "type": "category"
+  },
+  "waffle-makers": {
+    "title": "Waffle Makers",
+    "type": "category"
+  },
+  "water-bottles": {
+    "title": "Water Bottles",
+    "type": "category"
+  },
+  "webcams": {
+    "title": "Webcams",
+    "type": "category"
+  },
+  "wireless-chargers": {
+    "title": "Wireless Chargers",
+    "type": "category"
+  },
+  "wireless-earbuds": {
+    "title": "Wireless Earbuds",
+    "type": "category"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "category",
+  "title": "Blenders: High-Performance, Full-Size and Personal",
+  "h1": "Blenders",
+  "metaDescription": "Our blender research: the best blenders for smoothies, soups and frozen drinks, plus a guide to choosing the right type.",
+  "lede": "From single-serve smoothie blenders to high-performance machines that make hot soup, find the blender that fits what you actually make.",
+  "updatedAt": "2026-10-19",
+  "data": {
+    "department": "kitchen-and-dining",
+    "sections": [
+      {
+        "h": "Where to start",
+        "p": [
+          "If you know you want a blender but not which type, read the buying guide first. If you already know your budget, the best blenders list gives one strong pick per type."
+        ]
+      }
+    ]
+  }
+}

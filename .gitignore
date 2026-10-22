@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+site/node_modules/
+
+# Next.js build and export outputs
+.next/
+site/.next/
+out/
+site/out/
+
+# Environment files
+.env*.local
+site/.env*.local
+
+# Cache and build info
+*.tsbuildinfo
+site/*.tsbuildinfo
+next-env.d.ts
+site/next-env.d.ts
+.wrangler/
+site/.wrangler/
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db

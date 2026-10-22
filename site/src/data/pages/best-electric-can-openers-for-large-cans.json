@@ -1,0 +1,94 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Electric Can Openers for Large Cans",
+  "h1": "The 3 Best Electric Can Openers for Large Cans",
+  "metaDescription": "Our 3 picks for electric can openers for large cans, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at electric can openers for large cans using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-electric-can-openers",
+  "related": [
+    "best-electric-can-openers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Hamilton Beach Smooth Touch Electric Can Opener",
+        "brand": "Hamilton Beach",
+        "asin": "B000SAS5GI",
+        "blurb": "Key specs: Extra-tall opening capacity, Push-down lever, Opens standard, pop-top, and extra-tall cans.",
+        "strengths": [
+          "Extra-tall capacity handles large coffee and juice cans that standard openers can't clamp",
+          "Corded motor maintains torque through a full large-can cut without slowing",
+          "Also handles standard and pop-top cans, so it's not a single-purpose unit"
+        ],
+        "limitations": [
+          "Does not reach true #10 restaurant-size can height",
+          "Takes up permanent counter space",
+          "No auto-stop, so listening for the motor to finish is the cue on a longer cut"
+        ],
+        "features": [
+          "Extra-tall opening capacity",
+          "Push-down lever",
+          "Opens standard, pop-top, and extra-tall cans",
+          "Stainless steel scissors included",
+          "Corded motor"
+        ],
+        "badge": "Top pick",
+        "bestFor": "large cans"
+      },
+      {
+        "name": "Cuisinart Deluxe Electric Can Opener CCO-50N",
+        "brand": "Cuisinart",
+        "asin": "B001D9B2R2",
+        "blurb": "Key specs: Quality-engineered motor, Single-touch automatic operation, Nonslip wide base.",
+        "strengths": [
+          "Stronger motor keeps a consistent cutting speed on larger, heavier cans",
+          "Nonslip base keeps a heavier full can stable and centered during the cut",
+          "Automatic stop removes the guesswork on a longer cut cycle"
+        ],
+        "limitations": [
+          "Not rated for true extra-tall coffee-can height like the Hamilton Beach",
+          "Costs more than the Hamilton Beach at typical pricing",
+          "Bulkier footprint on the counter"
+        ],
+        "features": [
+          "Quality-engineered motor",
+          "Single-touch automatic operation",
+          "Nonslip wide base",
+          "Handles standard and large cans",
+          "Automatic stop"
+        ],
+        "bestFor": "large cans"
+      },
+      {
+        "name": "Black+Decker Spacemaker EC600 Can Opener",
+        "brand": "Black+Decker",
+        "asin": "B00004SC4X",
+        "blurb": "Key specs: Under-cabinet mounting, Corded motor, One-touch lever.",
+        "strengths": [
+          "Corded motor keeps steady torque through a larger can's cutting cycle",
+          "Freeing the counter gives more room to position a tall or heavy can underneath",
+          "Fixed mounting keeps the unit stable under the added weight of a large can"
+        ],
+        "limitations": [
+          "Fixed under-cabinet height limits maximum can height more than a countertop unit",
+          "Requires installation before first use",
+          "Smaller owner base than the two market leaders"
+        ],
+        "features": [
+          "Under-cabinet mounting",
+          "Corded motor",
+          "One-touch lever",
+          "Frees counter space for maneuvering large cans",
+          "Built-in cord wrap"
+        ],
+        "bestFor": "large cans"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

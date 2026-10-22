@@ -1,0 +1,117 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Mini Fridges for Garages",
+  "h1": "The 4 Best Mini Fridges for Garages",
+  "metaDescription": "Our 4 picks for mini fridges for garages, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at mini fridges for garages using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-mini-fridges",
+  "related": [
+    "best-mini-fridges"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Midea WHS-160RB1 4.4 Cu Ft Compact Refrigerator",
+        "brand": "Midea",
+        "asin": "B00MVVIF2G",
+        "blurb": "Key specs: 4.4 cu ft capacity, the largest option in this list, Simple push-button mechanical thermostat, 42 dB rated noise level.",
+        "strengths": [
+          "4.4 cu ft holds a real stock of drinks and overflow groceries",
+          "Mechanical dial thermostat is more tolerant of a dusty garage environment than a digital panel",
+          "Adjustable legs help level it on an uneven garage floor"
+        ],
+        "limitations": [
+          "Like all compact fridges, cooling gets inconsistent below roughly 50°F ambient",
+          "No true freezer for ice",
+          "Larger footprint takes real garage floor space"
+        ],
+        "features": [
+          "4.4 cu ft capacity, the largest option in this list",
+          "Simple push-button mechanical thermostat",
+          "42 dB rated noise level",
+          "Reversible door with adjustable legs",
+          "Small chiller compartment, not a true freezer"
+        ],
+        "badge": "Top pick",
+        "bestFor": "garages"
+      },
+      {
+        "name": "BLACK+DECKER BCRK25V 2.5 Cu Ft Compact Refrigerator",
+        "brand": "BLACK+DECKER",
+        "asin": "B01DZQI700",
+        "blurb": "Key specs: 2.5 cu ft single-door capacity, ENERGY STAR certified, about 212 kWh/year, Small freezer compartment with ice tray.",
+        "strengths": [
+          "2.5 cu ft is enough for drinks and a small grocery overflow",
+          "Reversible door adapts to tight garage corners or workbench layouts"
+        ],
+        "limitations": [
+          "Small top freezer barely holds an ice tray",
+          "Manual defrost required periodically",
+          "Same cold-ambient cooling limitations as every compact mini fridge"
+        ],
+        "features": [
+          "2.5 cu ft single-door capacity",
+          "ENERGY STAR certified, about 212 kWh/year",
+          "Small freezer compartment with ice tray",
+          "Two removable glass shelves",
+          "Reversible door, adjustable thermostat"
+        ],
+        "bestFor": "garages"
+      },
+      {
+        "name": "Galanz GLR31TBEER 3.1 Cu Ft Retro Mini Fridge",
+        "brand": "Galanz",
+        "asin": "B07DQSWT42",
+        "blurb": "Key specs: 3.1 cu ft total, split into fridge and separate top freezer, True dual-door design with an actual freezer, Adjustable mechanical thermostat.",
+        "strengths": [
+          "Only fridge in this list that can actually freeze ice or store frozen food in the garage",
+          "Mechanical thermostat is simpler and more garage-tolerant than a digital display",
+          "3.1 cu ft split between fridge and freezer covers a workshop's mixed needs"
+        ],
+        "limitations": [
+          "Pricier than the single-door options in this list",
+          "Taller footprint than a basic single-door fridge",
+          "Freezer performance in a genuinely cold garage is still limited by ambient temperature"
+        ],
+        "features": [
+          "3.1 cu ft total, split into fridge and separate top freezer",
+          "True dual-door design with an actual freezer",
+          "Adjustable mechanical thermostat",
+          "Retro-styled body, rated under 42 dB",
+          "Removable glass shelves"
+        ],
+        "bestFor": "garages"
+      },
+      {
+        "name": "Frigidaire EFR176 1.6 Cu Ft Retro Mini Fridge",
+        "brand": "Frigidaire",
+        "asin": "B07LDVXK4Q",
+        "blurb": "Key specs: 1.6 cu ft capacity, Flush-back design for tight corner placement, Side-mounted bottle opener.",
+        "strengths": [
+          "Flush back allows placement directly against a workbench or wall",
+          "Built-in bottle opener is a genuinely useful garage or workshop feature",
+          "Smallest footprint in this list for tight garage layouts"
+        ],
+        "limitations": [
+          "1.6 cu ft is limited for anything beyond drinks and snacks",
+          "Plastic door handle less durable than metal handles over garage use",
+          "Runs slightly louder than the Midea per owner reports"
+        ],
+        "features": [
+          "1.6 cu ft capacity",
+          "Flush-back design for tight corner placement",
+          "Side-mounted bottle opener",
+          "Wire shelf, 2-liter door bin",
+          "Reversible door"
+        ],
+        "bestFor": "garages"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

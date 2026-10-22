@@ -1,0 +1,40 @@
+{
+  "type": "howto",
+  "title": "How to Clean and Descale a Coffee Maker",
+  "h1": "How to Clean and Descale a Coffee Maker",
+  "metaDescription": "Step-by-step cleaning and descaling for drip and pod coffee makers, plus how often to do it.",
+  "lede": "Mineral scale and coffee oils slowly make coffee taste flat and can slow brewing. A quick routine every few weeks keeps your machine working well.",
+  "updatedAt": "2026-10-19",
+  "category": "coffee-makers",
+  "related": ["best-coffee-makers", "breville-bambino-plus-review"],
+  "data": {
+    "sections": [
+      {
+        "h": "Check your manual first",
+        "p": ["Some manufacturers require their own descaling solution and warn that vinegar can damage seals or void the warranty. Follow the manual if it says so."]
+      },
+      {
+        "h": "Daily and weekly cleaning",
+        "p": ["Rinse the carafe and filter basket after each use. Once a week, wash removable parts in warm soapy water and let them dry fully."]
+      },
+      {
+        "h": "Descaling a drip coffee maker",
+        "p": ["If your manual allows it:"],
+        "list": [
+          "Fill the reservoir with equal parts white vinegar and water, or a commercial descaler mixed as directed.",
+          "Run half a brew cycle, switch off, and let it sit for 30 minutes.",
+          "Finish the cycle, then discard the solution.",
+          "Run two or three cycles of fresh water to rinse."
+        ]
+      },
+      {
+        "h": "Descaling a pod machine",
+        "p": ["Most pod machines have a dedicated descale mode or a step-by-step process in the manual. Use the recommended solution, run it through without a pod, then rinse with several reservoirs of clean water."]
+      },
+      {
+        "h": "How often to descale",
+        "p": ["Every one to three months is typical. Descale more often if you have hard water or if brewing slows down."]
+      }
+    ]
+  }
+}

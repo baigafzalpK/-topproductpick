@@ -1,0 +1,86 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Electric Can Openers Under $50",
+  "h1": "The 3 Best Electric Can Openers Under $50",
+  "metaDescription": "Our 3 picks for electric can openers under $50, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at electric can openers under $50 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-electric-can-openers",
+  "related": [
+    "best-electric-can-openers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Cuisinart Deluxe Electric Can Opener CCO-50N",
+        "brand": "Cuisinart",
+        "asin": "B001D9B2R2",
+        "blurb": "Key specs: Typically $35 to $45, Single-touch automatic operation, Automatic stop.",
+        "strengths": [
+          "Automatic stop is the single most useful upgrade over budget models in this price bracket",
+          "Nonslip base and detachable lever are genuine, usable upgrades, not just marketing"
+        ],
+        "limitations": [
+          "Not rated for extra-tall can capacity the way the Hamilton Beach is",
+          "Bulkier footprint than a compact cordless model",
+          "Fewer total reviews than the Hamilton Beach or Kitchen Mama"
+        ],
+        "features": [
+          "Typically $35 to $45",
+          "Single-touch automatic operation",
+          "Automatic stop",
+          "Nonslip wide base",
+          "3-year limited warranty"
+        ]
+      },
+      {
+        "name": "Black+Decker Spacemaker EC600 Can Opener",
+        "brand": "Black+Decker",
+        "asin": "B00004SC4X",
+        "blurb": "Key specs: Typically $45 to $55, Under-cabinet mounting, One-touch lever.",
+        "strengths": [
+          "Only pick in this price range that mounts fixed and permanently frees the counter",
+          "One-touch lever operation is consistent once installed",
+          "Built-in cord wrap keeps the mounted unit tidy"
+        ],
+        "limitations": [
+          "Requires a one-time installation most other picks don't",
+          "Smallest review base of the picks in this category"
+        ],
+        "features": [
+          "Typically $45 to $55",
+          "Under-cabinet mounting",
+          "One-touch lever",
+          "Built-in cord wrap",
+          "Frees counter space permanently"
+        ]
+      },
+      {
+        "name": "Hamilton Beach Smooth Touch Electric Can Opener",
+        "brand": "Hamilton Beach",
+        "asin": "B000SAS5GI",
+        "blurb": "Key specs: Typically $25 to $30, Push-down lever, Extra-tall opening.",
+        "strengths": [
+          "Bundled scissors are a genuinely useful extra at this price"
+        ],
+        "limitations": [
+          "No automatic stop, unlike the Cuisinart",
+          "Not mountable, unlike the Black+Decker",
+          "Basic finish compared to pricier competitors"
+        ],
+        "features": [
+          "Typically $25 to $30",
+          "Push-down lever",
+          "Extra-tall opening",
+          "Smooth-edge cutting",
+          "Stainless steel scissors included"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

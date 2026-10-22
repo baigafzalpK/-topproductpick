@@ -1,0 +1,86 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Electric Skillets Under $40",
+  "h1": "The 3 Best Electric Skillets Under $40",
+  "metaDescription": "Our 3 picks for electric skillets under $40, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at electric skillets under $40 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-electric-skillets",
+  "related": [
+    "best-electric-skillets"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Presto 16-Inch Electric Skillet with Glass Cover",
+        "brand": "Presto",
+        "asin": "B0007XRTDG",
+        "blurb": "Key specs: 16-inch round cast aluminum cooking surface, High-dome glass cover, Removable temperature control probe.",
+        "strengths": [
+          "Cast aluminum resists the hot spots that plague cheaper stamped-steel pans",
+          "Simple 5-setting dial has fewer parts to fail than a digital touchscreen"
+        ],
+        "limitations": [
+          "Fixed settings offer less precision than a numbered temperature dial",
+          "No side handles for tilting or easy carrying",
+          "Large footprint may be more pan than needed for smaller households"
+        ],
+        "features": [
+          "16-inch round cast aluminum cooking surface",
+          "High-dome glass cover",
+          "Removable temperature control probe",
+          "5 fixed temperature settings",
+          "Dishwasher-safe pan body"
+        ],
+        "badge": "Best overall"
+      },
+      {
+        "name": "BLACK+DECKER Family-Sized Electric Skillet SK1215BC",
+        "brand": "BLACK+DECKER",
+        "asin": "B004PEIY9G",
+        "blurb": "Key specs: 12x15-inch rectangular nonstick surface, Tempered glass lid, Cool-touch handles.",
+        "strengths": [
+          "Rectangular shape fits sandwiches, chops, and other straight-edged foods more efficiently than a round pan",
+          "Tilt leg for draining grease is a convenience feature not common at this price",
+          "Cool-touch handles make it safer to carry when full"
+        ],
+        "limitations": [
+          "Nonstick coating wears faster than cast aluminum or ceramic under heavy daily use",
+          "Glass lid adds a breakage risk not present with metal lids",
+          "Slightly smaller total surface area than the Presto's 16-inch round"
+        ],
+        "features": [
+          "12x15-inch rectangular nonstick surface",
+          "Tempered glass lid",
+          "Cool-touch handles",
+          "Tilt leg for draining grease",
+          "Removable variable temperature control"
+        ]
+      },
+      {
+        "name": "Presto 16-Inch Ceramic Electric Skillet with Glass Cover",
+        "brand": "Presto",
+        "asin": "B0795ZJB61",
+        "blurb": "",
+        "strengths": [
+          "Large 16-inch cooking surface for family meals",
+          "Ceramic nonstick coating",
+          "Fully immersible for cleaning with the heat control removed",
+          "Tempered glass cover"
+        ],
+        "limitations": [
+          "Large to store",
+          "Ceramic coatings lose slickness with high heat",
+          "Edges can run cooler than the center"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

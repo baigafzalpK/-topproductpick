@@ -1,0 +1,264 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 10 Best Bluetooth Speakers Under $100",
+  "h1": "The 10 Best Bluetooth Speakers Under $100",
+  "metaDescription": "Our 10 picks for bluetooth speakers under $100, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at bluetooth speakers under $100 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "bluetooth-speakers",
+  "related": [
+    "bluetooth-speakers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "JBL Flip 6 Portable Bluetooth Speaker",
+        "brand": "JBL",
+        "asin": "B09GJZKQ3K",
+        "blurb": "Key specs: IP67 dust and water resistance, 12-hour battery life, Racetrack driver with dedicated tweeter.",
+        "strengths": [
+          "Dedicated tweeter gives noticeably clearer highs than cheaper JBL models",
+          "Fits in a water bottle pocket at 1.2 pounds",
+          "IP67 handles pool, rain, and dusty trail conditions",
+          "PartyBoost pairing adds a second speaker for stereo or louder mono output",
+          "Sounds tighter and less distorted at high volume than the Flip 5 it replaced"
+        ],
+        "limitations": [
+          "12-hour battery is short next to the Charge 5's 20 hours",
+          "No phone-charging output",
+          "Bass can overpower mids at 80 percent volume and above"
+        ],
+        "features": [
+          "IP67 dust and water resistance",
+          "12-hour battery life",
+          "Racetrack driver with dedicated tweeter",
+          "JBL PartyBoost pairing",
+          "USB-C charging"
+        ],
+        "badge": "Best Overall Budget",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "Anker Soundcore 3 Bluetooth Speaker",
+        "brand": "Anker",
+        "asin": "B08BCHKY52",
+        "blurb": "Key specs: Dual 16-watt drivers, BassUp DSP bass enhancement, 24-hour battery life.",
+        "strengths": [
+          "Dual 16-watt drivers push more low end than any speaker this size and price should manage",
+          "24-hour battery is the longest of any speaker under 50 dollars",
+          "Soundcore app adds custom EQ and firmware updates most budget speakers lack",
+          "Fabric wrap has proven durable across thousands of owner reports",
+          "At roughly 40 dollars, best sound-per-dollar in the entire under-100 field"
+        ],
+        "limitations": [
+          "IPX7 only, no dust rating for sandy environments",
+          "Plastic build feels less premium than JBL or Marshall",
+          "No multi-speaker pairing beyond basic stereo linking"
+        ],
+        "features": [
+          "Dual 16-watt drivers",
+          "BassUp DSP bass enhancement",
+          "24-hour battery life",
+          "IPX7 water resistance",
+          "Soundcore app EQ customization"
+        ],
+        "badge": "Best Value",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "Anker Soundcore Motion Boom Bluetooth Speaker",
+        "brand": "Anker Soundcore",
+        "asin": "B08LQNL42Z",
+        "blurb": "Key specs: IPX7 water resistance, 24-hour battery life, Titanium driver housing.",
+        "strengths": [
+          "Titanium driver delivers clarity that competes with speakers twice the price",
+          "BassUp mode matches the JBL Flip 6's low-end depth at a lower cost",
+          "24-hour battery ties for the longest in this price range",
+          "Outdoor-tuned EQ genuinely boosts vocals and treble in open air"
+        ],
+        "limitations": [
+          "IPX7 only, no dust protection",
+          "Bulkier and less pocketable than cylinder-style speakers",
+          "App and ecosystem features trail JBL and Anker's own Soundcore 3"
+        ],
+        "features": [
+          "IPX7 water resistance",
+          "24-hour battery life",
+          "Titanium driver housing",
+          "Outdoor-tuned EQ mode",
+          "Rugged carry handle"
+        ]
+      },
+      {
+        "name": "JBL Go 3 Portable Bluetooth Speaker",
+        "brand": "JBL",
+        "asin": "B08FB2H6Y4",
+        "blurb": "Key specs: IP67 dust and water resistance, 7.6-ounce pocket-sized build, 5-hour battery life.",
+        "strengths": [
+          "Smallest and lightest speaker in this list at 7.6 ounces",
+          "IP67 handles the pool, shower, and beach without concern",
+          "Clear, pleasant sound at close range for desk or nightstand use"
+        ],
+        "limitations": [
+          "5-hour battery is the shortest on this list",
+          "Limited bass depth from its small single driver",
+          "Not loud enough to fill a room or outdoor space"
+        ],
+        "features": [
+          "IP67 dust and water resistance",
+          "7.6-ounce pocket-sized build",
+          "5-hour battery life",
+          "USB-C charging",
+          "Built-in hanging loop"
+        ]
+      },
+      {
+        "name": "Sony SRS-XB13 Extra Bass Bluetooth Speaker",
+        "brand": "Sony",
+        "asin": "B08ZHCNPMN",
+        "blurb": "Key specs: IP67 dust and water resistance, Extra Bass tuning, 16-hour battery life.",
+        "strengths": [
+          "Extra Bass tuning adds surprising low-end for a palm-sized speaker",
+          "16-hour battery beats most speakers in its price bracket",
+          "IP67 rating matches speakers costing twice as much",
+          "Built-in strap makes it easy to hang or carry"
+        ],
+        "limitations": [
+          "Bass-forward tuning suits hip-hop and pop but not acoustic or classical",
+          "Max volume is too low for group settings",
+          "No app or EQ customization"
+        ],
+        "features": [
+          "IP67 dust and water resistance",
+          "Extra Bass tuning",
+          "16-hour battery life",
+          "Built-in hanging strap",
+          "Palm-sized form factor"
+        ]
+      },
+      {
+        "name": "Marshall Emberton Portable Bluetooth Speaker",
+        "brand": "Marshall",
+        "asin": "B08G52JFFQ",
+        "blurb": "Key specs: IP67 dust and water resistance, True Stereophonic 360-degree sound, Two full-range drivers plus two passive radiators.",
+        "strengths": [
+          "Two drivers and two passive radiators produce more detail and stereo imaging than any speaker at this price",
+          "20-plus hours of battery outlasts the JBL Flip 6",
+          "Distinctive retro design and build quality feel premium relative to price",
+          "Sound quality approaches speakers costing considerably more"
+        ],
+        "limitations": [
+          "Larger and less compact than the JBL Flip 6, harder to clip to a bag",
+          "Regularly sells near the top of this budget range, less of a bargain than the Soundcore 3",
+          "No JBL-style multi-speaker ecosystem for large group pairing"
+        ],
+        "features": [
+          "IP67 dust and water resistance",
+          "True Stereophonic 360-degree sound",
+          "Two full-range drivers plus two passive radiators",
+          "20-plus hour battery life",
+          "Signature woven fabric and knurled control knob"
+        ]
+      },
+      {
+        "name": "Tribit XSound Go Bluetooth Speaker",
+        "brand": "Tribit",
+        "asin": "B07594HZ6Y",
+        "blurb": "Key specs: IPX7 water resistance, 24-hour battery life, XBass technology.",
+        "strengths": [
+          "24-hour battery matches speakers costing twice as much",
+          "XBass mode adds real low-end without the muddiness some budget EQ boosts introduce",
+          "At around 30 dollars, one of the least expensive speakers with genuinely clean mids",
+          "IPX7 covers rain and splashes reliably despite the low price"
+        ],
+        "limitations": [
+          "IPX7 only, no dust rating for beach or trail use",
+          "Plastic housing feels noticeably cheaper than the Emberton or Flip 6",
+          "Max volume is adequate for one room but not outdoor gatherings"
+        ],
+        "features": [
+          "IPX7 water resistance",
+          "24-hour battery life",
+          "XBass technology",
+          "6-watt driver with passive radiator",
+          "Voice prompt pairing"
+        ]
+      },
+      {
+        "name": "Ultimate Ears Wonderboom 3 Bluetooth Speaker",
+        "brand": "Ultimate Ears",
+        "asin": "B09KX27KGN",
+        "blurb": "Key specs: IP67 dust and water resistance, Floats on water, 360-degree sound.",
+        "strengths": [
+          "Floats instead of sinking if dropped in a pool or lake, unlike most speakers on this list",
+          "360-degree sound means no dead spot no matter which side faces the listener",
+          "IP67 rating handles dust and full submersion",
+          "Barrel shape and rubberized shell survive drops onto concrete"
+        ],
+        "limitations": [
+          "Bright, bass-light tuning suits podcasts and acoustic music more than bass-heavy genres",
+          "14-hour battery trails the Soundcore 3 and Motion Boom's 24 hours",
+          "No aux input, Bluetooth only"
+        ],
+        "features": [
+          "IP67 dust and water resistance",
+          "Floats on water",
+          "360-degree sound",
+          "14-hour battery life",
+          "Outdoor Boost mode"
+        ]
+      },
+      {
+        "name": "JBL Clip 4 Portable Bluetooth Speaker",
+        "brand": "JBL",
+        "asin": "B08HRWSYH6",
+        "blurb": "Key specs: IP67 dust and water resistance, Integrated carabiner clip, 10-hour battery life.",
+        "strengths": [
+          "Integrated carabiner clip is genuinely secure, unlike clip-on cases bolted to other speakers",
+          "IP67 rating matches speakers twice its size",
+          "10-hour battery is respectable for a speaker this small"
+        ],
+        "limitations": [
+          "Small single driver limits bass and overall loudness",
+          "Not loud enough for anything beyond close-range or one-on-one listening",
+          "No multi-speaker pairing"
+        ],
+        "features": [
+          "IP67 dust and water resistance",
+          "Integrated carabiner clip",
+          "10-hour battery life",
+          "USB-C charging",
+          "3.4-ounce compact build"
+        ]
+      },
+      {
+        "name": "OontZ Angle 3 Ultra Bluetooth Speaker",
+        "brand": "OontZ",
+        "asin": "B073BVWRSP",
+        "blurb": "Key specs: IPX5 water resistance, Angled driver design, 14-hour battery life.",
+        "strengths": [
+          "Angled drivers point sound at the listener instead of dispersing it upward",
+          "At around 25 dollars, the cheapest speaker on this list with genuinely usable volume",
+          "10-watt driver gets louder than most speakers under 30 dollars"
+        ],
+        "limitations": [
+          "IPX5 splash resistance only, not rated for submersion like the IP67 speakers here",
+          "Bulkier, boxier design than the cylinder or pocket-style competitors",
+          "Sound is functional rather than detailed, no standout clarity or bass depth"
+        ],
+        "features": [
+          "IPX5 water resistance",
+          "Angled driver design",
+          "14-hour battery life",
+          "10-watt driver",
+          "Built-in mic for calls"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Pressure Washers for Decks",
+  "h1": "The 4 Best Pressure Washers for Decks",
+  "metaDescription": "Our 4 picks for pressure washers for decks, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at pressure washers for decks using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-pressure-washers",
+  "related": [
+    "best-pressure-washers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Sun Joe SPX3000 Electric Pressure Washer",
+        "brand": "Sun Joe",
+        "asin": "B073FCV1ZC",
+        "blurb": "Key specs: 2030 max PSI, 1.76 GPM max flow, 5 quick-connect spray tips including a wide 40-degree fan, Dual detergent tanks for deck cleaner and rinse-aid.",
+        "strengths": [
+          "Included 40-degree wide fan tip is the gentlest option in the box, well suited to softwood decking",
+          "Dual detergent tanks make it easy to run a dedicated deck cleaner without swapping containers",
+          "Widely reviewed and easy to find replacement nozzles and parts if one wears out"
+        ],
+        "limitations": [
+          "No dedicated low-pressure deck mode, output control depends entirely on nozzle choice and distance",
+          "2030 PSI still requires discipline on aging or already-weathered boards",
+          "Plastic housing feels less durable than the Karcher K5's build over years of seasonal use"
+        ],
+        "features": [
+          "2030 max PSI, 1.76 GPM max flow",
+          "5 quick-connect spray tips including a wide 40-degree fan",
+          "Dual detergent tanks for deck cleaner and rinse-aid",
+          "TSS auto shutoff",
+          "20-foot hose, 35-foot power cord"
+        ],
+        "bestFor": "decks"
+      },
+      {
+        "name": "Greenworks GPW1501 1500 PSI Pressure Washer",
+        "brand": "Greenworks",
+        "asin": "B09W4VQX7Z",
+        "blurb": "Key specs: 1500 max PSI, 1.2 GPM, Upright hand-carry design, Turbo nozzle included.",
+        "strengths": [
+          "1500 PSI ceiling is the closest of any model here to the generally recommended safe range for softwood",
+          "Lightweight, hand-carry design is easy to move around a deck without dragging a cart",
+          "Compact enough to store in a closet between seasonal uses"
+        ],
+        "limitations": [
+          "1.2 GPM flow means slower rinsing on a large deck versus higher-GPM units",
+          "No included wide fan-tip specifically marketed for wood, relies on the turbo nozzle used carefully at distance",
+          "Not powerful enough for driveway or concrete duty, a second unit may be needed for other surfaces"
+        ],
+        "features": [
+          "1500 max PSI, 1.2 GPM",
+          "Upright hand-carry design",
+          "Turbo nozzle included",
+          "35-foot power cord",
+          "13-Amp motor"
+        ],
+        "bestFor": "decks"
+      },
+      {
+        "name": "Karcher K5 Premium Full Control Plus",
+        "brand": "Karcher",
+        "asin": "B07YQGT58Q",
+        "blurb": "Key specs: 2000 PSI, 1.4 GPM, Vario Power adjustable spray wand, Water-cooled induction motor.",
+        "strengths": [
+          "Vario Power wand lets you dial pressure up or down at the nozzle without swapping tips, the most convenient adjustable control in this list",
+          "Water-cooled induction motor is rated for a longer service life under repeated seasonal use",
+          "Two-year limited warranty is longer than most competitors in this price range"
+        ],
+        "limitations": [
+          "Costs meaningfully more than the Sun Joe or Greenworks options",
+          "1.4 GPM flow is lower than the Sun Joe SPX3000's 1.76 GPM, so rinsing large decks takes a bit longer",
+          "Bulkier housing than the compact Greenworks GPW1501"
+        ],
+        "features": [
+          "2000 PSI, 1.4 GPM",
+          "Vario Power adjustable spray wand",
+          "Water-cooled induction motor",
+          "Onboard detergent tank",
+          "Integrated hose reel"
+        ],
+        "bestFor": "decks"
+      },
+      {
+        "name": "RYOBI 2500 PSI 1.2 GPM Brushless Electric Pressure Washer",
+        "brand": "RYOBI",
+        "asin": "B0DKYY9BMP",
+        "blurb": "",
+        "strengths": [
+          "Brushless motor",
+          "Enough pressure for decks and siding",
+          "Onboard detergent tank",
+          "25 ft hose"
+        ],
+        "limitations": [
+          "Heavy at about 40 lb",
+          "1.2 GPM is modest",
+          "Use wide tips on soft wood"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

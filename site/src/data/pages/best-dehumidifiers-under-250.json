@@ -1,0 +1,140 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 6 Best Dehumidifiers Under $250",
+  "h1": "The 6 Best Dehumidifiers Under $250",
+  "metaDescription": "Our 6 picks for dehumidifiers under $250, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at dehumidifiers under $250 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-dehumidifiers",
+  "related": [
+    "best-dehumidifiers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Frigidaire FFAP5033W1 50-Pint Dehumidifier with Pump",
+        "brand": "Frigidaire",
+        "asin": "B07Z5Q7M3N",
+        "blurb": "Key specs: 50-pint-per-day moisture removal, 4,500 sq ft coverage, Built-in condensate pump for continuous drainage, Rated to operate down to 41°F.",
+        "strengths": [
+          "Highest raw capacity of the picks in this price bracket",
+          "41°F operating floor covers a cold basement most competitors can't handle",
+          "Built-in pump and Energy Star certification typically both included at this price"
+        ],
+        "limitations": [
+          "No app connectivity, unlike the Midea Cube",
+          "Larger footprint than the Midea Cube's nested form factor",
+          "Casters struggle on uneven flooring"
+        ],
+        "features": [
+          "50-pint-per-day moisture removal, 4,500 sq ft coverage",
+          "Built-in condensate pump for continuous drainage",
+          "Rated to operate down to 41°F",
+          "Energy Star certified with washable filter"
+        ],
+        "badge": "Top pick"
+      },
+      {
+        "name": "Midea Cube 35-Pint Smart Dehumidifier with Pump",
+        "brand": "Midea",
+        "asin": "B0B4BK9XVP",
+        "blurb": "Key specs: 35-pint-per-day rating, covers up to 3,500 sq ft, Built-in pump with included drain hose, Wi-Fi control via the MideaAir app, works with Alexa.",
+        "strengths": [
+          "App control and Alexa compatibility are rare at this price for any brand",
+          "Quietest compressor of the four models reviewed in this category",
+          "Expandable Cube tank cuts how often it needs emptying"
+        ],
+        "limitations": [
+          "35-pint capacity is lower than the Frigidaire or TOSOT's 50-pint rating",
+          "Typically sits near the top of this price bracket at full retail",
+          "Learning the Cube's lift-and-twist mechanism takes a try or two"
+        ],
+        "features": [
+          "35-pint-per-day rating, covers up to 3,500 sq ft",
+          "Built-in pump with included drain hose",
+          "Wi-Fi control via the MideaAir app, works with Alexa"
+        ]
+      },
+      {
+        "name": "TOSOT 50-Pint Dehumidifier with Internal Pump",
+        "brand": "TOSOT",
+        "asin": "B07FJHZ58L",
+        "blurb": "Key specs: 50-pint-per-day rating for up to 4,500 sq ft, Internal pump lifts water up to 15 feet through a 19-foot hose, Energy Star certified and UL listed.",
+        "strengths": [
+          "15-foot pump lift is the longest reach of the units in this price bracket",
+          "Auto-restart keeps settings intact after a brief power interruption"
+        ],
+        "limitations": [
+          "Owner reports note compressor longevity concerns after 2 to 3 seasons",
+          "Louder at full fan speed than the Midea Cube"
+        ],
+        "features": [
+          "50-pint-per-day rating for up to 4,500 sq ft",
+          "Internal pump lifts water up to 15 feet through a 19-foot hose",
+          "Energy Star certified and UL listed",
+          "Auto-restart after a power outage"
+        ]
+      },
+      {
+        "name": "hOmeLabs 4,500 Sq Ft Energy Star Dehumidifier",
+        "brand": "hOmeLabs",
+        "asin": "B06X9MFTZZ",
+        "blurb": "",
+        "strengths": [
+          "Energy Star certified",
+          "Continuous drain option",
+          "Auto restart after power outages",
+          "Turbo fan mode"
+        ],
+        "limitations": [
+          "Tank capacity is modest without a hose",
+          "Listing capacity figures vary by test standard",
+          "Noise on high fan"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "BLACK+DECKER BD50MWSA 50-Pint Dehumidifier",
+        "brand": "BLACK+DECKER",
+        "asin": "B08WH4L354",
+        "blurb": "",
+        "strengths": [
+          "50-pint capacity for wet basements",
+          "Energy Star certified",
+          "Continuous drain option",
+          "Simple controls"
+        ],
+        "limitations": [
+          "Heavy to move",
+          "Coverage claims depend on test standard",
+          "Louder than smaller units"
+        ],
+        "features": []
+      },
+      {
+        "name": "Frigidaire FHDD3534Y1 35-Pint Wi-Fi Dehumidifier",
+        "brand": "Frigidaire",
+        "asin": "B0FP2WS38M",
+        "blurb": "",
+        "strengths": [
+          "Wi-Fi app control and alerts",
+          "Energy Star certified",
+          "Continuous drain option",
+          "Right-sized for bedrooms"
+        ],
+        "limitations": [
+          "1.7-gallon bucket fills quickly in damp rooms",
+          "Audible compressor",
+          "App setup required for smart features"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

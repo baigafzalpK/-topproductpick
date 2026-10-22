@@ -1,0 +1,157 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 6 Best Leaf Blowers for Small Yards",
+  "h1": "The 6 Best Leaf Blowers for Small Yards",
+  "metaDescription": "Our 6 picks for leaf blowers for small yards, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at leaf blowers for small yards using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-leaf-blowers",
+  "related": [
+    "best-leaf-blowers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "EGO Power+ LB6504 650 CFM Cordless Leaf Blower",
+        "brand": "EGO",
+        "asin": "B087RRLLQ3",
+        "blurb": "Key specs: 56V ARC Lithium battery, 5.0Ah included, Up to 650 CFM turbo airflow, 250 to 500 CFM variable-speed dial.",
+        "strengths": [
+          "650 CFM clears a small yard in a single fast pass",
+          "Variable dial keeps everyday cleanup quieter than full turbo",
+          "5-year tool warranty is the longest of any blower in this roundup",
+          "Battery works across 100-plus EGO 56V outdoor tools"
+        ],
+        "limitations": [
+          "At roughly 6.2 lbs with the battery installed, it's the heaviest handheld pick here",
+          "Turbo mode drains the included 5.0Ah pack in well under an hour"
+        ],
+        "features": [
+          "56V ARC Lithium battery, 5.0Ah included",
+          "Up to 650 CFM turbo airflow",
+          "250 to 500 CFM variable-speed dial",
+          "Up to 75 minutes runtime per charge",
+          "Brushless motor"
+        ],
+        "badge": "Top pick",
+        "bestFor": "small yards"
+      },
+      {
+        "name": "Greenworks 40V 185 MPH 340 CFM Cordless Blower/Vacuum",
+        "brand": "Greenworks",
+        "asin": "B00DRBBRVU",
+        "blurb": "Key specs: 185 MPH / 340 CFM brushless motor, 2-in-1 blower and vacuum with collection bag, Includes 4.0Ah battery and charger.",
+        "strengths": [
+          "Lightest full package here at 7.3 lbs, easy for longer sessions",
+          "Vacuum mode with bag doubles as light leaf collection on the same charge",
+          "Battery and charger included at a price below the EGO and Ryobi kits",
+          "3-year warranty on tool and battery"
+        ],
+        "limitations": [
+          "340 CFM trails the EGO and Toro on heavy or wet leaf piles",
+          "Vacuum bag needs frequent emptying on anything but a small lawn",
+          "Single-speed vacuum mode versus the blower's variable speed"
+        ],
+        "features": [
+          "185 MPH / 340 CFM brushless motor",
+          "2-in-1 blower and vacuum with collection bag",
+          "Includes 4.0Ah battery and charger",
+          "7.3 lb lightweight design",
+          "Compatible with the Greenworks 40V battery system"
+        ],
+        "bestFor": "small yards"
+      },
+      {
+        "name": "Ryobi 40V HP Brushless Whisper Series 650 CFM Leaf Blower",
+        "brand": "Ryobi",
+        "asin": "B07N2XRHKM",
+        "blurb": "Key specs: 40V HP Brushless motor, 650 CFM / 160 MPH, Whisper Series low-noise housing, Variable-speed trigger with cruise control lock.",
+        "strengths": [
+          "Noticeably quieter than the EGO and Greenworks at comparable airflow",
+          "Cruise control trigger lock reduces hand fatigue on longer cleanups",
+          "650 CFM keeps pace with the EGO LB6504 at a lower typical street price",
+          "Battery shared across Ryobi's wide 40V mower, trimmer, and blower lineup"
+        ],
+        "limitations": [
+          "Most listings sell it tool-only, with battery and charger priced separately",
+          "Amazon stock and bundle availability is less consistent than Home Depot's",
+          "1-year tool warranty is shorter than the EGO's 5-year coverage"
+        ],
+        "features": [
+          "40V HP Brushless motor, 650 CFM / 160 MPH",
+          "Whisper Series low-noise housing",
+          "Variable-speed trigger with cruise control lock",
+          "Turbo button for maximum clearing power",
+          "Shares Ryobi's 40V outdoor tool battery platform"
+        ],
+        "bestFor": "small yards"
+      },
+      {
+        "name": "Toro PowerJet F700 Corded Electric Leaf Blower",
+        "brand": "Toro",
+        "asin": "B00TNCJU3E",
+        "blurb": "Key specs: 725 CFM airflow, 140 MPH air speed, 12-amp motor, Variable-speed dial.",
+        "strengths": [
+          "No battery to charge and no runtime limit as long as it's plugged in",
+          "725 CFM handles heavier leaf piles than any cordless pick here",
+          "Lightest blower in this roundup since there's no battery pack to carry",
+          "Typically the least expensive option new"
+        ],
+        "limitations": [
+          "Cord length limits range, extension cords required for anything beyond a small lot",
+          "Louder at full power than the Ryobi Whisper Series",
+          "Not practical for gutter cleaning far from an outlet"
+        ],
+        "features": [
+          "725 CFM airflow, 140 MPH air speed",
+          "12-amp motor",
+          "Variable-speed dial",
+          "No battery, plug-in corded design",
+          "Lightweight housing"
+        ],
+        "bestFor": "small yards"
+      },
+      {
+        "name": "WORX WG547 20V Cordless Turbine Leaf Blower",
+        "brand": "WORX",
+        "asin": "B07MFW7PNC",
+        "blurb": "",
+        "strengths": [
+          "Light and easy to handle",
+          "Turbine fan design",
+          "Battery and charger included",
+          "PowerShare battery platform"
+        ],
+        "limitations": [
+          "Not for big wet leaf piles",
+          "Short runtime on high",
+          "Small battery"
+        ],
+        "features": []
+      },
+      {
+        "name": "BLACK+DECKER 20V MAX Cordless Leaf Blower (LSW221)",
+        "brand": "BLACK+DECKER",
+        "asin": "B01BNMP6CU",
+        "blurb": "",
+        "strengths": [
+          "Very light and easy to use",
+          "Battery and charger included",
+          "Good for sweeping hard surfaces",
+          "Affordable"
+        ],
+        "limitations": [
+          "Low airflow for lawns full of leaves",
+          "Short runtime",
+          "Not for wet leaves"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

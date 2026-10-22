@@ -1,0 +1,284 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 10 Best Air Purifiers for Allergies",
+  "h1": "The 10 Best Air Purifiers for Allergies",
+  "metaDescription": "Our 10 picks for air purifiers for allergies, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at air purifiers for allergies using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "air-purifiers",
+  "related": [
+    "air-purifiers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Coway Airmega AP-1512HH Mighty True HEPA Air Purifier",
+        "brand": "Coway",
+        "asin": "B01728NLRG",
+        "blurb": "Key specs: 246 smoke CADR covers rooms up to ~360 sq ft, True HEPA rated 99.97% at 0.3 microns, Washable fabric pre-filter for pet hair.",
+        "strengths": [
+          "246 smoke CADR gives allergy households real headroom to run on a quiet low speed rather than a loud maximum one",
+          "Washable pre-filter meaningfully extends HEPA filter life in homes with shedding pets",
+          "Eco mode shuts the fan off after 30 minutes of clean air and restarts on rising particle counts, cutting running hours automatically",
+          "43 dB maximum keeps it usable overnight in a bedroom, which is where allergy filtration matters most"
+        ],
+        "limitations": [
+          "230 dollars at list, roughly double a Levoit Core 300 for coverage under twice the area",
+          "Optical particle sensor responds well to visible smoke and less reliably to fine pollen-scale particulate",
+          "Includes an ionizer that should be switched off, and the setting doesn't always persist through a power cycle",
+          "Filter change indicator runs on a fixed timer rather than actual filter loading"
+        ],
+        "features": [
+          "246 smoke CADR covers rooms up to ~360 sq ft",
+          "True HEPA rated 99.97% at 0.3 microns",
+          "Washable fabric pre-filter for pet hair",
+          "Real activated carbon layer, not a coating",
+          "Eco mode with particle-sensor auto shutoff",
+          "43 dB max, ~24 dB on speed one"
+        ],
+        "badge": "Top pick",
+        "bestFor": "allergies"
+      },
+      {
+        "name": "Honeywell HPA300 True HEPA Allergen Remover",
+        "brand": "Honeywell",
+        "asin": "B00BWYO53G",
+        "blurb": "Key specs: 300 pollen CADR, highest in this price tier, True HEPA filtration, 99.97% at 0.3 microns, Turbo Clean setting for rapid particle knockdown.",
+        "strengths": [
+          "A 300 pollen CADR beats nearly every competitor in its price range, which matters most during spring and fall spikes",
+          "True HEPA rating is documented on the spec sheet rather than described vaguely as HEPA-type",
+          "Exposed filter design without a plastic cage means more usable filtration surface per dollar",
+          "Filters are widely stocked third-party and genuine, so five-year cost stays predictable"
+        ],
+        "limitations": [
+          "Louder than the Coway or Levoit at equivalent output, noticeably so at speed three",
+          "Boxier plastic housing looks and feels less premium than the Coway's build",
+          "No washable pre-filter, so all hair and large debris load directly onto the HEPA media",
+          "Auto mode's sensor reacts more to visible particles than to fine pollen dust"
+        ],
+        "features": [
+          "300 pollen CADR, highest in this price tier",
+          "True HEPA filtration, 99.97% at 0.3 microns",
+          "Turbo Clean setting for rapid particle knockdown",
+          "Exposed pleated filter with no plastic cage",
+          "3 fan speeds plus auto and sleep settings"
+        ],
+        "bestFor": "allergies"
+      },
+      {
+        "name": "Blueair Blue Pure 411 Air Purifier",
+        "brand": "Blueair",
+        "asin": "B073WJDQMN",
+        "blurb": "Key specs: HEPASilent filtration combining mechanical and electrostatic capture, As low as 17 dB on low speed, Washable fabric pre-filter cover in several colors.",
+        "strengths": [
+          "17 dB minimum noise is close to silent, making it the easiest unit here to sleep beside",
+          "HEPASilent design reaches strong particle capture without the fan noise a purely mechanical filter needs at the same CADR",
+          "Washable fabric pre-filter swaps out for a fresh look and adds a first line of defense against large debris",
+          "Compact enough for a nightstand without dominating a small bedroom",
+          "Low running cost keeps it cheap to operate continuously, which is how allergy purifiers should be run"
+        ],
+        "limitations": [
+          "Limited coverage of roughly 190 sq ft means it is bedroom-only, not a living-room solution",
+          "No true carbon layer of note, so it does little for odors",
+          "No auto mode or particle sensor, fan speed is manual"
+        ],
+        "features": [
+          "HEPASilent filtration combining mechanical and electrostatic capture",
+          "As low as 17 dB on low speed",
+          "Washable fabric pre-filter cover in several colors",
+          "Compact footprint sized for nightstands",
+          "True HEPA capture at 99.97% efficiency"
+        ],
+        "bestFor": "allergies"
+      },
+      {
+        "name": "Winix 5500-2 True HEPA Air Purifier",
+        "brand": "Winix",
+        "asin": "B01D8DAYII",
+        "blurb": "Key specs: 232 smoke CADR covers rooms up to ~350 sq ft, Washable AOC carbon pre-filter, True HEPA filtration.",
+        "strengths": [
+          "Washable AOC carbon pre-filter extends HEPA filter life meaningfully in pet and allergy households",
+          "232 smoke CADR is genuine mid-size coverage at a price well below the Coway",
+          "Auto mode with a real particle sensor and numeric readout gives visible feedback on room conditions",
+          "Lower five-year filter cost than most true-HEPA competitors thanks to the washable component"
+        ],
+        "limitations": [
+          "PlasmaWave ionizer should be switched off for allergy and asthma households, and the menu to disable it is not obvious",
+          "Plastic housing feels less substantial than the Coway's",
+          "Louder at top speed than the Coway or Blueair 411 at comparable output",
+          "Washing the AOC filter is an extra maintenance step some owners skip, which shortens HEPA life"
+        ],
+        "features": [
+          "232 smoke CADR covers rooms up to ~350 sq ft",
+          "Washable AOC carbon pre-filter",
+          "True HEPA filtration",
+          "PlasmaWave ionization (disable for allergy use)",
+          "4 fan speeds plus auto and sleep modes"
+        ],
+        "bestFor": "allergies"
+      },
+      {
+        "name": "Blueair Blue Pure 211+ Air Purifier",
+        "brand": "Blueair",
+        "asin": "B073WJL99W",
+        "blurb": "Key specs: 350 smoke CADR covers ~540 sq ft, HEPASilent filtration technology, Washable fabric pre-filter cover.",
+        "strengths": [
+          "350 smoke CADR is enough real capacity for an open-plan living space, not just a bedroom",
+          "Single large fan reaches high CADR while staying under 56 dB even at full speed, quieter than smaller units pushed harder",
+          "Washable fabric pre-filter cover extends the HEPA filter's usable life and comes in swappable colors",
+          "HEPASilent design captures fine particulate without requiring a screaming fan to hit the CADR number"
+        ],
+        "limitations": [
+          "Larger physical footprint that needs real floor space, not a nightstand fit",
+          "No auto mode or particle sensor, fan speed is set manually",
+          "Minimal carbon means little help with cooking or pet odor",
+          "Higher price than mid-size units for households that don't actually need 540 sq ft of coverage"
+        ],
+        "features": [
+          "350 smoke CADR covers ~540 sq ft",
+          "HEPASilent filtration technology",
+          "Washable fabric pre-filter cover",
+          "Single large fan stays under 56 dB at max",
+          "True HEPA capture at 99.97%"
+        ],
+        "bestFor": "allergies"
+      },
+      {
+        "name": "Levoit Vital 100 True HEPA Air Purifier",
+        "brand": "Levoit",
+        "asin": "B07X25BNBR",
+        "blurb": "Key specs: Wide intake designed to handle fur and large debris, True HEPA filtration for rooms up to ~300 sq ft, 24 dB sleep mode.",
+        "strengths": [
+          "Wide, fur-ready intake is specifically well suited to shedding pets rather than a generic HEPA opening",
+          "Since pet dander is a large particle, filtration efficiency is not the limiting factor here, and this unit is built around that reality",
+          "24 dB sleep mode is quiet enough for a bedroom shared with a pet",
+          "Compact footprint makes it easy to place near a pet's usual resting spot without crowding the room"
+        ],
+        "limitations": [
+          "No washable pre-filter, so fur and dander load directly onto the primary filter and shorten its life",
+          "Thin carbon coating does little for pet odor beyond the first few weeks after a filter change",
+          "No auto mode, so speed must be bumped manually after vacuuming or a shedding session",
+          "Coverage tops out around 300 sq ft, undersized for open pet-friendly living areas"
+        ],
+        "features": [
+          "Wide intake designed to handle fur and large debris",
+          "True HEPA filtration for rooms up to ~300 sq ft",
+          "24 dB sleep mode",
+          "Display panel with fan speed indicator",
+          "Compact cylindrical design"
+        ],
+        "bestFor": "allergies"
+      },
+      {
+        "name": "Levoit Core 300 True HEPA Air Purifier",
+        "brand": "Levoit",
+        "asin": "B07VVK39F7",
+        "blurb": "Key specs: 141 smoke CADR covers ~215 sq ft, True HEPA at 99.97% capture, 24 dB sleep mode.",
+        "strengths": [
+          "Genuine true HEPA at under 110 dollars, cheapest legitimate option for an allergy bedroom",
+          "24 dB sleep mode is quiet enough that most owners stop noticing it within a day",
+          "360-degree intake is far more forgiving about placement in a cramped bedroom than rear-intake rectangular units",
+          "No ionizer means no ozone byproduct and nothing to remember to switch off, a real plus for allergy and asthma households"
+        ],
+        "limitations": [
+          "141 CADR caps honest coverage at about 215 sq ft, undersized for anything beyond a bedroom or small office",
+          "No air quality sensor or auto mode, fan speed is entirely manual",
+          "Carbon layer is a thin coating that fades within weeks of a filter change",
+          "No washable pre-filter, so pet hair loads directly onto the HEPA media"
+        ],
+        "features": [
+          "141 smoke CADR covers ~215 sq ft",
+          "True HEPA at 99.97% capture",
+          "24 dB sleep mode",
+          "360-degree cylindrical intake",
+          "No ionizer or ozone byproduct"
+        ],
+        "bestFor": "allergies"
+      },
+      {
+        "name": "Austin Air HealthMate HM400 Standard Air Purifier",
+        "brand": "Austin Air",
+        "asin": "B0007Y830I",
+        "blurb": "Key specs: 15 lbs of granular activated carbon plus 4 lbs of zeolite, Welded steel body, no plastic off-gassing, Medical-grade HEPA rated for particulate down to 0.1 micron.",
+        "strengths": [
+          "15 pounds of granular carbon is a magnitude beyond any carbon coating in this category, and it's the only unit here that meaningfully handles gases and chemical off-gassing, not just particulate",
+          "Welded steel construction with no plastic housing means the purifier itself doesn't off-gas, which matters specifically for chemical sensitivity buyers",
+          "Medical-grade HEPA rated down to 0.1 micron exceeds the standard 0.3 micron true HEPA benchmark",
+          "5-year warranty reflects genuinely industrial build quality uncommon at consumer prices",
+          "No ionizer, UV lamp, or plasma feature to worry about disabling"
+        ],
+        "limitations": [
+          "45 pounds and a large drum shape make it the least portable unit on this list by a wide margin",
+          "No digital display, sensor, or auto mode; it is a manual on/off/speed machine",
+          "Most expensive purifier here relative to its HEPA-only CADR performance, since the price is paying for the carbon",
+          "Replacement filters cost significantly more than any HEPA-only competitor and are needed roughly every 3 to 5 years"
+        ],
+        "features": [
+          "15 lbs of granular activated carbon plus 4 lbs of zeolite",
+          "Welded steel body, no plastic off-gassing",
+          "Medical-grade HEPA rated for particulate down to 0.1 micron",
+          "No ionizer, UV, or plasma additions",
+          "5-year manufacturer warranty on the housing"
+        ],
+        "bestFor": "allergies"
+      },
+      {
+        "name": "Coway Airmega 400 Smart Air Purifier",
+        "brand": "Coway",
+        "asin": "B01C9RIACG",
+        "blurb": "Key specs: Max2 true HEPA and carbon filter stack, Smart app control with real-time PM2.5 readout, Auto mode driven by a laser particle sensor.",
+        "strengths": [
+          "Laser particle sensor is a meaningful step up from the optical sensors in cheaper Coway and Levoit units, giving genuinely responsive auto mode",
+          "App control with real-time PM2.5 numbers turns the purifier into an actual air quality monitor, not just a filter",
+          "Max2 filter combines true HEPA and carbon in one cartridge, simplifying replacement",
+          "Large-room capacity means it can run on a low, quiet speed in a mid-size space rather than maxed out"
+        ],
+        "limitations": [
+          "Price sits well above the AP-1512HH for buyers who don't need the extra coverage or app features",
+          "App dependency means Wi-Fi setup and occasional firmware quirks that a purely mechanical unit doesn't have",
+          "No washable pre-filter component separate from the main cartridge, unlike the AP-1512HH",
+          "Smaller rating base than Coway's own budget model, reflecting a smaller buyer pool at this price"
+        ],
+        "features": [
+          "Max2 true HEPA and carbon filter stack",
+          "Smart app control with real-time PM2.5 readout",
+          "Auto mode driven by a laser particle sensor",
+          "Large-room coverage rated to ~1,560 sq ft (mfr) / ~525 sq ft honest",
+          "Filter replacement indicator tied to actual air quality data"
+        ],
+        "bestFor": "allergies"
+      },
+      {
+        "name": "Levoit Core 400S Smart True HEPA Air Purifier",
+        "brand": "Levoit",
+        "asin": "B08R794ZMX",
+        "blurb": "Key specs: ~260 smoke CADR covers ~400 sq ft, Wi-Fi app control and scheduling, Particle sensor with numeric AQI display.",
+        "strengths": [
+          "Real particle sensor with a numeric air quality display gives genuine feedback, not just a status light",
+          "App scheduling lets the unit ramp down automatically overnight, which suits continuous allergy-season operation",
+          "260 smoke CADR covers a genuinely mid-size room, wider than the base Core 300",
+          "Quieter than the Winix 5500-2 at equivalent fan speeds"
+        ],
+        "limitations": [
+          "Costs meaningfully more than the Core 300 for buyers who don't need Wi-Fi or auto mode",
+          "App dependency adds a setup step and occasional connectivity friction that manual units avoid",
+          "Same thin carbon coating as the Core 300, so odor performance is still limited",
+          "Proprietary filter cartridge not shared with other Core-series models"
+        ],
+        "features": [
+          "~260 smoke CADR covers ~400 sq ft",
+          "Wi-Fi app control and scheduling",
+          "Particle sensor with numeric AQI display",
+          "True HEPA filtration",
+          "Quiet operation at equivalent fan speeds vs. Winix"
+        ],
+        "bestFor": "allergies"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

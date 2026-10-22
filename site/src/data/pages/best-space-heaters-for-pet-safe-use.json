@@ -1,0 +1,116 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Pet-Safe Space Heaters",
+  "h1": "The 4 Best Pet-Safe Space Heaters",
+  "metaDescription": "Our 4 picks for pet-safe space heaters, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at pet-safe space heaters using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-space-heaters",
+  "related": [
+    "best-space-heaters"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Dreo Solaris 317 Space Heater",
+        "brand": "Dreo",
+        "asin": "B0CMYYNTVH",
+        "blurb": "Key specs: ETL-certified tip-over and overheat protection, V0 flame retardant housing material, 1500W PTC ceramic element, fully enclosed.",
+        "strengths": [
+          "ETL-certified tip-over shutoff cuts power quickly if a pet knocks it over",
+          "Fully enclosed PTC element has no exposed coil for a curious nose or paw to touch",
+          "Child-lock feature doubles as a way to prevent a heater setting from changing if bumped",
+          "V0 flame retardant housing is a genuine safety margin over standard plastic"
+        ],
+        "limitations": [
+          "Not immune to being tipped by a large dog, tip-over shutoff still requires the unit to fall first",
+          "Housing does get warm to the touch during operation, not fully cool",
+          "Pricier than a basic tower heater"
+        ],
+        "features": [
+          "ETL-certified tip-over and overheat protection",
+          "V0 flame retardant housing material",
+          "1500W PTC ceramic element, fully enclosed",
+          "Child-lock function",
+          "70-degree oscillation"
+        ],
+        "badge": "Top pick",
+        "bestFor": "pet safe use"
+      },
+      {
+        "name": "Vornado VH202 Personal Space Heater",
+        "brand": "Vornado",
+        "asin": "B00VXEJ6PC",
+        "blurb": "Key specs: Cool-touch exterior housing, Automatic tip-over shutoff, Compact, low-profile design.",
+        "strengths": [
+          "Cool-touch exterior is one of the safest surfaces in this list for a pet to brush against",
+          "Low, compact profile is harder for a pet to knock into than a tall tower",
+          "Automatic shutoff engages quickly if tipped"
+        ],
+        "limitations": [
+          "Lower overall heat output than the larger models in this list",
+          "No oscillation, so it won't distribute heat evenly if a pet moves around the room",
+          "Small base is still tippable by a large or excited dog"
+        ],
+        "features": [
+          "Cool-touch exterior housing",
+          "Automatic tip-over shutoff",
+          "Compact, low-profile design",
+          "2 heat settings plus fan-only"
+        ],
+        "bestFor": "pet safe use"
+      },
+      {
+        "name": "De'Longhi Dragon Digital Oil-Filled Radiator TRD40615EBK",
+        "brand": "De'Longhi",
+        "asin": "B07WSJZH1G",
+        "blurb": "Key specs: Heavy metal radiator body, No fan, no exposed heating coil, 3 heat settings.",
+        "strengths": [
+          "Heavier base is physically harder for a dog or cat to tip over than lightweight towers",
+          "No fan means no risk of pulling in pet hair, which can be a fire hazard in fan-driven heaters",
+          "No exposed coil or element for a curious pet to investigate"
+        ],
+        "limitations": [
+          "Metal surface gets warmer to the touch than the cool-touch models here",
+          "Bulkier footprint takes up more floor space a pet could bump into",
+          "Slower to reach target temperature"
+        ],
+        "features": [
+          "Heavy metal radiator body",
+          "No fan, no exposed heating coil",
+          "3 heat settings",
+          "Digital timer and ECO mode"
+        ],
+        "bestFor": "pet safe use"
+      },
+      {
+        "name": "Lasko 5572 Oscillating Ceramic Tower Heater",
+        "brand": "Lasko",
+        "asin": "B001DNIIUC",
+        "blurb": "Key specs: Overheat protection and cool-touch housing, Stable base, 29-inch oscillating tower.",
+        "strengths": [
+          "Cool-touch housing and overheat protection at a lower price than the Dreo Solaris",
+          "Tall, narrow footprint is less likely to be in a pet's direct path than a low unit",
+          "Widely used with a large ratings history that includes pet-household reviews"
+        ],
+        "limitations": [
+          "Tall, narrow shape is more tippable than the De'Longhi's wide radiator base",
+          "No ETL tip-over certification specifically called out like the Dreo Solaris",
+          "Fan intake can collect pet hair over time and needs occasional cleaning"
+        ],
+        "features": [
+          "Overheat protection and cool-touch housing",
+          "Stable base",
+          "29-inch oscillating tower",
+          "Adjustable thermostat"
+        ],
+        "bestFor": "pet safe use"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

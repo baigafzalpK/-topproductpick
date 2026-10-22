@@ -1,0 +1,62 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 2 Best Mechanical Keyboards 2026",
+  "h1": "The 2 Best Mechanical Keyboards 2026",
+  "metaDescription": "Our 2 picks for mechanical keyboards 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at mechanical keyboards 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "mechanical-keyboards",
+  "related": [
+    "mechanical-keyboards"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Corsair K70 RGB PRO",
+        "brand": "Corsair",
+        "asin": "B09NCMHTSB",
+        "blurb": "Key specs: 8,000 Hz hyper-polling, PBT double-shot keycaps.",
+        "strengths": [
+          "Cherry MX Speed switches are extremely fast and consistent",
+          "PBT double-shot keycaps resist shine",
+          "8,000 Hz polling for competitive play",
+          "Detachable soft-touch palm rest"
+        ],
+        "limitations": [
+          "Full-size footprint takes up desk space",
+          "iCUE software is resource-heavy"
+        ],
+        "features": [
+          "8,000 Hz hyper-polling",
+          "PBT double-shot keycaps"
+        ]
+      },
+      {
+        "name": "HyperX Alloy Origins Core",
+        "brand": "HyperX",
+        "asin": "B085RLZ1C4",
+        "blurb": "Key specs: HyperX linear Red switches, Per-key RGB.",
+        "strengths": [
+          "Tenkeyless layout frees space for mouse movement",
+          "Solid aluminum body for its price",
+          "HyperX linear or tactile switch options",
+          "Detachable USB-C cable"
+        ],
+        "limitations": [
+          "Stock ABS keycaps can develop shine over time",
+          "No wrist rest included",
+          "Software needed for advanced lighting and macros"
+        ],
+        "features": [
+          "HyperX linear Red switches",
+          "Per-key RGB"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

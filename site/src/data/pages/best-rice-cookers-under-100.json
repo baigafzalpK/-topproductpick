@@ -1,0 +1,259 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 10 Best Rice Cookers Under $100",
+  "h1": "The 10 Best Rice Cookers Under $100",
+  "metaDescription": "Our 10 picks for rice cookers under $100, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at rice cookers under $100 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "rice-cookers",
+  "related": [
+    "rice-cookers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Zojirushi NS-TSC10 Micom Rice Cooker",
+        "brand": "Zojirushi",
+        "asin": "B0074CDG6C",
+        "blurb": "Key specs: Fuzzy logic (Micom) microcomputer, 5.5-cup uncooked capacity, Nonstick spherical inner pot.",
+        "strengths": [
+          "Zojirushi's inner pot coating outlasts the non-stick aluminum used in budget models",
+          "Keep-warm quality noticeably better than basic thermostat cookers at the 4 to 6 hour mark",
+          "Retractable cord and detachable lid simplify storage and cleaning"
+        ],
+        "limitations": [
+          "5.5-cup capacity is modest for large families compared to 10-cup budget models",
+          "No induction heating or pressure cooking at this price tier"
+        ],
+        "features": [
+          "Fuzzy logic (Micom) microcomputer",
+          "5.5-cup uncooked capacity",
+          "Nonstick spherical inner pot",
+          "Retractable cord",
+          "White, sushi, brown, and quick-cook settings",
+          "Keep-warm past 6 hours without yellowing"
+        ]
+      },
+      {
+        "name": "Toshiba Rice Cooker with Fuzzy Logic TRCS01",
+        "brand": "Toshiba",
+        "asin": "B0838SMXFZ",
+        "blurb": "Key specs: Fuzzy logic temperature control, 6-cup uncooked capacity, Stainless steel inner lid.",
+        "strengths": [
+          "Fuzzy logic at a price point where competitors only offer single-thermostat control",
+          "6-cup capacity handles a household of 4 without stepping up in price",
+          "LCD countdown display removes guesswork on remaining cook time"
+        ],
+        "limitations": [
+          "Brown rice results are noticeably less consistent than Zojirushi's fuzzy logic",
+          "Plastic body and controls feel less durable than the metal-accented Zojirushi",
+          "Shorter track record and smaller review base than the established Japanese brands"
+        ],
+        "features": [
+          "Fuzzy logic temperature control",
+          "6-cup uncooked capacity",
+          "Stainless steel inner lid",
+          "White, brown, and quick-cook settings",
+          "24-hour keep-warm timer",
+          "LCD display with cook-time countdown"
+        ]
+      },
+      {
+        "name": "Panasonic SR-DF181 10-Cup Fuzzy Logic Rice Cooker",
+        "brand": "Panasonic",
+        "asin": "B008C9UCRC",
+        "blurb": "Key specs: Panasonic fuzzy logic, 10-cup uncooked capacity, Diamond-fluorine coated inner pot.",
+        "strengths": [
+          "10-cup capacity is nearly double the Zojirushi NS-TSC10 at a lower price",
+          "Diamond-fluorine coating resists scratching better than standard non-stick"
+        ],
+        "limitations": [
+          "Less widely distributed in the US, making parts and support harder to find",
+          "Brown rice consistency trails the Zojirushi at large fill levels",
+          "Bulkier footprint than the 5.5-cup models given the 10-cup capacity"
+        ],
+        "features": [
+          "Panasonic fuzzy logic",
+          "10-cup uncooked capacity",
+          "Diamond-fluorine coated inner pot",
+          "Brown rice and porridge settings",
+          "Extended keep-warm",
+          "Retractable cord"
+        ]
+      },
+      {
+        "name": "Aroma Housewares ARC-914SBD Digital Rice Cooker",
+        "brand": "Aroma",
+        "asin": "B007WQ9YNO",
+        "blurb": "Key specs: 8-cup uncooked capacity, Single-thermostat cook/warm switch, Digital display.",
+        "strengths": [
+          "Highest-volume budget rice cooker on the market with a large, established review base",
+          "8-cup capacity covers family use at a fraction of a fuzzy logic model's price",
+          "Digital display and steam tray are uncommon extras at this price point"
+        ],
+        "limitations": [
+          "Single-thermostat control means no adjustment for brown rice or specialty grains",
+          "Inconsistent results at maximum 8-cup fill level",
+          "Non-stick coating typically wears within 1 to 3 years of daily use"
+        ],
+        "features": [
+          "8-cup uncooked capacity",
+          "Single-thermostat cook/warm switch",
+          "Digital display",
+          "Included steam tray",
+          "Nonstick aluminum inner pot",
+          "Cool-touch handles"
+        ]
+      },
+      {
+        "name": "Hamilton Beach Rice Cooker 20 Cups Cooked",
+        "brand": "Hamilton Beach",
+        "asin": "B000BUVOGS",
+        "blurb": "Key specs: 20-cup cooked capacity, Single-thermostat cook/warm switch, Nonstick removable inner pot.",
+        "strengths": [
+          "20-cup cooked capacity serves large families or gatherings at a budget price",
+          "Removable inner pot and glass lid simplify cleanup and monitoring",
+          "Included accessories (scoop, tray, measuring cup) add value at this price"
+        ],
+        "limitations": [
+          "Basic thermostat produces uneven results at or near maximum capacity",
+          "No brown rice or specialty settings",
+          "Larger footprint takes up significant counter space"
+        ],
+        "features": [
+          "20-cup cooked capacity",
+          "Single-thermostat cook/warm switch",
+          "Nonstick removable inner pot",
+          "See-through glass lid",
+          "Steam tray included",
+          "Rice scoop and measuring cup included"
+        ]
+      },
+      {
+        "name": "Zojirushi NHS-06 Rice Cooker/Steamer 3 Cup",
+        "brand": "Zojirushi",
+        "asin": "B00004S575",
+        "blurb": "Key specs: 3-cup uncooked capacity, Simple cook/steam/warm switch, Nonstick inner pot.",
+        "strengths": [
+          "Zojirushi reliability and inner pot quality in a compact 3-cup size",
+          "Steaming basket adds vegetable and fish steaming without a separate appliance",
+          "Small footprint suits dorm rooms and studio kitchens"
+        ],
+        "limitations": [
+          "No fuzzy logic, single-thermostat control like budget brands",
+          "3-cup ceiling means two cycles for larger households",
+          "Priced closer to fuzzy logic competitors despite basic thermostat control"
+        ],
+        "features": [
+          "3-cup uncooked capacity",
+          "Simple cook/steam/warm switch",
+          "Nonstick inner pot",
+          "Includes steaming basket",
+          "Compact 7 to 8-inch footprint",
+          "Zojirushi build quality"
+        ]
+      },
+      {
+        "name": "Tiger JKT-S10U Micom Rice Cooker",
+        "brand": "Tiger",
+        "asin": "B00IR6ZH98",
+        "blurb": "Key specs: Tiger MICOM fuzzy logic, 5.5-cup uncooked capacity, Tacook synchro-cooking plate.",
+        "strengths": [
+          "Tacook plate lets you steam a protein above the rice while it cooks simultaneously",
+          "Tiger MICOM fuzzy logic brings brown rice and sushi settings competitive with Zojirushi",
+          "Retractable cord and nonstick pot match Zojirushi's convenience features"
+        ],
+        "limitations": [
+          "Tiger's grain texture runs slightly firmer than Zojirushi, a preference-dependent tradeoff",
+          "Fewer menu settings than Zojirushi's Neuro Fuzzy line",
+          "Smaller US review base and service network than Zojirushi"
+        ],
+        "features": [
+          "Tiger MICOM fuzzy logic",
+          "5.5-cup uncooked capacity",
+          "Tacook synchro-cooking plate",
+          "White, brown, sushi, and porridge settings",
+          "Retractable cord",
+          "Nonstick inner pot"
+        ]
+      },
+      {
+        "name": "Aroma Housewares ARC-5000SB 20-Cup",
+        "brand": "Aroma",
+        "asin": "B01N8RAZB1",
+        "blurb": "Key specs: 20-cup cooked capacity, Digital display with delay timer, Nonstick removable inner pot.",
+        "strengths": [
+          "Digital delay timer at a budget price point most single-thermostat cookers lack",
+          "20-cup capacity handles large batches or events without stepping up in price",
+          "Removable inner pot simplifies cleanup versus fixed-pot competitors"
+        ],
+        "limitations": [
+          "No fuzzy logic, so brown rice and specialty grains cook inconsistently",
+          "Large footprint requires significant counter or storage space",
+          "Build quality feels less substantial than Zojirushi or Tiger at nearly the same size"
+        ],
+        "features": [
+          "20-cup cooked capacity",
+          "Digital display with delay timer",
+          "Nonstick removable inner pot",
+          "Steam tray included",
+          "Single-thermostat cook/warm control",
+          "Cool-touch exterior"
+        ]
+      },
+      {
+        "name": "COSORI Rice Cooker 10 Cup",
+        "brand": "Cosori",
+        "asin": "B0BD4PRBVZ",
+        "blurb": "Key specs: 10-cup uncooked capacity, Digital one-touch presets, Nonstick ceramic-coated inner pot.",
+        "strengths": [
+          "10-cup capacity with digital presets undercuts comparable Zojirushi and Panasonic pricing",
+          "Ceramic-coated pot avoids the PTFE non-stick used in cheaper budget cookers",
+          "Preset menu covers brown rice and mixed grains without manual timing"
+        ],
+        "limitations": [
+          "Newer brand in the category with a shorter track record than the Japanese and Korean incumbents",
+          "Brown rice results are adequate but not as consistent as dedicated fuzzy logic algorithms",
+          "Larger 10-cup body takes more counter space than 5.5-cup mid-range models"
+        ],
+        "features": [
+          "10-cup uncooked capacity",
+          "Digital one-touch presets",
+          "Nonstick ceramic-coated inner pot",
+          "White, brown, mixed, and steam settings",
+          "24-hour keep-warm",
+          "App connectivity (select models)"
+        ]
+      },
+      {
+        "name": "Black+Decker RC506 3-Cup Rice Cooker",
+        "brand": "Black+Decker",
+        "asin": "B016Y8JSK4",
+        "blurb": "Key specs: 3-cup uncooked capacity, Single cook/warm switch, Nonstick removable bowl.",
+        "strengths": [
+          "Lowest price in this roundup for a functional, reliable rice cooker",
+          "Compact 3-cup size fits small kitchens and dorm setups",
+          "Simple one-switch operation with no learning curve"
+        ],
+        "limitations": [
+          "Single-thermostat design cannot handle brown rice consistently",
+          "3-cup ceiling is too small for households of 3 or more",
+          "Non-stick coating and switch mechanism tend to wear within 1 to 2 years of daily use"
+        ],
+        "features": [
+          "3-cup uncooked capacity",
+          "Single cook/warm switch",
+          "Nonstick removable bowl",
+          "Tempered glass lid",
+          "Compact, lightweight body",
+          "Rice measuring cup and spoon included"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

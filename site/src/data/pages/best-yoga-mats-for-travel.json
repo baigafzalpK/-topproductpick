@@ -1,0 +1,116 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Yoga Mats for Travel",
+  "h1": "The 4 Best Yoga Mats for Travel",
+  "metaDescription": "Our 4 picks for yoga mats for travel, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at yoga mats for travel using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-yoga-mats",
+  "related": [
+    "best-yoga-mats"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "prAna E.C.O. Yoga Mat",
+        "brand": "prAna",
+        "asin": "B004GECD5G",
+        "blurb": "Key specs: 5mm closed-cell natural rubber, Two-sided texturing for grip, Non-toxic, PVC-free construction.",
+        "strengths": [
+          "Natural rubber grip holds up well on varied surfaces like hotel carpet or hardwood",
+          "5mm thickness is a reasonable middle ground between cushioning and packability",
+          "PVC-free build is a plus for travelers minimizing synthetic materials in luggage"
+        ],
+        "limitations": [
+          "Heavier than dedicated ultralight travel mats at roughly 5 lbs",
+          "Rubber smell can be noticeable in a closed suitcase until it airs out"
+        ],
+        "features": [
+          "5mm closed-cell natural rubber",
+          "Two-sided texturing for grip",
+          "Non-toxic, PVC-free construction",
+          "Rolls to a compact size",
+          "Wipes clean easily"
+        ],
+        "badge": "Best overall",
+        "bestFor": "travel"
+      },
+      {
+        "name": "BalanceFrom GoYoga All-Purpose Yoga Mat",
+        "brand": "BalanceFrom",
+        "asin": "B01MQA0EGZ",
+        "blurb": "Key specs: 1/4-inch (6mm) high-density foam, Includes carrying strap, Double-sided non-slip texture.",
+        "strengths": [
+          "Cheap enough to not worry about damage or loss during a trip",
+          "Included carrying strap makes it easy to sling over a shoulder at the airport",
+          "6mm cushioning is comfortable for hotel room or Airbnb floor practice"
+        ],
+        "limitations": [
+          "Bulkier when rolled than dedicated thin travel mats",
+          "Not designed to fold flat for a suitcase the way purpose-built travel mats are",
+          "Heavier per inch of thickness than natural rubber alternatives"
+        ],
+        "features": [
+          "1/4-inch (6mm) high-density foam",
+          "Includes carrying strap",
+          "Double-sided non-slip texture",
+          "71-inch length",
+          "Under $25"
+        ],
+        "bestFor": "travel"
+      },
+      {
+        "name": "Gaiam Essentials Thick Yoga Mat",
+        "brand": "Gaiam",
+        "asin": "B07H9P7QYC",
+        "blurb": "Key specs: 10mm (2/5-inch) NBR foam cushioning, Easy-cinch carrying strap, Textured non-slip surface.",
+        "strengths": [
+          "10mm cushioning is comfortable enough to double as a car camping or outdoor picnic mat",
+          "Carrying strap keeps it manageable for trunk storage and short carries"
+        ],
+        "limitations": [
+          "Too bulky for checked or carry-on suitcase packing on a flight",
+          "10mm thickness adds unnecessary weight and volume for frequent flyers",
+          "Better suited to car travel than air travel"
+        ],
+        "features": [
+          "10mm (2/5-inch) NBR foam cushioning",
+          "Easy-cinch carrying strap",
+          "Textured non-slip surface",
+          "72 x 24-inch size",
+          "Multiple colors"
+        ],
+        "bestFor": "travel"
+      },
+      {
+        "name": "Manduka PRO Yoga Mat 71-Inch 6mm",
+        "brand": "Manduka",
+        "asin": "B078VJ81M2",
+        "blurb": "Key specs: 6mm closed-cell PVC construction, Lifetime guarantee, Dense, stable cushioning.",
+        "strengths": [
+          "Studio-grade grip and cushioning for travelers relocating temporarily rather than flying short trips",
+          "Durable enough to survive being checked as luggage without damage",
+          "Familiar full-size feel for practitioners who don't want to compromise on their usual mat"
+        ],
+        "limitations": [
+          "26 lbs makes it impractical for carry-on or weight-limited flights",
+          "Bulky roll size takes up significant suitcase space",
+          "Overkill for short trips where a lighter mat would suffice"
+        ],
+        "features": [
+          "6mm closed-cell PVC construction",
+          "Lifetime guarantee",
+          "Dense, stable cushioning",
+          "26 lbs",
+          "71 or 85-inch length options"
+        ],
+        "bestFor": "travel"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

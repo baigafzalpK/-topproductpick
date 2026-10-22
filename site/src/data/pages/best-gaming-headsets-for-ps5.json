@@ -1,0 +1,39 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "Our Top Pick: Gaming Headsets for PS5 in 2026",
+  "h1": "Our Top Pick: Gaming Headsets for PS5 in 2026",
+  "metaDescription": "Our top pick for gaming headsets for ps5 in 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at gaming headsets for ps5 in 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "gaming-headsets",
+  "related": [
+    "gaming-headsets"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "SteelSeries Arctis Nova 1P Multi-System Gaming Headset",
+        "brand": "SteelSeries",
+        "asin": "B0B8QC25SP",
+        "blurb": "",
+        "strengths": [
+          "Very light and comfortable",
+          "Works with PS5, PC, Xbox and Switch",
+          "Noise-cancelling mic",
+          "360° spatial audio support"
+        ],
+        "limitations": [
+          "Wired only",
+          "Basic bass",
+          "Plastic build"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

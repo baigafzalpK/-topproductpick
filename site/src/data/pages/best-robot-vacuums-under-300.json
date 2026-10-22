@@ -1,0 +1,239 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 10 Best Robot Vacuums Under $300 in 2026",
+  "h1": "The 10 Best Robot Vacuums Under $300 in 2026",
+  "metaDescription": "Our 10 picks for robot vacuums under $300 in 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at robot vacuums under $300 in 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "robot-vacuums",
+  "related": [
+    "robot-vacuums"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "iRobot Roomba i3+ EVO Self-Emptying",
+        "brand": "iRobot",
+        "asin": "B0CNL2KCVR",
+        "blurb": "Key specs: Self-emptying, Systematic navigation, Rubber extractors.",
+        "strengths": [
+          "Rubber extractors handle pet hair without tangling",
+          "Systematic row-by-row navigation covers floors completely",
+          "iRobot app with scheduling and room assignment"
+        ],
+        "limitations": [
+          "No camera-based obstacle avoidance, will run over small objects",
+          "Basic mapping without room labeling at this tier"
+        ],
+        "features": [
+          "Self-emptying",
+          "Systematic navigation",
+          "Rubber extractors",
+          "iRobot app"
+        ],
+        "badge": "Best Overall",
+        "bestFor": "buyers who want the best overall package"
+      },
+      {
+        "name": "Eufy X8 Pro Self-Empty Robot Vacuum",
+        "brand": "Eufy",
+        "asin": "B0C4L8D11B",
+        "blurb": "Key specs: iPath laser navigation, 4000Pa twin-turbine suction, Self-empty station.",
+        "strengths": [
+          "Twin-turbine 4000Pa suction handles pet hair and embedded debris on low carpet",
+          "Self-empty station, self-emptying at this price is exceptional value",
+          "Multi-floor map support"
+        ],
+        "limitations": [
+          "No mopping function at this price",
+          "Reactive obstacle avoidance only"
+        ],
+        "features": [
+          "iPath laser navigation",
+          "4000Pa twin-turbine suction",
+          "Self-empty station",
+          "Multi-floor"
+        ],
+        "badge": "Best Eufy Budget",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "Eufy RoboVac G30 Slim",
+        "brand": "Eufy",
+        "asin": "B07RHZ6CVX",
+        "blurb": "Key specs: Smart navigation, 2000Pa, BoostIQ.",
+        "strengths": [
+          "No subscription required, full app functionality without ongoing payment",
+          "Smart Dynamic Navigation (not random)",
+          "BoostIQ auto-increases suction on carpet"
+        ],
+        "limitations": [
+          "2000Pa is the minimum adequate suction, upgrade to 2500Pa+ for carpets with embedded debris"
+        ],
+        "features": [
+          "Smart navigation",
+          "2000Pa",
+          "BoostIQ",
+          "No subscription"
+        ],
+        "badge": "Best No Subscription"
+      },
+      {
+        "name": "Shark IQ Robot Self-Empty",
+        "brand": "Shark",
+        "asin": "B07S864GPW",
+        "blurb": "Key specs: IQ Nav mapping, Self-empty, 200-min runtime.",
+        "strengths": [
+          "IQ Nav mapping for systematic room cleaning",
+          "Self-emptying at Shark's mid-range price point",
+          "Shark app with scheduling and no-go zones"
+        ],
+        "limitations": [
+          "Bristle brush tangles with long pet hair",
+          "No LiDAR, camera-based navigation is less accurate in low light"
+        ],
+        "features": [
+          "IQ Nav mapping",
+          "Self-empty",
+          "200-min runtime",
+          "Shark app"
+        ],
+        "badge": "Best Shark Budget",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "Ecovacs Deebot N8 Pro+",
+        "brand": "Ecovacs",
+        "asin": "B08ZDVBNLB",
+        "blurb": "Key specs: LiDAR, Mop function, No-go zones.",
+        "strengths": [
+          "No-go zone support to protect carpeted rooms from the mop",
+          "2600Pa suction with mop for hard floor households",
+          "Self-empty station included"
+        ],
+        "limitations": [
+          "Larger dock footprint than vacuum-only models",
+          "App can be less polished than Roomba or Roborock"
+        ],
+        "features": [
+          "LiDAR",
+          "Mop function",
+          "No-go zones",
+          "Self-empty station"
+        ],
+        "badge": "Best Mop Budget",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "iRobot Roomba 694",
+        "brand": "iRobot",
+        "asin": "B092RZ2JKW",
+        "blurb": "Key specs: WiFi, Alexa, Dirt Detect.",
+        "strengths": [
+          "Lowest price for an iRobot WiFi robot vacuum",
+          "Dirt Detect increases cleaning on dirty areas",
+          "iRobot brand reliability"
+        ],
+        "limitations": [
+          "Random navigation, misses significant floor area per cleaning cycle",
+          "No mapping, no systematic navigation, no self-emptying"
+        ],
+        "features": [
+          "WiFi",
+          "Alexa",
+          "Dirt Detect",
+          "Entry"
+        ],
+        "badge": "Best Absolute Entry"
+      },
+      {
+        "name": "iRobot Roomba i1 (no self-empty)",
+        "brand": "iRobot",
+        "asin": "B0C34TW44Y",
+        "blurb": "Key specs: Systematic navigation, Rubber extractors, iRobot app.",
+        "strengths": [
+          "Systematic row navigation without the self-empty premium",
+          "Rubber extractors for pet hair"
+        ],
+        "limitations": [
+          "Manual bin emptying required",
+          "No mapping, room navigation without room labeling"
+        ],
+        "features": [
+          "Systematic navigation",
+          "Rubber extractors",
+          "iRobot app",
+          "Under $250"
+        ],
+        "badge": "Best Systematic No Empty"
+      },
+      {
+        "name": "Ecovacs Deebot N8 Pro",
+        "brand": "Ecovacs",
+        "asin": "B08ZDVBNLB",
+        "blurb": "Key specs: LiDAR, Mop, 2300Pa.",
+        "strengths": [
+          "2300Pa suction handles hardwood and low carpet",
+          "Multi-floor map support"
+        ],
+        "limitations": [
+          "No self-emptying at this price",
+          "Obstacle avoidance less capable than Roomba models"
+        ],
+        "features": [
+          "LiDAR",
+          "Mop",
+          "2300Pa",
+          "Multi-floor"
+        ],
+        "badge": "Best Ecovacs Budget",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "Deebot OZMO 920",
+        "brand": "Ecovacs",
+        "asin": "B07TJ2M5XY",
+        "blurb": "Key specs: LiDAR, Mop, Multi-room.",
+        "strengths": [
+          "LiDAR mapping with mopping at value price",
+          "Multi-room support with selective room cleaning"
+        ],
+        "limitations": [
+          "Older model, check current availability"
+        ],
+        "features": [
+          "LiDAR",
+          "Mop",
+          "Multi-room",
+          "Value"
+        ]
+      },
+      {
+        "name": "Proscenic 850T Robot Vacuum",
+        "brand": "Proscenic",
+        "asin": "B08CXB4KKJ",
+        "blurb": "Key specs: Gyro navigation, 3000Pa, Mop.",
+        "strengths": [
+          "3000Pa suction at a budget price, higher than most competitors at this range",
+          "Combined vacuum-and-mop function included"
+        ],
+        "limitations": [
+          "Brand support and repair ecosystem below Roomba and Roborock",
+          "Gyro navigation less precise than LiDAR-based systems"
+        ],
+        "features": [
+          "Gyro navigation",
+          "3000Pa",
+          "Mop",
+          "Budget"
+        ],
+        "badge": "Best Alternative Brand"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

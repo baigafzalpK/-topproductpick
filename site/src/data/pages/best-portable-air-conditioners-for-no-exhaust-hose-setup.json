@@ -1,0 +1,66 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 2 Best Portable Air Conditioners for No-Exhaust-Hose Setups",
+  "h1": "The 2 Best Portable Air Conditioners for No-Exhaust-Hose Setups",
+  "metaDescription": "Our 2 picks for portable air conditioners for no-exhaust-hose setups, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at portable air conditioners for no-exhaust-hose setups using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-portable-air-conditioners",
+  "related": [
+    "best-portable-air-conditioners"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Whynter ARC-14S 14,000 BTU Dual Hose Portable Air Conditioner",
+        "brand": "Whynter",
+        "asin": "B0028AYQDC",
+        "blurb": "Key specs: 14,000 BTU ASHRAE / 9,500 BTU SACC dual-hose cooling, Built-in dehumidifier, up to 101 pints per day, Auto drain with condensate self-evaporation.",
+        "strengths": [
+          "Real refrigerant-based cooling, unlike evaporative units, so it genuinely lowers temperature rather than just adding airflow",
+          "Widely compatible with aftermarket through-wall vent kits for rooms without a usable window",
+          "Strong dehumidification is a real benefit over any hoseless evaporative alternative"
+        ],
+        "limitations": [
+          "Still requires two vent penetrations somewhere, it cannot run fully hoseless",
+          "Through-wall venting requires drilling and is not appropriate for most rental leases",
+          "Larger and heavier than a hoseless evaporative cooler"
+        ],
+        "features": [
+          "14,000 BTU ASHRAE / 9,500 BTU SACC dual-hose cooling",
+          "Built-in dehumidifier, up to 101 pints per day",
+          "Auto drain with condensate self-evaporation"
+        ],
+        "bestFor": "no exhaust hose setup"
+      },
+      {
+        "name": "Honeywell HL14CESWK Contempo Series Portable Air Conditioner",
+        "brand": "Honeywell",
+        "asin": "B01CS3JJ5I",
+        "blurb": "Key specs: 14,000 BTU cooling, dehumidifier and fan modes, Dual filtration system: washable pre-filter plus activated carbon, Dual motor design rated at 49 to 52 dB at high fan speed.",
+        "strengths": [
+          "Standard single hose is more flexible for improvised vent routes, a transom window, a door louver panel, than a bulkier dual-hose kit",
+          "Dual filtration handles dusty improvised vent setups better than a basic single filter",
+          "Quiet operation matters more in a workaround setup where the hose route may already be imperfect"
+        ],
+        "limitations": [
+          "Single-hose exhaust still needs a genuine path outside, it is not a hoseless design",
+          "Improvised vent routes generally reduce efficiency versus a proper window kit",
+          "Lower coverage rating than the Whynter dual-hose model"
+        ],
+        "features": [
+          "14,000 BTU cooling, dehumidifier and fan modes",
+          "Dual filtration system: washable pre-filter plus activated carbon",
+          "Dual motor design rated at 49 to 52 dB at high fan speed",
+          "Full-function remote control"
+        ],
+        "bestFor": "no exhaust hose setup"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 10 Best Programmable Coffee Makers of 2026",
+  "h1": "The 10 Best Programmable Coffee Makers of 2026",
+  "metaDescription": "Our 10 picks for programmable coffee makers of 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at programmable coffee makers of 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "drip-coffee-makers",
+  "related": [
+    "drip-coffee-makers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Breville Precision Brewer Thermal",
+        "brand": "Breville",
+        "asin": "B078RQVQF1",
+        "blurb": "Key specs: SCAA certified, 12-cup thermal, 24-hour programmable.",
+        "strengths": [
+          "SCAA certified with full programmable timer, the best combination of quality and scheduling",
+          "12-cup thermal carafe",
+          "Multiple brewing modes including Gold Cup, Fast, and Over Ice"
+        ],
+        "limitations": [],
+        "features": [
+          "SCAA certified",
+          "12-cup thermal",
+          "24-hour programmable",
+          "Gold filter included"
+        ],
+        "badge": "Best Overall Programmable",
+        "bestFor": "buyers who want the best overall package"
+      },
+      {
+        "name": "OXO Brew 9-Cup",
+        "brand": "OXO",
+        "asin": "B00YEYKK8U",
+        "blurb": "Key specs: SCAA certified, 9-cup, Programmable.",
+        "strengths": [
+          "SCAA certified with programmable timer at a lower price than Breville",
+          "Rainshower head for even bed saturation"
+        ],
+        "limitations": [],
+        "features": [
+          "SCAA certified",
+          "9-cup",
+          "Programmable",
+          "Rainshower"
+        ],
+        "badge": "Best Programmable Mid"
+      },
+      {
+        "name": "Cuisinart DCC-3200P1 14-Cup",
+        "brand": "Cuisinart",
+        "asin": "B00MVWGQX0",
+        "blurb": "Key specs: 14-cup, Programmable, Brew strength.",
+        "strengths": [],
+        "limitations": [],
+        "features": [
+          "14-cup",
+          "Programmable",
+          "Brew strength",
+          "Under $80"
+        ],
+        "badge": "Best Large Programmable"
+      },
+      {
+        "name": "Ninja CE251 12-Cup",
+        "brand": "Ninja",
+        "asin": "B07S98411N",
+        "blurb": "Key specs: 12-cup, Brew style, Programmable.",
+        "strengths": [],
+        "limitations": [],
+        "features": [
+          "12-cup",
+          "Brew style",
+          "Programmable",
+          "Under $60"
+        ],
+        "badge": "Best Ninja Programmable"
+      },
+      {
+        "name": "Hamilton Beach 12-Cup",
+        "brand": "Hamilton Beach",
+        "asin": "B09NCBQ8JG",
+        "blurb": "Key specs: 12-cup, Under $30, Programmable.",
+        "strengths": [],
+        "limitations": [
+          "Sub-optimal brewing temperature"
+        ],
+        "features": [
+          "12-cup",
+          "Under $30",
+          "Programmable"
+        ],
+        "badge": "Best Budget Programmable",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "Mr. Coffee 12-Cup",
+        "brand": "Mr. Coffee",
+        "asin": "B005MLB2S6",
+        "blurb": "Key specs: 12-cup, Under $25, Programmable.",
+        "strengths": [
+          "Very affordable",
+          "Programmable delay start for morning coffee",
+          "12-cup glass carafe for households",
+          "Simple controls with pause-and-serve"
+        ],
+        "limitations": [
+          "Glass carafe on a hot plate can make coffee taste stewed over time",
+          "Brews cooler than specialty-certified brewers",
+          "Plastic build"
+        ],
+        "features": [
+          "12-cup",
+          "Under $25",
+          "Programmable"
+        ],
+        "badge": "Best Entry Programmable"
+      },
+      {
+        "name": "Cuisinart SS-15 12-Cup + Single Serve",
+        "brand": "Cuisinart",
+        "asin": "B01KIG4YNO",
+        "blurb": "Key specs: 12-cup + single serve, Programmable, Cuisinart.",
+        "strengths": [
+          "Full carafe + single serve with programmable timer"
+        ],
+        "limitations": [
+          "Dual function compromise"
+        ],
+        "features": [
+          "12-cup + single serve",
+          "Programmable",
+          "Cuisinart"
+        ],
+        "badge": "Best Dual Programmable"
+      },
+      {
+        "name": "Black+Decker 12-Cup Thermal Programmable",
+        "brand": "Black+Decker",
+        "asin": "B00LU2I3V0",
+        "blurb": "Key specs: 12-cup thermal, Under $50, Programmable.",
+        "strengths": [
+          "Thermal carafe keeps coffee warm without burning",
+          "Programmable timer",
+          "Large 12-cup capacity",
+          "Budget price for a thermal carafe model"
+        ],
+        "limitations": [
+          "Carafe can be awkward to pour and clean",
+          "Brew temperature is not specialty-certified",
+          "Plastic body"
+        ],
+        "features": [
+          "12-cup thermal",
+          "Under $50",
+          "Programmable"
+        ],
+        "badge": "Best Thermal Programmable Budget",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "Zojirushi EC-YTC100XB 10-Cup Thermal",
+        "brand": "Zojirushi",
+        "asin": "B07B83DGMV",
+        "blurb": "Key specs: 10-cup thermal, Programmable, Zojirushi.",
+        "strengths": [
+          "Stainless steel vacuum carafe keeps coffee hot for hours",
+          "Good brewing temperature for a mainstream maker",
+          "Removable water tank for easy filling",
+          "Zojirushi's reputation for durability"
+        ],
+        "limitations": [
+          "Slower brewing than some competitors",
+          "Fewer programmable features",
+          "Carafe lid needs cleaning attention"
+        ],
+        "features": [
+          "10-cup thermal",
+          "Programmable",
+          "Zojirushi"
+        ],
+        "badge": "Best Thermal Value"
+      },
+      {
+        "name": "Moccamaster Cup One Thermal",
+        "brand": "Technivorm",
+        "asin": "B014I5OWCO",
+        "blurb": "Key specs: Single cup, SCAA certified, Thermal travel mug.",
+        "strengths": [
+          "SCAA certified single-cup brewing into a thermal travel mug",
+          "Moccamaster quality for one person"
+        ],
+        "limitations": [
+          "Single cup only, not correct for multi-person households"
+        ],
+        "features": [
+          "Single cup",
+          "SCAA certified",
+          "Thermal travel mug",
+          "Technivorm"
+        ],
+        "badge": "Best Single Cup Programmable"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

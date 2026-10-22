@@ -1,0 +1,129 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Dehumidifiers for Crawl Spaces",
+  "h1": "The 5 Best Dehumidifiers for Crawl Spaces",
+  "metaDescription": "Our 5 picks for dehumidifiers for crawl spaces, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at dehumidifiers for crawl spaces using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-dehumidifiers",
+  "related": [
+    "best-dehumidifiers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Frigidaire FFAP5033W1 50-Pint Dehumidifier with Pump",
+        "brand": "Frigidaire",
+        "asin": "B07Z5Q7M3N",
+        "blurb": "Key specs: 50-pint-per-day moisture removal, 4,500 sq ft coverage, Built-in condensate pump for hands-off continuous drainage, Rated to operate down to 41°F, typical of an unheated crawl space.",
+        "strengths": [
+          "41°F operating floor is a real advantage in a crawl space that runs colder than the living space above",
+          "Built-in pump handles drainage without anyone climbing back in to check a bucket",
+          "Washable filter is a quick rinse rather than a special-order replacement part"
+        ],
+        "limitations": [
+          "Larger footprint than some dedicated crawl space units, worth measuring clearance first",
+          "Casters aren't useful on a dirt or gravel crawl space floor",
+          "Higher typical price than the Vremi for the same 50-pint rating"
+        ],
+        "features": [
+          "50-pint-per-day moisture removal, 4,500 sq ft coverage",
+          "Built-in condensate pump for hands-off continuous drainage",
+          "Rated to operate down to 41°F, typical of an unheated crawl space",
+          "Washable filter and Energy Star certification"
+        ],
+        "badge": "Best overall",
+        "bestFor": "crawl spaces"
+      },
+      {
+        "name": "TOSOT 50-Pint Dehumidifier with Internal Pump",
+        "brand": "TOSOT",
+        "asin": "B07FJHZ58L",
+        "blurb": "Key specs: 50-pint-per-day rating for up to 4,500 sq ft, Internal pump lifts water up to 15 feet through a 19-foot hose, Energy Star certified and UL listed.",
+        "strengths": [
+          "15-foot pump lift and long hose reach an outside vent or drain far from the crawl space access point",
+          "Auto-restart means the unit doesn't sit off after a breaker trip until someone crawls back in",
+          "52-decibel peak sound level is a non-issue in an unoccupied crawl space"
+        ],
+        "limitations": [
+          "Owner reports note compressor longevity concerns after 2 to 3 seasons of heavy continuous use",
+          "Bucket-full sensor is sensitive and occasionally halts operation prematurely",
+          "Control panel access requires crawling back in to adjust settings"
+        ],
+        "features": [
+          "50-pint-per-day rating for up to 4,500 sq ft",
+          "Internal pump lifts water up to 15 feet through a 19-foot hose",
+          "Energy Star certified and UL listed",
+          "Auto-restart resumes settings after a power interruption"
+        ],
+        "bestFor": "crawl spaces"
+      },
+      {
+        "name": "Vremi 50-Pint Dehumidifier for 4,500 Sq Ft Spaces",
+        "brand": "Vremi",
+        "asin": "B07JMZJX4B",
+        "blurb": "Key specs: 50-pint-per-day rating for spaces up to 4,500 sq ft, Continuous drain hose option alongside the 1.8-gallon tank, Energy Star certified compressor.",
+        "strengths": [
+          "Lowest typical price of the continuous-drain-capable units in this roundup",
+          "Continuous drain hose option avoids manual bucket checks in a space nobody wants to crawl into often",
+          "Energy Star certification keeps a long duty cycle reasonably affordable"
+        ],
+        "limitations": [
+          "No pump, so drainage depends on the hose running continuously downhill to an exit point",
+          "Housing feels less durable for years of crawl space conditions than the Frigidaire",
+          "Runs louder than the Frigidaire at comparable settings, though this rarely matters in an unoccupied space"
+        ],
+        "features": [
+          "50-pint-per-day rating for spaces up to 4,500 sq ft",
+          "Continuous drain hose option alongside the 1.8-gallon tank",
+          "Energy Star certified compressor",
+          "Adjustable humidistat and 24-hour timer"
+        ],
+        "bestFor": "crawl spaces"
+      },
+      {
+        "name": "ALORAIR Sentinel HDi65S Crawlspace Dehumidifier",
+        "brand": "ALORAIR",
+        "asin": "B0B3WXNDRZ",
+        "blurb": "",
+        "strengths": [
+          "Low profile fits tight crawl spaces",
+          "Built-in condensate pump",
+          "Energy Star certified",
+          "Long multi-year warranty"
+        ],
+        "limitations": [
+          "Expensive",
+          "Capacity ratings vary by test standard",
+          "Needs professional-style install for best results"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "AprilAire E070 Pro 70-Pint Crawl Space Dehumidifier",
+        "brand": "AprilAire",
+        "asin": "B0G1YVSMZH",
+        "blurb": "",
+        "strengths": [
+          "Removes up to 70 pints per day",
+          "Designed and made in the USA",
+          "Long warranty",
+          "Whole-house capable with ducting"
+        ],
+        "limitations": [
+          "Heavy at about 56 lb",
+          "Not for 50 Hz power",
+          "Coverage claims vary by listing"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

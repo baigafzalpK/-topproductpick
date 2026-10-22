@@ -1,0 +1,57 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 2 Best Wireless Gaming Mice 2026",
+  "h1": "The 2 Best Wireless Gaming Mice 2026",
+  "metaDescription": "Our 2 picks for wireless gaming mice 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at wireless gaming mice 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "gaming-mice",
+  "related": [
+    "gaming-mice"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "SteelSeries Rival 3 Wireless Gen 2 Gaming Mouse",
+        "brand": "SteelSeries",
+        "asin": "B0F6B4TY2W",
+        "blurb": "",
+        "strengths": [
+          "Affordable wireless",
+          "Light build",
+          "Good sensor",
+          "Long battery life"
+        ],
+        "limitations": [
+          "Uses AA/AAA battery on some versions; check listing",
+          "Simple shape",
+          "Fewer buttons"
+        ],
+        "features": []
+      },
+      {
+        "name": "Razer Viper V3 Pro Wireless Esports Gaming Mouse",
+        "brand": "Razer",
+        "asin": "B0CVRGCGWJ",
+        "blurb": "",
+        "strengths": [
+          "Very light at about 54 g",
+          "35K DPI optical sensor",
+          "Up to 8K polling with dongle",
+          "Long battery at 1K polling"
+        ],
+        "limitations": [
+          "Expensive",
+          "Few side buttons",
+          "Symmetrical shape suits claw/fingertip more"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

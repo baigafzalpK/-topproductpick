@@ -1,0 +1,77 @@
+{
+  "type": "comparison",
+  "title": "Ninja AF101 vs COSORI Pro LE: Which Air Fryer Fits You?",
+  "h1": "Ninja AF101 vs COSORI Pro LE",
+  "metaDescription": "Ninja AF101 or COSORI Pro LE? Compare capacity, footprint and who each air fryer suits best.",
+  "lede": "These two are among the most recommended compact air fryers. The right one mostly comes down to how many people you cook for.",
+  "updatedAt": "2026-10-19",
+  "category": "air-fryers",
+  "related": [
+    "best-air-fryers",
+    "how-to-choose-an-air-fryer"
+  ],
+  "data": {
+    "verdict": "Choose the Ninja AF101 if you cook for one or two and want the smallest footprint. Choose the COSORI Pro LE if you cook for three or four and want the extra quart of capacity.",
+    "rows": [
+      {
+        "label": "Capacity",
+        "a": "4 quarts",
+        "b": "5 quarts"
+      },
+      {
+        "label": "Best for",
+        "a": "1 to 2 people",
+        "b": "2 to 4 people"
+      },
+      {
+        "label": "Footprint",
+        "a": "Smaller",
+        "b": "Slightly larger"
+      },
+      {
+        "label": "Dishwasher-safe basket",
+        "a": "Yes (Ninja spec)",
+        "b": "Yes (COSORI spec)"
+      }
+    ],
+    "productA": {
+      "name": "Ninja AF101 Air Fryer 4-Qt",
+      "brand": "Ninja",
+      "asin": "B07FDJMC9Q",
+      "searchQuery": "Ninja AF101 Air Fryer 4 quart",
+      "bestFor": "one or two people",
+      "blurb": "A compact 4-quart air fryer with a wide temperature range and a dehydrate function.",
+      "strengths": [
+        "Small footprint",
+        "Dehydrate function"
+      ],
+      "limitations": [
+        "Tight for more than two servings"
+      ]
+    },
+    "productB": {
+      "name": "COSORI Pro LE 5-Qt Air Fryer",
+      "brand": "COSORI",
+      "asin": "B0936FGLQS",
+      "searchQuery": "COSORI Pro LE 5 qt air fryer L501",
+      "bestFor": "households of two to four",
+      "blurb": "A 5-quart square-basket air fryer with simple touch controls and presets.",
+      "strengths": [
+        "More capacity in a compact body",
+        "Easy to clean"
+      ],
+      "limitations": [
+        "Not big enough for large families"
+      ]
+    },
+    "sections": [
+      {
+        "h": "Which one should you buy?",
+        "p": [
+          "Both are simple, well-reviewed basket air fryers. Neither has a feature that makes the other obsolete.",
+          "If counter space is your main limit, the Ninja is the easier fit. If you regularly cook four portions of fries or wings, the COSORI saves you a batch."
+        ]
+      }
+    ]
+  }
+}

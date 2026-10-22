@@ -1,0 +1,137 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Juicers for Leafy Greens",
+  "h1": "The 5 Best Juicers for Leafy Greens",
+  "metaDescription": "Our 5 picks for juicers for leafy greens, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at juicers for leafy greens using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-juicers",
+  "related": [
+    "best-juicers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Omega J8006HDS Masticating Juicer",
+        "brand": "Omega",
+        "asin": "B07GWNHDXH",
+        "blurb": "Key specs: 80 RPM dual-stage auger, 200W motor, 37oz juice container.",
+        "strengths": [
+          "Reverse switch clears fibrous greens that jam the auger without disassembly",
+          "15-year warranty is the longest in the category",
+          "Doubles as a food processor attachment for nut butter and baby food"
+        ],
+        "limitations": [
+          "Horizontal auger design takes up more counter length than upright juicers",
+          "Juice and pulp containers are small and need emptying often during a big greens batch",
+          "Slower overall throughput than a centrifugal juicer"
+        ],
+        "features": [
+          "80 RPM dual-stage auger",
+          "200W motor",
+          "37oz juice container",
+          "On/off/reverse switch to clear jams",
+          "15-year warranty"
+        ],
+        "badge": "Top pick",
+        "bestFor": "leafy greens"
+      },
+      {
+        "name": "Hurom H-AA Slow Juicer",
+        "brand": "Hurom",
+        "asin": "B01M28GXY4",
+        "blurb": "Key specs: Single auger, upright design, 150W quiet motor, Adjustable pulp control lever.",
+        "strengths": [
+          "One of the highest juice yields recorded across independent juicer tests, including on greens",
+          "Very quiet operation compared to most masticating juicers",
+          "Compact upright footprint compared to horizontal masticating designs"
+        ],
+        "limitations": [
+          "Premium price puts it well above most competitors, including the Omega",
+          "Narrower feed chute than the Omega means more pre-cutting for whole produce",
+          "More parts to assemble and clean than a simpler centrifugal juicer"
+        ],
+        "features": [
+          "Single auger, upright design",
+          "150W quiet motor",
+          "Adjustable pulp control lever",
+          "500ml feed chamber",
+          "Available in matte black, white, and rose gold"
+        ],
+        "bestFor": "leafy greens"
+      },
+      {
+        "name": "Breville Juice Fountain Cold",
+        "brand": "Breville",
+        "asin": "B016J1ICDU",
+        "blurb": "Key specs: 850W motor, Cold Spin Technology, 70oz juice jug.",
+        "strengths": [
+          "Much faster than any masticating juicer when greens are only part of the mix",
+          "Cold Spin Technology keeps juice temperature rise under 2°F, slowing oxidation",
+          "Easy to rinse clean, a common praise point in owner reviews"
+        ],
+        "limitations": [
+          "Yield on pure leafy greens is noticeably lower than a masticating juicer",
+          "Greens need to be rolled or bunched with firmer produce to feed well",
+          "Louder motor than any masticating option on this list"
+        ],
+        "features": [
+          "850W motor",
+          "Cold Spin Technology",
+          "70oz juice jug",
+          "Two-speed centrifugal system",
+          "Italian-made precision mesh filter"
+        ],
+        "bestFor": "leafy greens"
+      },
+      {
+        "name": "NutriBullet Juicer Pro NBJ50200",
+        "brand": "NutriBullet",
+        "asin": "B08G5D4WBX",
+        "blurb": "Key specs: 1000W high-torque motor, 27oz sealing juice pitcher, 3-inch feed chute with dual-size pusher.",
+        "strengths": [
+          "Lowest price of any juicer on this list with real fruit and vegetable capability",
+          "Wide feed chute reduces prep time for firmer produce",
+          "Dishwasher-safe components speed up cleanup"
+        ],
+        "limitations": [
+          "Weakest yield on leafy greens of the four juicers here",
+          "Some owners report excessive foam on high-water-content produce",
+          "Centrifugal blade wastes more greens than a masticating auger"
+        ],
+        "features": [
+          "1000W high-torque motor",
+          "27oz sealing juice pitcher",
+          "3-inch feed chute with dual-size pusher",
+          "Centrifugal extraction",
+          "Dishwasher-safe parts"
+        ],
+        "bestFor": "leafy greens"
+      },
+      {
+        "name": "Nama J2 Cold Press Juicer",
+        "brand": "Nama",
+        "asin": "B0DSXYQY6S",
+        "blurb": "",
+        "strengths": [
+          "Hands-free hopper reduces prep",
+          "Slow 50 RPM extraction",
+          "Good with greens and celery",
+          "Fewer parts to clean than many slow juicers"
+        ],
+        "limitations": [
+          "Expensive",
+          "Large countertop footprint",
+          "Slower than centrifugal juicers"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

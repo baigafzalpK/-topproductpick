@@ -1,0 +1,127 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Dog Beds for Hot Climates",
+  "h1": "The 5 Best Dog Beds for Hot Climates",
+  "metaDescription": "Our 5 picks for dog beds for hot climates, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at dog beds for hot climates using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-dog-beds",
+  "related": [
+    "best-dog-beds"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Kuranda Chewproof Elevated Dog Bed",
+        "brand": "Kuranda",
+        "asin": "B004E2GC2U",
+        "blurb": "Key specs: Elevated PVC frame platform, Breathable Cordura or vinyl fabric options, No foam to trap body heat.",
+        "strengths": [
+          "Elevated design allows full airflow underneath the dog, the single biggest factor in heat dissipation",
+          "No foam layer means no dense material retaining body heat against the dog",
+          "Rated for outdoor use, useful for shaded patios and porches in warm climates",
+          "PVC frame does not absorb and hold heat the way foam does"
+        ],
+        "limitations": [
+          "No cushioning, a real tradeoff for senior dogs that need joint support",
+          "Direct sun exposure on the frame itself can still get warm, shade placement matters"
+        ],
+        "features": [
+          "Elevated PVC frame platform",
+          "Breathable Cordura or vinyl fabric options",
+          "No foam to trap body heat",
+          "Indoor and outdoor rated",
+          "44 by 27-inch platform"
+        ],
+        "badge": "Best overall",
+        "bestFor": "hot climates"
+      },
+      {
+        "name": "PetFusion Ultimate Dog Bed",
+        "brand": "PetFusion",
+        "asin": "B00TQ47CPW",
+        "blurb": "Key specs: 35% cotton breathable cover, Solid 4-inch memory foam base, Waterproof inner liner.",
+        "strengths": [
+          "Cotton-blend cover breathes better than the faux fur or plush covers common on competing foam beds",
+          "Low profile means less foam mass trapping heat compared to a thick pillow-top bed",
+          "Best choice for owners who need real joint support and are in an air-conditioned home"
+        ],
+        "limitations": [
+          "Solid foam still retains more body heat than any elevated mesh design",
+          "Waterproof liner, while useful for accidents, reduces airflow through the foam",
+          "Not intended for uncovered outdoor use"
+        ],
+        "features": [
+          "35% cotton breathable cover",
+          "Solid 4-inch memory foam base",
+          "Waterproof inner liner",
+          "Low-profile design"
+        ],
+        "bestFor": "hot climates"
+      },
+      {
+        "name": "Furhaven Orthopedic Dog Bed Jumbo/XL",
+        "brand": "Furhaven",
+        "asin": "B00D2VB54O",
+        "blurb": "Key specs: Egg-crate orthopedic foam base, Ultra-plush faux fur and suede cover, Removable, machine-washable cover.",
+        "strengths": [
+          "Egg-crate foam structure allows slightly more airflow than a solid foam slab",
+          "Washable cover makes it easy to swap in a lighter cover fabric seasonally",
+          "Low price makes it reasonable to pair with a cooling mat rather than relying on the bed alone"
+        ],
+        "limitations": [
+          "Plush faux fur cover is one of the warmer fabric choices in this category",
+          "Not a strong choice for genuinely hot climates or outdoor use without a cooling mat",
+          "Best suited to mild climates or well air-conditioned rooms"
+        ],
+        "features": [
+          "Egg-crate orthopedic foam base",
+          "Ultra-plush faux fur and suede cover",
+          "Removable, machine-washable cover"
+        ],
+        "bestFor": "hot climates"
+      },
+      {
+        "name": "Coolaroo Original Elevated Cooling Dog Bed",
+        "brand": "Coolaroo",
+        "asin": "B0091E7Q2G",
+        "blurb": "",
+        "strengths": [
+          "Breathable mesh stays cool",
+          "Off-the-ground support",
+          "Easy to hose clean",
+          "Durable steel frame"
+        ],
+        "limitations": [
+          "No cushioning",
+          "Determined chewers can damage edges",
+          "Assembly required"
+        ],
+        "features": []
+      },
+      {
+        "name": "Coolaroo On-The-Go Elevated Travel Dog Bed",
+        "brand": "Coolaroo",
+        "asin": "B096W65L7H",
+        "blurb": "",
+        "strengths": [
+          "Folds into a carry bag",
+          "Breathable raised mesh",
+          "Light and portable",
+          "Moisture-resistant fabric"
+        ],
+        "limitations": [
+          "No cushioning",
+          "Less sturdy than the Original",
+          "Not for chewers"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

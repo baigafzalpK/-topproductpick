@@ -1,0 +1,82 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Diaper Bags Under $100",
+  "h1": "The 3 Best Diaper Bags Under $100",
+  "metaDescription": "Our 3 picks for diaper bags under $100, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at diaper bags under $100 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-diaper-bags",
+  "related": [
+    "best-diaper-bags"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Itzy Ritzy Boss Backpack Diaper Bag",
+        "brand": "Itzy Ritzy",
+        "asin": "B07WJ6ZZ7F",
+        "blurb": "Key specs: 17 total pockets, 10 interior and 7 exterior, Two properly insulated bottle pockets, Changing pad with stroller clips included.",
+        "strengths": [
+          "17 pockets provide the same organizational depth as pricier premium bags",
+          "Padded straps hold up well under daily heavy loads"
+        ],
+        "limitations": [
+          "Heavier empty than budget totes due to the padding and hardware",
+          "Fewer neutral colorways than some competitors"
+        ],
+        "features": [
+          "17 total pockets, 10 interior and 7 exterior",
+          "Two properly insulated bottle pockets",
+          "Changing pad with stroller clips included",
+          "Padded, adjustable backpack straps",
+          "Typically $100 to $130"
+        ]
+      },
+      {
+        "name": "Skip Hop Duo Signature Diaper Bag Tote",
+        "brand": "Skip Hop",
+        "asin": "B01LNN1Z9C",
+        "blurb": "Key specs: 17 total pockets including two mesh side bottle pockets, Shuttle clips for stroller attachment, Machine-washable changing pad included.",
+        "strengths": [
+          "Doubles as a work bag thanks to the laptop sleeve",
+          "Shuttle clips make stroller attachment quick"
+        ],
+        "limitations": [
+          "Mesh pockets are not insulated, unlike the Itzy Ritzy's dedicated bottle sleeves",
+          "Tote carry, not hands-free like a backpack"
+        ],
+        "features": [
+          "17 total pockets including two mesh side bottle pockets",
+          "Shuttle clips for stroller attachment",
+          "Machine-washable changing pad included",
+          "Fits laptops up to 15 inches",
+          "Typically $40 to $70"
+        ]
+      },
+      {
+        "name": "RUVALINO Diaper Bag Backpack",
+        "brand": "RUVALINO",
+        "asin": "B07HL6FV5F",
+        "blurb": "",
+        "strengths": [
+          "Many pockets and compartments",
+          "Changing pad and insulated bottle holders",
+          "Water-resistant fabric",
+          "Budget price"
+        ],
+        "limitations": [
+          "Can feel bulky when full",
+          "Zippers are a common wear point",
+          "Lots of pockets can be hard to keep organized"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

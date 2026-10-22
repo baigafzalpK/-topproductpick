@@ -1,0 +1,39 @@
+{
+  "type": "buying-guide",
+  "title": "How to Choose an Air Fryer: Size, Style and Features",
+  "h1": "How to Choose an Air Fryer",
+  "metaDescription": "A plain-English guide to picking an air fryer: the right size, basket vs oven style, and which features are worth paying for.",
+  "lede": "Air fryers are small convection ovens. Picking a good one comes down to three questions: how much you cook, how much counter space you have, and how easy it is to clean.",
+  "updatedAt": "2026-10-19",
+  "category": "air-fryers",
+  "related": ["best-air-fryers", "ninja-af101-vs-cosori-pro-le"],
+  "data": {
+    "sections": [
+      {
+        "h": "Pick the size first",
+        "p": ["Food crisps best in a single layer, so capacity sets how many batches you'll cook."],
+        "list": ["2 to 4 quarts: one or two people", "5 to 6 quarts: three or four people", "8 quarts or dual basket: families, or cooking two foods at once"]
+      },
+      {
+        "h": "Basket or oven style?",
+        "p": [
+          "Basket models are compact, heat quickly and are the easiest to clean. Oven-style models have racks and a door, fit more flat food like toast or pizza, but take up more space and have more parts to clean.",
+          "Dual-basket models are a middle ground: two independent drawers so you can cook a main and a side at different settings."
+        ]
+      },
+      {
+        "h": "Features worth paying for",
+        "p": ["These make a real difference day to day:"],
+        "list": ["Dishwasher-safe basket and crisper plate", "A viewing window if you dislike opening the drawer", "Low temperature settings if you want to dehydrate", "Sync finish on dual-basket models"]
+      },
+      {
+        "h": "Features you can skip",
+        "p": ["App control and long lists of presets rarely matter. Most cooking uses air fry at a set temperature and time, and presets are just shortcuts to those."]
+      }
+    ],
+    "faqs": [
+      { "q": "Do air fryers use a lot of electricity?", "a": "They typically draw 1,400 to 1,800 watts while running, but cook for short times, so many people find they use less energy than heating a full oven for small meals." },
+      { "q": "Can I put foil or parchment in an air fryer?", "a": "Many manufacturers allow it if it doesn't block airflow and is weighed down by food. Check your manual first." }
+    ]
+  }
+}

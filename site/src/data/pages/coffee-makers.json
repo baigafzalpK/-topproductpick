@@ -1,0 +1,19 @@
+{
+  "type": "category",
+  "title": "Coffee Makers: Drip, Pod, Espresso and French Press",
+  "h1": "Coffee Makers",
+  "metaDescription": "Our coffee maker research: the best machine for each brewing style, in-depth reviews and cleaning guides.",
+  "lede": "From one-button drip brewers to beginner espresso machines, find the coffee maker that matches how you actually drink coffee.",
+  "updatedAt": "2026-10-19",
+  "data": {
+    "department": "kitchen-and-dining",
+    "sections": [
+      {
+        "h": "Where to start",
+        "p": [
+          "The best coffee makers list covers one strong pick per brewing style. If you want espresso drinks, read the Bambino Plus review next."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 2 Best Meat Thermometers Under $20",
+  "h1": "The 2 Best Meat Thermometers Under $20",
+  "metaDescription": "Our 2 picks for meat thermometers under $20, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at meat thermometers under $20 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-meat-thermometers",
+  "related": [
+    "best-meat-thermometers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Alpha Grillers Instant Read Meat Thermometer",
+        "brand": "Alpha Grillers",
+        "asin": "B00S93EQUK",
+        "blurb": "",
+        "strengths": [
+          "Reads in about 1 to 2 seconds",
+          "IP67 waterproof",
+          "Backlit display",
+          "Pre-calibrated out of the box"
+        ],
+        "limitations": [
+          "Uses a CR2032 coin battery",
+          "Short probe for very thick roasts",
+          "Basic features"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "ThermoPro TP03 Digital Instant Read Thermometer",
+        "brand": "ThermoPro",
+        "asin": "B01IHHLB3W",
+        "blurb": "",
+        "strengths": [
+          "Very affordable",
+          "Backlight and magnet for storage",
+          "Wide temperature range",
+          "Simple one-button use"
+        ],
+        "limitations": [
+          "Slower than premium thermocouple models",
+          "Not waterproof",
+          "Easy to switch units by accident"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

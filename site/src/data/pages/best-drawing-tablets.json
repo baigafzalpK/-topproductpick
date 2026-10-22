@@ -1,0 +1,40 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "Our Top Pick: Drawing Tablets 2026",
+  "h1": "Our Top Pick: Drawing Tablets 2026",
+  "metaDescription": "Our top pick for drawing tablets 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at drawing tablets 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "drawing-tablets",
+  "related": [
+    "drawing-tablets"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "HUION Kamvas 13 (Gen 3) Pen Display",
+        "brand": "HUION",
+        "asin": "B0D813G71Q",
+        "blurb": "",
+        "strengths": [
+          "Fully laminated screen reduces parallax",
+          "Anti-sparkle etched glass",
+          "Dual dials and shortcut keys",
+          "Single USB-C connection"
+        ],
+        "limitations": [
+          "Needs a computer",
+          "13-inch canvas is compact",
+          "Color accuracy below pro displays"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

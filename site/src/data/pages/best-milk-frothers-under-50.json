@@ -1,0 +1,119 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Milk Frothers Under $50",
+  "h1": "The 5 Best Milk Frothers Under $50",
+  "metaDescription": "Our 5 picks for milk frothers under $50, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at milk frothers under $50 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-milk-frothers",
+  "related": [
+    "best-milk-frothers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Bodum Bistro Electric Milk Frother",
+        "brand": "Bodum",
+        "asin": "B07CNG6RM7",
+        "blurb": "Key specs: 10-ounce stainless steel body, Heats and froths in one cycle, Non-stick interior chamber.",
+        "strengths": [
+          "Simple single-button use, nothing to configure wrong",
+          "Compact stainless design fits most kitchens"
+        ],
+        "limitations": [
+          "No cappuccino/latte-specific settings or temperature adjustment",
+          "Non-stick interior needs gentle hand washing rather than a dishwasher on most versions"
+        ],
+        "features": [
+          "10-ounce stainless steel body",
+          "Heats and froths in one cycle",
+          "Non-stick interior chamber",
+          "Single-button operation"
+        ],
+        "badge": "Best overall"
+      },
+      {
+        "name": "Zulay Original Milk Frother",
+        "brand": "Zulay",
+        "asin": "B07TB9R9V2",
+        "blurb": "Key specs: Handheld battery-powered whisk, Under $15, Stainless steel whisk head.",
+        "strengths": [
+          "Works in any mug, no dedicated jug to clean"
+        ],
+        "limitations": [
+          "Still doesn't heat milk regardless of the higher budget ceiling",
+          "Foam is coarser than the Bodum's heat-and-froth cycle",
+          "Battery-powered, needs periodic AA replacement"
+        ],
+        "features": [
+          "Handheld battery-powered whisk",
+          "Under $15",
+          "Stainless steel whisk head",
+          "Included stand"
+        ]
+      },
+      {
+        "name": "Maestri House DualFro 400 Milk Frother",
+        "brand": "Maestri House",
+        "asin": "B0D9YHK8BJ",
+        "blurb": "",
+        "strengths": [
+          "Hot and cold foam modes",
+          "Larger 16.9 oz capacity",
+          "Touch controls with memory",
+          "Hot chocolate setting"
+        ],
+        "limitations": [
+          "Care instructions vary by listing; check before dishwashing",
+          "Larger footprint than mini frothers",
+          "Plant milks need barista versions"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "Maestri House 3-in-1 Automatic Milk Frother, 240 ml",
+        "brand": "Maestri House",
+        "asin": "B0CQZMGZ35",
+        "blurb": "",
+        "strengths": [
+          "Hot foam, cold foam and warm milk",
+          "Compact size",
+          "Auto shut-off",
+          "Easy-rinse nonstick interior"
+        ],
+        "limitations": [
+          "Small capacity for multiple drinks",
+          "Works best with higher-fat milk",
+          "Check the listing's care instructions before dishwashing"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "PowerLix 4-in-1 Automatic Milk Frother",
+        "brand": "PowerLix",
+        "asin": "B0CCYVQ8XV",
+        "blurb": "",
+        "strengths": [
+          "One-button operation",
+          "Hot and cold foam",
+          "Budget price",
+          "Hot chocolate mode"
+        ],
+        "limitations": [
+          "400W heats slower than pricier models",
+          "Small capacity",
+          "Jug cleaning needs care around the heating base"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

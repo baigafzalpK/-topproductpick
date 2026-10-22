@@ -1,0 +1,97 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Power Banks 2026",
+  "h1": "The 4 Best Power Banks 2026",
+  "metaDescription": "Our 4 picks for power banks 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at power banks 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "power-banks",
+  "related": [
+    "power-banks"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Anker Power Bank (PowerCore 10K)",
+        "brand": "Anker",
+        "asin": "B0D4MDHB21",
+        "blurb": "",
+        "strengths": [
+          "Pocketable size",
+          "USB-C charging",
+          "Trusted brand",
+          "Affordable"
+        ],
+        "limitations": [
+          "Not for laptops",
+          "Moderate charging speed",
+          "Single USB-C port on some versions"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "Anker 325 Power Bank (PowerCore Essential 20K)",
+        "brand": "Anker",
+        "asin": "B0D5CQ9CHQ",
+        "blurb": "",
+        "strengths": [
+          "Large 20,000mAh capacity",
+          "Multiple ports",
+          "Affordable for the capacity",
+          "Anker reliability"
+        ],
+        "limitations": [
+          "15W charging is slow",
+          "Heavier",
+          "Not for laptops"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "Baseus 20000mAh 65W Laptop Power Bank",
+        "brand": "Baseus",
+        "asin": "B0D8TD7FWG",
+        "blurb": "",
+        "strengths": [
+          "65W USB-C charges laptops",
+          "20,000mAh capacity",
+          "Works with Steam Deck and ROG Ally",
+          "Multiple ports"
+        ],
+        "limitations": [
+          "Heavy for a pocket",
+          "65W may not run high-power laptops at full speed",
+          "Display varies by version"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "Anker PowerCore 20100mAh Power Bank",
+        "brand": "Anker",
+        "asin": "B00VJSGT2A",
+        "blurb": "",
+        "strengths": [
+          "Large 20,100mAh capacity",
+          "Two USB-A ports",
+          "Proven reliability",
+          "Affordable"
+        ],
+        "limitations": [
+          "No USB-C fast charging on this classic model",
+          "Slow to recharge",
+          "Heavier"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

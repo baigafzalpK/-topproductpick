@@ -1,0 +1,77 @@
+{
+  "type": "comparison",
+  "title": "Instant Pot Duo vs Duo Plus: Which One Should You Buy?",
+  "h1": "Instant Pot Duo vs Duo Plus",
+  "metaDescription": "Instant Pot Duo or Duo Plus? Compare functions, display and value to choose the right 6-quart pressure cooker.",
+  "lede": "The Duo and Duo Plus cook the same way and use the same recipes. The difference is in extra programs and the display.",
+  "updatedAt": "2026-10-19",
+  "category": "multi-cookers",
+  "related": [
+    "best-multi-cookers",
+    "pressure-cooker-vs-slow-cooker"
+  ],
+  "data": {
+    "verdict": "Most people should buy the Duo: it does everything that matters for everyday pressure cooking. Choose the Duo Plus if you want the extra programs and a display that shows each cooking stage.",
+    "rows": [
+      {
+        "label": "Functions (Instant spec)",
+        "a": "7",
+        "b": "9"
+      },
+      {
+        "label": "Capacity",
+        "a": "6 quarts",
+        "b": "6 quarts"
+      },
+      {
+        "label": "Inner pot",
+        "a": "Stainless steel",
+        "b": "Stainless steel"
+      },
+      {
+        "label": "Progress display",
+        "a": "No",
+        "b": "Yes"
+      }
+    ],
+    "productA": {
+      "name": "Instant Pot Duo 7-in-1 6-Qt Electric Pressure Cooker",
+      "brand": "Instant Pot",
+      "asin": "B00FLYWNYQ",
+      "searchQuery": "Instant Pot Duo 7-in-1 6 quart",
+      "bestFor": "first-time pressure cooker owners",
+      "blurb": "The classic 7-in-1 Instant Pot.",
+      "strengths": [
+        "Lower price",
+        "Covers all the core functions"
+      ],
+      "limitations": [
+        "Basic display"
+      ]
+    },
+    "productB": {
+      "name": "Instant Pot Duo Plus 9-in-1 6-Qt Electric Pressure Cooker",
+      "brand": "Instant Pot",
+      "asin": "B01NBKTPTS",
+      "searchQuery": "Instant Pot Duo Plus 9-in-1 6 quart",
+      "bestFor": "people who want more presets and a clearer display",
+      "blurb": "The 9-in-1 upgrade with a progress display.",
+      "strengths": [
+        "Extra programs",
+        "Clearer display"
+      ],
+      "limitations": [
+        "Costs more"
+      ]
+    },
+    "sections": [
+      {
+        "h": "Which one should you buy?",
+        "p": [
+          "Recipes, accessories and inner pots are broadly shared between the two 6-quart models, so you won't miss out on anything by choosing the Duo.",
+          "If the price difference is small when you shop, the Duo Plus display is a nice quality-of-life upgrade."
+        ]
+      }
+    ]
+  }
+}

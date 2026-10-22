@@ -1,0 +1,110 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Leaf Blowers for Gutter Cleaning",
+  "h1": "The 4 Best Leaf Blowers for Gutter Cleaning",
+  "metaDescription": "Our 4 picks for leaf blowers for gutter cleaning, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at leaf blowers for gutter cleaning using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-leaf-blowers",
+  "related": [
+    "best-leaf-blowers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Ryobi 40V HP Brushless Whisper Series 650 CFM Leaf Blower",
+        "brand": "Ryobi",
+        "asin": "B07N2XRHKM",
+        "blurb": "Key specs: 40V HP Brushless motor, 650 CFM / 160 MPH, Cruise control trigger lock, Whisper Series low-noise housing.",
+        "strengths": [
+          "Cruise control lock means you don't have to grip the trigger while balancing on a ladder",
+          "650 CFM easily clears dried leaves and grit from gutters with room to spare",
+          "No cord to manage while climbing or holding a ladder position",
+          "Lower noise reduces strain during a task that already demands close attention"
+        ],
+        "limitations": [
+          "Bare tool listings mean a gutter kit and battery are both separate purchases",
+          "Slightly front-heavy when extended overhead with a long gutter kit attached"
+        ],
+        "features": [
+          "40V HP Brushless motor, 650 CFM / 160 MPH",
+          "Cruise control trigger lock",
+          "Whisper Series low-noise housing",
+          "Compatible with universal round-nozzle gutter kits"
+        ],
+        "bestFor": "gutter cleaning"
+      },
+      {
+        "name": "Greenworks 40V 185 MPH 340 CFM Cordless Blower/Vacuum",
+        "brand": "Greenworks",
+        "asin": "B00DRBBRVU",
+        "blurb": "Key specs: 7.3 lb lightweight design, 185 MPH / 340 CFM brushless motor, Includes 4.0Ah battery and charger.",
+        "strengths": [
+          "Lightest full kit here, easiest to hold one-handed above shoulder height",
+          "340 CFM is enough for typical dried leaf and twig gutter debris",
+          "Included battery and charger keep upfront cost lower than a bare-tool option"
+        ],
+        "limitations": [
+          "Underpowered for compacted, wet, or heavily matted gutter debris",
+          "No cruise control lock, requires continuous trigger grip",
+          "Vacuum mode isn't relevant to gutter work"
+        ],
+        "features": [
+          "7.3 lb lightweight design",
+          "185 MPH / 340 CFM brushless motor",
+          "Includes 4.0Ah battery and charger"
+        ],
+        "bestFor": "gutter cleaning"
+      },
+      {
+        "name": "EGO Power+ LB6504 650 CFM Cordless Leaf Blower",
+        "brand": "EGO",
+        "asin": "B087RRLLQ3",
+        "blurb": "Key specs: Up to 650 CFM turbo airflow, 250 to 500 CFM variable-speed dial, 56V ARC Lithium battery, 5.0Ah included.",
+        "strengths": [
+          "Variable dial lets you back off power for controlled gutter work, then hit turbo for packed debris",
+          "650 CFM clears compacted or long-neglected gutters other blowers struggle with",
+          "Long 75-minute runtime covers a full-house gutter cleaning session"
+        ],
+        "limitations": [
+          "Heaviest of the cordless picks, noticeably more effort to hold overhead for extended periods",
+          "More blower than most routine gutter maintenance actually requires",
+          "Higher price than the lighter, cheaper alternatives here"
+        ],
+        "features": [
+          "Up to 650 CFM turbo airflow",
+          "250 to 500 CFM variable-speed dial",
+          "56V ARC Lithium battery, 5.0Ah included"
+        ],
+        "bestFor": "gutter cleaning"
+      },
+      {
+        "name": "Toro PowerJet F700 Corded Electric Leaf Blower",
+        "brand": "Toro",
+        "asin": "B00TNCJU3E",
+        "blurb": "Key specs: 725 CFM airflow, 140 MPH air speed, 12-amp motor, Lightweight corded housing.",
+        "strengths": [
+          "Highest CFM here for genuinely packed or compacted gutter debris",
+          "Works well with a telescoping gutter extension kit used from the ground on single-story homes",
+          "Lighter than the EGO since there's no battery pack"
+        ],
+        "limitations": [
+          "A trailing cord is a real hazard when combined with ladder use",
+          "Not recommended for elevated, one-handed ladder work",
+          "Best reserved for ground-level extension-kit use rather than climbing"
+        ],
+        "features": [
+          "725 CFM airflow, 140 MPH air speed",
+          "12-amp motor",
+          "Lightweight corded housing"
+        ],
+        "bestFor": "gutter cleaning"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

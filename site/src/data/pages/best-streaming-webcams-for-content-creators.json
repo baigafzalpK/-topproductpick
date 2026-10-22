@@ -1,0 +1,57 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 2 Best Streaming Webcams for Content Creators",
+  "h1": "The 2 Best Streaming Webcams for Content Creators",
+  "metaDescription": "Our 2 picks for streaming webcams for content creators, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at streaming webcams for content creators using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "streaming-accessories",
+  "related": [
+    "streaming-accessories"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Razer Kiyo Pro",
+        "brand": "Razer",
+        "asin": "B08T1MWX6J",
+        "blurb": "",
+        "strengths": [
+          "Strong low-light performance",
+          "1080p at 60 fps",
+          "Adjustable field of view",
+          "HDR at 30 fps"
+        ],
+        "limitations": [
+          "No 4K",
+          "Microphone is average",
+          "HDR not available at 60 fps"
+        ],
+        "features": []
+      },
+      {
+        "name": "Elgato Facecam MK.2",
+        "brand": "Elgato",
+        "asin": "B0CW1S7XP5",
+        "blurb": "",
+        "strengths": [
+          "Uncompressed 1080p60 video",
+          "Manual ISO and shutter control",
+          "HDR support",
+          "USB-C connection"
+        ],
+        "limitations": [
+          "No built-in microphone",
+          "No 4K",
+          "Software needed for best results"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "type": "buying-guide",
+  "title": "How to Choose an Electric Kettle (and the Right Tea Temperature)",
+  "h1": "How to Choose an Electric Kettle",
+  "metaDescription": "Gooseneck or standard, variable temperature or simple boil? How to choose an electric kettle, with a tea temperature chart.",
+  "lede": "The right kettle depends on what you make with the water. Here is what matters, and what you can safely ignore.",
+  "updatedAt": "2026-10-19",
+  "category": "electric-kettles",
+  "related": ["best-electric-kettles", "electric-kettles"],
+  "data": {
+    "sections": [
+      {
+        "h": "Do you need temperature control?",
+        "p": [
+          "Boiling water can make delicate teas taste bitter. If you drink green, white or oolong tea, a variable-temperature kettle is worth it. If you mainly drink black tea or instant coffee, a basic kettle is enough."
+        ]
+      },
+      {
+        "h": "Common tea temperature ranges",
+        "p": ["These are widely used starting points; follow the instructions on your tea if they differ."],
+        "list": [
+          "Green tea: about 160 to 180°F (70 to 80°C)",
+          "White tea: about 175 to 185°F (80 to 85°C)",
+          "Oolong tea: about 185 to 205°F (85 to 96°C)",
+          "Black and herbal tea: about 200 to 212°F (93 to 100°C)"
+        ]
+      },
+      {
+        "h": "Gooseneck or standard spout?",
+        "p": ["A gooseneck spout gives a slow, precise stream for pour-over coffee. A standard spout pours faster and is better for filling mugs, teapots and pans."]
+      },
+      {
+        "h": "Safety and practical features",
+        "p": ["Look for these on any kettle:"],
+        "list": ["Automatic shut-off when the water boils", "Boil-dry protection", "A cordless base that lets you lift the kettle off", "A clear water-level window or markings"]
+      },
+      {
+        "h": "Capacity",
+        "p": ["Around 1.7 liters suits most households. Smaller gooseneck kettles (under 1 liter) are designed for one or two cups of coffee or tea at a time."]
+      }
+    ],
+    "faqs": [
+      { "q": "How often should I descale a kettle?", "a": "Every few weeks to every few months, depending on how hard your water is. Follow the manufacturer's instructions for the descaling method." },
+      { "q": "Is it safe to leave water in a kettle?", "a": "It's generally fine for short periods, but emptying and refilling with fresh water gives better-tasting drinks and slows limescale build-up." }
+    ]
+  }
+}

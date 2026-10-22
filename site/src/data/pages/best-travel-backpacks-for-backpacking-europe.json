@@ -1,0 +1,93 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Travel Backpacks for Backpacking Europe",
+  "h1": "The 3 Best Travel Backpacks for Backpacking Europe",
+  "metaDescription": "Our 3 picks for travel backpacks for backpacking europe, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at travel backpacks for backpacking europe using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-travel-backpacks",
+  "related": [
+    "best-travel-backpacks"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Cotopaxi Allpa 35L Travel Pack",
+        "brand": "Cotopaxi",
+        "asin": "B0CQ5L6RV3",
+        "blurb": "Key specs: 35L suitcase-style opening, 1000D TPU-coated polyester, recycled fabrics, Air-mesh back panel.",
+        "strengths": [
+          "35L sits closest to budget-carrier personal item limits among purpose-built travel packs",
+          "Suitcase-style opening suits repacking quietly in shared hostel rooms",
+          "Durable shell holds up over weeks of train stations and cobblestone streets"
+        ],
+        "limitations": [
+          "Even at 35L, some strict Ryanair-style sizers may still flag it at the gate",
+          "Thin hip belt offers less support than a hiking-style harness on long walking days",
+          "Limited external organization for quick-grab items like a passport or phone"
+        ],
+        "features": [
+          "35L suitcase-style opening",
+          "1000D TPU-coated polyester, recycled fabrics",
+          "Air-mesh back panel",
+          "Removable hip belt",
+          "Luggage pass-through strap"
+        ],
+        "bestFor": "backpacking europe"
+      },
+      {
+        "name": "Osprey Farpoint 40",
+        "brand": "Osprey",
+        "asin": "B014EBKMMG",
+        "blurb": "Key specs: 40L with removable 11L daypack, LightWire frame suspension, Stowable harness.",
+        "strengths": [
+          "Frame suspension and hipbelt carry weight better on long walks between train stations",
+          "Removable daypack works as a day bag for sightseeing without the main pack",
+          "Widely used by long-term backpackers, with a strong multi-year durability track record"
+        ],
+        "limitations": [
+          "40L exceeds several budget-carrier personal item limits, may incur a gate fee",
+          "Two-piece system is bulkier than a single travel pack when both pieces are combined",
+          "Higher price than the Cotopaxi packs at typical retail"
+        ],
+        "features": [
+          "40L with removable 11L daypack",
+          "LightWire frame suspension",
+          "Stowable harness",
+          "Zip-away hipbelt",
+          "Lockable main compartment"
+        ],
+        "bestFor": "backpacking europe"
+      },
+      {
+        "name": "Cotopaxi Allpa 42L Travel Pack",
+        "brand": "Cotopaxi",
+        "asin": "B0CQ5M7LHD",
+        "blurb": "Key specs: 42L suitcase-style opening, 15-inch laptop sleeve, 1000D TPU-coated polyester shell.",
+        "strengths": [
+          "Extra volume over the 35L version suits multi-month itineraries with fewer laundry stops",
+          "Same fast packing layout as the smaller Allpa, useful in shared hostel spaces",
+          "Durable shell fabric withstands repeated loading onto buses and trains"
+        ],
+        "limitations": [
+          "42L is the least budget-carrier-friendly size in this list",
+          "Heavier than the 35L version when fully packed for a long trip",
+          "May need to be checked rather than carried as a free personal item on strict carriers"
+        ],
+        "features": [
+          "42L suitcase-style opening",
+          "15-inch laptop sleeve",
+          "1000D TPU-coated polyester shell",
+          "Removable hip belt",
+          "Exterior stretch water bottle pocket"
+        ],
+        "bestFor": "backpacking europe"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

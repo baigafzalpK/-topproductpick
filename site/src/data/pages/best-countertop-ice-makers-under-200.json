@@ -1,0 +1,104 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Countertop Ice Makers Under $200",
+  "h1": "The 4 Best Countertop Ice Makers Under $200",
+  "metaDescription": "Our 4 picks for countertop ice makers under $200, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at countertop ice makers under $200 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-ice-makers",
+  "related": [
+    "best-ice-makers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Euhomy Nugget Ice Maker Countertop",
+        "brand": "Euhomy",
+        "asin": "B0C32SGKMJ",
+        "blurb": "Key specs: Up to 34 lbs of nugget ice per day, First batch ready in about 6 minutes, Self-cleaning cycle.",
+        "strengths": [
+          "Genuine nugget ice texture at roughly a third of the GE Opal's typical price",
+          "34 lbs a day and a 6-minute batch cycle both beat most bullet-ice machines at this budget",
+          "Self-cleaning cycle and carry handle add real convenience"
+        ],
+        "limitations": [
+          "No app, scheduling, or WiFi features",
+          "Smaller reservoir than premium nugget ice machines, more frequent refills",
+          "Larger footprint than a basic bullet-ice machine"
+        ],
+        "features": [
+          "Up to 34 lbs of nugget ice per day",
+          "First batch ready in about 6 minutes",
+          "Self-cleaning cycle",
+          "Built-in carry handle",
+          "Removable top cover"
+        ],
+        "badge": "Top pick"
+      },
+      {
+        "name": "Igloo Automatic Self-Cleaning Ice Maker",
+        "brand": "Igloo",
+        "asin": "B0B1FXF76C",
+        "blurb": "Key specs: 26 lbs of ice per 24 hours, 9 cubes ready in about 7 minutes, Automatic 5-cycle self-cleaning function.",
+        "strengths": [
+          "Comfortably priced within this budget with room to spare",
+          "Self-cleaning cycle and cube size selector cover most household needs",
+          "Smaller, easier-to-place footprint than the Euhomy"
+        ],
+        "limitations": [
+          "26 lbs a day is lower output than the Euhomy's 34 lbs",
+          "Bullet-style ice melts faster than nugget ice",
+          "No handle for portability"
+        ],
+        "features": [
+          "26 lbs of ice per 24 hours",
+          "9 cubes ready in about 7 minutes",
+          "Automatic 5-cycle self-cleaning function",
+          "Large or small cube size selector",
+          "Compact footprint"
+        ]
+      },
+      {
+        "name": "Silonn Countertop Nugget Ice Maker, 44 lb/Day",
+        "brand": "Silonn",
+        "asin": "B0BBGFRL9X",
+        "blurb": "",
+        "strengths": [
+          "Chewable nugget ice at a lower price than premium brands",
+          "Self-cleaning mode",
+          "Timer for ice ready when you need it",
+          "Compact countertop footprint"
+        ],
+        "limitations": [
+          "Ice basket is not refrigerated, so ice slowly melts",
+          "Daily output depends on room and water temperature",
+          "Needs regular descaling with hard water"
+        ],
+        "features": []
+      },
+      {
+        "name": "EUHOMY Countertop Bullet Ice Maker, 26 lb/Day",
+        "brand": "EUHOMY",
+        "asin": "B09SH86T8M",
+        "blurb": "",
+        "strengths": [
+          "Fast first batch",
+          "Carry handle for RVs and parties",
+          "Self-cleaning cycle",
+          "Two cube sizes"
+        ],
+        "limitations": [
+          "Ice melts in the unrefrigerated basket",
+          "Small 1.2 L tank",
+          "Bullet ice, not nugget"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

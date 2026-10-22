@@ -1,0 +1,89 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Deep Fryers Under $100",
+  "h1": "The 3 Best Deep Fryers Under $100",
+  "metaDescription": "Our 3 picks for deep fryers under $100, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at deep fryers under $100 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-deep-fryers",
+  "related": [
+    "best-deep-fryers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Hamilton Beach Professional Style Electric Deep Fryer 35036",
+        "brand": "Hamilton Beach",
+        "asin": "B00PXAZTKI",
+        "blurb": "Key specs: 4.5-liter / 19-cup oil capacity, 1800W immersed heating element, Two baskets included.",
+        "strengths": [
+          "1800W element recovers quickly with cold or large batches",
+          "Two baskets included at no extra cost, useful for splitting foods",
+          "Removable, dishwasher-safe heating element and enamel-coated tank"
+        ],
+        "limitations": [
+          "Larger footprint than single-basket fryers in this range",
+          "Two baskets are two extra pieces to store and clean"
+        ],
+        "features": [
+          "4.5-liter / 19-cup oil capacity",
+          "1800W immersed heating element",
+          "Two baskets included",
+          "View-window lid",
+          "Typically $60 to $70"
+        ]
+      },
+      {
+        "name": "T-fal Ultimate EZ Clean Deep Fryer",
+        "brand": "T-fal",
+        "asin": "B00NQ7QFGM",
+        "blurb": "Key specs: 3.5-liter oil / 2.6-pound food capacity, 1700W element, Built-in oil filtration and drainage system.",
+        "strengths": [
+          "Built-in filtration drains and filters oil through a charcoal filter for up to 10 more uses",
+          "Digital timer and temperature control are the most precise in this price range",
+          "Locking lid with viewing window contains splatter and lets you monitor color",
+          "Dishwasher-safe basket and lid speed up cleanup"
+        ],
+        "limitations": [
+          "Smaller capacity than the Hamilton Beach at 3.5 liters",
+          "Filtration adds a couple extra minutes to post-fry cleanup"
+        ],
+        "features": [
+          "3.5-liter oil / 2.6-pound food capacity",
+          "1700W element",
+          "Built-in oil filtration and drainage system",
+          "Digital timer and temperature control",
+          "Typically $90 to $100"
+        ]
+      },
+      {
+        "name": "Cuisinart CDF-200P1 Professional Deep Fryer",
+        "brand": "Cuisinart",
+        "asin": "B01JCECNM2",
+        "blurb": "Key specs: 1-gallon removable stainless steel oil container, 1800W immersion heating element, 2.3-pound food capacity.",
+        "strengths": [
+          "2.3-pound food capacity is the largest single-basket capacity in this price range",
+          "1800W element matches the Hamilton Beach on recovery speed",
+          "Removable oil container with a pour spout simplifies oil changes",
+          "Viewing window lets you monitor frying without lifting the lid"
+        ],
+        "limitations": [
+          "Single basket means sequential batches for very large amounts",
+          "Bulkier housing than the T-fal or Hamilton Beach"
+        ],
+        "features": [
+          "1-gallon removable stainless steel oil container",
+          "1800W immersion heating element",
+          "2.3-pound food capacity",
+          "Pour-spout container for oil disposal",
+          "Typically $90 to $110"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

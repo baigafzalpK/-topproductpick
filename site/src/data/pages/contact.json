@@ -1,0 +1,24 @@
+{
+  "type": "page",
+  "title": "Contact",
+  "h1": "Contact Us",
+  "metaDescription": "How to reach the TopProductPick research desk with corrections, questions or suggestions.",
+  "lede": "We read every message, especially corrections.",
+  "updatedAt": "2026-10-19",
+  "data": {
+    "sections": [
+      {
+        "h": "Email",
+        "p": [
+          "Write to hello@topproductpick.com. We usually reply within a few working days."
+        ]
+      },
+      {
+        "h": "Brands and PR",
+        "p": [
+          "You're welcome to send product information. We don't accept payment for coverage or placement."
+        ]
+      }
+    ]
+  }
+}

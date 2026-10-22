@@ -1,0 +1,92 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Window Air Conditioners Under $200",
+  "h1": "The 3 Best Window Air Conditioners Under $200",
+  "metaDescription": "Our 3 picks for window air conditioners under $200, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at window air conditioners under $200 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-window-air-conditioners",
+  "related": [
+    "best-window-air-conditioners"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "LG 5,000 BTU Window Air Conditioner LW5016",
+        "brand": "LG",
+        "asin": "B094DX3MCH",
+        "blurb": "Key specs: 5,000 BTU cooling capacity, Cools rooms up to 150 sq ft, 2 cooling and fan speeds.",
+        "strengths": [
+          "Mechanical dial has nothing to pair or lose Wi-Fi connection to",
+          "Correctly sized for a true small bedroom or home office rather than an oversized 8,000 BTU unit",
+          "LG's build quality and compressor reliability carry over from its pricier models"
+        ],
+        "limitations": [
+          "150 sq ft ceiling means it won't handle a larger bedroom or a living room",
+          "Only 2 fan speeds, versus 3 on the brand's 8,000 BTU models",
+          "No digital display or app control"
+        ],
+        "features": [
+          "5,000 BTU cooling capacity",
+          "Cools rooms up to 150 sq ft",
+          "2 cooling and fan speeds",
+          "Mechanical dial controls",
+          "2-way air deflection",
+          "Washable filter"
+        ],
+        "badge": "Top pick"
+      },
+      {
+        "name": "Amazon Basics 6,000 BTU Window Air Conditioner",
+        "brand": "Amazon Basics",
+        "asin": "B07N6KTC5V",
+        "blurb": "Key specs: 6,000 BTU cooling capacity, Cools rooms up to 250 sq ft, Mechanical dial with 7 temperature settings.",
+        "strengths": [
+          "250 sq ft coverage at 6,000 BTU stretches further than the 5,000 BTU units in this price range",
+          "Included adjustable window kit fits most standard 23 to 34 inch wide window openings",
+          "Consistently one of the better-reviewed budget window units on Amazon"
+        ],
+        "limitations": [
+          "No digital thermostat, just a mechanical dial with numbered settings",
+          "2 fan and cooling speeds only",
+          "Amazon's house brand has less of a long-term repair and parts track record than LG or Frigidaire"
+        ],
+        "features": [
+          "6,000 BTU cooling capacity",
+          "Cools rooms up to 250 sq ft",
+          "Mechanical dial with 7 temperature settings",
+          "Adjustable window installation kit",
+          "Washable filter"
+        ]
+      },
+      {
+        "name": "Frigidaire 5,000 BTU Window-Mounted Air Conditioner",
+        "brand": "Frigidaire",
+        "asin": "B07RGM11L5",
+        "blurb": "Key specs: 5,000 BTU cooling capacity, Cools rooms up to 150 sq ft, Mechanical controls.",
+        "strengths": [
+          "Compact 14-inch housing fits narrower and shorter window openings than most competitors",
+          "One of the higher review-volume budget units, suggesting a large, established buyer base",
+          "Frigidaire's compressor reliability at this tier is comparable to its pricier inverter models"
+        ],
+        "limitations": [
+          "150 sq ft ceiling, same limitation as the LG LW5016",
+          "Mechanical controls only, no digital readout",
+          "Basic 2-way airflow with no directional adjustment"
+        ],
+        "features": [
+          "5,000 BTU cooling capacity",
+          "Cools rooms up to 150 sq ft",
+          "Mechanical controls",
+          "2 cooling and fan speeds",
+          "Compact housing for shorter windows"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

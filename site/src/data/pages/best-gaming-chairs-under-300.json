@@ -1,0 +1,230 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 10 Best Gaming Chairs Under $300",
+  "h1": "The 10 Best Gaming Chairs Under $300",
+  "metaDescription": "Our 10 picks for gaming chairs under $300, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at gaming chairs under $300 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "gaming-chairs",
+  "related": [
+    "gaming-chairs"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "DXRacer Formula Series Gaming Chair",
+        "brand": "DXRacer",
+        "asin": "B087QBQRD5",
+        "blurb": "Key specs: High backrest with full spine coverage, 1D adjustable armrests (height only), 140-degree recline with tilt lock.",
+        "strengths": [
+          "Recognized brand with widely available replacement parts",
+          "140-degree recline with tilt lock",
+          "Adjustable height gas lift"
+        ],
+        "limitations": [
+          "Foam compresses noticeably after 6-8 months of heavy daily use",
+          "1D armrests (height only)",
+          "PU leather peels at contact points in warm climates"
+        ],
+        "features": [
+          "High backrest with full spine coverage",
+          "1D adjustable armrests (height only)",
+          "140-degree recline with tilt lock",
+          "PU leather upholstery",
+          "Adjustable height gas lift"
+        ],
+        "badge": "Best Overall",
+        "bestFor": "buyers who want the best overall package"
+      },
+      {
+        "name": "AndaSeat Kaiser 3 (when on sale)",
+        "brand": "AndaSeat",
+        "asin": "B0B2TMZJ9B",
+        "blurb": "Key specs: Integrated lumbar adjusts both height and extension depth, Cold-cure foam seat and backrest, 4D armrests (height, width, depth, pivot).",
+        "strengths": [
+          "Best integrated lumbar system in the category",
+          "Cold-cure foam that holds density for 3+ years",
+          "4D armrests when on sale"
+        ],
+        "limitations": [
+          "Sale timing is unpredictable"
+        ],
+        "features": [
+          "Integrated lumbar adjusts both height and extension depth",
+          "Cold-cure foam seat and backrest",
+          "4D armrests (height, width, depth, pivot)",
+          "Size-specific variants for different body types",
+          "PVC leather or fabric upholstery options"
+        ],
+        "badge": "Best Value",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "RESPAWN 110 Racing Style Gaming Chair",
+        "brand": "RESPAWN",
+        "asin": "B076J2BGWJ",
+        "blurb": "Key specs: Taller backrest for users up to 6'2, 3D adjustable armrests (height, width, depth), Reclining footrest.",
+        "strengths": [
+          "Taller backrest accommodates users up to 6'2",
+          "3D armrests (height, width, depth)",
+          "Reclining footrest included"
+        ],
+        "limitations": [
+          "Lumbar is a pillow insert, not integrated",
+          "Footrest feels flimsy under extended use"
+        ],
+        "features": [
+          "Taller backrest for users up to 6'2",
+          "3D adjustable armrests (height, width, depth)",
+          "Reclining footrest",
+          "Multi-angle recline lock",
+          "Detachable lumbar and headrest pillows"
+        ]
+      },
+      {
+        "name": "OFM Essentials Collection Racing Style Bonded Leather Chair",
+        "brand": "OFM",
+        "asin": "B01MST0H8N",
+        "blurb": "Key specs: Bonded leather upholstery, multiple colors, 2D fold-down armrests, Detachable lumbar and headrest cushions.",
+        "strengths": [
+          "Available in multiple colors",
+          "Arms fold for storage"
+        ],
+        "limitations": [
+          "Foam softens faster than competitors"
+        ],
+        "features": [
+          "Bonded leather upholstery, multiple colors",
+          "2D fold-down armrests",
+          "Detachable lumbar and headrest cushions",
+          "Racing-style high backrest"
+        ]
+      },
+      {
+        "name": "Homall Gaming Chair with Footrest",
+        "brand": "Homall",
+        "asin": "B0838YY9T4",
+        "blurb": "Key specs: Pull-out leg footrest, Adjustable headrest and lumbar cushions, 1D fixed-height armrests.",
+        "strengths": [
+          "Assembled in under 30 minutes"
+        ],
+        "limitations": [
+          "Foam is noticeably soft from day one",
+          "Not designed for extended professional use"
+        ],
+        "features": [
+          "Pull-out leg footrest",
+          "Adjustable headrest and lumbar cushions",
+          "1D fixed-height armrests",
+          "PU leather upholstery"
+        ]
+      },
+      {
+        "name": "Devoko Ergonomic Racing Style Gaming Chair",
+        "brand": "Devoko",
+        "asin": "B075V63NQX",
+        "blurb": "Key specs: Adjustable armrests (2D), High backrest with headrest pillow, PU leather upholstery.",
+        "strengths": [
+          "Adjustable armrests at budget price",
+          "Lumbar and headrest pillows included"
+        ],
+        "limitations": [
+          "Lumbar pillow migrates during use",
+          "Foam density not competitive with DXRacer"
+        ],
+        "features": [
+          "Adjustable armrests (2D)",
+          "High backrest with headrest pillow",
+          "PU leather upholstery",
+          "Detachable lumbar pillow"
+        ]
+      },
+      {
+        "name": "Corsair TC100 Relaxed Ergonomic Gaming Chair",
+        "brand": "Corsair",
+        "asin": "B0BN6RRD5V",
+        "blurb": "Key specs: Wider, flatter seat than racing-style chairs, Breathable leatherette upholstery, 2D adjustable armrests.",
+        "strengths": [
+          "Wider seat than racing-style chairs",
+          "Breathable leatherette",
+          "Corsair brand support"
+        ],
+        "limitations": [
+          "Less adjustability than DXRacer at the same price"
+        ],
+        "features": [
+          "Wider, flatter seat than racing-style chairs",
+          "Breathable leatherette upholstery",
+          "2D adjustable armrests",
+          "Fixed lumbar curve built into backrest"
+        ]
+      },
+      {
+        "name": "Flash Furniture X10 High-Back Gaming Chair",
+        "brand": "Flash Furniture",
+        "asin": "B07VDTTTNP",
+        "blurb": "Key specs: Flip-up padded armrests, Integrated headrest pillow, High-back racing-style design.",
+        "strengths": [
+          "High back with headrest support",
+          "Reclining feature",
+          "Affordable",
+          "Pillows included"
+        ],
+        "limitations": [
+          "Seat comfort varies for larger users",
+          "Basic armrests",
+          "Long-term durability mixed"
+        ],
+        "features": [
+          "Flip-up padded armrests",
+          "Integrated headrest pillow",
+          "High-back racing-style design",
+          "PU leather upholstery"
+        ]
+      },
+      {
+        "name": "KILLABEE Big and Tall 350lb Massage Gaming Chair",
+        "brand": "KILLABEE",
+        "asin": "B07B8HFJCC",
+        "blurb": "Key specs: Extended frame for users up to 6'5 and 350 lbs, Reinforced metal base, USB vibration massage lumbar pillow.",
+        "strengths": [
+          "Accommodates users to 6'5",
+          "Reinforced metal frame"
+        ],
+        "limitations": [
+          "Heavy and harder to move"
+        ],
+        "features": [
+          "Extended frame for users up to 6'5 and 350 lbs",
+          "Reinforced metal base",
+          "USB vibration massage lumbar pillow",
+          "Wide seat with high backrest"
+        ]
+      },
+      {
+        "name": "BestOffice Gaming Chair with USB Massage Lumbar",
+        "brand": "BestOffice",
+        "asin": "B084KQG75K",
+        "blurb": "Key specs: USB vibration massage lumbar pillow, 1D adjustable armrests, PU leather upholstery.",
+        "strengths": [
+          "USB massage lumbar included"
+        ],
+        "limitations": [
+          "Vibration massage is not a substitute for lumbar support",
+          "Foam quality is entry-level"
+        ],
+        "features": [
+          "USB vibration massage lumbar pillow",
+          "1D adjustable armrests",
+          "PU leather upholstery",
+          "Racing-style high backrest"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

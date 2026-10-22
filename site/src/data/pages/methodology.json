@@ -1,0 +1,36 @@
+{
+  "type": "page",
+  "title": "How We Research",
+  "h1": "How We Research Products",
+  "metaDescription": "The step-by-step process behind every TopProductPick list, review and comparison.",
+  "lede": "Every recommendation follows the same process, so you can judge how much weight to give it.",
+  "updatedAt": "2026-10-19",
+  "data": {
+    "sections": [
+      {
+        "h": "1. Define the buyer",
+        "p": [
+          "Each list starts with who it's for: household size, budget range, skill level or space."
+        ]
+      },
+      {
+        "h": "2. Gather the facts",
+        "p": [
+          "We collect manufacturer specifications, manuals and warranty terms, and note which claims come from the manufacturer."
+        ]
+      },
+      {
+        "h": "3. Cross-check real-world use",
+        "p": [
+          "We read independent expert reviews and patterns in owner reports, looking for repeated praise or complaints rather than single anecdotes."
+        ]
+      },
+      {
+        "h": "4. Write it plainly",
+        "p": [
+          "Every product gets strengths and limitations. We label manufacturer claims as such, and we update pages when products change."
+        ]
+      }
+    ]
+  }
+}

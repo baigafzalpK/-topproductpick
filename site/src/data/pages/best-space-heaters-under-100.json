@@ -1,0 +1,109 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Space Heaters Under $100",
+  "h1": "The 4 Best Space Heaters Under $100",
+  "metaDescription": "Our 4 picks for space heaters under $100, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at space heaters under $100 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-space-heaters",
+  "related": [
+    "best-space-heaters"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Dreo Solaris 317 Space Heater",
+        "brand": "Dreo",
+        "asin": "B0CMYYNTVH",
+        "blurb": "Key specs: 1500W PTC ceramic heating element, 70-degree oscillation, 34dB whisper-quiet brushless DC motor.",
+        "strengths": [
+          "Quietest fan of any heaterat this price, at just 34dB",
+          "70-degree oscillation covers more of a room than fixed-direction competitors",
+          "Precise 1°F thermostat steps hold a steady temperature better than dial-based models"
+        ],
+        "limitations": [
+          "More expensive than basic tower heaters without matching wattage",
+          "Plastic housing feels lighter-duty than a metal radiator",
+          "No oil-filled residual heat retention after shutoff"
+        ],
+        "features": [
+          "1500W PTC ceramic heating element",
+          "70-degree oscillation",
+          "34dB whisper-quiet brushless DC motor",
+          "Digital thermostat, 41°F to 95°F",
+          "12-hour timer with remote",
+          "Typically around $80"
+        ],
+        "badge": "Top pick"
+      },
+      {
+        "name": "De'Longhi Dragon Digital Oil-Filled Radiator TRD40615EBK",
+        "brand": "De'Longhi",
+        "asin": "B07WSJZH1G",
+        "blurb": "Key specs: 1500W oil-filled radiator, 75% more radiant surface area design, Digital display and programmable timer.",
+        "strengths": [
+          "Silent, fanless operation unlike every ceramic heater in this list",
+          "Retains warmth for a while after shutting off",
+          "ECO mode helps manage running cost over long sessions"
+        ],
+        "limitations": [
+          "Slowest to reach target temperature",
+          "Bulkiest and heaviest option"
+        ],
+        "features": [
+          "1500W oil-filled radiator",
+          "75% more radiant surface area design",
+          "Digital display and programmable timer",
+          "ECO energy-saving mode",
+          "Typically $90 to $100"
+        ]
+      },
+      {
+        "name": "Vornado VH202 Personal Space Heater",
+        "brand": "Vornado",
+        "asin": "B00VXEJ6PC",
+        "blurb": "Key specs: Vortex heat circulation fan, Cool-touch exterior, Compact footprint.",
+        "strengths": [
+          "Best-suited option here for under-desk or personal-zone heating",
+          "Cool-touch housing is safer for close-range use than exposed models"
+        ],
+        "limitations": [
+          "Not built to heat a large room on its own",
+          "No oscillation or thermostat dial"
+        ],
+        "features": [
+          "Vortex heat circulation fan",
+          "Cool-touch exterior",
+          "Compact footprint",
+          "Automatic tip-over shutoff",
+          "Typically around $55"
+        ]
+      },
+      {
+        "name": "Lasko 5572 Oscillating Ceramic Tower Heater",
+        "brand": "Lasko",
+        "asin": "B001DNIIUC",
+        "blurb": "Key specs: 29-inch oscillating tower, Logic Center digital remote, Adjustable thermostat.",
+        "strengths": [
+          "Tallest tower in this list, spreading heat across a wider vertical area",
+          "Large, well-established ratings history"
+        ],
+        "limitations": [
+          "Only 2 fixed heat settings, not a stepless thermostat",
+          "Noticeable fan noise on high"
+        ],
+        "features": [
+          "29-inch oscillating tower",
+          "Logic Center digital remote",
+          "Adjustable thermostat",
+          "Typically around $45"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Automatic Pet Feeders Under $150",
+  "h1": "The 4 Best Automatic Pet Feeders Under $150",
+  "metaDescription": "Our 4 picks for automatic pet feeders under $150, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at automatic pet feeders under $150 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-automatic-pet-feeders",
+  "related": [
+    "best-automatic-pet-feeders"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "PetSafe Smart Feed Automatic Dog & Cat Feeder",
+        "brand": "PetSafe",
+        "asin": "B073WYP317",
+        "blurb": "Key specs: 24-cup / 6L hopper capacity, Wi-Fi app control, up to 12 scheduled meals per day, Portions from 1/8 cup to 4 cups.",
+        "strengths": [
+          "Largest hopper capacity of any feeder in this price bracket",
+          "1/8-cup portion increments are finer than most Wi-Fi feeders at this price",
+          "Backup batteries keep the schedule running through a power outage, a feature some pricier feeders skip"
+        ],
+        "limitations": [
+          "No camera, so there's no visual confirmation a pet actually ate",
+          "Larger footprint on the counter than compact non-Wi-Fi feeders",
+          "App and remote alerts depend on a stable home Wi-Fi connection"
+        ],
+        "features": [
+          "24-cup / 6L hopper capacity",
+          "Wi-Fi app control, up to 12 scheduled meals per day",
+          "Portions from 1/8 cup to 4 cups",
+          "Slow Feed setting and backup battery power",
+          "Typically priced $150 to $190"
+        ]
+      },
+      {
+        "name": "SureFeed Microchip Pet Feeder Connect",
+        "brand": "SureFeed",
+        "asin": "B07RHZHHGN",
+        "blurb": "Key specs: Microchip and RFID collar tag recognition, Sealed lid between registered visits, Training mode for gradual introduction.",
+        "strengths": [
+          "The only feeder in this list that physically blocks a housemate pet from the wrong bowl",
+          "Sealed lid keeps food fresher between visits than an open timed bowl",
+          "Long 3-year warranty reflects a design built for years of daily use"
+        ],
+        "limitations": [
+          "Full app connectivity requires a separately sold hub, an added cost",
+          "Single-bowl format, not a multi-day hopper like the PetSafe Smart Feed",
+          "Fewer total ratings than PetSafe, though satisfaction among owners is consistent"
+        ],
+        "features": [
+          "Microchip and RFID collar tag recognition",
+          "Sealed lid between registered visits",
+          "Training mode for gradual introduction",
+          "3-year warranty"
+        ]
+      },
+      {
+        "name": "PETLIBRO Granary 5L Wi-Fi Automatic Pet Feeder",
+        "brand": "PETLIBRO",
+        "asin": "B09S8WMJY9",
+        "blurb": "",
+        "strengths": [
+          "App scheduling for up to 10 meals a day",
+          "5-liter hopper lasts several days for one cat or small dog",
+          "Low-food alerts in the app",
+          "Battery backup keeps scheduled meals running during power cuts"
+        ],
+        "limitations": [
+          "Dry food only",
+          "Needs a 2.4/5 GHz Wi-Fi setup for remote features",
+          "Portion size varies with kibble shape"
+        ],
+        "features": []
+      },
+      {
+        "name": "WOPET 7L Automatic Feeder with Camera",
+        "brand": "WOPET",
+        "asin": "B0DQTTN8GN",
+        "blurb": "",
+        "strengths": [
+          "Built-in HD camera to watch mealtimes",
+          "Large 7-liter hopper",
+          "App scheduling up to 6 meals a day",
+          "Two-way audio"
+        ],
+        "limitations": [
+          "2.4 GHz Wi-Fi only",
+          "Dry food only",
+          "Camera features depend on the app"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

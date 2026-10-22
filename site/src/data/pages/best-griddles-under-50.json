@@ -1,0 +1,264 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 10 Best Griddles Under $50",
+  "h1": "The 10 Best Griddles Under $50",
+  "metaDescription": "Our 10 picks for griddles under $50, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at griddles under $50 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "griddles",
+  "related": [
+    "griddles"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Presto 07046 Tilt 'n Drain Big Griddle",
+        "brand": "Presto",
+        "asin": "B00066XROO",
+        "blurb": "Key specs: Tilt drain, 240 sq in, Under $40.",
+        "strengths": [
+          "Tilting surface drains grease",
+          "Large cooking area",
+          "Budget price",
+          "Removable heat control for cleaning"
+        ],
+        "limitations": [
+          "Edges may run cooler",
+          "Nonstick wears over time",
+          "Storage size"
+        ],
+        "features": [
+          "Tilt drain",
+          "240 sq in",
+          "Under $40",
+          "Presto"
+        ],
+        "badge": "Best Overall",
+        "bestFor": "buyers who want the best overall package"
+      },
+      {
+        "name": "Presto 07030 Cool Touch Electric Griddle",
+        "brand": "Presto",
+        "asin": "B001078UCC",
+        "blurb": "Key specs: Cool touch, Under $30, Safe handles.",
+        "strengths": [
+          "Cool-touch edges",
+          "Nonstick surface",
+          "Affordable",
+          "Easy cleanup"
+        ],
+        "limitations": [
+          "Smaller surface",
+          "Basic temperature control",
+          "Plastic exterior"
+        ],
+        "features": [
+          "Cool touch",
+          "Under $30",
+          "Safe handles",
+          "Presto"
+        ],
+        "badge": "Best Safe"
+      },
+      {
+        "name": "Black+Decker GD2051B Family Griddle",
+        "brand": "Black+Decker",
+        "asin": "B0765XJ31G",
+        "blurb": "Key specs: Family size, Under $40, Drip tray.",
+        "strengths": [
+          "Large cooking surface",
+          "Warming tray",
+          "Budget price",
+          "Nonstick"
+        ],
+        "limitations": [
+          "Uneven heat at edges",
+          "Nonstick durability",
+          "Bulky"
+        ],
+        "features": [
+          "Family size",
+          "Under $40",
+          "Drip tray",
+          "Black+Decker"
+        ],
+        "badge": "Best Blackdecker"
+      },
+      {
+        "name": "Oster DuraCeramic Reversible Grill and Griddle",
+        "brand": "Oster",
+        "asin": "B00COVHOIO",
+        "blurb": "Key specs: DuraCeramic, Oster, Infused coating.",
+        "strengths": [
+          "Ceramic-coated surface",
+          "Reversible plates",
+          "Easy cleaning",
+          "Affordable"
+        ],
+        "limitations": [
+          "Coating durability varies",
+          "Moderate heat",
+          "Basic controls"
+        ],
+        "features": [
+          "DuraCeramic",
+          "Oster",
+          "Infused coating",
+          "Under $50"
+        ],
+        "badge": "Best Coating"
+      },
+      {
+        "name": "Hamilton Beach 38518 Electric Griddle",
+        "brand": "Hamilton Beach",
+        "asin": "B015AGPOKO",
+        "blurb": "Key specs: Hamilton Beach, 200 sq in, Under $30.",
+        "strengths": [
+          "Removable drip tray",
+          "Affordable",
+          "Nonstick",
+          "Simple controls"
+        ],
+        "limitations": [
+          "Uneven edge heating",
+          "Basic build",
+          "Coating wear"
+        ],
+        "features": [
+          "Hamilton Beach",
+          "200 sq in",
+          "Under $30",
+          "Simple"
+        ],
+        "badge": "Best Hamilton"
+      },
+      {
+        "name": "Dash Mini Maker Griddle",
+        "brand": "Dash",
+        "asin": "B01MTXBOA6",
+        "blurb": "Key specs: Mini, Under $15, Dash.",
+        "strengths": [
+          "Very compact",
+          "Fast heating",
+          "Affordable",
+          "Easy storage"
+        ],
+        "limitations": [
+          "Single-serve size",
+          "No temperature control",
+          "Limited uses"
+        ],
+        "features": [
+          "Mini",
+          "Under $15",
+          "Dash",
+          "Compact"
+        ],
+        "badge": "Best Mini"
+      },
+      {
+        "name": "Elite Gourmet EGR-2113 Electric Griddle",
+        "brand": "Elite Gourmet",
+        "asin": "B087T9RP8Z",
+        "blurb": "Key specs: Large, Under $40, Elite.",
+        "strengths": [
+          "Large cooking surface",
+          "Budget price",
+          "Nonstick",
+          "Adjustable temperature"
+        ],
+        "limitations": [
+          "Thin build",
+          "Coating durability",
+          "Uneven heating"
+        ],
+        "features": [
+          "Large",
+          "Under $40",
+          "Elite",
+          "Family"
+        ],
+        "badge": "Best Large Budget",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "Better Chef Electric Griddle Non-stick",
+        "brand": "Better Chef",
+        "asin": "B0721JH5LQ",
+        "blurb": "Key specs: Adjustable, Under $35, Better Chef.",
+        "strengths": [
+          "Low price",
+          "Nonstick",
+          "Simple controls",
+          "Lightweight"
+        ],
+        "limitations": [
+          "Basic construction",
+          "Uneven heat",
+          "Shorter lifespan"
+        ],
+        "features": [
+          "Adjustable",
+          "Under $35",
+          "Better Chef",
+          "Compact"
+        ],
+        "badge": "Best Value",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "Proctor Silex 38400 Electric Crepe Griddle",
+        "brand": "Proctor Silex",
+        "asin": "B07822Z42M",
+        "blurb": "Key specs: Proctor Silex, Under $30, Simple.",
+        "strengths": [
+          "Round crepe surface",
+          "Affordable",
+          "Simple operation",
+          "Compact"
+        ],
+        "limitations": [
+          "Specialized use",
+          "Small surface",
+          "Basic controls"
+        ],
+        "features": [
+          "Proctor Silex",
+          "Under $30",
+          "Simple",
+          "Basic"
+        ],
+        "badge": "Best Proctor"
+      },
+      {
+        "name": "GreenLife Ceramic Electric Griddle",
+        "brand": "GreenLife",
+        "asin": "B09RGQ4JHC",
+        "blurb": "Key specs: Ceramic, PTFE-free, GreenLife.",
+        "strengths": [
+          "Ceramic nonstick surface",
+          "Large 20-inch cooking area",
+          "Easy cleanup",
+          "Bright colorful design"
+        ],
+        "limitations": [
+          "Ceramic coatings can lose slickness over time",
+          "Heats less evenly at edges",
+          "Avoid high heat"
+        ],
+        "features": [
+          "Ceramic",
+          "PTFE-free",
+          "GreenLife",
+          "Under $45"
+        ],
+        "badge": "Best Ceramic"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

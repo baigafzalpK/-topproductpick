@@ -1,0 +1,39 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "Our Top Pick: Meat Thermometers for Smoking",
+  "h1": "Our Top Pick: Meat Thermometers for Smoking",
+  "metaDescription": "Our top pick for meat thermometers for smoking, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at meat thermometers for smoking using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-meat-thermometers",
+  "related": [
+    "best-meat-thermometers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "MEATER Pro (formerly MEATER 2 Plus) Wireless Meat Thermometer",
+        "brand": "MEATER",
+        "asin": "B0CP8BPXKR",
+        "blurb": "",
+        "strengths": [
+          "Truly wire-free probe",
+          "High heat tolerance for searing",
+          "App with cook estimates",
+          "Long-range connectivity"
+        ],
+        "limitations": [
+          "Expensive",
+          "Single probe",
+          "App and battery dependent"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "Our Top Pick: Gaming Chairs 2026",
+  "h1": "Our Top Pick: Gaming Chairs 2026",
+  "metaDescription": "Our top pick for gaming chairs 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at gaming chairs 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "gaming-chairs",
+  "related": [
+    "gaming-chairs"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Corsair TC100 Relaxed Ergonomic Gaming Chair",
+        "brand": "Corsair",
+        "asin": "B0BN6RRD5V",
+        "blurb": "",
+        "strengths": [
+          "Wide, relaxed seat",
+          "Lumbar and neck pillows included",
+          "Recline and height adjustment",
+          "Leatherette or fabric options"
+        ],
+        "limitations": [
+          "Pillows are not built-in lumbar",
+          "Basic armrests",
+          "120 kg weight limit"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

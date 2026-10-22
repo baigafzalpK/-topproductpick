@@ -1,0 +1,114 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Milk Frothers for Lattes at Home",
+  "h1": "The 4 Best Milk Frothers for Lattes at Home",
+  "metaDescription": "Our 4 picks for milk frothers for lattes at home, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at milk frothers for lattes at home using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-milk-frothers",
+  "related": [
+    "best-milk-frothers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Breville Milk Cafe BMF600XL",
+        "brand": "Breville",
+        "asin": "B004RCNJ9Q",
+        "blurb": "Key specs: Induction heating with spinning disc technology, Separate latte and cappuccino froth discs, Adjustable temperature dial.",
+        "strengths": [
+          "Latte disc produces genuinely fine, glossy microfoam closest to a steam wand in this list",
+          "Induction heating warms milk evenly without scorching the bottom",
+          "Dishwasher-safe jug removes the most tedious part of frother ownership",
+          "Temperature dial lets you match milk heat to personal preference"
+        ],
+        "limitations": [
+          "Larger footprint takes real counter space",
+          "Two discs to keep track of and swap between drink styles"
+        ],
+        "features": [
+          "Induction heating with spinning disc technology",
+          "Separate latte and cappuccino froth discs",
+          "Adjustable temperature dial",
+          "Automatic shut-off at target temperature",
+          "Dishwasher-safe jug"
+        ],
+        "badge": "Best overall",
+        "bestFor": "lattes at home"
+      },
+      {
+        "name": "Nespresso Aeroccino4",
+        "brand": "Nespresso",
+        "asin": "B01JCEKE8C",
+        "blurb": "Key specs: 4 preparation modes: hot froth, cold froth, hot milk, cold milk, Induction heating, Non-stick coated jug.",
+        "strengths": [
+          "Four dedicated modes cover both hot lattes and iced coffee drinks without swapping parts",
+          "Single-button interface, press and walk away",
+          "Compact footprint compared to the Breville",
+          "Strong brand reputation and wide parts/accessory availability"
+        ],
+        "limitations": [
+          "Foam is good but slightly coarser than the Breville's dedicated latte disc",
+          "No temperature adjustment, one fixed hot setting",
+          "Non-stick coating shows wear faster than stainless interiors over years of use"
+        ],
+        "features": [
+          "4 preparation modes: hot froth, cold froth, hot milk, cold milk",
+          "Induction heating",
+          "Non-stick coated jug",
+          "One-button operation with auto stop"
+        ],
+        "bestFor": "lattes at home"
+      },
+      {
+        "name": "Bodum Bistro Electric Milk Frother",
+        "brand": "Bodum",
+        "asin": "B07CNG6RM7",
+        "blurb": "Key specs: 10-ounce stainless steel body, Non-stick interior whisk chamber, Single-button heat and froth cycle.",
+        "strengths": [
+          "Simple single button, nothing to learn or misconfigure",
+          "Compact enough for small kitchens or a shelf"
+        ],
+        "limitations": [
+          "Foam is denser and less fine than induction-disc models",
+          "No cappuccino/latte-specific settings",
+          "Non-stick coating needs gentle hand cleaning, not dishwasher-safe on most versions"
+        ],
+        "features": [
+          "10-ounce stainless steel body",
+          "Non-stick interior whisk chamber",
+          "Single-button heat and froth cycle",
+          "Cord storage in the base"
+        ],
+        "bestFor": "lattes at home"
+      },
+      {
+        "name": "Zulay Original Milk Frother",
+        "brand": "Zulay",
+        "asin": "B07TB9R9V2",
+        "blurb": "Key specs: Battery-powered handheld whisk, Stainless steel whisk head, Included stand.",
+        "strengths": [
+          "No counter space required, stores in a drawer",
+          "Works in whatever mug you already own instead of a dedicated jug"
+        ],
+        "limitations": [
+          "Does not heat milk, only froths, so milk needs pre-warming separately",
+          "Foam is coarser and less stable than an induction frother's microfoam",
+          "Runs on AA batteries that need periodic replacement"
+        ],
+        "features": [
+          "Battery-powered handheld whisk",
+          "Stainless steel whisk head",
+          "Included stand",
+          "Works in any cup or mug"
+        ],
+        "bestFor": "lattes at home"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

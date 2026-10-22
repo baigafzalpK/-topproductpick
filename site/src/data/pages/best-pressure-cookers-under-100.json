@@ -1,0 +1,251 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 10 Best Pressure Cookers Under $100",
+  "h1": "The 10 Best Pressure Cookers Under $100",
+  "metaDescription": "Our 10 picks for pressure cookers under $100, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at pressure cookers under $100 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "pressure-cookers",
+  "related": [
+    "pressure-cookers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Instant Pot Duo 7-in-1 Electric Pressure Cooker 6-Quart",
+        "brand": "Instant Pot",
+        "asin": "B00FLYWNYQ",
+        "blurb": "Key specs: 7-in-1, 6-quart, Electric.",
+        "strengths": [
+          "The most recipe support and community documentation of any pressure cooker",
+          "7 functions eliminate the need for a separate slow cooker or rice cooker"
+        ],
+        "limitations": [],
+        "features": [
+          "7-in-1",
+          "6-quart",
+          "Electric",
+          "Under $100"
+        ],
+        "badge": "Best Overall",
+        "bestFor": "buyers who want the best overall package"
+      },
+      {
+        "name": "Presto 01362 6-Quart Stainless Steel Pressure Cooker",
+        "brand": "Presto",
+        "asin": "B00006ISG6",
+        "blurb": "Key specs: Stovetop, 6-quart, Under $60.",
+        "strengths": [
+          "Stainless steel construction",
+          "Affordable",
+          "Simple operation",
+          "Faster cooking than electric models"
+        ],
+        "limitations": [
+          "Requires stovetop monitoring",
+          "Fewer safety automation features",
+          "Gasket replacement needed periodically"
+        ],
+        "features": [
+          "Stovetop",
+          "6-quart",
+          "Under $60",
+          "Presto"
+        ],
+        "badge": "Best Stovetop Budget",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "Instant Pot Lux 6-in-1 Electric Pressure Cooker",
+        "brand": "Instant Pot",
+        "asin": "B01MFEBQH1",
+        "blurb": "Key specs: 6-in-1, Entry Instant Pot, 6-quart.",
+        "strengths": [
+          "Lowest-cost Instant Pot ecosystem entry point",
+          "All core pressure cook functions"
+        ],
+        "limitations": [
+          "No yogurt function vs."
+        ],
+        "features": [
+          "6-in-1",
+          "Entry Instant Pot",
+          "6-quart",
+          "Under $60"
+        ],
+        "badge": "Best Entry Electric"
+      },
+      {
+        "name": "T-fal Clipso Stovetop Pressure Cooker 6.3-Quart",
+        "brand": "T-fal",
+        "asin": "B00K0JY7XW",
+        "blurb": "Key specs: One-hand lid, Stovetop, 6.3-quart.",
+        "strengths": [
+          "One-hand open and close, the most convenient lid in stovetop pressure cookers",
+          "Flat valve design is quieter than jiggle-top"
+        ],
+        "limitations": [
+          "Gasket replacement every 2 to 3 years"
+        ],
+        "features": [
+          "One-hand lid",
+          "Stovetop",
+          "6.3-quart",
+          "Under $80"
+        ],
+        "badge": "Best One Hand"
+      },
+      {
+        "name": "Crock-Pot Express Multi-Cooker 6-Quart",
+        "brand": "Crock-Pot",
+        "asin": "B07VGHV6JL",
+        "blurb": "Key specs: Crock-Pot, 6-quart, Electric.",
+        "strengths": [
+          "Pressure and slow cooking in one",
+          "6-quart family capacity",
+          "Simple controls",
+          "Familiar brand for slow cooking"
+        ],
+        "limitations": [
+          "Nonstick pot can wear",
+          "Fewer accessories and recipes than Instant Pot",
+          "Some find controls less intuitive"
+        ],
+        "features": [
+          "Crock-Pot",
+          "6-quart",
+          "Electric",
+          "Under $70"
+        ],
+        "badge": "Best Crockpot"
+      },
+      {
+        "name": "Ninja Foodi 6.5-Quart Pressure Cooker",
+        "brand": "Ninja",
+        "asin": "B089TPT5L5",
+        "blurb": "Key specs: Ninja Foodi, 6.5-quart, Pressure + air fry.",
+        "strengths": [
+          "Pressure cooks and crisps",
+          "6.5-quart capacity",
+          "Multiple functions",
+          "Ninja's popular TenderCrisp approach"
+        ],
+        "limitations": [
+          "Large footprint",
+          "Two lids",
+          "Heavier"
+        ],
+        "features": [
+          "Ninja Foodi",
+          "6.5-quart",
+          "Pressure + air fry",
+          "Under $100"
+        ],
+        "badge": "Best Ninja Budget",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "GoWISE USA GW22656 Electric Pressure Cooker 8-Quart",
+        "brand": "GoWISE",
+        "asin": "B076TR9QTM",
+        "blurb": "Key specs: 8-quart, GoWISE, Electric.",
+        "strengths": [
+          "Large 8-quart capacity",
+          "Many preset programs",
+          "Budget-friendly",
+          "Accessories often included"
+        ],
+        "limitations": [
+          "Build quality not as refined as leaders",
+          "Nonstick pot needs care",
+          "Smaller support ecosystem"
+        ],
+        "features": [
+          "8-quart",
+          "GoWISE",
+          "Electric",
+          "Under $70"
+        ],
+        "badge": "Best Large Budget",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "Fagor LUX Electric Multi-Cooker 6-Quart",
+        "brand": "Fagor",
+        "asin": "B00ULHPTN0",
+        "blurb": "Key specs: Fagor, 6-quart, 12 PSI.",
+        "strengths": [
+          "Pressure cooking plus multi-cooker modes",
+          "6-quart capacity",
+          "Clear display",
+          "Includes rice and yogurt settings"
+        ],
+        "limitations": [
+          "Brand availability and support vary",
+          "Nonstick inner pot",
+          "Older design"
+        ],
+        "features": [
+          "Fagor",
+          "6-quart",
+          "12 PSI",
+          "Electric"
+        ],
+        "badge": "Best Fagor"
+      },
+      {
+        "name": "Mirro 92122A Pressure Cooker 22-Quart",
+        "brand": "Mirro",
+        "asin": "B0BD94BHS7",
+        "blurb": "Key specs: 22-quart, Aluminum, Pressure canning.",
+        "strengths": [
+          "Large capacity for canning",
+          "Aluminum heats quickly",
+          "Affordable",
+          "Pressure regulator"
+        ],
+        "limitations": [
+          "Large storage size",
+          "Aluminum reacts with acidic foods",
+          "Not for induction"
+        ],
+        "features": [
+          "22-quart",
+          "Aluminum",
+          "Pressure canning",
+          "Under $60"
+        ],
+        "badge": "Best Budget Canner",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "Instant Pot Ultra 6-Quart Electric Pressure Cooker",
+        "brand": "Instant Pot",
+        "asin": "B0777XZBMZ",
+        "blurb": "Key specs: 10-in-1, Dial interface, Altitude adjust.",
+        "strengths": [
+          "Custom cooking programs with adjustable settings",
+          "Altitude adjustment",
+          "Steam release reset design",
+          "Stainless steel inner pot"
+        ],
+        "limitations": [
+          "More complex controls",
+          "Higher price than Duo models",
+          "Less common in newer lineups"
+        ],
+        "features": [
+          "10-in-1",
+          "Dial interface",
+          "Altitude adjust",
+          "Under $100 on sale"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

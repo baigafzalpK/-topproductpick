@@ -1,0 +1,25 @@
+{
+  "name": "topproductpick-site",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/build-index.mjs && next dev",
+    "build": "node scripts/build-index.mjs && next build",
+    "build:cf": "node scripts/build-index.mjs && next build && node scripts/prune-export.mjs",
+    "deploy": "npm run build:cf && npx --yes wrangler@4 deploy",
+    "index": "node scripts/build-index.mjs",
+    "audit:links": "node scripts/audit-links.mjs",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "^16.4.2",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "typescript": "^5.9.3"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Blackout Curtains Under $30",
+  "h1": "The 3 Best Blackout Curtains Under $30",
+  "metaDescription": "Our 3 picks for blackout curtains under $30, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at blackout curtains under $30 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-blackout-curtains",
+  "related": [
+    "best-blackout-curtains"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Sun Zero Easton Blackout Grommet Curtain Panel",
+        "brand": "Sun Zero",
+        "asin": "B00N3K47EY",
+        "blurb": "Key specs: 40 x 63 inch single panel, grommet top, typically under $15, Blocks up to 90% of light, Reduces energy loss through the window by up to 25%.",
+        "strengths": [
+          "Two panels together still cost less than most single premium panels",
+          "Genuinely reduces noise and heat, not just light"
+        ],
+        "limitations": [
+          "90% blocking is a real step down from premium laminated panels at 98%+",
+          "40-inch width means most windows need at least two panels for full coverage"
+        ],
+        "features": [
+          "40 x 63 inch single panel, grommet top, typically under $15",
+          "Blocks up to 90% of light",
+          "Reduces energy loss through the window by up to 25%",
+          "Machine washable"
+        ]
+      },
+      {
+        "name": "Eclipse Darrell Rod Pocket Blackout Curtain Panel",
+        "brand": "Eclipse",
+        "asin": "B01MZJ09SI",
+        "blurb": "Key specs: 37 x 84 inch single panel, rod pocket top, typically under $25, Thermaback blackout backing, Blocks over 99% of light.",
+        "strengths": [
+          "99%+ blocking at a price close to panels that block far less",
+          "Same Thermaback backing used in Eclipse's pricier Palisade line",
+          "84-inch length fits standard-height windows without hemming"
+        ],
+        "limitations": [
+          "37-inch width is narrow for a wide window, needing multiple panels",
+          "Rod pocket top is slower to adjust than a grommet panel"
+        ],
+        "features": [
+          "37 x 84 inch single panel, rod pocket top, typically under $25",
+          "Thermaback blackout backing",
+          "Blocks over 99% of light",
+          "Reduces noise and insulates against heat and cold",
+          "Machine washable"
+        ]
+      },
+      {
+        "name": "Eclipse Palisade Blackout Curtain Panel",
+        "brand": "Eclipse",
+        "asin": "B0758M9949",
+        "blurb": "Key specs: 52 x 84 inch single panel, grommet top, typically at or just under $25, Thermaback triple-weave blackout backing, Blocks 98% to 99.9% of light.",
+        "strengths": [
+          "Standard 52-inch width fits most windows without needing three panels",
+          "Same premium Thermaback backing at a lower per-panel price than many competitors",
+          "Grommet top is easier to open and close daily than a rod pocket"
+        ],
+        "limitations": [
+          "Sold per panel, meaning a full pair is a separate purchase"
+        ],
+        "features": [
+          "52 x 84 inch single panel, grommet top, typically at or just under $25",
+          "Thermaback triple-weave blackout backing",
+          "Blocks 98% to 99.9% of light",
+          "Reduces outside noise and insulates against heat and cold",
+          "Machine washable"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

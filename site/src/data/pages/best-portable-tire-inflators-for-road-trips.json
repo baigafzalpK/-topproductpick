@@ -1,0 +1,114 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Portable Tire Inflators for Road Trips",
+  "h1": "The 4 Best Portable Tire Inflators for Road Trips",
+  "metaDescription": "Our 4 picks for portable tire inflators for road trips, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at portable tire inflators for road trips using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-tire-inflators",
+  "related": [
+    "best-tire-inflators"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "VIAIR 400P Portable Compressor Kit",
+        "brand": "VIAIR",
+        "asin": "B000X9AXR8",
+        "blurb": "Key specs: 150 PSI maximum pressure, 33% duty cycle at 20 minutes continuous run, IP54 dust and water resistance rating.",
+        "strengths": [
+          "Handles full-size truck and SUV tires without straining, unlike glovebox-size pumps",
+          "33% duty cycle means it can air up all four tires in one stop without overheating",
+          "IP54 sealing shrugs off rain and road grime better than unsealed budget inflators"
+        ],
+        "limitations": [
+          "Case is sized for a trunk, not a glovebox",
+          "26-amp draw wants the engine running, not just the battery"
+        ],
+        "features": [
+          "150 PSI maximum pressure",
+          "33% duty cycle at 20 minutes continuous run",
+          "IP54 dust and water resistance rating",
+          "Inflates a 35-inch tire from 0 to 30 PSI in under 6 minutes",
+          "Direct-drive gearless motor"
+        ],
+        "bestFor": "road trips"
+      },
+      {
+        "name": "DEWALT DCC020IB 20V MAX Tire Inflator",
+        "brand": "DEWALT",
+        "asin": "B07H39S9JQ",
+        "blurb": "Key specs: Runs on 20V MAX battery, 12V DC, or 110V AC, Automatic shut-off at a set PSI, Screw-on Schrader chuck.",
+        "strengths": [
+          "Works even if the car battery is too weak to power a 12V pump",
+          "Automatic shut-offaccurate by independent reviewers",
+          "Doubles as a garage inflator between trips"
+        ],
+        "limitations": [
+          "Needs an existing 20V MAX battery to use the cordless mode",
+          "Bulkier than a dedicated 12V-only inflator"
+        ],
+        "features": [
+          "Runs on 20V MAX battery, 12V DC, or 110V AC",
+          "Automatic shut-off at a set PSI",
+          "Screw-on Schrader chuck",
+          "LED work light",
+          "Sold as a bare tool"
+        ],
+        "bestFor": "road trips"
+      },
+      {
+        "name": "EPAuto 12V DC Portable Air Compressor",
+        "brand": "EPAuto",
+        "asin": "B01L9WSTEG",
+        "blurb": "Key specs: Digital gauge in PSI, KPA, BAR, and KG/CM2, Auto shut-off at a preset target pressure, Built-in LED flashlight.",
+        "strengths": [
+          "Small enough to leave in the glovebox permanently",
+          "Auto shut-off means you don't have to watch the gauge on the shoulder"
+        ],
+        "limitations": [
+          "Not rated for light truck or heavy-duty tires",
+          "12V-only, no home outlet option",
+          "Recommended 10-minute duty cycle before a cooldown"
+        ],
+        "features": [
+          "Digital gauge in PSI, KPA, BAR, and KG/CM2",
+          "Auto shut-off at a preset target pressure",
+          "Built-in LED flashlight",
+          "12V DC cigarette lighter plug",
+          "Rated for car, bike, and midsize SUV tires"
+        ],
+        "bestFor": "road trips"
+      },
+      {
+        "name": "Kensun AC/DC Rapid Performance Digital Tire Inflator",
+        "brand": "Kensun",
+        "asin": "B01J8Y91GC",
+        "blurb": "Key specs: Dual power: 12V DC car socket and 110V AC wall outlet, 120W solid metal motor, Backlit digital gauge in PSI, BAR, and KPA.",
+        "strengths": [
+          "The only inflator here that also plugs straight into a hotel room outlet",
+          "Metal motor runs quieter than plastic-geared budget pumps",
+          "Backlit display reads clearly in a dark parking lot"
+        ],
+        "limitations": [
+          "Slower on large truck tires than the VIAIR 400P",
+          "AC cord connection is a recurring complaint in long-term owner reports",
+          "Carry case fits snugly and can be fiddly to repack"
+        ],
+        "features": [
+          "Dual power: 12V DC car socket and 110V AC wall outlet",
+          "120W solid metal motor",
+          "Backlit digital gauge in PSI, BAR, and KPA",
+          "Auto shut-off at a preset pressure",
+          "Carry case included"
+        ],
+        "bestFor": "road trips"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

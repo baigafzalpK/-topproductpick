@@ -1,0 +1,30 @@
+{
+  "type": "page",
+  "title": "Editorial Policy",
+  "h1": "Editorial Policy",
+  "metaDescription": "The rules TopProductPick writers follow: accuracy, independence, corrections and disclosure.",
+  "lede": "These rules apply to every page on the site.",
+  "updatedAt": "2026-10-19",
+  "data": {
+    "sections": [
+      {
+        "h": "Accuracy",
+        "p": [
+          "We never invent ratings, review counts, prices, availability, test results or first-hand experience."
+        ]
+      },
+      {
+        "h": "Independence",
+        "p": [
+          "Brands cannot pay for placement. Affiliate commissions do not affect rankings."
+        ]
+      },
+      {
+        "h": "Corrections",
+        "p": [
+          "If you spot an error, email us. We fix confirmed errors promptly and update the page date."
+        ]
+      }
+    ]
+  }
+}

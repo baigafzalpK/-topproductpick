@@ -1,0 +1,115 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Luggage for International Travel",
+  "h1": "The 4 Best Luggage for International Travel",
+  "metaDescription": "Our 4 picks for luggage for international travel, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at luggage for international travel using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-luggage",
+  "related": [
+    "best-luggage"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Travelpro Platinum Elite 29-Inch Checked Spinner",
+        "brand": "Travelpro",
+        "asin": "B07DL4DYMW",
+        "blurb": "Key specs: 29-inch expandable softside shell, 8 MagnaTrac spinner wheels, Tip-resistant tapered expansion, up to 2 inches more capacity.",
+        "strengths": [
+          "8-wheel design tracks straighter through crowded international terminals than 4-wheel competitors",
+          "Expansion panel adds real packing room for the return trip's souvenirs",
+          "Lifetime warranty covers common carrier damage, useful for bags that see rough international handling",
+          "Fold-out suiter keeps business attire wrinkle-resistant on multi-city trips"
+        ],
+        "limitations": [
+          "Softside shell offers less rain protection than a hardside competitor",
+          "29-inch size exceeds some international carriers' checked weight-friendly proportions when packed full"
+        ],
+        "features": [
+          "29-inch expandable softside shell",
+          "8 MagnaTrac spinner wheels",
+          "Tip-resistant tapered expansion, up to 2 inches more capacity",
+          "Fold-out garment suiter",
+          "Integrated TSA lock"
+        ],
+        "badge": "Top pick",
+        "bestFor": "international travel"
+      },
+      {
+        "name": "Briggs & Riley Baseline 28-Inch Large Expandable Spinner",
+        "brand": "Briggs & Riley",
+        "asin": "B008M6ZDAG",
+        "blurb": "Key specs: 28-inch expandable softside shell, Four double-swivel spinner wheels, One-touch compression system.",
+        "strengths": [
+          "Compression system flattens contents without zippers straining under an overpacked bag",
+          "Lifetime guarantee covers airline damage indefinitely, the strongest warranty in this list",
+          "Double-swivel wheels roll smoother than single-caster wheels over uneven cobblestone and tile common abroad"
+        ],
+        "limitations": [
+          "Feels heavy once fully packed, closer to checked weight limits than lighter competitors",
+          "Understated styling, no bright colorways for easy carousel identification"
+        ],
+        "features": [
+          "28-inch expandable softside shell",
+          "Four double-swivel spinner wheels",
+          "One-touch compression system",
+          "Internal hanging garment system",
+          "Simple As That lifetime guarantee, no receipt needed"
+        ],
+        "bestFor": "international travel"
+      },
+      {
+        "name": "Samsonite Freeform 24-Inch Medium Hardside Spinner",
+        "brand": "Samsonite",
+        "asin": "B01LXOCPFG",
+        "blurb": "Key specs: 24-inch expandable polypropylene hardshell, Dual 360-degree spinner wheels, TSA-approved combination lock.",
+        "strengths": [
+          "Hardshell handles wet climates and rough tarmac loading better than softside at this price",
+          "8.5-pound empty weight leaves more of the checked weight limit for actual belongings"
+        ],
+        "limitations": [
+          "Polypropylene shell scratches and shows scuffs more visibly than textured competitors",
+          "Single-caster style wheel housing wears faster than the double-swivel wheels on premium bags",
+          "10-year warranty is limited, not the unconditional coverage of Briggs & Riley"
+        ],
+        "features": [
+          "24-inch expandable polypropylene hardshell",
+          "Dual 360-degree spinner wheels",
+          "TSA-approved combination lock",
+          "10-year limited warranty",
+          "8.5-pound empty weight"
+        ],
+        "bestFor": "international travel"
+      },
+      {
+        "name": "Monos Carry-On Pro 22-Inch Hardside Spinner",
+        "brand": "Monos",
+        "asin": "B0FP46BTQN",
+        "blurb": "Key specs: 22-inch polycarbonate hardshell, 36L capacity, Front tech compartment fits a 16-inch laptop, 360-degree spinner wheels.",
+        "strengths": [
+          "Front laptop compartment gives quick access at security without opening the main compartment",
+          "36L capacity fits most international carry-on sizers, including tighter European limits",
+          "Highest owner rating in this list at 4.8 out of 5"
+        ],
+        "limitations": [
+          "22-inch size is on the larger edge of some strict regional carry-on sizers",
+          "No expansion panel, capacity is fixed at 36L"
+        ],
+        "features": [
+          "22-inch polycarbonate hardshell, 36L capacity",
+          "Front tech compartment fits a 16-inch laptop",
+          "360-degree spinner wheels",
+          "TSA-accepted lock",
+          "Lifetime warranty"
+        ],
+        "bestFor": "international travel"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

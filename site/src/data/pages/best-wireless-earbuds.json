@@ -1,0 +1,147 @@
+{
+  "type": "roundup",
+  "title": "5 Best Wireless Earbuds for iPhone, Android and Budgets",
+  "h1": "The 5 Best Wireless Earbuds",
+  "metaDescription": "The best wireless earbuds for iPhone users, Android users, noise cancelling and tight budgets, with honest limitations.",
+  "lede": "Earbuds work best with the phone they were designed for. These picks cover iPhone, Samsung and other Android phones, plus a strong budget option, based on manufacturer specs, independent reviews and owner reports.",
+  "updatedAt": "2026-10-19",
+  "category": "wireless-earbuds",
+  "related": [
+    "how-to-choose-wireless-earbuds",
+    "wireless-earbuds"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Apple AirPods Pro 3",
+        "brand": "Apple",
+        "asin": "B0FQFB8FMG",
+        "searchQuery": "Apple AirPods Pro 3",
+        "badge": "Best for iPhone",
+        "bestFor": "iPhone owners",
+        "blurb": "Apple's noise-cancelling earbuds with Transparency mode, automatic switching between Apple devices and heart-rate sensing for workouts (Apple spec).",
+        "features": [
+          "Active noise cancellation",
+          "Transparency mode",
+          "Heart-rate sensing (Apple spec)"
+        ],
+        "strengths": [
+          "Seamless pairing and switching with Apple devices",
+          "Strong noise cancelling",
+          "Natural-sounding Transparency mode"
+        ],
+        "limitations": [
+          "Many features need an iPhone",
+          "Limited extras on Android"
+        ]
+      },
+      {
+        "name": "Sony WF-1000XM5 Wireless Earbuds",
+        "brand": "Sony",
+        "asin": "B0C33XXS56",
+        "searchQuery": "Sony WF-1000XM5 wireless noise canceling earbuds",
+        "badge": "Best for Android",
+        "bestFor": "Android users who want premium sound and noise cancelling",
+        "blurb": "Sony's flagship noise-cancelling earbuds with support for the higher-bitrate LDAC codec on compatible Android phones and an app with a detailed equalizer.",
+        "features": [
+          "Active noise cancellation",
+          "LDAC support",
+          "Multipoint connection"
+        ],
+        "strengths": [
+          "Excellent noise cancelling",
+          "Detailed sound with EQ control",
+          "Compact for a flagship"
+        ],
+        "limitations": [
+          "Foam tips don't suit every ear",
+          "Premium price"
+        ]
+      },
+      {
+        "name": "Bose QuietComfort Ultra Earbuds (2nd Gen)",
+        "brand": "Bose",
+        "asin": "B0F7M3HPBD",
+        "searchQuery": "Bose QuietComfort Ultra Earbuds 2nd Gen",
+        "badge": "Best noise cancelling",
+        "bestFor": "commuters and frequent flyers",
+        "blurb": "Bose's top noise-cancelling earbuds, designed for blocking out trains, planes and open offices, with a choice of ear tips and stability bands.",
+        "features": [
+          "Active noise cancellation",
+          "Aware mode",
+          "Multiple tip and band sizes"
+        ],
+        "strengths": [
+          "Among the strongest noise cancelling in earbuds",
+          "Secure fit options",
+          "Works well with iPhone and Android"
+        ],
+        "limitations": [
+          "Larger case and buds than some rivals",
+          "Premium price"
+        ]
+      },
+      {
+        "name": "Samsung Galaxy Buds3 Pro",
+        "brand": "Samsung",
+        "asin": "B0D9YZJ3V7",
+        "searchQuery": "Samsung Galaxy Buds3 Pro",
+        "badge": "Best for Samsung phones",
+        "bestFor": "Samsung Galaxy phone owners",
+        "blurb": "Samsung's premium earbuds, with extra features such as seamless device switching and higher-quality audio when paired with Galaxy phones.",
+        "features": [
+          "Active noise cancellation",
+          "Galaxy device integration",
+          "Stem design with touch controls"
+        ],
+        "strengths": [
+          "Best feature set with Galaxy phones",
+          "Good noise cancelling",
+          "Easy pairing with Samsung devices"
+        ],
+        "limitations": [
+          "Fewer extras on non-Samsung phones",
+          "Stem design isn't for everyone"
+        ]
+      },
+      {
+        "name": "Soundcore Liberty 4 NC by Anker",
+        "brand": "Soundcore",
+        "asin": "B0BZV4QFP8",
+        "searchQuery": "Soundcore Liberty 4 NC earbuds",
+        "badge": "Best budget",
+        "bestFor": "noise cancelling on a budget",
+        "blurb": "A budget pair from Anker's Soundcore brand with active noise cancelling and app-based EQ, at a fraction of flagship prices.",
+        "features": [
+          "Active noise cancellation",
+          "App with EQ",
+          "Wireless charging case"
+        ],
+        "strengths": [
+          "Noise cancelling at a low price",
+          "Customisable sound",
+          "Long battery life (Soundcore spec)"
+        ],
+        "limitations": [
+          "Noise cancelling and call quality behind flagships",
+          "Less polished app and controls"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "We matched earbuds to phones first, because ecosystem features matter more than small sound differences.",
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own listening tests.",
+      "Earbud models update often. Check the listing to make sure you're buying the model named here."
+    ],
+    "faqs": [
+      {
+        "q": "Do AirPods work with Android?",
+        "a": "Yes, as standard Bluetooth earbuds, but many features such as automatic switching and some settings need Apple devices."
+      },
+      {
+        "q": "Is noise cancelling worth it?",
+        "a": "If you commute, fly or work in noisy places, most owners say yes. It also lets you listen at lower volumes. For quiet homes, it matters less."
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "buying-guide",
+  "title": "How to Choose a Water Bottle: Size, Lid and Material",
+  "h1": "How to Choose a Water Bottle",
+  "metaDescription": "Steel or plastic, straw or chug lid, 24 or 40 ounces? How to choose a water bottle you'll actually use.",
+  "lede": "A great water bottle fits your day. Pick the size and lid first, then the brand.",
+  "updatedAt": "2026-10-19",
+  "category": "water-bottles",
+  "related": ["best-water-bottles", "water-bottles"],
+  "data": {
+    "sections": [
+      {
+        "h": "Choose the size",
+        "p": ["Bigger means fewer refills but more weight. As a rough guide:"],
+        "list": ["18 to 24 oz: bags, kids and short trips", "26 to 32 oz: all-day desk or gym use", "40 oz and up: long drives and people who drink a lot, usually as tumblers with handles"]
+      },
+      {
+        "h": "Choose the lid",
+        "p": ["The lid decides how you drink and whether it leaks:"],
+        "list": ["Straw lids: easy sipping, but usually not leakproof when tipped", "Chug or spout lids: fast drinking, often leak-resistant", "Screw caps: the most leakproof, but slower to drink from"]
+      },
+      {
+        "h": "Insulated steel vs plastic",
+        "p": [
+          "Double-wall vacuum-insulated steel keeps drinks cold for hours and doesn't sweat on the outside, but is heavier. Plastic bottles are lighter and cheaper but don't insulate."
+        ]
+      },
+      {
+        "h": "Check cup-holder fit and cleaning",
+        "p": ["Wide bottles often don't fit car cup holders. A wide mouth makes adding ice and cleaning much easier, and simpler lids have fewer parts to scrub."]
+      }
+    ],
+    "faqs": [
+      { "q": "How do I clean a water bottle?", "a": "Wash it regularly with warm soapy water and a bottle brush, and take the lid apart if it's designed to come apart. Let everything dry fully before reassembling." },
+      { "q": "Why does my bottle smell?", "a": "Usually from residue in the lid or straw. Clean all lid parts separately and let them dry completely." }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Space Heaters for Offices",
+  "h1": "The 4 Best Space Heaters for Offices",
+  "metaDescription": "Our 4 picks for space heaters for offices, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at space heaters for offices using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-space-heaters",
+  "related": [
+    "best-space-heaters"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Vornado VH202 Personal Space Heater",
+        "brand": "Vornado",
+        "asin": "B00VXEJ6PC",
+        "blurb": "Key specs: Vortex heat circulation fan, 2 heat settings plus fan-only mode, Cool-touch exterior.",
+        "strengths": [
+          "Small footprint fits under most desks without blocking legroom",
+          "Cool-touch housing is safe for all-day close-range use",
+          "Vortex airflow warms the whole leg area instead of one hot spot",
+          "Simple two-switch operation with no settings to fuss with"
+        ],
+        "limitations": [
+          "No oscillation or thermostat dial, just two fixed heat levels",
+          "Not powerful enough to warm an entire office on its own",
+          "No timer or remote control"
+        ],
+        "features": [
+          "Vortex heat circulation fan",
+          "2 heat settings plus fan-only mode",
+          "Cool-touch exterior",
+          "Compact under-desk footprint",
+          "Automatic tip-over shutoff"
+        ],
+        "badge": "Top pick",
+        "bestFor": "offices"
+      },
+      {
+        "name": "Dreo Solaris 317 Space Heater",
+        "brand": "Dreo",
+        "asin": "B0CMYYNTVH",
+        "blurb": "Key specs: 1500W PTC ceramic heating element, 34dB whisper-quiet brushless DC motor, Digital thermostat, 41°F to 95°F.",
+        "strengths": [
+          "34dB fan noise is quiet enough for video calls or a shared office",
+          "Digital thermostat holds a steady temperature through a workday",
+          "Oscillation warms a whole office rather than just under one desk",
+          "Remote control lets you adjust settings without leaving your chair"
+        ],
+        "limitations": [
+          "Larger footprint than a compact under-desk unit",
+          "Costs more than a basic desktop ceramic heater",
+          "Overkill if you only need to warm your feet, not the whole room"
+        ],
+        "features": [
+          "1500W PTC ceramic heating element",
+          "34dB whisper-quiet brushless DC motor",
+          "Digital thermostat, 41°F to 95°F",
+          "70-degree oscillation",
+          "Remote control"
+        ],
+        "bestFor": "offices"
+      },
+      {
+        "name": "Lasko 754200 Desktop Ceramic Heater",
+        "brand": "Lasko",
+        "asin": "B000TKDQ5C",
+        "blurb": "Key specs: 9.2-inch compact desktop design, Adjustable thermostat, 2 heat settings plus fan-only mode.",
+        "strengths": [
+          "Small enough to sit directly on a desk next to a monitor",
+          "One of the least expensive options in this entire category",
+          "No assembly required, plug in and go"
+        ],
+        "limitations": [
+          "No oscillation or remote control",
+          "Fan noise more noticeable than the Dreo Solaris on the high setting",
+          "Lower editorial score than the pricier options here"
+        ],
+        "features": [
+          "9.2-inch compact desktop design",
+          "Adjustable thermostat",
+          "2 heat settings plus fan-only mode",
+          "Ready to use out of the box, no assembly"
+        ],
+        "bestFor": "offices"
+      },
+      {
+        "name": "Lasko CT16450 Ceramic Space Heater",
+        "brand": "Lasko",
+        "asin": "B08KSJZW4T",
+        "blurb": "Key specs: 15.7-inch compact ceramic heater, 1500W element, Adjustable thermostat.",
+        "strengths": [
+          "Taller than a desktop unit, so it warms more of a seated body",
+          "Compact enough to sit on the floor beside a desk without blocking a walkway",
+          "Adjustable thermostat beats a fixed-only desktop heater"
+        ],
+        "limitations": [
+          "Some owners report a noticeable low buzzing sound"
+        ],
+        "features": [
+          "15.7-inch compact ceramic heater",
+          "1500W element",
+          "Adjustable thermostat",
+          "2 heat settings plus fan-only"
+        ],
+        "bestFor": "offices"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Juicers Under $100",
+  "h1": "The 5 Best Juicers Under $100",
+  "metaDescription": "Our 5 picks for juicers under $100, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at juicers under $100 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-juicers",
+  "related": [
+    "best-juicers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "NutriBullet Juicer Pro NBJ50200",
+        "brand": "NutriBullet",
+        "asin": "B08G5D4WBX",
+        "blurb": "Key specs: 1000W high-torque motor, 27oz sealing juice pitcher, 3-inch feed chute with dual-size pusher.",
+        "strengths": [
+          "1000W motor is strong for the price, handling most fruits and vegetables without bogging down",
+          "Dishwasher-safe parts and a wide feed chute keep everyday use simple"
+        ],
+        "limitations": [
+          "Lower yield on leafy greens and celery than pricier masticating juicers",
+          "Some owners report excess foam on high-water-content produce",
+          "Motor noise is more noticeable relative to its output than pricier models"
+        ],
+        "features": [
+          "1000W high-torque motor",
+          "27oz sealing juice pitcher",
+          "3-inch feed chute with dual-size pusher",
+          "Centrifugal extraction",
+          "Dishwasher-safe parts"
+        ]
+      },
+      {
+        "name": "Hamilton Beach Big Mouth 800W Juicer (67702)",
+        "brand": "Hamilton Beach",
+        "asin": "B086W8JVY1",
+        "blurb": "",
+        "strengths": [
+          "3-inch chute cuts prep time",
+          "800-watt motor",
+          "Easy to clean parts and included brush",
+          "Low price"
+        ],
+        "limitations": [
+          "Centrifugal design yields less from leafy greens",
+          "Foamy juice",
+          "Loud"
+        ],
+        "features": []
+      },
+      {
+        "name": "Hamilton Beach Juice & Blend 2-in-1 Juicer and Blender (67970)",
+        "brand": "Hamilton Beach",
+        "asin": "B0B1VNTQ6Z",
+        "blurb": "",
+        "strengths": [
+          "Juicer and personal blender in one",
+          "3-inch whole-fruit chute",
+          "Travel lid for the blender jar",
+          "Saves counter space"
+        ],
+        "limitations": [
+          "Centrifugal juicing is less efficient with greens",
+          "Small blender jar",
+          "More parts to clean"
+        ],
+        "features": []
+      },
+      {
+        "name": "Breville BJE200XL Juice Fountain Compact",
+        "brand": "Breville",
+        "asin": "B000MDHH06",
+        "blurb": "",
+        "strengths": [
+          "Compact footprint",
+          "3-inch wide feed chute",
+          "Quick juicing",
+          "Breville build quality"
+        ],
+        "limitations": [
+          "Single speed",
+          "Pulp bin is small",
+          "Not ideal for leafy greens"
+        ],
+        "features": []
+      },
+      {
+        "name": "Hamilton Beach Big Mouth 2-Speed Juicer (67750)",
+        "brand": "Hamilton Beach",
+        "asin": "B00VNMIYRU",
+        "blurb": "",
+        "strengths": [
+          "Two speeds for soft and hard produce",
+          "3-inch whole-fruit chute",
+          "Affordable",
+          "Easy-clean parts"
+        ],
+        "limitations": [
+          "Centrifugal juice is foamy",
+          "Loud",
+          "Lower yield from greens"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

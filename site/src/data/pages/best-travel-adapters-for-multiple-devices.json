@@ -1,0 +1,102 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Travel Adapters for Multiple Devices",
+  "h1": "The 4 Best Travel Adapters for Multiple Devices",
+  "metaDescription": "Our 4 picks for travel adapters for multiple devices, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at travel adapters for multiple devices using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-travel-adapters",
+  "related": [
+    "best-travel-adapters"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "OREI World Travel Plug Adapter M8 Max",
+        "brand": "OREI",
+        "asin": "B07R3FD5RH",
+        "blurb": "Key specs: 2 USA-standard outlets, 3 USB-A ports plus 1 USB-C PD 18W port, Interchangeable plug attachments for 150+ countries.",
+        "strengths": [
+          "Six total charging points, the most in this category at this price",
+          "18W USB-C PD is meaningfully faster than USB-A-only competitors for a phone",
+          "Grounded design covers laptop chargers that require a ground pin"
+        ],
+        "limitations": [
+          "Larger footprint than single-outlet adapters",
+          "18W PD tops out well below what a laptop charger needs"
+        ],
+        "features": [
+          "2 USA-standard outlets",
+          "3 USB-A ports plus 1 USB-C PD 18W port",
+          "Interchangeable plug attachments for 150+ countries",
+          "Grounded 3-prong design"
+        ],
+        "badge": "Best overall",
+        "bestFor": "multiple devices"
+      },
+      {
+        "name": "BESTEK Universal Travel Adapter",
+        "brand": "BESTEK",
+        "asin": "B07R2JMHQR",
+        "blurb": "Key specs: 3 AC sockets, 6A 4-port USB charging, 100-220V to 110V step-down conversion, 250W.",
+        "strengths": [
+          "Seven total charging points across 3 AC sockets and 4 USB ports",
+          "Genuine voltage conversion covers single-voltage appliances too, not just plug shape",
+          "Handles a family's combined device load from one wall plug"
+        ],
+        "limitations": [
+          "Bulkiest unit in this list due to the internal conversion electronics",
+          "Audible fan noise reported during voltage conversion by some owners"
+        ],
+        "features": [
+          "3 AC sockets",
+          "6A 4-port USB charging",
+          "100-220V to 110V step-down conversion, 250W"
+        ],
+        "bestFor": "multiple devices"
+      },
+      {
+        "name": "EPICKA Universal Travel Adapter with USB-C",
+        "brand": "EPICKA",
+        "asin": "B095BJFBW9",
+        "blurb": "",
+        "strengths": [
+          "One adapter for most countries",
+          "Charges several devices at once",
+          "Built-in fuse",
+          "Compact"
+        ],
+        "limitations": [
+          "Not a voltage converter",
+          "Not for high-power hair tools",
+          "Bulky in tight outlets"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "SublimeWare Power Plug Adapter with 4 USB Ports",
+        "brand": "SublimeWare",
+        "asin": "B01N59M473",
+        "blurb": "",
+        "strengths": [
+          "Four USB charging ports",
+          "Works with US, UK, EU and AU outlets",
+          "Affordable",
+          "Compact"
+        ],
+        "limitations": [
+          "No USB-C on the base model",
+          "Not a voltage converter",
+          "Shared USB output limits fast charging"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

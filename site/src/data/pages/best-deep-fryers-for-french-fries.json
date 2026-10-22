@@ -1,0 +1,95 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Deep Fryers for French Fries",
+  "h1": "The 3 Best Deep Fryers for French Fries",
+  "metaDescription": "Our 3 picks for deep fryers for french fries, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at deep fryers for french fries using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-deep-fryers",
+  "related": [
+    "best-deep-fryers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Cuisinart CDF-200P1 Professional Deep Fryer",
+        "brand": "Cuisinart",
+        "asin": "B01JCECNM2",
+        "blurb": "Key specs: 1-gallon removable stainless steel oil container, 1800W immersion heating element, 2.3-pound food capacity.",
+        "strengths": [
+          "1800W element recovers fast between the first and second fry of a double-fry batch",
+          "2.3-pound capacity fries a full family-size batch in fewer rounds",
+          "Viewing window lets you watch color develop on the second fry without lifting the lid",
+          "Removable oil container makes it easy to strain and reuse oil between fry sessions"
+        ],
+        "limitations": [
+          "Single basket means sequential batches for very large amounts",
+          "Bulkier housing than a compact dual-well unit"
+        ],
+        "features": [
+          "1-gallon removable stainless steel oil container",
+          "1800W immersion heating element",
+          "2.3-pound food capacity",
+          "Adjustable temperature dial with viewing window",
+          "Pour-spout container for oil disposal"
+        ],
+        "badge": "Best overall",
+        "bestFor": "french fries"
+      },
+      {
+        "name": "Hamilton Beach Professional Style Electric Deep Fryer 35036",
+        "brand": "Hamilton Beach",
+        "asin": "B00PXAZTKI",
+        "blurb": "Key specs: 4.5-liter / 19-cup oil capacity, 1800W immersed heating element, Two baskets included.",
+        "strengths": [
+          "Two baskets let you run a first-fry batch and second-fry batch side by side",
+          "1800W element matches the Cuisinart on recovery speed",
+          "4.5-liter capacity is the largest on this list, good for entertaining",
+          "Removable, dishwasher-safe heating element and tank"
+        ],
+        "limitations": [
+          "Larger footprint than single-basket fryers",
+          "No digital timer for tracking the two fry stages",
+          "Two baskets to store and clean instead of one"
+        ],
+        "features": [
+          "4.5-liter / 19-cup oil capacity",
+          "1800W immersed heating element",
+          "Two baskets included",
+          "View-window lid",
+          "Easy-detach magnetic cord"
+        ],
+        "bestFor": "french fries"
+      },
+      {
+        "name": "Presto Dual Daddy Electric Deep Fryer",
+        "brand": "Presto",
+        "asin": "B0000DAZ72",
+        "blurb": "Key specs: Dual-well design with removable divider, 1500W element, Automatic thermostat.",
+        "strengths": [
+          "Dual wells let you first-fry one side while second-frying the other",
+          "Automatic thermostat holds a steady temperature without manual adjustment",
+          "Compact enough for daily countertop use without dominating the space"
+        ],
+        "limitations": [
+          "1500W element recovers slower than the 1800W Cuisinart and Hamilton Beach",
+          "8-cup capacity limits batches to a half pound or so per well",
+          "No viewing window, so checking color means lifting the lid"
+        ],
+        "features": [
+          "Dual-well design with removable divider",
+          "1500W element",
+          "Automatic thermostat",
+          "Cast aluminum nonstick body",
+          "8-cup total oil capacity"
+        ],
+        "bestFor": "french fries"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

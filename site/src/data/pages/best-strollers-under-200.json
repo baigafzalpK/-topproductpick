@@ -1,0 +1,124 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Strollers Under $200",
+  "h1": "The 5 Best Strollers Under $200",
+  "metaDescription": "Our 5 picks for strollers under $200, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at strollers under $200 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-strollers",
+  "related": [
+    "best-strollers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Kolcraft Cloud Plus Lightweight Stroller",
+        "brand": "Kolcraft",
+        "asin": "B019DHBCXE",
+        "blurb": "Key specs: 13 lb lightweight frame, Multi-position reclining seat, 3-tier extendable canopy with peekaboo window.",
+        "strengths": [
+          "13 lbs is the lightest frame in this price bracket, easy for daily one-handed handling",
+          "Reclining seat and full canopy are more full-featured than most stroller at this price"
+        ],
+        "limitations": [
+          "No infant car seat compatibility, designed for toddlers who can sit supported",
+          "Smaller wheels mean a bumpier ride than mid-range and premium strollers",
+          "Storage basket is smaller than full-size strollers"
+        ],
+        "features": [
+          "13 lb lightweight frame",
+          "Multi-position reclining seat",
+          "3-tier extendable canopy with peekaboo window",
+          "Compact fold to roughly 12 by 34 inches",
+          "Supports up to 50 lbs / 40 inches"
+        ],
+        "badge": "Top pick"
+      },
+      {
+        "name": "Graco FastAction Fold Jogger Stroller",
+        "brand": "Graco",
+        "asin": "B00UVW45Q2",
+        "blurb": "Key specs: One-second, one-hand FastAction fold, Lockable front swivel wheels, Click Connect infant car seat compatibility.",
+        "strengths": [
+          "Click Connect compatibility lets it double as a newborn travel system with a compatible car seat",
+          "Front wheel lock adds stability that pure umbrella strollers in this range don't offer"
+        ],
+        "limitations": [
+          "Heavier than the Cloud Plus, less ideal for frequent solo lifting",
+          "Larger folded footprint, tighter fit in a small trunk",
+          "Suspension is basic compared to true jogging strollers"
+        ],
+        "features": [
+          "One-second, one-hand FastAction fold",
+          "Lockable front swivel wheels",
+          "Click Connect infant car seat compatibility",
+          "Deluxe padded seat with multi-position recline",
+          "Extra-large canopy"
+        ]
+      },
+      {
+        "name": "Baby Trend Sit N' Stand Double 2.0 Stroller",
+        "brand": "Baby Trend",
+        "asin": "B0D9BW7HCB",
+        "blurb": "Key specs: Front and rear seats plus a rear standing platform, 5-point safety harness on both seats, Parent console with cup holders and phone holder.",
+        "strengths": [
+          "Two full seats with 5-point harnesses meet the same safety standard as pricier doubles",
+          "Standing platform option adds flexibility for siblings close in age"
+        ],
+        "limitations": [
+          "Ride quality and suspension are more basic than the mid-range and premium doubles in this category",
+          "Bulkier to fold and store than any single stroller in this list",
+          "Front and rear seats aren't identical, one child rides slightly differently than the other"
+        ],
+        "features": [
+          "Front and rear seats plus a rear standing platform",
+          "5-point safety harness on both seats",
+          "Parent console with cup holders and phone holder",
+          "Compatible with EZ-Lift infant car seat",
+          "Large storage basket"
+        ]
+      },
+      {
+        "name": "Chicco Liteway Stroller",
+        "brand": "Chicco",
+        "asin": "B0D98VGYVZ",
+        "blurb": "",
+        "strengths": [
+          "Rear-wheel suspension",
+          "One-hand 4-position recline",
+          "Compact fold",
+          "Toe-tap brakes"
+        ],
+        "limitations": [
+          "Heavier than ultralight strollers",
+          "40 lb limit",
+          "Bulky folded length"
+        ],
+        "features": []
+      },
+      {
+        "name": "Summer Infant 3Dlite Convenience Stroller",
+        "brand": "Summer Infant",
+        "asin": "B07N16CCQC",
+        "blurb": "",
+        "strengths": [
+          "Light 13 lb aluminum frame",
+          "Large storage basket",
+          "4-position recline",
+          "Affordable"
+        ],
+        "limitations": [
+          "Small wheels",
+          "Not for newborns without a car seat",
+          "Basic suspension"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

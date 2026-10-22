@@ -1,0 +1,105 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Leaf Blowers Under $200",
+  "h1": "The 4 Best Leaf Blowers Under $200",
+  "metaDescription": "Our 4 picks for leaf blowers under $200, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at leaf blowers under $200 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-leaf-blowers",
+  "related": [
+    "best-leaf-blowers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "EGO Power+ LB6504 650 CFM Cordless Leaf Blower",
+        "brand": "EGO",
+        "asin": "B087RRLLQ3",
+        "blurb": "Key specs: 56V ARC Lithium battery, 5.0Ah included, Up to 650 CFM turbo airflow, Up to 75 minutes runtime per charge.",
+        "strengths": [
+          "Longest warranty of any blower in this category",
+          "650 CFM and 75-minute runtime handle most yards without a second battery"
+        ],
+        "limitations": [
+          "Sits near the top of this budget range rather than the bottom",
+          "Heaviest handheld model in this category",
+          "Turbo mode still drains the battery faster than moderate speed"
+        ],
+        "features": [
+          "56V ARC Lithium battery, 5.0Ah included",
+          "Up to 650 CFM turbo airflow",
+          "Up to 75 minutes runtime per charge",
+          "5-year tool warranty, 3-year battery warranty"
+        ],
+        "badge": "Best overall"
+      },
+      {
+        "name": "Ryobi 40V HP Brushless Whisper Series 650 CFM Leaf Blower",
+        "brand": "Ryobi",
+        "asin": "B07N2XRHKM",
+        "blurb": "Key specs: 40V HP Brushless motor, 650 CFM / 160 MPH, Whisper Series low-noise housing, Cruise control trigger lock.",
+        "strengths": [
+          "Matches the EGO's 650 CFM at a typically lower bundled price",
+          "Quieter operation, a genuine advantage over the EGO in tight neighborhoods",
+          "Battery shared with the broader Ryobi 40V outdoor tool lineup"
+        ],
+        "limitations": [
+          "1-year tool warranty versus the EGO's 5 years",
+          "Battery-included kits vary more in price and availability than the EGO's",
+          "Fewer accessory options than the EGO ecosystem"
+        ],
+        "features": [
+          "40V HP Brushless motor, 650 CFM / 160 MPH",
+          "Whisper Series low-noise housing",
+          "Cruise control trigger lock",
+          "Battery kit options available under $200"
+        ]
+      },
+      {
+        "name": "Greenworks 40V 185 MPH 340 CFM Cordless Blower/Vacuum",
+        "brand": "Greenworks",
+        "asin": "B00DRBBRVU",
+        "blurb": "Key specs: 185 MPH / 340 CFM brushless motor, 2-in-1 blower and vacuum with bag, Includes 4.0Ah battery and charger.",
+        "strengths": [
+          "Vacuum mode adds function the EGO and Ryobi don't include",
+          "Lightest full kit in this category"
+        ],
+        "limitations": [
+          "340 CFM is meaningfully lower than the EGO or Ryobi's 650 CFM",
+          "Best suited to smaller yards rather than large or wet-leaf jobs",
+          "Not the pick if raw airflow is the priority"
+        ],
+        "features": [
+          "185 MPH / 340 CFM brushless motor",
+          "2-in-1 blower and vacuum with bag",
+          "Includes 4.0Ah battery and charger"
+        ]
+      },
+      {
+        "name": "Toro PowerJet F700 Corded Electric Leaf Blower",
+        "brand": "Toro",
+        "asin": "B00TNCJU3E",
+        "blurb": "Key specs: 725 CFM airflow, 140 MPH air speed, 12-amp motor, No battery required.",
+        "strengths": [
+          "Leaves plenty of budget room, typically the least expensive pick outright",
+          "No battery to degrade or replace over time"
+        ],
+        "limitations": [
+          "Corded design is the real limiting factor, not price",
+          "No runtime concerns, but no cordless freedom either",
+          "Doesn't use the extra budget headroom for anything beyond the base tool"
+        ],
+        "features": [
+          "725 CFM airflow, 140 MPH air speed",
+          "12-amp motor",
+          "No battery required"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

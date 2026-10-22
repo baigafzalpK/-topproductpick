@@ -1,0 +1,88 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Countertop Nugget Ice Makers",
+  "h1": "The 3 Best Countertop Nugget Ice Makers",
+  "metaDescription": "Our 3 picks for countertop nugget ice makers, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at countertop nugget ice makers using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-ice-makers",
+  "related": [
+    "best-ice-makers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "GE Profile Opal 2.0 Nugget Ice Maker",
+        "brand": "GE Profile",
+        "asin": "B09649DDTN",
+        "blurb": "Key specs: 38 lbs of nugget ice per 24 hours, 0.75-gallon side water tank, WiFi with SmartHQ app and voice control.",
+        "strengths": [
+          "Highest output and largest reservoir of any countertop nugget ice maker in this list",
+          "The most established brand name in nugget ice machines, with the deepest track record",
+          "App-based maintenance alerts make the descale cycle easy to stay on top of"
+        ],
+        "limitations": [
+          "The most expensive machine in this list by a wide margin",
+          "Largest footprint, needs a dedicated counter spot",
+          "WiFi features are unnecessary for anyone who just wants ice"
+        ],
+        "features": [
+          "38 lbs of nugget ice per 24 hours",
+          "0.75-gallon side water tank",
+          "WiFi with SmartHQ app and voice control",
+          "First batch ready in about 10 minutes",
+          "Automatic sanitize and descale cycle"
+        ],
+        "badge": "Top pick",
+        "bestFor": "nugget ice"
+      },
+      {
+        "name": "Euhomy Nugget Ice Maker Countertop",
+        "brand": "Euhomy",
+        "asin": "B0C32SGKMJ",
+        "blurb": "Key specs: Up to 34 lbs of nugget ice per day, First batch ready in about 6 minutes, Self-cleaning cycle.",
+        "strengths": [
+          "Fastest batch cycle in this list at about 6 minutes",
+          "34 lbs a day is close to the GE Opal's output at a fraction of the price",
+          "Smaller, more portable footprint than the side-tank GE Opal design"
+        ],
+        "limitations": [
+          "Smaller reservoir than the GE Opal, needs more frequent refilling",
+          "No app, scheduling, or voice control features",
+          "Shorter market track record and fewer long-term owner reviews"
+        ],
+        "features": [
+          "Up to 34 lbs of nugget ice per day",
+          "First batch ready in about 6 minutes",
+          "Self-cleaning cycle",
+          "Built-in carry handle",
+          "Removable top cover for cleaning access"
+        ],
+        "bestFor": "nugget ice"
+      },
+      {
+        "name": "Silonn Countertop Nugget Ice Maker, 44 lb/Day",
+        "brand": "Silonn",
+        "asin": "B0BBGFRL9X",
+        "blurb": "",
+        "strengths": [
+          "Chewable nugget ice at a lower price than premium brands",
+          "Self-cleaning mode",
+          "Timer for ice ready when you need it",
+          "Compact countertop footprint"
+        ],
+        "limitations": [
+          "Ice basket is not refrigerated, so ice slowly melts",
+          "Daily output depends on room and water temperature",
+          "Needs regular descaling with hard water"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

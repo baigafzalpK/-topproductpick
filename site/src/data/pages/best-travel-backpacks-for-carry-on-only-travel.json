@@ -1,0 +1,117 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Travel Backpacks for Carry-On Only Travel",
+  "h1": "The 4 Best Travel Backpacks for Carry-On Only Travel",
+  "metaDescription": "Our 4 picks for travel backpacks for carry-on only travel, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at travel backpacks for carry-on only travel using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-travel-backpacks",
+  "related": [
+    "best-travel-backpacks"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Osprey Farpoint 40",
+        "brand": "Osprey",
+        "asin": "B014EBKMMG",
+        "blurb": "Key specs: 40L across S/M and M/L harness sizing, Removable 11L Daylite Plus daypack, LightWire frame suspension, stows away for flights.",
+        "strengths": [
+          "Clears nearly every carrier's carry-on sizer at 40L",
+          "Stowable harness means nothing snags on jet bridges or overhead bins",
+          "Removable daypack functions as a real day bag, not just a stuff sack"
+        ],
+        "limitations": [
+          "Fixed main compartment, no expansion for a longer trip",
+          "S/M and M/L sizing means checking your torso length before buying",
+          "Daypack attaches externally and adds bulk when both pieces are worn together"
+        ],
+        "features": [
+          "40L across S/M and M/L harness sizing",
+          "Removable 11L Daylite Plus daypack",
+          "LightWire frame suspension, stows away for flights",
+          "Zip-away hipbelt and harness",
+          "Lockable dual-zip main compartment"
+        ],
+        "badge": "Top pick",
+        "bestFor": "carry on only travel"
+      },
+      {
+        "name": "Cotopaxi Allpa 42L Travel Pack",
+        "brand": "Cotopaxi",
+        "asin": "B0CQ5M7LHD",
+        "blurb": "Key specs: 42L suitcase-style full-wrap zipper opening, 1000D TPU-coated polyester shell, 840D ballistic nylon panels, Removable hip belt, air-mesh shoulder straps.",
+        "strengths": [
+          "42L is the most volume in this list while still reading as a standard carry-on",
+          "Suitcase-style opening lays flat for fast packing and security checks",
+          "Colorful, distinct designs make the bag easy to spot on a belt or overhead bin"
+        ],
+        "limitations": [
+          "42L pushes past some tighter international carry-on sizers",
+          "Heavier empty weight than the Farpoint 40 due to the burly shell fabric",
+          "Fewer organizational pockets than purpose-built travel packs at this price"
+        ],
+        "features": [
+          "42L suitcase-style full-wrap zipper opening",
+          "1000D TPU-coated polyester shell, 840D ballistic nylon panels",
+          "Removable hip belt, air-mesh shoulder straps",
+          "15-inch laptop sleeve and 12.5-inch tablet sleeve",
+          "Exterior stretch water bottle pocket, luggage pass-through strap"
+        ],
+        "bestFor": "carry on only travel"
+      },
+      {
+        "name": "Cotopaxi Allpa 35L Travel Pack",
+        "brand": "Cotopaxi",
+        "asin": "B0CQ5L6RV3",
+        "blurb": "Key specs: 35L suitcase-style opening, carry-on sized, 1000D TPU-coated polyester, 100% recycled fabrics, Air-mesh back panel and removable hip belt.",
+        "strengths": [
+          "35L clears most European budget-carrier cabin limits with room to spare",
+          "Same suitcase-style layout as the 42L version in a smaller footprint",
+          "Recycled fabric build backed by a lifetime warranty"
+        ],
+        "limitations": [
+          "Less room than the 40L and 42L packs in this list for longer trips",
+          "Hip belt is thinner than a dedicated hiking-style harness",
+          "Fewer external quick-access pockets than the Peak Design pack"
+        ],
+        "features": [
+          "35L suitcase-style opening, carry-on sized",
+          "1000D TPU-coated polyester, 100% recycled fabrics",
+          "Air-mesh back panel and removable hip belt",
+          "Exterior stretch water bottle pocket",
+          "Luggage pass-through strap"
+        ],
+        "bestFor": "carry on only travel"
+      },
+      {
+        "name": "Peak Design Travel Backpack 45L",
+        "brand": "Peak Design",
+        "asin": "B07GH4HMFR",
+        "blurb": "Key specs: Expands from 35L to 45L via external compression straps, Weatherproof 400D recycled nylon canvas shell, Rear, top, and side access with MagLatch closures.",
+        "strengths": [
+          "Compresses to a smaller, stricter-sizer-friendly footprint when needed",
+          "Three separate access points make it easy to grab items without unpacking",
+          "Weatherproof shell holds up in rain at bus stops and gate walks"
+        ],
+        "limitations": [
+          "Tuck-away straps take a bit of practice to stow cleanly",
+          "Heavier than the Osprey Farpoint 40 when fully packed"
+        ],
+        "features": [
+          "Expands from 35L to 45L via external compression straps",
+          "Weatherproof 400D recycled nylon canvas shell",
+          "Rear, top, and side access with MagLatch closures",
+          "Tuck-away hip belt and sternum strap",
+          "Compatible with Peak Design packing cubes and camera cubes"
+        ],
+        "bestFor": "carry on only travel"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

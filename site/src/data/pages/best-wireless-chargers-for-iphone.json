@@ -1,0 +1,58 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 2 Best Wireless Chargers for iPhone 2026",
+  "h1": "The 2 Best Wireless Chargers for iPhone 2026",
+  "metaDescription": "Our 2 picks for wireless chargers for iphone 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at wireless chargers for iphone 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "wireless-chargers",
+  "related": [
+    "wireless-chargers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Anker MagGo 2-in-1 Qi2 Wireless Charging Stand",
+        "brand": "Anker",
+        "asin": "B0D2XYS4QC",
+        "blurb": "",
+        "strengths": [
+          "Qi2 15W fast charging for iPhone",
+          "Charges AirPods simultaneously",
+          "Adjustable viewing angle",
+          "Strong magnetic hold"
+        ],
+        "limitations": [
+          "Not for Apple Watch",
+          "Adapter may not be included",
+          "iPhone 12 and later only"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "Belkin MagSafe 2-in-1 Wireless Charging Stand",
+        "brand": "Belkin",
+        "asin": "B091J6BY3C",
+        "blurb": "",
+        "strengths": [
+          "Official MagSafe fast charging",
+          "Charges iPhone and AirPods together",
+          "Power supply included",
+          "Premium build"
+        ],
+        "limitations": [
+          "Expensive",
+          "No Apple Watch charger",
+          "iPhone only for magnetic charging"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

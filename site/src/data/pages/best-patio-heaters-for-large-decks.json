@@ -1,0 +1,130 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Patio Heaters for Large Decks",
+  "h1": "The 5 Best Patio Heaters for Large Decks",
+  "metaDescription": "Our 5 picks for patio heaters for large decks, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at patio heaters for large decks using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-patio-heaters",
+  "related": [
+    "best-patio-heaters"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "AZ Patio Heaters Tall Outdoor Patio Heater",
+        "brand": "AZ Patio Heaters",
+        "asin": "B09SRG753F",
+        "blurb": "Key specs: 48,000 BTU propane burner, 87-inch hammered bronze standing design, 10 to 15 foot heat radius.",
+        "strengths": [
+          "48,000 BTU and a 10 to 15 foot radius cover most single-heater deck layouts on their own",
+          "The tall standing design puts heat above head height, spreading it evenly over a seating area rather than one hot spot",
+          "Wheeled base makes it realistic to reposition as the party moves around a large deck"
+        ],
+        "limitations": [
+          "87 inches tall and visually bulky, not the pick for a smaller or more curated space",
+          "Needs 3 to 5 feet of clear floor space in every direction",
+          "Burns through a 20lb tank in roughly 8 to 10 hours at full output"
+        ],
+        "features": [
+          "48,000 BTU propane burner",
+          "87-inch hammered bronze standing design",
+          "10 to 15 foot heat radius",
+          "Wheeled base, push-button ignition"
+        ],
+        "badge": "Top pick",
+        "bestFor": "large decks"
+      },
+      {
+        "name": "Amazon Basics 46,000 BTU Propane Patio Heater",
+        "brand": "Amazon Basics",
+        "asin": "B010VFKZEO",
+        "blurb": "Key specs: 46,000 BTU propane burner, 9 foot heat radius, water-weighted base, Wheels for repositioning.",
+        "strengths": [
+          "Close to the AZ Patio Heaters' BTU output at a lower price, making it the more affordable second unit for a two-heater layout",
+          "Water-weighted base adds stability on an open deck that catches wind"
+        ],
+        "limitations": [
+          "Slightly smaller rated radius than the AZ Patio Heaters model",
+          "Fills with water for stability, which is extra setup and drainage before winter storage",
+          "Basic styling compared to the hammered bronze finish on premium standing heaters"
+        ],
+        "features": [
+          "46,000 BTU propane burner",
+          "9 foot heat radius, water-weighted base",
+          "Wheels for repositioning",
+          "Push-button ignition, adjustable heat knob"
+        ],
+        "bestFor": "large decks"
+      },
+      {
+        "name": "Amazon Basics Stainless Steel Commercial Patio Heater",
+        "brand": "Amazon Basics",
+        "asin": "B01DAOXC98",
+        "blurb": "Key specs: 46,000 BTU stainless steel construction, Includes a stand-up patio heater cover, Wheeled base.",
+        "strengths": [
+          "Stainless steel construction holds up better than powder-coated finishes under frequent outdoor use",
+          "Commercial rating means it's built for the kind of regular, heavy use a large entertaining deck sees",
+          "Comes bundled with a cover, a real add-on value versus buying one separately"
+        ],
+        "limitations": [
+          "Stainless steel shows fingerprints and water spots more than a bronze or black finish",
+          "Similar coverage to the standard Amazon Basics model at a higher price for the steel upgrade",
+          "Bulky to store even with the included cover"
+        ],
+        "features": [
+          "46,000 BTU stainless steel construction",
+          "Includes a stand-up patio heater cover",
+          "Wheeled base",
+          "Commercial-grade rated"
+        ],
+        "bestFor": "large decks"
+      },
+      {
+        "name": "Mr. Heater MH48PH 48,000 BTU Patio Heater",
+        "brand": "Mr. Heater",
+        "asin": "B09LKR5PB2",
+        "blurb": "Key specs: 48,000 BTU propane burner, Rated coverage up to 215 square feet, Silver powder-coated finish.",
+        "strengths": [
+          "Matches the AZ Patio Heaters' BTU output at a generally lower street price",
+          "215 square foot rated coverage is competitive with the pricier standing heaters here",
+          "Heater's broader lineup means parts and accessories are easy to find"
+        ],
+        "limitations": [
+          "Finish and build quality feel a step below the AZ Patio Heaters model in owner reports",
+          "No wheeled base included on all listed variants, check before buying"
+        ],
+        "features": [
+          "48,000 BTU propane burner",
+          "Rated coverage up to 215 square feet",
+          "Silver powder-coated finish",
+          "Standard 20lb tank compatible"
+        ],
+        "bestFor": "large decks"
+      },
+      {
+        "name": "EAST OAK 55,000 BTU Propane Patio Heater with Table",
+        "brand": "EAST OAK",
+        "asin": "B0D5QKGCRF",
+        "blurb": "",
+        "strengths": [
+          "High 55,000 BTU output",
+          "Built-in drink table",
+          "Wheels for moving",
+          "ETL certified"
+        ],
+        "limitations": [
+          "Uses a 20 lb tank quickly on high",
+          "Tall unit needs overhead clearance",
+          "Assembly required"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

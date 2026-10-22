@@ -1,0 +1,78 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best XLR Cables for Microphones 2026",
+  "h1": "The 3 Best XLR Cables for Microphones 2026",
+  "metaDescription": "Our 3 picks for xlr cables for microphones 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at xlr cables for microphones 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-microphone-accessories",
+  "related": [
+    "best-microphone-accessories"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Hosa CMM-103 XLR Cable",
+        "brand": "Hosa",
+        "asin": "B000068O1N",
+        "blurb": "Key specs: Balanced XLR-M to XLR-F, Silver-plated contacts, Spiral shield.",
+        "strengths": [
+          "Adequate noise rejection for home studio use at typical cable lengths (under 20 feet)",
+          "Available in multi-packs, practical for purchasing several lengths at once",
+          "Much lower price than Mogami with no practical difference at short run lengths"
+        ],
+        "limitations": [
+          "Connector retention is less secure than Neutrik-terminated cables"
+        ],
+        "features": [
+          "Balanced XLR-M to XLR-F",
+          "Silver-plated contacts",
+          "Spiral shield",
+          "Multiple lengths"
+        ],
+        "badge": "Best Value",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "Amazon Basics XLR Male to Female Microphone Cable, 6 ft",
+        "brand": "Amazon Basics",
+        "asin": "B01JNLTTKS",
+        "blurb": "",
+        "strengths": [
+          "Very affordable",
+          "All-copper conductors",
+          "Metal connector housings",
+          "Multiple lengths"
+        ],
+        "limitations": [
+          "Not built for heavy touring use",
+          "Connectors can fit tightly on some gear",
+          "Stiffer PVC jacket"
+        ],
+        "features": []
+      },
+      {
+        "name": "Hosa HMIC-015 Pro Microphone Cable, 15 ft",
+        "brand": "Hosa",
+        "asin": "B00K1NFOXO",
+        "blurb": "",
+        "strengths": [
+          "REAN (Neutrik) connectors",
+          "90% braided shield",
+          "Durable for gigging",
+          "Lengths from 3 to 100 ft"
+        ],
+        "limitations": [
+          "Costs more than basic cables",
+          "Heavier than budget cables"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

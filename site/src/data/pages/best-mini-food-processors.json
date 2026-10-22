@@ -1,0 +1,240 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 10 Best Mini Food Processors",
+  "h1": "The 10 Best Mini Food Processors",
+  "metaDescription": "Our 10 picks for mini food processors, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at mini food processors using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "food-processors",
+  "related": [
+    "food-processors"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Cuisinart Mini-Prep Plus 4-Cup DLC-4",
+        "brand": "Cuisinart",
+        "asin": "B000YA8R6U",
+        "blurb": "Key specs: 4-cup, Under $40, Reversible blade.",
+        "strengths": [
+          "Reversible stainless blade: chop in one direction, grind in the other",
+          "Sous le bowl drain hole keeps hands dry during washing"
+        ],
+        "limitations": [
+          "4-cup limits large-batch herb or nut processing"
+        ],
+        "features": [
+          "4-cup",
+          "Under $40",
+          "Reversible blade",
+          "Cuisinart"
+        ],
+        "badge": "Best Overall",
+        "bestFor": "buyers who want the best overall package"
+      },
+      {
+        "name": "Cuisinart Mini-Prep 3-Cup DLC-2A",
+        "brand": "Cuisinart",
+        "asin": "B0000645YL",
+        "blurb": "Key specs: 3.5-cup, One-touch, Under $30.",
+        "strengths": [
+          "One-touch pulse, press and hold to chop, release to stop",
+          "Most intuitive operation of any mini processor"
+        ],
+        "limitations": [
+          "3.5-cup, smallest bowl in the mini category"
+        ],
+        "features": [
+          "3.5-cup",
+          "One-touch",
+          "Under $30",
+          "Cuisinart"
+        ],
+        "badge": "Best One Touch"
+      },
+      {
+        "name": "KitchenAid 3.5-Cup Food Chopper KFC3516",
+        "brand": "KitchenAid",
+        "asin": "B01LX8I3R3",
+        "blurb": "Key specs: 5-cup, KitchenAid, Under $50.",
+        "strengths": [
+          "Compact 3.5-cup bowl",
+          "Two speeds plus pulse",
+          "Drizzle basin for emulsions",
+          "Dishwasher-safe parts"
+        ],
+        "limitations": [
+          "Not for dough",
+          "Small capacity",
+          "Limited slicing ability"
+        ],
+        "features": [
+          "5-cup",
+          "KitchenAid",
+          "Under $50",
+          "Stainless"
+        ],
+        "badge": "Best Kitchenaid Mini"
+      },
+      {
+        "name": "Ninja Fit QB3001SS Single Serve Blender",
+        "brand": "Ninja",
+        "asin": "B01FHOWYA2",
+        "blurb": "Key specs: Personal blender, 700W, Ninja.",
+        "strengths": [
+          "700W blades handle frozen fruit, nuts, and tough ingredients a typical mini processor cannot"
+        ],
+        "limitations": [
+          "Not a food processor, no pulse chop mode, produces liquid consistency not chop"
+        ],
+        "features": [
+          "Personal blender",
+          "700W",
+          "Ninja",
+          "Under $50"
+        ],
+        "badge": "Best Ninja Mini"
+      },
+      {
+        "name": "Hamilton Beach Electric Vegetable Chopper 72850",
+        "brand": "Hamilton Beach",
+        "asin": "B06Y2GZWCJ",
+        "blurb": "Key specs: 3-cup, Under $20, Hamilton Beach.",
+        "strengths": [
+          "Press-to-chop design",
+          "Budget price",
+          "Compact",
+          "Easy to clean"
+        ],
+        "limitations": [
+          "Limited capacity",
+          "Uneven chopping",
+          "Not for dough"
+        ],
+        "features": [
+          "3-cup",
+          "Under $20",
+          "Hamilton Beach",
+          "Compact"
+        ],
+        "badge": "Best Budget Mini",
+        "bestFor": "value-focused buyers who want the most for their money"
+      },
+      {
+        "name": "Braun MultiQuick 5 Hand Blender with Chopper",
+        "brand": "Braun",
+        "asin": "B01EA5ZI2U",
+        "blurb": "Key specs: 3.5-cup, Braun, Under $40.",
+        "strengths": [
+          "Variable speed control, rare in the mini category",
+          "EasyClick system for fast bowl and blade assembly"
+        ],
+        "limitations": [],
+        "features": [
+          "3.5-cup",
+          "Braun",
+          "Under $40",
+          "Variable"
+        ],
+        "badge": "Best Braun Mini"
+      },
+      {
+        "name": "Black & Decker EHC650 2-Speed 3-Cup Food Chopper",
+        "brand": "BLACK+DECKER",
+        "asin": "B00005MF97",
+        "blurb": "Key specs: 3-cup, Under $25, BLACK+DECKER.",
+        "strengths": [
+          "Ultra compact",
+          "Two speeds",
+          "Affordable",
+          "Easy storage"
+        ],
+        "limitations": [
+          "Small bowl",
+          "Basic blades",
+          "Not for heavy tasks"
+        ],
+        "features": [
+          "3-cup",
+          "Under $25",
+          "BLACK+DECKER",
+          "Compact"
+        ],
+        "badge": "Best Ultra Compact"
+      },
+      {
+        "name": "Cuisinart Elite Collection 4-Cup Chopper/Grinder",
+        "brand": "Cuisinart",
+        "asin": "B002IA0PGO",
+        "blurb": "Key specs: 4-cup, Stainless bowl, Cuisinart.",
+        "strengths": [
+          "Chops and grinds",
+          "Reversible blade",
+          "Compact",
+          "Durable build"
+        ],
+        "limitations": [
+          "Small capacity",
+          "Not for dough",
+          "Loud"
+        ],
+        "features": [
+          "4-cup",
+          "Stainless bowl",
+          "Cuisinart",
+          "Under $50"
+        ],
+        "badge": "Best Cuisinart Updated"
+      },
+      {
+        "name": "Proctor Silex Fresh Grind Electric Coffee Grinder",
+        "brand": "Proctor Silex",
+        "asin": "B09D2DPXK4",
+        "blurb": "Key specs: Spice/herb grinder, Under $15, Proctor Silex.",
+        "strengths": [
+          "Low price",
+          "Simple one-touch operation",
+          "Compact",
+          "Grinds spices and herbs"
+        ],
+        "limitations": [
+          "Uneven grind for coffee",
+          "Small capacity",
+          "Hard to clean"
+        ],
+        "features": [
+          "Spice/herb grinder",
+          "Under $15",
+          "Proctor Silex",
+          "Very compact"
+        ],
+        "badge": "Best Herb Grinder"
+      },
+      {
+        "name": "OXO Good Grips One Stop Chop Manual Food Processor",
+        "brand": "Oxo",
+        "asin": "B07BZHCRLS",
+        "blurb": "Key specs: Manual, Crank-handle, 3.5-cup.",
+        "strengths": [
+          "No electricity, crank handle turns the blade for quiet, unplugged chopping",
+          "OXO ergonomics: soft-grip handle and non-slip base"
+        ],
+        "limitations": [
+          "Manual effort; limited to soft to medium-hard vegetables"
+        ],
+        "features": [
+          "Manual",
+          "Crank-handle",
+          "3.5-cup",
+          "OXO"
+        ],
+        "badge": "Best Manual"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

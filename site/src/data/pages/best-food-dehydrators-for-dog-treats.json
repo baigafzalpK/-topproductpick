@@ -1,0 +1,122 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Food Dehydrators for Homemade Dog Treats",
+  "h1": "The 4 Best Food Dehydrators for Homemade Dog Treats",
+  "metaDescription": "Our 4 picks for food dehydrators for homemade dog treats, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at food dehydrators for homemade dog treats using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-food-dehydrators",
+  "related": [
+    "best-food-dehydrators"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "NESCO FD-75A Snackmaster Pro Food Dehydrator",
+        "brand": "NESCO",
+        "asin": "B0BRMJDR9R",
+        "blurb": "Key specs: Adjustable thermostat, 95°F to 160°F, 5 trays included, expandable to 12, 600W top-mounted fan.",
+        "strengths": [
+          "160°F ceiling covers both the meat safe-start step and vegetable-based treats",
+          "Compact size is practical for smaller households making treats in occasional batches",
+          "Expandable trays scale up as you make treats more regularly",
+          "Large owner base with tens of thousands of ratings backing its reliability"
+        ],
+        "limitations": [
+          "5-tray starting capacity limits batch size for larger dogs or multiple pets",
+          "Top-mounted fan dries the top tray faster, so rotating trays helps with even treats",
+          "Round trays aren't ideal for laying out long jerky-style strips"
+        ],
+        "features": [
+          "Adjustable thermostat, 95°F to 160°F",
+          "5 trays included, expandable to 12",
+          "600W top-mounted fan",
+          "Jumbo Works jerky kit compatible for meat treats",
+          "Compact stackable design"
+        ],
+        "badge": "Best overall",
+        "bestFor": "dog treats"
+      },
+      {
+        "name": "Excalibur D900CDSHD 9-Tray Food Dehydrator",
+        "brand": "Excalibur",
+        "asin": "B00HVJOBC6",
+        "blurb": "Key specs: 9 stainless steel trays, 15 square feet of drying space, Parallex horizontal airflow, Adjustable thermostat, 105°F to 165°F.",
+        "strengths": [
+          "9-tray capacity makes large batches practical for multi-dog households",
+          "Stainless steel trays clean up more easily after fatty meat treats than plastic",
+          "Horizontal airflow dries meat and vegetable treats evenly without rotation",
+          "Long 26-hour timer covers longer vegetable-based treat batches without restarting"
+        ],
+        "limitations": [
+          "Highest price on this list, more than most casual treat makers need",
+          "Large footprint takes real counter or storage space",
+          "Overkill for a household making treats for a single small dog occasionally"
+        ],
+        "features": [
+          "9 stainless steel trays, 15 square feet of drying space",
+          "Parallex horizontal airflow",
+          "Adjustable thermostat, 105°F to 165°F",
+          "26-hour digital timer",
+          "Stainless steel trays resist odor absorption"
+        ],
+        "bestFor": "dog treats"
+      },
+      {
+        "name": "COSORI Premium 10-Tray Stainless Steel Food Dehydrator",
+        "brand": "COSORI",
+        "asin": "B0BB6PVCJK",
+        "blurb": "Key specs: 95°F to 165°F in 1°F increments, 10 stainless steel trays, 16.2 square feet, Jerky preset works well for chicken and liver treats.",
+        "strengths": [
+          "1°F increments make it easy to hold precisely at 160°F for the meat safe-start step",
+          "10-tray capacity handles both a batch of meat treats and vegetable treats simultaneously",
+          "Jerky preset works directly for chicken jerky and liver treats",
+          "Stainless trays hold up well to repeated raw meat contact"
+        ],
+        "limitations": [
+          "Higher price than the NESCO for someone making treats only occasionally",
+          "Large footprint similar to the Excalibur",
+          "Newer to the market with less long-term owner data than NESCO or Excalibur"
+        ],
+        "features": [
+          "95°F to 165°F in 1°F increments",
+          "10 stainless steel trays, 16.2 square feet",
+          "Jerky preset works well for chicken and liver treats",
+          "Rear-mounted horizontal airflow",
+          "48-hour digital timer"
+        ],
+        "bestFor": "dog treats"
+      },
+      {
+        "name": "Presto 06301 Dehydro Digital Electric Food Dehydrator",
+        "brand": "Presto",
+        "asin": "B008H2OEKK",
+        "blurb": "Key specs: Digital thermostat and timer, 90°F to 165°F, 6 trays included, expandable to 12, Bottom-mounted fan.",
+        "strengths": [
+          "165°F ceiling handles the meat safe-start step with room to spare",
+          "Lower price than NESCO or COSORI for a first attempt at homemade treats",
+          "Nesting trays make storage easy for occasional treat-making sessions",
+          "Digital controls are simple to set and read"
+        ],
+        "limitations": [
+          "6-tray starting capacity is modest for larger dogs or bigger batches",
+          "Bottom fan means the lowest tray dries fastest, worth checking individually",
+          "Round trays limit efficient layout for long jerky-style strips"
+        ],
+        "features": [
+          "Digital thermostat and timer, 90°F to 165°F",
+          "6 trays included, expandable to 12",
+          "Bottom-mounted fan",
+          "Nesting trays for storage",
+          "Includes mesh screens and fruit roll sheets"
+        ],
+        "bestFor": "dog treats"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

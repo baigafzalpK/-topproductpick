@@ -1,0 +1,83 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Luggage Under $300",
+  "h1": "The 3 Best Luggage Under $300",
+  "metaDescription": "Our 3 picks for luggage under $300, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at luggage under $300 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-luggage",
+  "related": [
+    "best-luggage"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Monos Carry-On Pro 22-Inch Hardside Spinner",
+        "brand": "Monos",
+        "asin": "B0FP46BTQN",
+        "blurb": "Key specs: 22-inch polycarbonate hardshell, 36L capacity, Padded front compartment fits a 16-inch laptop, 360-degree spinner wheels.",
+        "strengths": [
+          "Front laptop compartment is a real upgrade over budget bags at this price",
+          "Highest owner rating in this category at 4.8 out of 5"
+        ],
+        "limitations": [
+          "Fixed 36L capacity with no expansion panel",
+          "22-inch size is on the larger edge of some tighter international sizers",
+          "Carry-on only, no checked-size option in the same line"
+        ],
+        "features": [
+          "22-inch polycarbonate hardshell, 36L capacity",
+          "Padded front compartment fits a 16-inch laptop",
+          "360-degree spinner wheels",
+          "TSA-accepted lock",
+          "Lifetime warranty"
+        ],
+        "badge": "Top pick"
+      },
+      {
+        "name": "Samsonite Freeform 24-Inch Medium Hardside Spinner",
+        "brand": "Samsonite",
+        "asin": "B01LXOCPFG",
+        "blurb": "Key specs: 24-inch expandable polypropylene hardshell, Dual 360-degree spinner wheels, TSA-approved combination lock.",
+        "strengths": [
+          "8.5-pound empty weight leaves more of the checked weight limit for belongings"
+        ],
+        "limitations": [
+          "Shell shows scuffs and scratches more visibly than fabric-shell bags",
+          "Wheel housings wear faster under heavy repeated use than premium double-swivel designs",
+          "10-year limited warranty excludes cosmetic wear"
+        ],
+        "features": [
+          "24-inch expandable polypropylene hardshell",
+          "Dual 360-degree spinner wheels",
+          "TSA-approved combination lock",
+          "8.5-pound empty weight",
+          "10-year limited warranty"
+        ]
+      },
+      {
+        "name": "Samsonite Omni 2 Hardside Expandable Carry-On Spinner",
+        "brand": "Samsonite",
+        "asin": "B08BX9QMT8",
+        "blurb": "",
+        "strengths": [
+          "Polycarbonate shell",
+          "Built-in TSA lock",
+          "Expands for extra capacity",
+          "10-year limited warranty"
+        ],
+        "limitations": [
+          "Textured shell still scuffs",
+          "Expanded size may exceed carry-on limits",
+          "No front pocket"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 13 Best Coffee Makers for One Person",
+  "h1": "The 13 Best Coffee Makers for One Person",
+  "metaDescription": "Our 13 picks for coffee makers for one person, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at coffee makers for one person using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "coffee-makers",
+  "related": [
+    "coffee-makers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Keurig K-Elite Single Serve Coffee Maker",
+        "brand": "Keurig",
+        "asin": "B07B8P9JTQ",
+        "blurb": "Key specs: Temperature control across a 187 to 192 degree range, Strong brew setting for bolder K-Cup extraction, Built-in iced coffee mode.",
+        "strengths": [
+          "30-second brew time with zero grinding, measuring, or cleanup",
+          "Strong brew setting genuinely improves K-Cup coffee, which is under-extracted by default",
+          "Temperature control lets hotter-preference drinkers dial past the default 187 degrees"
+        ],
+        "limitations": [
+          "Coffee quality is capped by pod freshness, no amount of temperature tuning fixes stale grounds",
+          "Large reservoir and footprint compared to true single-cup manual methods"
+        ],
+        "features": [
+          "Temperature control across a 187 to 192 degree range",
+          "Strong brew setting for bolder K-Cup extraction",
+          "Built-in iced coffee mode",
+          "Compatible with 500-plus K-Cup pod varieties",
+          "5 cup sizes from 4 to 12 ounces"
+        ],
+        "badge": "Top pick",
+        "bestFor": "one person"
+      },
+      {
+        "name": "Nespresso Essenza Mini Original Espresso Machine by Breville",
+        "brand": "Nespresso",
+        "asin": "B073ZFR8XC",
+        "blurb": "Key specs: 19-bar pump pressure for true crema, 25-second heat-up time, Compact footprint under 5 inches wide.",
+        "strengths": [
+          "Produces genuine espresso-style crema that K-Cup machines cannot replicate",
+          "25-second brew is faster than the Keurig's heat-up cycle",
+          "One of the smallest machines in this list, fits on the narrowest counters",
+          "Nitrogen-sealed pods stay fresher than K-Cups over long storage"
+        ],
+        "limitations": [
+          "Optimized for 40 to 80ml shots, not standard 8-ounce drip-style cups",
+          "No milk frother included on the Mini, so lattes require a separate device"
+        ],
+        "features": [
+          "19-bar pump pressure for true crema",
+          "25-second heat-up time",
+          "Compact footprint under 5 inches wide",
+          "Automatic pod ejection",
+          "Energy-saving auto shutoff after 9 minutes"
+        ],
+        "bestFor": "one person"
+      },
+      {
+        "name": "AeroPress Original XL Coffee Press",
+        "brand": "AeroPress",
+        "asin": "B0C6NGDLLP",
+        "blurb": "Key specs: Air-pressure immersion brewing, 1 to 2 minute total brew time, Brews directly into a mug or travel cup.",
+        "strengths": [
+          "Produces a clean, low-acid cup with no bitterness even at high extraction",
+          "Plunger sweeps the chamber clean, making cleanup faster than any drip machine",
+          "Compact enough to pack in a travel bag, works anywhere boiling water is available"
+        ],
+        "limitations": [
+          "Requires manual technique: timing, grind size, and water temperature all matter",
+          "Produces only one to two cups per session, not suited for entertaining",
+          "Needs a separate kettle since it has no heating element",
+          "Learning curve means the first few cups are inconsistent"
+        ],
+        "features": [
+          "Air-pressure immersion brewing",
+          "1 to 2 minute total brew time",
+          "Brews directly into a mug or travel cup",
+          "No electricity or heating element required",
+          "Plunger self-cleans the chamber after each use"
+        ],
+        "bestFor": "one person"
+      },
+      {
+        "name": "Bonavita BV1901TS 8-Cup One-Touch Coffee Brewer",
+        "brand": "Bonavita",
+        "asin": "B076PFMRGX",
+        "blurb": "Key specs: SCA-certified brew temperature of 198 to 205 degrees, Pre-infusion bloom mode, 8-cup capacity sized correctly for 1 to 2 people.",
+        "strengths": [
+          "Only SCA-certified machine at this price point, correctly extracting flavor from good beans",
+          "Bloom pre-infusion wets grounds evenly before full extraction, a step budget machines skip",
+          "8-cup basket size is properly proportioned for 1 to 2 cup brews, unlike 12-cup machines",
+          "Thermal carafe keeps coffee hot without the burnt taste a hot plate produces"
+        ],
+        "limitations": [
+          "No programmable timer, must be started manually each time",
+          "Plain, utilitarian design with no digital display",
+          "Narrow carafe opening is harder to clean than a wide-mouth design"
+        ],
+        "features": [
+          "SCA-certified brew temperature of 198 to 205 degrees",
+          "Pre-infusion bloom mode",
+          "8-cup capacity sized correctly for 1 to 2 people",
+          "One-touch operation with no programming needed",
+          "Stainless steel thermal carafe"
+        ],
+        "bestFor": "one person"
+      },
+      {
+        "name": "Kalita Wave Pour-Over Coffee Dripper 185",
+        "brand": "Kalita",
+        "asin": "B004W5KPSQ",
+        "blurb": "Key specs: Flat-bottom design with three small holes, Wave-shaped filter for consistent flow, Brews 1 to 2 cups per session.",
+        "strengths": [
+          "Flat-bottom geometry produces more even extraction than cone-shaped drippers",
+          "Wave filter's consistent flow rate is more forgiving of pour technique than the Hario V60",
+          "Stainless build survives drops that would crack a ceramic dripper"
+        ],
+        "limitations": [
+          "Requires a gooseneck kettle for the slow, controlled pour the method depends on",
+          "Proprietary wave filters cost more per filter than standard cone filters",
+          "No thermal retention, coffee cools quickly once brewed"
+        ],
+        "features": [
+          "Flat-bottom design with three small holes",
+          "Wave-shaped filter for consistent flow",
+          "Brews 1 to 2 cups per session",
+          "No electricity, works with any kettle",
+          "Stainless steel construction"
+        ],
+        "bestFor": "one person"
+      },
+      {
+        "name": "Keurig K-Compact Single Serve Coffee Maker",
+        "brand": "Keurig",
+        "asin": "B071FQS4TM",
+        "blurb": "Key specs: 3 cup sizes: 8, 10, and 12 ounces, Compact 5-inch-wide footprint, Removable 36-ounce reservoir.",
+        "strengths": [
+          "5-inch width is the smallest footprint of any single-serve machine in this guide",
+          "Simple one-button operation with no settings to configure"
+        ],
+        "limitations": [
+          "No temperature control or strong brew setting, unlike the K-Elite",
+          "Only 3 cup sizes versus 5 on the pricier K-Elite"
+        ],
+        "features": [
+          "3 cup sizes: 8, 10, and 12 ounces",
+          "Compact 5-inch-wide footprint",
+          "Removable 36-ounce reservoir",
+          "Compatible with all K-Cup pods",
+          "Auto-off after 90 seconds idle"
+        ],
+        "bestFor": "one person"
+      },
+      {
+        "name": "Cuisinart SS-15W Coffee Center 12-Cup and Single-Serve Brewer",
+        "brand": "Cuisinart",
+        "asin": "B081TLDCZ1",
+        "blurb": "Key specs: 12-cup carafe side plus K-Cup-compatible single-serve side, Independent brewing on each side, Adjustable single-serve cup sizes.",
+        "strengths": [
+          "Genuinely useful for one person living with others who drink a full pot",
+          "Single-serve side works with any K-Cup and includes a reusable filter for ground coffee",
+          "Two independent brewing systems mean no waiting for one to finish before using the other",
+          "Programmable timer on the carafe side handles the household's morning routine automatically"
+        ],
+        "limitations": [
+          "Largest footprint in this guide by a wide margin, needs real counter space",
+          "Two brewing systems means two things that can eventually need repair",
+          "Single-serve side lacks the temperature and strength controls of a dedicated Keurig"
+        ],
+        "features": [
+          "12-cup carafe side plus K-Cup-compatible single-serve side",
+          "Independent brewing on each side",
+          "Adjustable single-serve cup sizes",
+          "Hot water on demand for tea or instant items",
+          "Programmable 24-hour timer on the carafe side"
+        ],
+        "bestFor": "one person"
+      },
+      {
+        "name": "Primula Burke Deluxe Cold Brew Coffee Maker 1.6-Qt",
+        "brand": "Primula",
+        "asin": "B08NWJVZVX",
+        "blurb": "Key specs: 1.6-quart capacity, roughly 6 servings of concentrate, Removable fine-mesh stainless steel filter, Airtight lid for refrigerator storage.",
+        "strengths": [
+          "One batch yields nearly a week of concentrate for a solo drinker",
+          "Fine-mesh filter eliminates sediment better than cheesecloth-based methods",
+          "Airtight lid means the same carafe steeps and stores in the fridge",
+          "Cold brew concentrate lasts up to 2 weeks refrigerated, longer than hot-brewed coffee"
+        ],
+        "limitations": [
+          "Requires 12 to 24 hours of lead time, not a same-morning solution",
+          "Plastic carafe feels less premium than glass alternatives at a similar price",
+          "Concentrate must be diluted, adding an extra step versus ready-to-drink coffee"
+        ],
+        "features": [
+          "1.6-quart capacity, roughly 6 servings of concentrate",
+          "Removable fine-mesh stainless steel filter",
+          "Airtight lid for refrigerator storage",
+          "BPA-free plastic carafe",
+          "12 to 24-hour steep time"
+        ],
+        "bestFor": "one person"
+      },
+      {
+        "name": "Hario V60 Ceramic Pour-Over Coffee Dripper",
+        "brand": "Hario",
+        "asin": "B0BWHKPCLL",
+        "blurb": "Key specs: Spiral ridges inside the cone for airflow, Large single hole for pour-rate control, Ceramic construction retains heat better than plastic.",
+        "strengths": [
+          "Spiral ridges create an air channel that improves extraction consistency versus flat-walled drippers",
+          "Ceramic body holds heat noticeably better than the plastic version, keeping brew temperature stable",
+          "Large single hole gives skilled pourers precise control over flow rate and extraction time"
+        ],
+        "limitations": [
+          "Steepest learning curve of any method here, technique-sensitive results",
+          "Ceramic is fragile and will crack if dropped on a hard floor",
+          "Requires a gooseneck kettle to get consistent results"
+        ],
+        "features": [
+          "Spiral ridges inside the cone for airflow",
+          "Large single hole for pour-rate control",
+          "Ceramic construction retains heat better than plastic",
+          "Cone-shaped design accepts standard V60 filters",
+          "Brews 1 to 4 cups depending on size"
+        ],
+        "bestFor": "one person"
+      },
+      {
+        "name": "COSORI Electric Gooseneck Pour-Over Kettle 0.8L",
+        "brand": "COSORI",
+        "asin": "B07T1CH2HH",
+        "blurb": "Key specs: Precision gooseneck spout for controlled pouring, 5 temperature presets from 135 to 212 degrees, 0.8-liter capacity.",
+        "strengths": [
+          "Gooseneck spout gives the slow, controlled pour that Kalita Wave and Hario V60 brewing require",
+          "Temperature presets remove the guesswork of using a stovetop kettle with no gauge",
+          "1200 watts brings 0.8 liters to a boil in under 5 minutes"
+        ],
+        "limitations": [
+          "0.8-liter capacity means reheating if brewing for more than 2 to 3 cups",
+          "An added purchase on top of whichever dripper it pairs with",
+          "Keep-warm function draws standby power if left on for the full hour"
+        ],
+        "features": [
+          "Precision gooseneck spout for controlled pouring",
+          "5 temperature presets from 135 to 212 degrees",
+          "0.8-liter capacity",
+          "60-minute keep-warm function",
+          "1200-watt element for fast heating"
+        ],
+        "bestFor": "one person"
+      },
+      {
+        "name": "Keurig K-Mini Single Serve Coffee Maker",
+        "brand": "Keurig",
+        "asin": "B09RQ568FD",
+        "blurb": "",
+        "strengths": [
+          "Very narrow footprint",
+          "Brews any size from 6 to 12 oz",
+          "Fits travel mugs up to 7 inches",
+          "Auto-off after brewing"
+        ],
+        "limitations": [
+          "Single cup reservoir; refill each time",
+          "Pod costs add up",
+          "Coffee strength is modest"
+        ],
+        "features": []
+      },
+      {
+        "name": "Nespresso Vertuo Pop+ Coffee and Espresso Maker by Breville",
+        "brand": "Nespresso",
+        "asin": "B0CS6ZM7X9",
+        "blurb": "",
+        "strengths": [
+          "Espresso and coffee from one machine",
+          "One-touch operation",
+          "Compact design",
+          "Fast heat-up"
+        ],
+        "limitations": [
+          "Only works with Vertuo pods",
+          "Pods cost more than ground coffee",
+          "No milk frother included in base model"
+        ],
+        "features": []
+      },
+      {
+        "name": "Keurig K-Express Single Serve Coffee Maker",
+        "brand": "Keurig",
+        "asin": "B09715G57M",
+        "blurb": "",
+        "strengths": [
+          "Brews 8, 10 or 12 oz cups",
+          "Strong button for bolder coffee",
+          "42 oz reservoir means fewer refills",
+          "Simple, affordable entry to K-Cups"
+        ],
+        "limitations": [
+          "Pod costs add up over time",
+          "No temperature or iced settings",
+          "Plastic build"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

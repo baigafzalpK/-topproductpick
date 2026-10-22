@@ -1,0 +1,111 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Packing Cubes for Backpacking",
+  "h1": "The 4 Best Packing Cubes for Backpacking",
+  "metaDescription": "Our 4 picks for packing cubes for backpacking, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at packing cubes for backpacking using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-packing-cubes",
+  "related": [
+    "best-packing-cubes"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Eagle Creek Pack-It Specter Cube Set (S/M)",
+        "brand": "Eagle Creek",
+        "asin": "B00OY893Z2",
+        "blurb": "Key specs: Set of 2 cubes: small and medium, 70D recycled ripstop nylon shell, Combined weight under 9 ounces.",
+        "strengths": [
+          "Ripstop fabric resists tearing under a backpack's external compression straps better than standard nylon",
+          "Adds almost no weight to a pack already loaded with a tent, sleeping bag, or electronics",
+          "Survives years of daily hostel-to-hostel handling in long-term owner reports"
+        ],
+        "limitations": [
+          "No compression zipper, so a fixed-volume pack still needs careful folding",
+          "Only 2 sizes, most backpackers need a second set for a longer trip"
+        ],
+        "features": [
+          "Set of 2 cubes: small and medium",
+          "70D recycled ripstop nylon shell",
+          "Combined weight under 9 ounces",
+          "Translucent mesh top"
+        ],
+        "badge": "Best overall",
+        "bestFor": "backpacking"
+      },
+      {
+        "name": "Gonex Compression Packing Cubes 10 Set",
+        "brand": "Gonex",
+        "asin": "B073B3YHX4",
+        "blurb": "Key specs: Double zipper compression on every cube, Honeycomb ripstop fabric, See-through mesh panels.",
+        "strengths": [
+          "Compression zippers reclaim real volume in a pack that cannot expand like a suitcase",
+          "Dedicated shoe and laundry bags keep dirty gear separate in shared hostel rooms",
+          "Lowest cost per piece of any set here, useful on a backpacker's budget"
+        ],
+        "limitations": [
+          "Thinner fabric than Eagle Creek, needs more careful handling under heavy external compression",
+          "Compression zippers are the most likely failure point after months of daily use",
+          "10 loose pieces is more to keep track of when packing quickly to catch transport"
+        ],
+        "features": [
+          "Double zipper compression on every cube",
+          "Honeycomb ripstop fabric",
+          "See-through mesh panels"
+        ],
+        "bestFor": "backpacking"
+      },
+      {
+        "name": "TravelWise Packing Cube System 5 Piece Weekender Plus Set",
+        "brand": "TravelWise",
+        "asin": "B00HHBR008",
+        "blurb": "Key specs: 5 cubes: 1 small, 2 medium, 2 large, Mesh top panel, 2-way pull zippers.",
+        "strengths": [
+          "2 medium plus 2 large sizes match a typical multi-week backpack's clothing volume",
+          "Nests flat for the rare hostel with limited room storage"
+        ],
+        "limitations": [
+          "No compression zipper for a fixed-volume pack",
+          "Fabric and zippers show wear faster under daily backpack compression than ripstop options",
+          "Fewer color choices in stock, less useful for quickly identifying gear by color"
+        ],
+        "features": [
+          "5 cubes: 1 small, 2 medium, 2 large",
+          "Mesh top panel",
+          "2-way pull zippers",
+          "Under $30 for 5 pieces"
+        ],
+        "bestFor": "backpacking"
+      },
+      {
+        "name": "eBags Classic 4 Piece Packing Cube Set",
+        "brand": "eBags",
+        "asin": "B016CIVJ26",
+        "blurb": "Key specs: 4 cubes: large, medium, small, and slim, TechLite diamond nylon, YKK zippers.",
+        "strengths": [
+          "Lifetime warranty is useful protection for gear that gets months of continuous hard use",
+          "Slim cube fits a packable rain layer or a stack of travel documents",
+          "YKK zippers hold up better than budget zippers over an extended multi-month trip"
+        ],
+        "limitations": [
+          "No compression zipper for a fixed-volume backpack",
+          "Heavier than the Eagle Creek set for a similar piece count",
+          "Costs more upfront than budget-oriented sets"
+        ],
+        "features": [
+          "4 cubes: large, medium, small, and slim",
+          "TechLite diamond nylon",
+          "YKK zippers",
+          "Lifetime warranty"
+        ],
+        "bestFor": "backpacking"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

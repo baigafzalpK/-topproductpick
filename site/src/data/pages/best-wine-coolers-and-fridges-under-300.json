@@ -1,0 +1,101 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Wine Coolers and Fridges Under $300",
+  "h1": "The 4 Best Wine Coolers and Fridges Under $300",
+  "metaDescription": "Our 4 picks for wine coolers and fridges under $300, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at wine coolers and fridges under $300 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-wine-coolers",
+  "related": [
+    "best-wine-coolers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "NewAir 24 Bottle Wine Cooler Refrigerator French Door",
+        "brand": "NewAir",
+        "asin": "B0BMS6HFYM",
+        "blurb": "Key specs: 24-bottle dual-zone capacity, 41°F to 64°F digital range, French door, double-layer tempered glass.",
+        "strengths": [
+          "French doors and tempered glass are features usually reserved for pricier units"
+        ],
+        "limitations": [
+          "Freestanding only, needs airflow clearance",
+          "24 bottles is a moderate capacity if the goal is a larger collection",
+          "Compressor hum is noticeable in a quiet room"
+        ],
+        "features": [
+          "24-bottle dual-zone capacity",
+          "41°F to 64°F digital range",
+          "French door, double-layer tempered glass",
+          "Compressor cooling",
+          "Typically $250 to $300"
+        ],
+        "badge": "Best overall"
+      },
+      {
+        "name": "NutriChef 33 Bottle Dual Zone Wine Fridge",
+        "brand": "NutriChef",
+        "asin": "B0BGM9FR2L",
+        "blurb": "Key specs: 33-bottle dual-zone capacity, 41°F to 64°F range, Built-in circulation fan.",
+        "strengths": [
+          "Compressor cooling and circulation fan hold temperature well for the price",
+          "Dual zones cover both red and white at correct temperatures"
+        ],
+        "limitations": [
+          "Fewer long-term reliability reports than the more established NewAir brand",
+          "Freestanding cabinet is bulkier than a similarly capacity built-in unit"
+        ],
+        "features": [
+          "33-bottle dual-zone capacity",
+          "41°F to 64°F range",
+          "Built-in circulation fan",
+          "Digital touch controls",
+          "Typically $380 to $420, frequently discounted near $300"
+        ]
+      },
+      {
+        "name": "Ivation 12-Bottle Compressor Wine Cooler with Lock",
+        "brand": "Ivation",
+        "asin": "B0864S2FPR",
+        "blurb": "",
+        "strengths": [
+          "Compressor cools reliably in warm rooms",
+          "Door lock",
+          "UV-resistant double-pane glass",
+          "Slim footprint"
+        ],
+        "limitations": [
+          "12-bottle capacity",
+          "Compressor hum",
+          "Tall and narrow"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "Koolatron 12-Bottle Dual Zone Wine Fridge",
+        "brand": "Koolatron",
+        "asin": "B08NXH97YY",
+        "blurb": "",
+        "strengths": [
+          "Dual zones for reds and whites",
+          "Quiet thermoelectric cooling",
+          "Compact",
+          "Easy digital controls"
+        ],
+        "limitations": [
+          "Only six bottles per zone",
+          "Thermoelectric limits in heat",
+          "Small shelves"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

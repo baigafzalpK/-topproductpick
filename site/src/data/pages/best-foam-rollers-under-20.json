@@ -1,0 +1,99 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Foam Rollers Under $20",
+  "h1": "The 4 Best Foam Rollers Under $20",
+  "metaDescription": "Our 4 picks for foam rollers under $20, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at foam rollers under $20 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-foam-rollers",
+  "related": [
+    "best-foam-rollers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Amazon Basics High-Density Foam Roller",
+        "brand": "Amazon Basics",
+        "asin": "B071P2MQ5D",
+        "blurb": "Key specs: 24-inch smooth-surface EPP foam, High-density, holds shape under body weight, Lightweight at under 1 pound.",
+        "strengths": [
+          "High-density foam holds up well for general daily use",
+          "24-inch length is practical for most full-body rolling"
+        ],
+        "limitations": [
+          "No texture for targeted knot work",
+          "No rigid core, so it can compress faster than premium rollers under very heavy daily use",
+          "No instructional content included"
+        ],
+        "features": [
+          "24-inch smooth-surface EPP foam",
+          "High-density, holds shape under body weight",
+          "Lightweight at under 1 pound",
+          "Typically priced $15 to $20"
+        ]
+      },
+      {
+        "name": "LuxFit Foam Roller",
+        "brand": "LuxFit",
+        "asin": "B01BW2YYZG",
+        "blurb": "Key specs: 24-inch molded polypropylene foam, 2 lb per cubic foot density, Smooth, speckled surface.",
+        "strengths": [
+          "3-year warranty is unusual at this price point and the longest of any roller in this category",
+          "Molded polypropylene foam holds its shape well according to owner reports",
+          "Smooth surface is comfortable for daily general-purpose use"
+        ],
+        "limitations": [
+          "No texture for targeted knot work",
+          "Fewer total ratings than Amazon Basics"
+        ],
+        "features": [
+          "24-inch molded polypropylene foam",
+          "2 lb per cubic foot density",
+          "Smooth, speckled surface",
+          "3-year manufacturer warranty, typically priced $18 to $22"
+        ]
+      },
+      {
+        "name": "Gaiam Restore Foam Roller, 18-Inch",
+        "brand": "Gaiam",
+        "asin": "B07CZSP9KK",
+        "blurb": "",
+        "strengths": [
+          "Compact 18-inch length for legs and arms",
+          "EVA foam keeps its shape better than cheap open-cell foam",
+          "Light and easy to pack",
+          "Budget-friendly"
+        ],
+        "limitations": [
+          "Too short to roll the back lengthwise",
+          "Listing describes density inconsistently",
+          "Smooth surface gives general, not targeted, pressure"
+        ],
+        "features": []
+      },
+      {
+        "name": "ProsourceFit High Density Foam Roller",
+        "brand": "ProsourceFit",
+        "asin": "B07RWQ48P3",
+        "blurb": "",
+        "strengths": [
+          "Firm high-density foam",
+          "Available in 12, 18, 24 and 36 inch lengths",
+          "Very affordable",
+          "Smooth surface suits beginners"
+        ],
+        "limitations": [
+          "Firm feel can be intense at first",
+          "Molded foam can dent with heavy use",
+          "No texture for targeted pressure"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

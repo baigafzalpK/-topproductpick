@@ -1,0 +1,66 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 2 Best Countertop Ice Makers Under $100",
+  "h1": "The 2 Best Countertop Ice Makers Under $100",
+  "metaDescription": "Our 2 picks for countertop ice makers under $100, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at countertop ice makers under $100 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-ice-makers",
+  "related": [
+    "best-ice-makers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Igloo Automatic Self-Cleaning Ice Maker",
+        "brand": "Igloo",
+        "asin": "B0B1FXF76C",
+        "blurb": "Key specs: 26 lbs of ice per 24 hours, 9 cubes ready in about 7 minutes, Automatic 5-cycle self-cleaning function.",
+        "strengths": [
+          "Self-cleaning cycle is unusual at this price point and genuinely reduces maintenance",
+          "Compact footprint fits most small kitchens or bar carts"
+        ],
+        "limitations": [
+          "1-quart reservoir needs daily refilling with regular use",
+          "Plastic housing feels basic compared to stainless steel options",
+          "Bullet-style ice melts faster than nugget ice"
+        ],
+        "features": [
+          "26 lbs of ice per 24 hours",
+          "9 cubes ready in about 7 minutes",
+          "Automatic 5-cycle self-cleaning function",
+          "Large or small cube size selector",
+          "Included scoop and basket"
+        ]
+      },
+      {
+        "name": "Frigidaire Countertop Ice Maker",
+        "brand": "Frigidaire",
+        "asin": "B07J1YVSNQ",
+        "blurb": "Key specs: 26 lbs of bullet-shaped ice per day, 9 pieces ready in about 7 minutes, Black stainless finish.",
+        "strengths": [
+          "Usually the lowest price of any 26 lb/day machine on the market",
+          "Recognized appliance brand with wide replacement part and support availability",
+          "Black stainless finish looks more premium than the price suggests"
+        ],
+        "limitations": [
+          "No self-cleaning function, needs manual descaling",
+          "No WiFi or app features",
+          "Fan noise is noticeable in a quiet room"
+        ],
+        "features": [
+          "26 lbs of bullet-shaped ice per day",
+          "9 pieces ready in about 7 minutes",
+          "Black stainless finish",
+          "Simple one-button control panel",
+          "Portable, no installation required"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

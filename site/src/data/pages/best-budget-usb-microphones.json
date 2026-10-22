@@ -1,0 +1,58 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 2 Best Budget USB Microphones Under $100 in 2026",
+  "h1": "The 2 Best Budget USB Microphones Under $100 in 2026",
+  "metaDescription": "Our 2 picks for budget usb microphones under $100 in 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at budget usb microphones under $100 in 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "usb-microphones",
+  "related": [
+    "usb-microphones"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "FIFINE K669B USB Condenser Microphone",
+        "brand": "FIFINE",
+        "asin": "B06XCKGLTP",
+        "blurb": "",
+        "strengths": [
+          "Very low price",
+          "Metal build",
+          "Plug and play",
+          "Gain knob"
+        ],
+        "limitations": [
+          "Picks up room noise",
+          "No headphone jack",
+          "Short included stand"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "HyperX SoloCast USB Microphone",
+        "brand": "HyperX",
+        "asin": "B08KFL3SFV",
+        "blurb": "",
+        "strengths": [
+          "Tap-to-mute sensor",
+          "Compact and adjustable stand",
+          "Cardioid pickup",
+          "Works with PC, Mac and PS5"
+        ],
+        "limitations": [
+          "No headphone monitoring jack",
+          "No gain knob",
+          "Sensitive to keyboard noise"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

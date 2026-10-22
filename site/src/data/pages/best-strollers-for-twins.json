@@ -1,0 +1,94 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Strollers for Twins",
+  "h1": "The 3 Best Strollers for Twins",
+  "metaDescription": "Our 3 picks for strollers for twins, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at strollers for twins using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-strollers",
+  "related": [
+    "best-strollers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Baby Jogger City Mini GT2 Double Stroller",
+        "brand": "Baby Jogger",
+        "asin": "B07YGVFZFH",
+        "blurb": "Key specs: Side-by-side double seating, Forever-air rubber tires, never go flat, All-wheel suspension.",
+        "strengths": [
+          "Side-by-side layout gives both twins equal, identical seating, the preferred setup for most twin parents",
+          "All-wheel suspension handles sidewalks and light off-road terrain smoothly for two riders",
+          "Compatible with multiple infant car seat brands, not locked into one manufacturer's ecosystem",
+          "Auto-lock fold is fast to operate solo, even loaded with two children's gear"
+        ],
+        "limitations": [
+          "29 to 31 inches wide, doesn't fit through every standard interior doorway",
+          "Heavier and bulkier to lift into a trunk than a tandem double"
+        ],
+        "features": [
+          "Side-by-side double seating",
+          "Forever-air rubber tires, never go flat",
+          "All-wheel suspension",
+          "One-hand compact fold with auto-lock",
+          "Compatible with Britax, Cybex, Graco, and Maxi Cosi infant car seats"
+        ],
+        "badge": "Top pick",
+        "bestFor": "twins"
+      },
+      {
+        "name": "Graco Ready2Grow LX 2.0 Double Stroller",
+        "brand": "Graco",
+        "asin": "B08K2YFNDW",
+        "blurb": "Key specs: Tandem front-to-back double seating, Accepts two compatible Graco infant car seats, Rear seat converts to bench seat or standing platform.",
+        "strengths": [
+          "Narrower tandem footprint fits standard doorways that side-by-side doubles can't clear",
+          "Accepts two infant car seats at once, a genuine newborn-twin feature",
+          "Folds down to roughly single-stroller size, easier to fit in smaller trunks"
+        ],
+        "limitations": [
+          "Rear seat sits lower and more enclosed than the front seat, an unequal view between the two children",
+          "Not as smooth over rough terrain as suspension-focused all-terrain doubles",
+          "Bench/standing conversion is more useful for siblings than same-age twins"
+        ],
+        "features": [
+          "Tandem front-to-back double seating",
+          "Accepts two compatible Graco infant car seats",
+          "Rear seat converts to bench seat or standing platform",
+          "Folds like a single stroller despite the tandem layout",
+          "Large, easy-access storage basket"
+        ],
+        "bestFor": "twins"
+      },
+      {
+        "name": "Baby Trend Sit N' Stand Double 2.0 Stroller",
+        "brand": "Baby Trend",
+        "asin": "B0D9BW7HCB",
+        "blurb": "Key specs: Front and rear seats plus a rear standing platform, 5-point safety harness on both seats, Parent console with cup holders and phone holder.",
+        "strengths": [
+          "Two full seats plus a standing platform option gives flexibility as twins grow at different paces",
+          "5-point harnesses on both seats meet the same safety standard as pricier doubles",
+          "Parent console is a genuinely useful everyday convenience"
+        ],
+        "limitations": [
+          "Ride quality and suspension are noticeably more basic than the City Mini GT2 or Ready2Grow",
+          "Bulkier fold than the tandem-style Ready2Grow",
+          "Front and rear seats aren't identical, one twin rides slightly differently than the other"
+        ],
+        "features": [
+          "Front and rear seats plus a rear standing platform",
+          "5-point safety harness on both seats",
+          "Parent console with cup holders and phone holder",
+          "Compatible with EZ-Lift infant car seat",
+          "Large storage basket"
+        ],
+        "bestFor": "twins"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

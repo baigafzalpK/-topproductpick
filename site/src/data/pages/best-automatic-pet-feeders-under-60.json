@@ -1,0 +1,116 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Automatic Pet Feeders Under $60",
+  "h1": "The 5 Best Automatic Pet Feeders Under $60",
+  "metaDescription": "Our 5 picks for automatic pet feeders under $60, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at automatic pet feeders under $60 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-automatic-pet-feeders",
+  "related": [
+    "best-automatic-pet-feeders"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Cat Mate C500 Digital 5-Meal Automatic Feeder",
+        "brand": "Cat Mate",
+        "asin": "B01AUYLVU8",
+        "blurb": "Key specs: 5 sealed compartments, each holding up to 3/4 lb of food, Included ice packs for wet or fresh food, Digital timer with initial feed plus 4 scheduled meals.",
+        "strengths": [
+          "One of the only budget-tier feeders that genuinely handles wet food thanks to included ice packs",
+          "Manual pre-measured compartments avoid the auger-accuracy drift of pricier hopper feeders",
+          "Over a year of runtime on 3 AA batteries means minimal ongoing cost"
+        ],
+        "limitations": [
+          "No app or remote alerts, it's a standalone digital timer",
+          "5-meal capacity means more frequent refilling than a large dry-food hopper",
+          "No camera, so there's no way to remotely confirm a meal dispensed"
+        ],
+        "features": [
+          "5 sealed compartments, each holding up to 3/4 lb of food",
+          "Included ice packs for wet or fresh food",
+          "Digital timer with initial feed plus 4 scheduled meals",
+          "Runs on 3 AA batteries for over a year",
+          "Typically priced $55 to $65"
+        ]
+      },
+      {
+        "name": "PETLIBRO Granary 5L Automatic Pet Feeder (Button Model)",
+        "brand": "PETLIBRO",
+        "asin": "B0986RKZN6",
+        "blurb": "",
+        "strengths": [
+          "No app or Wi-Fi needed; set it on the unit",
+          "Up to 6 meals a day with small 20 ml portions for portion control",
+          "Runs on D batteries as power backup",
+          "Large 5-liter hopper"
+        ],
+        "limitations": [
+          "No remote monitoring",
+          "Dry food only",
+          "Programming via buttons is less intuitive than an app"
+        ],
+        "features": []
+      },
+      {
+        "name": "Cat Mate C300 3-Meal Automatic Pet Feeder",
+        "brand": "Cat Mate",
+        "asin": "B01MXDFB28",
+        "blurb": "",
+        "strengths": [
+          "Handles wet and dry food",
+          "Ice pack helps keep wet food fresh",
+          "Runs about a year on AA batteries",
+          "Dishwasher-safe bowl"
+        ],
+        "limitations": [
+          "Only three meals, one of them manual",
+          "Small portions for large dogs",
+          "Ice pack effectiveness drops in hot rooms"
+        ],
+        "features": []
+      },
+      {
+        "name": "Cat Mate C200 2-Meal Automatic Pet Feeder",
+        "brand": "Cat Mate",
+        "asin": "B08B6G8PKZ",
+        "blurb": "",
+        "strengths": [
+          "Two stainless steel, dishwasher-safe bowls",
+          "48-hour timer covers a weekend away",
+          "Ice pack for wet food",
+          "Simple, no app"
+        ],
+        "limitations": [
+          "Only two meals",
+          "Battery powered with no low-battery app alert",
+          "Not for large dogs"
+        ],
+        "features": []
+      },
+      {
+        "name": "Cat Mate C3000 Automatic Dry Food Feeder",
+        "brand": "Cat Mate",
+        "asin": "B004BLVFSK",
+        "blurb": "",
+        "strengths": [
+          "Portion-controlled meals",
+          "Battery powered",
+          "Simple digital timer",
+          "Dishwasher-safe bowl"
+        ],
+        "limitations": [
+          "Dry food only",
+          "Small capacity",
+          "No app or alerts"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

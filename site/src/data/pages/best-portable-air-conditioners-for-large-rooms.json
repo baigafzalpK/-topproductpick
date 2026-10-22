@@ -1,0 +1,108 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Portable Air Conditioners for Large Rooms and Open Floor Plans",
+  "h1": "The 4 Best Portable Air Conditioners for Large Rooms and Open Floor Plans",
+  "metaDescription": "Our 4 picks for portable air conditioners for large rooms and open floor plans, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at portable air conditioners for large rooms and open floor plans using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-portable-air-conditioners",
+  "related": [
+    "best-portable-air-conditioners"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Whynter ARC-14S 14,000 BTU Dual Hose Portable Air Conditioner",
+        "brand": "Whynter",
+        "asin": "B0028AYQDC",
+        "blurb": "Key specs: 14,000 BTU ASHRAE / 9,500 BTU SACC dual-hose cooling, Cools rooms up to 500 sq ft, Built-in dehumidifier, up to 101 pints per day.",
+        "strengths": [
+          "Highest rated square footage coverage in this list at 500 sq ft",
+          "Dual-hose design holds temperature better than single-hose units during long continuous runs typical of large-room cooling",
+          "Strong dehumidification keeps a bigger space from feeling clammy even at a moderate temperature setting"
+        ],
+        "limitations": [
+          "Needs two hose openings, more setup than single-hose units",
+          "56 lbs, the heaviest unit in this list to reposition",
+          "Costs more upfront than single-hose 14,000 BTU competitors"
+        ],
+        "features": [
+          "14,000 BTU ASHRAE / 9,500 BTU SACC dual-hose cooling",
+          "Cools rooms up to 500 sq ft",
+          "Built-in dehumidifier, up to 101 pints per day",
+          "Auto drain with condensate self-evaporation",
+          "3 fan speeds and full thermostat control"
+        ],
+        "badge": "Best overall",
+        "bestFor": "large rooms"
+      },
+      {
+        "name": "BLACK+DECKER BPACT14WT Smart Portable Air Conditioner",
+        "brand": "BLACK+DECKER",
+        "asin": "B01DLPUWHQ",
+        "blurb": "Key specs: 14,000 BTU (10,200 BTU SACC) single-hose cooling, rated up to 700 sq ft, Wi-Fi app control plus Alexa and Google Assistant support, 24-hour programmable timer.",
+        "strengths": [
+          "Follow Me remote sensing helps in a large room where the unit's built-in sensor is far from where people actually sit",
+          "App scheduling lets you pre-cool a large room before arriving home",
+          "Manufacturer's 700 sq ft rating gives some headroom, though real-world performance runs closer to 500 to 550 sq ft"
+        ],
+        "limitations": [
+          "Single-hose exhaust is less efficient than dual-hose during the long continuous runs a large room requires",
+          "Real-world coverage runs below the manufacturer's stated 700 sq ft figure",
+          "Smart app reliability gets mixed reports on some networks"
+        ],
+        "features": [
+          "14,000 BTU (10,200 BTU SACC) single-hose cooling, rated up to 700 sq ft",
+          "Wi-Fi app control plus Alexa and Google Assistant support",
+          "24-hour programmable timer"
+        ],
+        "bestFor": "large rooms"
+      },
+      {
+        "name": "Honeywell HL14CESWK Contempo Series Portable Air Conditioner",
+        "brand": "Honeywell",
+        "asin": "B01CS3JJ5I",
+        "blurb": "Key specs: 14,000 BTU cooling, rated up to 550-700 sq ft, Dual filtration system: washable pre-filter plus activated carbon, Dual motor design rated at 49 to 52 dB at high fan speed.",
+        "strengths": [
+          "Dual motor design stays quieter than single-motor units when running at high speed for long stretches, common in a large room",
+          "Dual filtration helps in an open floor plan with more foot traffic and dust",
+          "Polished cabinet design fits a living room better than a strictly utilitarian look"
+        ],
+        "limitations": [
+          "Single-hose design, less efficient than dual-hose over long continuous runs",
+          "Fewer smart features than the BLACK+DECKER BPACT14WT"
+        ],
+        "features": [
+          "14,000 BTU cooling, rated up to 550-700 sq ft",
+          "Dual filtration system: washable pre-filter plus activated carbon",
+          "Dual motor design rated at 49 to 52 dB at high fan speed",
+          "Full-function remote control"
+        ],
+        "bestFor": "large rooms"
+      },
+      {
+        "name": "Midea Duo 12,000 BTU Inverter Portable Air Conditioner",
+        "brand": "Midea",
+        "asin": "B0GV3XFJPX",
+        "blurb": "",
+        "strengths": [
+          "Inverter compressor is quieter and efficient",
+          "Hose-in-hose works like a dual-hose unit",
+          "10,000 BTU SACC for larger rooms",
+          "Smart control with Alexa/Google"
+        ],
+        "limitations": [
+          "Heavy at over 70 lb",
+          "Expensive for a portable AC",
+          "Large hose needs a fitting window kit"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

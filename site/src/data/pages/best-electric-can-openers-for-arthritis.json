@@ -1,0 +1,93 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Electric Can Openers for Arthritis",
+  "h1": "The 3 Best Electric Can Openers for Arthritis",
+  "metaDescription": "Our 3 picks for electric can openers for arthritis, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at electric can openers for arthritis using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-electric-can-openers",
+  "related": [
+    "best-electric-can-openers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Hamilton Beach Smooth Touch Electric Can Opener",
+        "brand": "Hamilton Beach",
+        "asin": "B000SAS5GI",
+        "blurb": "Key specs: Easy push-down lever, Extra-tall opening for large cans, Opens pop-tops too.",
+        "strengths": [
+          "Push-down lever needs only light downward pressure to engage, no squeezing",
+          "Stable countertop base means you only lift the can, not the whole unit",
+          "Extra-tall design fits large soup and coffee cans without repositioning",
+          "Corded motor has more consistent torque than battery models on tough lids"
+        ],
+        "limitations": [
+          "Takes up permanent counter space rather than living in a drawer",
+          "Requires an open outlet nearby since it's corded",
+          "Base is not as non-slip as some newer competitors"
+        ],
+        "features": [
+          "Easy push-down lever",
+          "Extra-tall opening for large cans",
+          "Opens pop-tops too",
+          "Stainless steel scissors included",
+          "Built-in knife sharpener on some models"
+        ],
+        "bestFor": "arthritis"
+      },
+      {
+        "name": "Cuisinart Deluxe Electric Can Opener CCO-50N",
+        "brand": "Cuisinart",
+        "asin": "B001D9B2R2",
+        "blurb": "Key specs: Single-touch automatic operation, Detachable cutting lever, Nonslip wide base.",
+        "strengths": [
+          "Single-touch start and automatic stop mean no need to hold a button through the cut",
+          "Nonslip base stays put with one hand steadying the can",
+          "Detachable lever comes off for dishwasher cleaning without fine-motor disassembly"
+        ],
+        "limitations": [
+          "Bulkier footprint on the counter than the Kitchen Mama's drawer-friendly size",
+          "Fewer long-term owner reviews than the two more established competitors"
+        ],
+        "features": [
+          "Single-touch automatic operation",
+          "Detachable cutting lever",
+          "Nonslip wide base",
+          "Stops automatically when done",
+          "Easy-clean removable parts"
+        ],
+        "bestFor": "arthritis"
+      },
+      {
+        "name": "Black+Decker Spacemaker EC600 Can Opener",
+        "brand": "Black+Decker",
+        "asin": "B00004SC4X",
+        "blurb": "Key specs: Mounts under a cabinet, One-touch lever operation, Frees up counter space.",
+        "strengths": [
+          "Mounting it under a cabinet means never lifting or moving the opener itself",
+          "One-touch lever needs only light pressure, same low-force principle as the countertop models",
+          "Keeps the counter clear, useful if counter space itself is limited for maneuvering cans"
+        ],
+        "limitations": [
+          "Installation requires mounting screws, which is a one-time task someone else may need to help with",
+          "Fixed height under the cabinet may not suit every user's reach",
+          "Smallest owner base of the four picks here, so less long-term reliability data"
+        ],
+        "features": [
+          "Mounts under a cabinet",
+          "One-touch lever operation",
+          "Frees up counter space",
+          "Corded, fixed installation",
+          "Built-in cord wrap"
+        ],
+        "bestFor": "arthritis"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

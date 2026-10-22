@@ -1,0 +1,125 @@
+{
+  "type": "roundup",
+  "title": "4 Best Electric Toothbrushes, From Basic to Fully Featured",
+  "h1": "The 4 Best Electric Toothbrushes",
+  "metaDescription": "The best electric toothbrushes for value, sensitive gums, extra features and travel, with honest limitations for each.",
+  "lede": "Most people get the biggest benefit from a brush with a two-minute timer and a pressure sensor. Extra features are nice but optional. These picks are based on manufacturer specs, independent reviews and owner reports.",
+  "updatedAt": "2026-10-19",
+  "category": "electric-toothbrushes",
+  "related": [
+    "how-to-choose-an-electric-toothbrush",
+    "electric-toothbrushes"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Oral-B Pro 1000 Electric Toothbrush",
+        "brand": "Oral-B",
+        "asin": "B003UKM9CO",
+        "searchQuery": "Oral-B Pro 1000 rechargeable electric toothbrush",
+        "badge": "Best value",
+        "bestFor": "anyone switching from a manual brush",
+        "blurb": "A long-running basic oscillating-rotating brush with the two features that matter most: a two-minute timer with 30-second pacing, and a pressure sensor.",
+        "features": [
+          "Oscillating-rotating head",
+          "2-minute timer with 30-second pacer",
+          "Pressure sensor"
+        ],
+        "strengths": [
+          "Covers the essentials at a low price",
+          "Widely available replacement heads",
+          "Simple one-button use"
+        ],
+        "limitations": [
+          "Louder than sonic brushes",
+          "Basic charging stand and no travel case"
+        ]
+      },
+      {
+        "name": "Philips Sonicare 4100 Power Toothbrush",
+        "brand": "Philips Sonicare",
+        "asin": "B09LD8T445",
+        "searchQuery": "Philips Sonicare 4100 ProtectiveClean power toothbrush",
+        "badge": "Best sonic",
+        "bestFor": "sensitive gums and people who prefer a gentler feel",
+        "blurb": "An entry-level sonic brush with a slim handle, a pressure sensor, a quadrant timer and a reminder when it's time to replace the brush head (Philips spec).",
+        "features": [
+          "Sonic vibration",
+          "Pressure sensor",
+          "Brush head replacement reminder"
+        ],
+        "strengths": [
+          "Quieter and gentler feel than oscillating brushes",
+          "Slim, light handle",
+          "Useful replacement reminder"
+        ],
+        "limitations": [
+          "Replacement heads cost more than many Oral-B heads",
+          "Feel takes some getting used to"
+        ]
+      },
+      {
+        "name": "Oral-B iO Series 5 Electric Toothbrush",
+        "brand": "Oral-B",
+        "asin": "B0B5HVM6JX",
+        "searchQuery": "Oral-B iO Series 5 rechargeable electric toothbrush",
+        "badge": "Best for features",
+        "bestFor": "people who want app guidance and a quieter Oral-B",
+        "blurb": "Part of Oral-B's iO range, which uses a magnetic drive for a smoother, quieter feel than older Oral-B brushes, plus a smart pressure sensor and app support.",
+        "features": [
+          "Magnetic drive",
+          "Smart pressure sensor with light",
+          "Multiple brushing modes and app"
+        ],
+        "strengths": [
+          "Smoother and quieter than classic Oral-B brushes",
+          "Clear pressure feedback",
+          "Travel case included (Oral-B spec)"
+        ],
+        "limitations": [
+          "iO heads only fit iO handles and cost more",
+          "Much pricier than basic models"
+        ]
+      },
+      {
+        "name": "quip Electric Toothbrush",
+        "brand": "quip",
+        "asin": "B084VC42ND",
+        "searchQuery": "quip electric toothbrush",
+        "badge": "Best for travel",
+        "bestFor": "travel and minimalist bathrooms",
+        "blurb": "A slim sonic brush with a built-in two-minute timer and a cover that doubles as a mirror mount. Simple, light and easy to pack.",
+        "features": [
+          "Sonic vibration",
+          "2-minute timer with 30-second pulses",
+          "Cover doubles as a mount"
+        ],
+        "strengths": [
+          "Very slim and light",
+          "Easy to pack",
+          "Clean, simple design"
+        ],
+        "limitations": [
+          "Gentler, less powerful than rechargeable flagships",
+          "No pressure sensor"
+        ],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "We prioritised a two-minute timer and a pressure sensor, the features most associated with better brushing habits.",
+      "Picks are based on manufacturer specs, independent reviews and owner reports.",
+      "We factored in the ongoing cost of replacement heads, not just the handle."
+    ],
+    "faqs": [
+      {
+        "q": "How often should I replace the brush head?",
+        "a": "Manufacturers and dental bodies generally recommend about every three months, or sooner if the bristles are frayed."
+      },
+      {
+        "q": "Is an electric toothbrush better than a manual one?",
+        "a": "Many people brush more thoroughly with one, thanks to timers and pressure sensors. A manual brush used well for two minutes twice a day can also be effective. Ask your dentist what suits you."
+      }
+    ]
+  }
+}

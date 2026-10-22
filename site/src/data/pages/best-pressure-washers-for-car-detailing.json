@@ -1,0 +1,111 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Pressure Washers for Car Detailing",
+  "h1": "The 4 Best Pressure Washers for Car Detailing",
+  "metaDescription": "Our 4 picks for pressure washers for car detailing, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at pressure washers for car detailing using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-pressure-washers",
+  "related": [
+    "best-pressure-washers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "AR Blue Clean AR383 Electric Pressure Washer",
+        "brand": "AR Blue Clean",
+        "asin": "B002Z8E52Y",
+        "blurb": "Key specs: 1900 PSI, 1.51 GPM, Bayonet-connect nozzles and accessories, Onboard detergent tank.",
+        "strengths": [
+          "1900 PSI sits right at the safe upper end for car exteriors without needing to dial anything down",
+          "Compact enough to store in a garage corner between washes, unlike bulkier driveway-focused units",
+          "Budget price makes it an easy first pressure washer if car washing is the main use case"
+        ],
+        "limitations": [
+          "1.51 GPM rinses a full-size vehicle a bit slower than higher-flow units",
+          "Bayonet connectors are a less common fitting standard than quick-connect, worth checking foam cannon compatibility before buying one",
+          "Lower build durability rating than the Karcher K5 over years of frequent use"
+        ],
+        "features": [
+          "1900 PSI, 1.51 GPM",
+          "Bayonet-connect nozzles and accessories",
+          "Onboard detergent tank",
+          "Integrated hose reel",
+          "Compact frame with onboard storage"
+        ],
+        "bestFor": "car detailing"
+      },
+      {
+        "name": "Sun Joe SPX3000 Electric Pressure Washer",
+        "brand": "Sun Joe",
+        "asin": "B073FCV1ZC",
+        "blurb": "Key specs: 2030 max PSI, 1.76 GPM max flow, Dual detergent tanks, 5 quick-connect nozzles including a 40-degree wide fan.",
+        "strengths": [
+          "Standard quick-connect fitting works with the widest range of aftermarket foam cannons and car-wash attachments",
+          "Dual detergent tanks let you keep a dedicated car soap loaded separately from an all-purpose cleaner",
+          "Widest nozzle selection in this list for dialing in a safe, wide fan spread"
+        ],
+        "limitations": [
+          "2030 PSI is more than a car needs, requires consistent nozzle and distance discipline",
+          "Bulkier than the AR Blue Clean AR383 for a single-purpose car-washing setup",
+          "No car-specific preset or reduced-pressure mode"
+        ],
+        "features": [
+          "2030 max PSI, 1.76 GPM max flow",
+          "Dual detergent tanks",
+          "5 quick-connect nozzles including a 40-degree wide fan",
+          "Standard quick-connect fitting, compatible with most foam cannons",
+          "TSS auto shutoff"
+        ],
+        "bestFor": "car detailing"
+      },
+      {
+        "name": "Greenworks GPW1501 1500 PSI Pressure Washer",
+        "brand": "Greenworks",
+        "asin": "B09W4VQX7Z",
+        "blurb": "Key specs: 1500 max PSI, 1.2 GPM, Upright hand-carry design, Turbo nozzle included.",
+        "strengths": [
+          "1500 PSI ceiling means there's very little risk of overdoing it on paint even at closer range",
+          "Lightest and most compact unit in this list, easy to carry around a vehicle without a cart",
+          "Fits easily in a trunk for washing a car away from home, like at a family member's driveway"
+        ],
+        "limitations": [
+          "1.2 GPM is the slowest rinse rate of the three picks here",
+          "No included wide fan nozzle specifically suited to paint, relies on turbo nozzle used at distance",
+          "Underpowered for anything beyond cars and small household jobs"
+        ],
+        "features": [
+          "1500 max PSI, 1.2 GPM",
+          "Upright hand-carry design",
+          "Turbo nozzle included",
+          "35-foot power cord",
+          "13-Amp motor"
+        ],
+        "bestFor": "car detailing"
+      },
+      {
+        "name": "Sun Joe SPX2680-MAX Electric Pressure Washer with Foam Cannon",
+        "brand": "Sun Joe",
+        "asin": "B0BT277CVN",
+        "blurb": "",
+        "strengths": [
+          "Foam cannon included",
+          "Gentle pressure suits car paint",
+          "Extension wand",
+          "PWMA certified"
+        ],
+        "limitations": [
+          "Low flow for driveways",
+          "Plastic wand parts",
+          "Short cord"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

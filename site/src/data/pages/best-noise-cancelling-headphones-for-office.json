@@ -1,0 +1,56 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 2 Best Noise Cancelling Headphones for Office 2026",
+  "h1": "The 2 Best Noise Cancelling Headphones for Office 2026",
+  "metaDescription": "Our 2 picks for noise cancelling headphones for office 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at noise cancelling headphones for office 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "noise-cancelling-headphones",
+  "related": [
+    "noise-cancelling-headphones"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Sony WH-1000XM5",
+        "brand": "Sony WH-1000XM5",
+        "asin": "B09XS7JWHH",
+        "blurb": "",
+        "strengths": [
+          "Multipoint Bluetooth connects to laptop and phone simultaneously",
+          "Speak-to-chat pauses music when you start talking",
+          "30-hour battery covers multi-day office use between charges"
+        ],
+        "limitations": [
+          "Call microphone quality slightly behind Jabra and Poly dedicated UC headsets",
+          "Consumer-focused: no Teams/Zoom certification"
+        ],
+        "features": [],
+        "badge": "Best overall",
+        "bestFor": "office"
+      },
+      {
+        "name": "Apple AirPods Max",
+        "brand": "Apple AirPods",
+        "asin": "B09JQMJHXY",
+        "blurb": "",
+        "strengths": [
+          "Best ANC and transparency mode for Apple ecosystem users",
+          "Seamless switching between iPhone and Mac",
+          "Natural-sounding transparency for colleague conversations"
+        ],
+        "limitations": [
+          "Heavy, noticeable neck strain after 6+ hours",
+          "20-hour battery requires daily charging"
+        ],
+        "features": [],
+        "bestFor": "office"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

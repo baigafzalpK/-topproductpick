@@ -1,0 +1,95 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Deep Fryers for Small Kitchens",
+  "h1": "The 3 Best Deep Fryers for Small Kitchens",
+  "metaDescription": "Our 3 picks for deep fryers for small kitchens, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at deep fryers for small kitchens using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-deep-fryers",
+  "related": [
+    "best-deep-fryers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Presto Dual Daddy Electric Deep Fryer",
+        "brand": "Presto",
+        "asin": "B0000DAZ72",
+        "blurb": "Key specs: Compact 9 x 14 x 8.5-inch footprint, Dual-well design with removable divider, 1500W element.",
+        "strengths": [
+          "Smallest footprint on this list at roughly 9 by 14 inches",
+          "Snap-on lid lets you store oil directly in the unit, no separate container needed",
+          "Nonstick cast aluminum wipes clean fast in a kitchen without much counter space to work in",
+          "Dual wells still allow two small batches without a bigger fryer"
+        ],
+        "limitations": [
+          "1500W element is the slowest to recover on this list",
+          "8-cup total capacity limits batch size",
+          "No digital timer or viewing window"
+        ],
+        "features": [
+          "Compact 9 x 14 x 8.5-inch footprint",
+          "Dual-well design with removable divider",
+          "1500W element",
+          "Cast aluminum nonstick body",
+          "Snap-on cover doubles as oil storage lid"
+        ],
+        "badge": "Best overall",
+        "bestFor": "small kitchens"
+      },
+      {
+        "name": "T-fal Ultimate EZ Clean Deep Fryer",
+        "brand": "T-fal",
+        "asin": "B00NQ7QFGM",
+        "blurb": "Key specs: 3.5-liter oil / 2.6-pound food capacity, 1700W element, Digital timer and temperature control.",
+        "strengths": [
+          "1700W element heats up quickly despite the compact stainless steel housing",
+          "Digital timer and temperature control fit a lot of function into a small unit",
+          "Locking lid keeps splatter contained on a tight counter",
+          "Built-in filtration means less oil to store between uses"
+        ],
+        "limitations": [
+          "Stainless housing runs slightly larger than the Presto's footprint",
+          "Filtration adds a couple minutes to cleanup versus a basic wipe-down"
+        ],
+        "features": [
+          "3.5-liter oil / 2.6-pound food capacity",
+          "1700W element",
+          "Digital timer and temperature control",
+          "Locking lid with viewing window",
+          "Built-in oil filtration"
+        ],
+        "bestFor": "small kitchens"
+      },
+      {
+        "name": "Cuisinart CDF-200P1 Professional Deep Fryer",
+        "brand": "Cuisinart",
+        "asin": "B01JCECNM2",
+        "blurb": "Key specs: 1-gallon removable stainless steel oil container, 1800W immersion heating element, 2.3-pound food capacity.",
+        "strengths": [
+          "2.3-pound food capacity is large for a unit that still fits on a standard counter",
+          "Removable oil container simplifies storage between uses in a small kitchen",
+          "Pour-spout container avoids a mess when disposing of oil at a small sink",
+          "1800W element compensates for a compact housing with fast heat-up"
+        ],
+        "limitations": [
+          "Larger footprint than the Presto or T-fal, closer to 11 by 14 inches",
+          "Single basket, no dual-well option for splitting foods"
+        ],
+        "features": [
+          "1-gallon removable stainless steel oil container",
+          "1800W immersion heating element",
+          "2.3-pound food capacity",
+          "Pour-spout container for oil disposal",
+          "Adjustable temperature dial with viewing window"
+        ],
+        "bestFor": "small kitchens"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

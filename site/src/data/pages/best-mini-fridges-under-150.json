@@ -1,0 +1,105 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Mini Fridges Under $150",
+  "h1": "The 4 Best Mini Fridges Under $150",
+  "metaDescription": "Our 4 picks for mini fridges under $150, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at mini fridges under $150 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-mini-fridges",
+  "related": [
+    "best-mini-fridges"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Midea WHS-160RB1 4.4 Cu Ft Compact Refrigerator",
+        "brand": "Midea",
+        "asin": "B00MVVIF2G",
+        "blurb": "Key specs: 4.4 cu ft capacity, the largest in this roundup, Typically $140 to $170, 42 dB rated noise level.",
+        "strengths": [
+          "42 dB rating makes it the quietest fridge in this price tier",
+          "Adjustable legs and a reversible door add real placement flexibility"
+        ],
+        "limitations": [
+          "Still no true freezer, chiller compartment only",
+          "33.86-inch height won't fit under most desks",
+          "Some owners report occasional compressor hum after a year of use"
+        ],
+        "features": [
+          "4.4 cu ft capacity, the largest in this roundup",
+          "Typically $140 to $170",
+          "42 dB rated noise level",
+          "Reversible door with adjustable legs",
+          "Small chiller compartment, not a true freezer"
+        ]
+      },
+      {
+        "name": "Galanz GLR31TBEER 3.1 Cu Ft Retro Mini Fridge",
+        "brand": "Galanz",
+        "asin": "B07DQSWT42",
+        "blurb": "Key specs: 3.1 cu ft total, split into fridge and separate top freezer, Typically $150 to $190, sometimes just above this budget tier, True dual-door design with an actual freezer.",
+        "strengths": [
+          "Only model in this roundup with a genuine separate freezer for ice and frozen food",
+          "Retro styling stands out from typical black or white compact fridges",
+          "Under-42 dB compressor keeps it quiet despite the added freezer hardware"
+        ],
+        "limitations": [
+          "Some owners report inconsistent cooling after a couple years of daily use",
+          "Plastic interior parts feel less sturdy than metal shelving on pricier fridges"
+        ],
+        "features": [
+          "3.1 cu ft total, split into fridge and separate top freezer",
+          "Typically $150 to $190, sometimes just above this budget tier",
+          "True dual-door design with an actual freezer",
+          "Adjustable mechanical thermostat",
+          "Retro-styled body, rated under 42 dB"
+        ]
+      },
+      {
+        "name": "BLACK+DECKER BCRK25V 2.5 Cu Ft Compact Refrigerator",
+        "brand": "BLACK+DECKER",
+        "asin": "B01DZQI700",
+        "blurb": "Key specs: 2.5 cu ft single-door capacity, Typically $120 to $150, ENERGY STAR certified, about 212 kWh/year.",
+        "strengths": [
+          "ENERGY STAR certification keeps ongoing running cost among the lowest here",
+          "Glass shelves and a proper door bin feel more finished than budget-tier fridges"
+        ],
+        "limitations": [
+          "2.5 cu ft is smaller than the Midea's 4.4 cu ft at a similar price",
+          "Small top freezer barely holds an ice tray",
+          "Manual defrost required periodically"
+        ],
+        "features": [
+          "2.5 cu ft single-door capacity",
+          "Typically $120 to $150",
+          "ENERGY STAR certified, about 212 kWh/year",
+          "Small freezer compartment with ice tray",
+          "Two removable glass shelves"
+        ]
+      },
+      {
+        "name": "Midea WHS-65LB1 1.6 Cu Ft Compact Refrigerator",
+        "brand": "Midea",
+        "asin": "B00MVVI1FC",
+        "blurb": "",
+        "strengths": [
+          "Energy Star certified",
+          "Reversible door",
+          "Compact cube size",
+          "Quiet for bedrooms"
+        ],
+        "limitations": [
+          "Chiller won't freeze food",
+          "Only one shelf",
+          "Can over-chill items near the top"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 6 Best Convertible Car Seats",
+  "h1": "The 6 Best Convertible Car Seats",
+  "metaDescription": "Our 6 picks for convertible car seats, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at convertible car seats using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-car-seats",
+  "related": [
+    "best-car-seats"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Graco 4Ever DLX 4-in-1 Car Seat",
+        "brand": "Graco",
+        "asin": "B07J37RTPG",
+        "blurb": "Key specs: 4-in-1: rear-facing, forward-facing, highback booster, backless booster, Rear-facing 4 to 40 pounds, forward-facing 22 to 65 pounds, 10-year usable lifespan.",
+        "strengths": [
+          "Covers all four stages of use from newborn through booster in one purchase",
+          "Rapid Remove cover makes washing the seat significantly less of a project than most competitors"
+        ],
+        "limitations": [
+          "Bulkier footprint than the slimmer Britax Boulevard in tight back seats",
+          "Booster stage is years away for newborn buyers, a feature not used immediately",
+          "Higher weight capacity in booster mode adds bulk not needed in the early years"
+        ],
+        "features": [
+          "4-in-1: rear-facing, forward-facing, highback booster, backless booster",
+          "Rear-facing 4 to 40 pounds, forward-facing 22 to 65 pounds",
+          "10-year usable lifespan",
+          "Simply Safe Adjust harness with integrated buckle lock-off",
+          "Rapid Remove washable cover"
+        ],
+        "badge": "Best overall",
+        "bestFor": "convertible use"
+      },
+      {
+        "name": "Britax Boulevard ClickTight Convertible Car Seat",
+        "brand": "Britax",
+        "asin": "B0796435J1",
+        "blurb": "Key specs: Rear-facing 5 to 40 pounds, forward-facing 20 to 65 pounds, ClickTight installation with a steel tensioner, Two layers of side impact protection.",
+        "strengths": [
+          "ClickTight install is widely considered one of the easiest convertible seats to install tightly and correctly",
+          "Click & Safe indicator confirms harness snugness without guesswork",
+          "Two layers of side impact protection is a genuine structural feature, not just marketing"
+        ],
+        "limitations": [
+          "Does not convert to a booster mode, so a separate booster is needed later",
+          "Priced meaningfully higher than the Graco 4Ever DLX",
+          "5-pound minimum, slightly higher than Graco's 4-pound minimum"
+        ],
+        "features": [
+          "Rear-facing 5 to 40 pounds, forward-facing 20 to 65 pounds",
+          "ClickTight installation with a steel tensioner",
+          "Two layers of side impact protection",
+          "14-position no-rethread harness",
+          "Click & Safe snug harness indicator"
+        ],
+        "bestFor": "convertible use"
+      },
+      {
+        "name": "Graco Extend2Fit Convertible Car Seat",
+        "brand": "Graco",
+        "asin": "B0DHLSX7GQ",
+        "blurb": "",
+        "strengths": [
+          "Rear-facing to 50 lb, forward-facing harness to 65 lb",
+          "Extension panel lets kids stay rear-facing longer",
+          "No-rethread harness adjusts with the headrest",
+          "InRight LATCH connectors for quick installation"
+        ],
+        "limitations": [
+          "Takes more front-to-back room when the extension is used",
+          "Heavy to move between cars",
+          "Wide for three-across seating"
+        ],
+        "features": []
+      },
+      {
+        "name": "Graco Contender Slim Convertible Car Seat",
+        "brand": "Graco",
+        "asin": "B09NPLTZLR",
+        "blurb": "",
+        "strengths": [
+          "Slim profile saves space",
+          "FAA approved for flights",
+          "No-rethread harness",
+          "Rear-facing to 40 lb"
+        ],
+        "limitations": [
+          "Lower rear-facing limit than Extend2Fit",
+          "Less padding",
+          "Cup holder takes space"
+        ],
+        "features": []
+      },
+      {
+        "name": "Graco Contender 65 Convertible Car Seat",
+        "brand": "Graco",
+        "asin": "B0BLP72T5Y",
+        "blurb": "",
+        "strengths": [
+          "Long rear-facing limit to 40 lb",
+          "Harness and headrest adjust together",
+          "Affordable convertible seat",
+          "Machine-washable cover"
+        ],
+        "limitations": [
+          "Bulky in compact cars",
+          "Heavy to move between cars",
+          "No booster mode"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "Graco SlimFit3 LX 3-in-1 Car Seat",
+        "brand": "Graco",
+        "asin": "B08K2RZKZF",
+        "blurb": "",
+        "strengths": [
+          "Narrow design fits three across",
+          "Rear-facing 5-40 lb, booster to 100 lb",
+          "10-position headrest",
+          "Push-button LATCH"
+        ],
+        "limitations": [
+          "Heavy",
+          "Higher price than single-mode seats",
+          "Rear-facing takes front-seat legroom"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 2 Best Wireless Earbuds for Android in 2026",
+  "h1": "The 2 Best Wireless Earbuds for Android in 2026",
+  "metaDescription": "Our 2 picks for wireless earbuds for android in 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at wireless earbuds for android in 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "wireless-earbuds",
+  "related": [
+    "wireless-earbuds"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Jabra Elite 8 Active",
+        "brand": "Jabra",
+        "asin": "B0CB9563MB",
+        "blurb": "",
+        "strengths": [
+          "Tough IP68 dust and water protection",
+          "Secure sports fit",
+          "ANC and HearThrough",
+          "Long battery with case"
+        ],
+        "limitations": [
+          "Jabra has exited consumer earbuds; long-term support uncertain",
+          "Bulky case",
+          "Sound tuned for workouts"
+        ],
+        "features": []
+      },
+      {
+        "name": "Soundcore P30i Noise Cancelling Earbuds",
+        "brand": "Soundcore",
+        "asin": "B0CRTYZG5C",
+        "blurb": "",
+        "strengths": [
+          "ANC at a budget price",
+          "Case works as a phone stand",
+          "App EQ",
+          "Bluetooth 5.4"
+        ],
+        "limitations": [
+          "Fit is bulky for small ears",
+          "No wireless charging",
+          "Average mics"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

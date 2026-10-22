@@ -1,0 +1,96 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Electric Skillets for Dorm Cooking",
+  "h1": "The 3 Best Electric Skillets for Dorm Cooking",
+  "metaDescription": "Our 3 picks for electric skillets for dorm cooking, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at electric skillets for dorm cooking using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-electric-skillets",
+  "related": [
+    "best-electric-skillets"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Cuisinart CSK-150 Oval Electric Skillet",
+        "brand": "Cuisinart",
+        "asin": "B0002YE6I6",
+        "blurb": "Key specs: Oval nonstick cooking surface, 1,500W element, Warm to 450°F range.",
+        "strengths": [
+          "Oval footprint stores more easily on a dorm shelf or under a bed than a full round or rectangular pan",
+          "450°F range covers everything from a slow simmer to a real sear on a grilled cheese",
+          "Stainless housing looks less like a bulky appliance next to a mini fridge and microwave",
+          "Dishwasher-safe pan once the probe is removed, a real convenience without a full sink setup"
+        ],
+        "limitations": [
+          "Priced higher than most other dorm-friendly picks on this list",
+          "1,500W may exceed some dorms' per-outlet or per-appliance wattage cap, so check the handbook first",
+          "Still needs counter or desk space when in use, even with a compact footprint"
+        ],
+        "features": [
+          "Oval nonstick cooking surface",
+          "1,500W element",
+          "Warm to 450°F range",
+          "Brushed stainless steel housing",
+          "Dishwasher-safe pan with probe removed"
+        ],
+        "bestFor": "dorm cooking"
+      },
+      {
+        "name": "BLACK+DECKER Family-Sized Electric Skillet SK1215BC",
+        "brand": "BLACK+DECKER",
+        "asin": "B004PEIY9G",
+        "blurb": "Key specs: 12x15-inch rectangular nonstick surface, Tempered glass lid, Cool-touch handles.",
+        "strengths": [
+          "Lowest price among the wider-surface options on this list",
+          "Cool-touch handles make it safer to move between a desk and a communal kitchen sink",
+          "Rectangular shape fits sandwiches and quesadillas better than a round pan",
+          "Tilt leg keeps grease away from food without needing to hold the pan at an angle"
+        ],
+        "limitations": [
+          "12x15 footprint is bulkier to store than the Cuisinart's oval shape",
+          "Glass lid adds breakage risk when moving dorm to dorm at semester breaks",
+          "Nonstick coating wears faster than ceramic or cast aluminum under frequent light use"
+        ],
+        "features": [
+          "12x15-inch rectangular nonstick surface",
+          "Tempered glass lid",
+          "Cool-touch handles",
+          "Tilt leg for draining grease",
+          "Removable variable temperature control"
+        ],
+        "bestFor": "dorm cooking"
+      },
+      {
+        "name": "Oster Titanium Infused DuraCeramic 12x16 Electric Skillet",
+        "brand": "Oster",
+        "asin": "B079L5TMXR",
+        "blurb": "Key specs: 12x16-inch ceramic nonstick surface, Hinged lift-and-serve lid, 1,500W element.",
+        "strengths": [
+          "Ceramic coating releases eggs and cheese without much added oil, cutting down on cleanup time",
+          "Hinged lid stays attached, one less loose piece to store in a small dorm space",
+          "Large 12x16 surface makes it easy to cook for a roommate or two at once",
+          "Titanium infusion holds up to a metal spatula better than a standard nonstick pan"
+        ],
+        "limitations": [
+          "Largest footprint of the three picks here, a real consideration in a small dorm room",
+          "Hinged lid cannot be fully detached, which limits how the pan can be washed",
+          "Fewer total reviews than the Cuisinart or BLACK+DECKER, so less long-term feedback exists"
+        ],
+        "features": [
+          "12x16-inch ceramic nonstick surface",
+          "Hinged lift-and-serve lid",
+          "1,500W element",
+          "Titanium-infused DuraCeramic coating",
+          "Dishwasher-safe hinged lid"
+        ],
+        "bestFor": "dorm cooking"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

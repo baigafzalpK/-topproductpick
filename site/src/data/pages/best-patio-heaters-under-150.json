@@ -1,0 +1,120 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Patio Heaters Under $150",
+  "h1": "The 5 Best Patio Heaters Under $150",
+  "metaDescription": "Our 5 picks for patio heaters under $150, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at patio heaters under $150 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-patio-heaters",
+  "related": [
+    "best-patio-heaters"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Fire Sense 60262 Tabletop Patio Heater",
+        "brand": "Fire Sense",
+        "asin": "B000FLGFZS",
+        "blurb": "Key specs: 10,000 BTU propane burner, Stainless steel construction, Auto-shutoff tilt valve.",
+        "strengths": [
+          "Auto-shutoff tilt valve is a genuine safety feature not always included at this price",
+          "Stainless steel holds up better outdoors than painted or coated budget finishes"
+        ],
+        "limitations": [
+          "Smaller heat radius than a full-size standing heater",
+          "Runs on small 1lb cylinders rather than a full tank",
+          "No adjustable heat dial"
+        ],
+        "features": [
+          "10,000 BTU propane burner",
+          "Stainless steel construction",
+          "Auto-shutoff tilt valve",
+          "CSA approved"
+        ],
+        "badge": "Best overall"
+      },
+      {
+        "name": "Mr. Heater 11,000 BTU Table Top Patio Heater",
+        "brand": "Mr. Heater",
+        "asin": "B0C1LDBQGL",
+        "blurb": "Key specs: 8,000 to 11,000 BTU adjustable output, 1lb propane cylinder compatible, Piezo push-button ignition.",
+        "strengths": [
+          "Adjustable output is unusual at this price point",
+          "Compact enough to double as a small-patio or table heater"
+        ],
+        "limitations": [
+          "No auto-shutoff tilt valve",
+          "1lb cylinders need frequent swapping",
+          "Smaller brand track record than Fire Sense in this category"
+        ],
+        "features": [
+          "8,000 to 11,000 BTU adjustable output",
+          "1lb propane cylinder compatible",
+          "Piezo push-button ignition"
+        ]
+      },
+      {
+        "name": "Mr. Heater MH48PH 48,000 BTU Patio Heater",
+        "brand": "Mr. Heater",
+        "asin": "B09LKR5PB2",
+        "blurb": "Key specs: 48,000 BTU propane burner, Rated coverage up to 215 square feet, Standard 20lb tank compatible.",
+        "strengths": [
+          "215 square foot rated coverage is enough for most single-family patios",
+          "Uses a standard 20lb tank, no special cylinders to source"
+        ],
+        "limitations": [
+          "Fewer long-term owner reviews than more established standing heaters",
+          "Finish quality is a step below premium hammered-bronze models",
+          "Some variants skip the wheeled base included on pricier competitors"
+        ],
+        "features": [
+          "48,000 BTU propane burner",
+          "Rated coverage up to 215 square feet",
+          "Standard 20lb tank compatible",
+          "Silver powder-coated finish"
+        ]
+      },
+      {
+        "name": "Hiland HLDS032-B Tabletop Patio Heater, 11,000 BTU",
+        "brand": "Hiland",
+        "asin": "B000APUGTU",
+        "blurb": "",
+        "strengths": [
+          "Warms a table area without floor space",
+          "Thermocouple and anti-tilt safety shutoffs",
+          "Runs on 1 lb or 20 lb propane",
+          "Stainless steel finish"
+        ],
+        "limitations": [
+          "Small heat radius",
+          "1 lb cylinders run out quickly",
+          "Needs shelter from wind"
+        ],
+        "features": []
+      },
+      {
+        "name": "EAST OAK 11,000 BTU Tabletop Patio Heater",
+        "brand": "EAST OAK",
+        "asin": "B0C6THVMTS",
+        "blurb": "",
+        "strengths": [
+          "304 stainless steel burner",
+          "Triple protection safety system",
+          "Weighted base for stability",
+          "Portable"
+        ],
+        "limitations": [
+          "Small coverage area",
+          "Propane cylinders sold separately",
+          "Wind reduces effectiveness"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

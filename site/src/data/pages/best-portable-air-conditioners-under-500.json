@@ -1,0 +1,85 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Portable Air Conditioners Under $500",
+  "h1": "The 3 Best Portable Air Conditioners Under $500",
+  "metaDescription": "Our 3 picks for portable air conditioners under $500, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at portable air conditioners under $500 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-portable-air-conditioners",
+  "related": [
+    "best-portable-air-conditioners"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Whynter ARC-14S 14,000 BTU Dual Hose Portable Air Conditioner",
+        "brand": "Whynter",
+        "asin": "B0028AYQDC",
+        "blurb": "Key specs: 14,000 BTU ASHRAE / 9,500 BTU SACC dual-hose cooling, Cools rooms up to 500 sq ft, Built-in dehumidifier, up to 101 pints per day.",
+        "strengths": [
+          "Strong dehumidification keeps a room from feeling clammy at moderate settings"
+        ],
+        "limitations": [
+          "Costs more than single-hose alternatives at the same BTU rating",
+          "Needs two hose openings for the window kit",
+          "56 lbs, heaviest unit in this list"
+        ],
+        "features": [
+          "14,000 BTU ASHRAE / 9,500 BTU SACC dual-hose cooling",
+          "Cools rooms up to 500 sq ft",
+          "Built-in dehumidifier, up to 101 pints per day",
+          "Auto drain with condensate self-evaporation",
+          "24-hour programmable timer, thermostat range 61°F to 89°F"
+        ]
+      },
+      {
+        "name": "BLACK+DECKER BPACT14WT Smart Portable Air Conditioner",
+        "brand": "BLACK+DECKER",
+        "asin": "B01DLPUWHQ",
+        "blurb": "Key specs: 14,000 BTU (10,200 BTU SACC) single-hose cooling, rated up to 700 sq ft, Wi-Fi app control plus Alexa and Google Assistant support, Follow Me remote thermostat sensing.",
+        "strengths": [
+          "Typically the cheapest way to get app and voice control at 14,000 BTU",
+          "Follow Me remote gives a more accurate comfort reading than a sensor at the unit alone",
+          "Simpler single-hose install than the Whynter's two-hose kit"
+        ],
+        "limitations": [
+          "Real-world coverage runs below the manufacturer's stated 700 sq ft",
+          "Less efficient than dual-hose in hot climates or poorly insulated rooms",
+          "App reliability gets mixed reports on some home networks"
+        ],
+        "features": [
+          "14,000 BTU (10,200 BTU SACC) single-hose cooling, rated up to 700 sq ft",
+          "Wi-Fi app control plus Alexa and Google Assistant support",
+          "Follow Me remote thermostat sensing",
+          "24-hour programmable timer"
+        ]
+      },
+      {
+        "name": "Honeywell HL14CESWK Contempo Series Portable Air Conditioner",
+        "brand": "Honeywell",
+        "asin": "B01CS3JJ5I",
+        "blurb": "Key specs: 14,000 BTU cooling, rated up to 550-700 sq ft, Dual filtration system: washable pre-filter plus activated carbon, Dual motor design rated at 49 to 52 dB at high fan speed.",
+        "strengths": [
+          "Dual motor design is measurably quieter at high fan speed than single-motor competitors",
+          "Dual filtration is a genuine step up from a single washable filter",
+          "Polished cabinet design over typical plastic housings"
+        ],
+        "limitations": [
+          "Single-hose design, less efficient than the Whynter's dual-hose setup",
+          "No smart app or voice control"
+        ],
+        "features": [
+          "14,000 BTU cooling, rated up to 550-700 sq ft",
+          "Dual filtration system: washable pre-filter plus activated carbon",
+          "Dual motor design rated at 49 to 52 dB at high fan speed",
+          "Full-function remote control"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

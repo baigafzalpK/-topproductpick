@@ -1,0 +1,1100 @@
+[
+  {
+    "slug": "air-fryers",
+    "title": "Air Fryers",
+    "department": "kitchen-and-dining",
+    "icon": "🍟",
+    "blurb": "Basket, dual-zone and compact air fryers for every household size.",
+    "count": 6
+  },
+  {
+    "slug": "multi-cookers",
+    "title": "Multi-Cookers",
+    "department": "kitchen-and-dining",
+    "icon": "🍲",
+    "blurb": "Instant Pots, combo cookers and simple slow cookers for hands-off meals.",
+    "count": 3
+  },
+  {
+    "slug": "coffee-makers",
+    "title": "Coffee Makers",
+    "department": "kitchen-and-dining",
+    "icon": "☕",
+    "blurb": "Drip, pod, espresso and French press, matched to how you drink coffee.",
+    "count": 5
+  },
+  {
+    "slug": "electric-kettles",
+    "title": "Electric Kettles",
+    "department": "kitchen-and-dining",
+    "icon": "🫖",
+    "blurb": "Gooseneck, variable-temperature and budget kettles for tea and coffee.",
+    "count": 4
+  },
+  {
+    "slug": "blenders",
+    "title": "Blenders",
+    "department": "kitchen-and-dining",
+    "icon": "🥤",
+    "blurb": "Personal, full-size and high-performance blenders for smoothies and soups.",
+    "count": 5
+  },
+  {
+    "slug": "stand-mixers",
+    "title": "Stand Mixers",
+    "department": "kitchen-and-dining",
+    "icon": "🎂",
+    "blurb": "Tilt-head and bowl-lift mixers for cakes, cookies and bread.",
+    "count": 6
+  },
+  {
+    "slug": "wireless-earbuds",
+    "title": "Wireless Earbuds",
+    "department": "electronics",
+    "icon": "🎧",
+    "blurb": "Noise-cancelling and budget earbuds for iPhone, Android and workouts.",
+    "count": 4
+  },
+  {
+    "slug": "electric-toothbrushes",
+    "title": "Electric Toothbrushes",
+    "department": "health-and-fitness",
+    "icon": "🪥",
+    "blurb": "Oscillating and sonic toothbrushes, from basic to fully featured.",
+    "count": 2
+  },
+  {
+    "slug": "water-bottles",
+    "title": "Water Bottles",
+    "department": "outdoor-and-garden",
+    "icon": "🥤",
+    "blurb": "Insulated bottles and tumblers for the gym, office and trail.",
+    "count": 2
+  },
+  {
+    "slug": "toasters",
+    "title": "Toasters",
+    "department": "kitchen-and-dining",
+    "icon": "🍳",
+    "blurb": "Best-of lists and buying advice for toasters.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "3d-printers",
+    "title": "3D Printers",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for 3d printers.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "best-monitors",
+    "title": "Monitors",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for monitors.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "best-woodworking",
+    "title": "Woodworking",
+    "department": "tools-and-workshop",
+    "icon": "🛠️",
+    "blurb": "Best-of lists and buying advice for woodworking.",
+    "count": 97,
+    "imported": true
+  },
+  {
+    "slug": "best-adjustable-dumbbells",
+    "title": "Adjustable Dumbbells",
+    "department": "health-and-fitness",
+    "icon": "💪",
+    "blurb": "Best-of lists and buying advice for adjustable dumbbells.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "toaster-ovens",
+    "title": "Toaster Ovens",
+    "department": "kitchen-and-dining",
+    "icon": "🍳",
+    "blurb": "Best-of lists and buying advice for toaster ovens.",
+    "count": 4,
+    "imported": true
+  },
+  {
+    "slug": "air-purifiers",
+    "title": "Air Purifiers",
+    "department": "home-and-living",
+    "icon": "🛋️",
+    "blurb": "Best-of lists and buying advice for air purifiers.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "best-automatic-pet-feeders",
+    "title": "Automatic Pet Feeders",
+    "department": "pets",
+    "icon": "🐾",
+    "blurb": "Best-of lists and buying advice for automatic pet feeders.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "best-baby-bottles",
+    "title": "Baby Bottles",
+    "department": "baby-and-kids",
+    "icon": "🧸",
+    "blurb": "Best-of lists and buying advice for baby bottles.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "best-baby-monitors",
+    "title": "Baby Monitors",
+    "department": "baby-and-kids",
+    "icon": "🧸",
+    "blurb": "Best-of lists and buying advice for baby monitors.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "waffle-makers",
+    "title": "Waffle Makers",
+    "department": "kitchen-and-dining",
+    "icon": "🍳",
+    "blurb": "Best-of lists and buying advice for waffle makers.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "best-blackout-curtains",
+    "title": "Blackout Curtains",
+    "department": "home-and-living",
+    "icon": "🛋️",
+    "blurb": "Best-of lists and buying advice for blackout curtains.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "bluetooth-speakers",
+    "title": "Bluetooth Speakers",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for bluetooth speakers.",
+    "count": 2,
+    "imported": true
+  },
+  {
+    "slug": "best-bread-machines",
+    "title": "Bread Machines",
+    "department": "kitchen-and-dining",
+    "icon": "🍳",
+    "blurb": "Best-of lists and buying advice for bread machines.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "gaming-headsets",
+    "title": "Gaming Headsets",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for gaming headsets.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "mechanical-keyboards",
+    "title": "Mechanical Keyboards",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for mechanical keyboards.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "office-chairs",
+    "title": "Office Chairs",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for office chairs.",
+    "count": 2,
+    "imported": true
+  },
+  {
+    "slug": "standing-desks",
+    "title": "Standing Desks",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for standing desks.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "usb-microphones",
+    "title": "USB Microphones",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for usb microphones.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "best-routers",
+    "title": "Routers",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for routers.",
+    "count": 4,
+    "imported": true
+  },
+  {
+    "slug": "best-cable-management",
+    "title": "Cable Management",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for cable management.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "streaming-accessories",
+    "title": "Streaming Accessories",
+    "department": "more-topics",
+    "icon": "📦",
+    "blurb": "Best-of lists and buying advice for streaming accessories.",
+    "count": 2,
+    "imported": true
+  },
+  {
+    "slug": "best-car-seats",
+    "title": "Car Seats",
+    "department": "baby-and-kids",
+    "icon": "🧸",
+    "blurb": "Best-of lists and buying advice for car seats.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "car-wash-equipment",
+    "title": "Car Wash Equipment",
+    "department": "outdoor-and-garden",
+    "icon": "🌿",
+    "blurb": "Best-of lists and buying advice for car wash equipment.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "best-cat-litter-boxes",
+    "title": "Cat Litter Boxes",
+    "department": "pets",
+    "icon": "🐾",
+    "blurb": "Best-of lists and buying advice for cat litter boxes.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "chef-knives",
+    "title": "Chef's Knives",
+    "department": "kitchen-and-dining",
+    "icon": "🍳",
+    "blurb": "Best-of lists and buying advice for chef's knives.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "coffee-grinders",
+    "title": "Coffee Grinders",
+    "department": "kitchen-and-dining",
+    "icon": "🍳",
+    "blurb": "Best-of lists and buying advice for coffee grinders.",
+    "count": 4,
+    "imported": true
+  },
+  {
+    "slug": "immersion-blenders",
+    "title": "Immersion Blenders",
+    "department": "kitchen-and-dining",
+    "icon": "🍳",
+    "blurb": "Best-of lists and buying advice for immersion blenders.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "desk-pads",
+    "title": "Desk Pads",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for desk pads.",
+    "count": 2,
+    "imported": true
+  },
+  {
+    "slug": "best-ice-makers",
+    "title": "Ice Makers",
+    "department": "kitchen-and-dining",
+    "icon": "🍳",
+    "blurb": "Best-of lists and buying advice for ice makers.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "running-shoes",
+    "title": "Running Shoes",
+    "department": "health-and-fitness",
+    "icon": "💪",
+    "blurb": "Best-of lists and buying advice for running shoes.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "best-deep-fryers",
+    "title": "Deep Fryers",
+    "department": "kitchen-and-dining",
+    "icon": "🍳",
+    "blurb": "Best-of lists and buying advice for deep fryers.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "best-dehumidifiers",
+    "title": "Dehumidifiers",
+    "department": "home-and-living",
+    "icon": "🛋️",
+    "blurb": "Best-of lists and buying advice for dehumidifiers.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "desk-lamps",
+    "title": "Desk Lamps",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for desk lamps.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "best-diaper-bags",
+    "title": "Diaper Bags",
+    "department": "baby-and-kids",
+    "icon": "🧸",
+    "blurb": "Best-of lists and buying advice for diaper bags.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "best-dog-beds",
+    "title": "Dog Beds",
+    "department": "pets",
+    "icon": "🐾",
+    "blurb": "Best-of lists and buying advice for dog beds.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "best-dog-crates",
+    "title": "Dog Crates",
+    "department": "pets",
+    "icon": "🐾",
+    "blurb": "Best-of lists and buying advice for dog crates.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "drawing-tablets",
+    "title": "Drawing Tablets",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for drawing tablets.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "drip-coffee-makers",
+    "title": "Drip Coffee Makers",
+    "department": "kitchen-and-dining",
+    "icon": "🍳",
+    "blurb": "Best-of lists and buying advice for drip coffee makers.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "best-lubricants-oils",
+    "title": "Lubricants",
+    "department": "tools-and-workshop",
+    "icon": "🛠️",
+    "blurb": "Best-of lists and buying advice for lubricants.",
+    "count": 2,
+    "imported": true
+  },
+  {
+    "slug": "monitor-arms",
+    "title": "Monitor Arms",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for monitor arms.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "best-electric-can-openers",
+    "title": "Electric Can Openers",
+    "department": "kitchen-and-dining",
+    "icon": "🍳",
+    "blurb": "Best-of lists and buying advice for electric can openers.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "pressure-cookers",
+    "title": "Pressure Cookers",
+    "department": "kitchen-and-dining",
+    "icon": "🍳",
+    "blurb": "Best-of lists and buying advice for pressure cookers.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "best-electric-skillets",
+    "title": "Electric Skillets",
+    "department": "kitchen-and-dining",
+    "icon": "🍳",
+    "blurb": "Best-of lists and buying advice for electric skillets.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "ergonomic-keyboards",
+    "title": "Ergonomic Keyboards",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for ergonomic keyboards.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "ergonomic-mice",
+    "title": "Ergonomic Mice",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for ergonomic mice.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "espresso-machines",
+    "title": "Espresso Machines",
+    "department": "kitchen-and-dining",
+    "icon": "🍳",
+    "blurb": "Best-of lists and buying advice for espresso machines.",
+    "count": 4,
+    "imported": true
+  },
+  {
+    "slug": "best-fitness-trackers",
+    "title": "Fitness Trackers",
+    "department": "health-and-fitness",
+    "icon": "💪",
+    "blurb": "Best-of lists and buying advice for fitness trackers.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "best-foam-rollers",
+    "title": "Foam Rollers",
+    "department": "health-and-fitness",
+    "icon": "💪",
+    "blurb": "Best-of lists and buying advice for foam rollers.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "best-food-dehydrators",
+    "title": "Food Dehydrators",
+    "department": "kitchen-and-dining",
+    "icon": "🍳",
+    "blurb": "Best-of lists and buying advice for food dehydrators.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "food-processors",
+    "title": "Food Processors",
+    "department": "kitchen-and-dining",
+    "icon": "🍳",
+    "blurb": "Best-of lists and buying advice for food processors.",
+    "count": 4,
+    "imported": true
+  },
+  {
+    "slug": "gaming-chairs",
+    "title": "Gaming Chairs",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for gaming chairs.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "gaming-mice",
+    "title": "Gaming Mice",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for gaming mice.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "best-garden-hoses",
+    "title": "Garden Hoses",
+    "department": "outdoor-and-garden",
+    "icon": "🌿",
+    "blurb": "Best-of lists and buying advice for garden hoses.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "best-wrist-rests",
+    "title": "Wrist Rests",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for wrist rests.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "griddles",
+    "title": "Griddles",
+    "department": "more-topics",
+    "icon": "📦",
+    "blurb": "Best-of lists and buying advice for griddles.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "hand-mixers",
+    "title": "Hand Mixers",
+    "department": "kitchen-and-dining",
+    "icon": "🍳",
+    "blurb": "Best-of lists and buying advice for hand mixers.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "tonneau-covers",
+    "title": "Tonneau Covers",
+    "department": "more-topics",
+    "icon": "📦",
+    "blurb": "Best-of lists and buying advice for tonneau covers.",
+    "count": 4,
+    "imported": true
+  },
+  {
+    "slug": "headphone-stands",
+    "title": "Headphone Stands",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for headphone stands.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "best-humidifiers",
+    "title": "Humidifiers",
+    "department": "home-and-living",
+    "icon": "🛋️",
+    "blurb": "Best-of lists and buying advice for humidifiers.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "pool-covers",
+    "title": "Pool Covers",
+    "department": "more-topics",
+    "icon": "📦",
+    "blurb": "Best-of lists and buying advice for pool covers.",
+    "count": 4,
+    "imported": true
+  },
+  {
+    "slug": "instant-pots",
+    "title": "Instant Pots",
+    "department": "more-topics",
+    "icon": "📦",
+    "blurb": "Best-of lists and buying advice for instant pots.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "best-juicers",
+    "title": "Juicers",
+    "department": "kitchen-and-dining",
+    "icon": "🍳",
+    "blurb": "Best-of lists and buying advice for juicers.",
+    "count": 7,
+    "imported": true
+  },
+  {
+    "slug": "best-jump-ropes",
+    "title": "Jump Ropes",
+    "department": "health-and-fitness",
+    "icon": "💪",
+    "blurb": "Best-of lists and buying advice for jump ropes.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "ring-lights",
+    "title": "Ring Lights",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for ring lights.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "best-keycaps",
+    "title": "Keycaps",
+    "department": "more-topics",
+    "icon": "📦",
+    "blurb": "Best-of lists and buying advice for keycaps.",
+    "count": 1,
+    "imported": true
+  },
+  {
+    "slug": "best-laptop-bags",
+    "title": "Laptop Bags",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for laptop bags.",
+    "count": 2,
+    "imported": true
+  },
+  {
+    "slug": "laptop-cooling-pads",
+    "title": "Laptop Cooling Pads",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for laptop cooling pads.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "laptop-stands",
+    "title": "Laptop Stands",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for laptop stands.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "best-leaf-blowers",
+    "title": "Leaf Blowers",
+    "department": "outdoor-and-garden",
+    "icon": "🌿",
+    "blurb": "Best-of lists and buying advice for leaf blowers.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "license-plate-covers",
+    "title": "License Plate Covers",
+    "department": "more-topics",
+    "icon": "📦",
+    "blurb": "Best-of lists and buying advice for license plate covers.",
+    "count": 2,
+    "imported": true
+  },
+  {
+    "slug": "keyboard-switches",
+    "title": "Keyboard Switches",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for keyboard switches.",
+    "count": 2,
+    "imported": true
+  },
+  {
+    "slug": "best-luggage",
+    "title": "Luggage",
+    "department": "travel",
+    "icon": "🧳",
+    "blurb": "Best-of lists and buying advice for luggage.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "best-massage-guns",
+    "title": "Massage Guns",
+    "department": "health-and-fitness",
+    "icon": "💪",
+    "blurb": "Best-of lists and buying advice for massage guns.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "best-mattress-toppers",
+    "title": "Mattress Toppers",
+    "department": "home-and-living",
+    "icon": "🛋️",
+    "blurb": "Best-of lists and buying advice for mattress toppers.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "best-meat-thermometers",
+    "title": "Meat Thermometers",
+    "department": "kitchen-and-dining",
+    "icon": "🍳",
+    "blurb": "Best-of lists and buying advice for meat thermometers.",
+    "count": 5,
+    "imported": true
+  },
+  {
+    "slug": "best-microphone-accessories",
+    "title": "Microphone Accessories",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for microphone accessories.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "best-milk-frothers",
+    "title": "Milk Frothers",
+    "department": "kitchen-and-dining",
+    "icon": "🍳",
+    "blurb": "Best-of lists and buying advice for milk frothers.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "best-mini-fridges",
+    "title": "Mini Fridges",
+    "department": "kitchen-and-dining",
+    "icon": "🍳",
+    "blurb": "Best-of lists and buying advice for mini fridges.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "best-bathroom-covers",
+    "title": "Bathroom Covers",
+    "department": "more-topics",
+    "icon": "📦",
+    "blurb": "Best-of lists and buying advice for bathroom covers.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "wireless-chargers",
+    "title": "Wireless Chargers",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for wireless chargers.",
+    "count": 2,
+    "imported": true
+  },
+  {
+    "slug": "nas-devices",
+    "title": "Nas Devices",
+    "department": "more-topics",
+    "icon": "📦",
+    "blurb": "Best-of lists and buying advice for nas devices.",
+    "count": 2,
+    "imported": true
+  },
+  {
+    "slug": "noise-cancelling-headphones",
+    "title": "Noise Cancelling Headphones",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for noise cancelling headphones.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "best-packing-cubes",
+    "title": "Packing Cubes",
+    "department": "travel",
+    "icon": "🧳",
+    "blurb": "Best-of lists and buying advice for packing cubes.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "best-panini-presses",
+    "title": "Panini Presses",
+    "department": "kitchen-and-dining",
+    "icon": "🍳",
+    "blurb": "Best-of lists and buying advice for panini presses.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "best-patio-heaters",
+    "title": "Patio Heaters",
+    "department": "home-and-living",
+    "icon": "🛋️",
+    "blurb": "Best-of lists and buying advice for patio heaters.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "best-pet-cameras",
+    "title": "Pet Cameras",
+    "department": "pets",
+    "icon": "🐾",
+    "blurb": "Best-of lists and buying advice for pet cameras.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "best-furniture-covers",
+    "title": "Furniture Covers",
+    "department": "more-topics",
+    "icon": "📦",
+    "blurb": "Best-of lists and buying advice for furniture covers.",
+    "count": 4,
+    "imported": true
+  },
+  {
+    "slug": "best-portable-air-conditioners",
+    "title": "Portable Air Conditioners",
+    "department": "home-and-living",
+    "icon": "🛋️",
+    "blurb": "Best-of lists and buying advice for portable air conditioners.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "portable-ssds",
+    "title": "Portable SSDs",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for portable ssds.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "best-tire-inflators",
+    "title": "Tire Inflators",
+    "department": "tools-and-workshop",
+    "icon": "🛠️",
+    "blurb": "Best-of lists and buying advice for tire inflators.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "power-banks",
+    "title": "Power Banks",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for power banks.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "best-power-tools",
+    "title": "Power Tools",
+    "department": "tools-and-workshop",
+    "icon": "🛠️",
+    "blurb": "Best-of lists and buying advice for power tools.",
+    "count": 1,
+    "imported": true
+  },
+  {
+    "slug": "best-pressure-washers",
+    "title": "Pressure Washers",
+    "department": "outdoor-and-garden",
+    "icon": "🌿",
+    "blurb": "Best-of lists and buying advice for pressure washers.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "slow-cookers",
+    "title": "Slow Cookers",
+    "department": "kitchen-and-dining",
+    "icon": "🍳",
+    "blurb": "Best-of lists and buying advice for slow cookers.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "best-pull-up-bars",
+    "title": "Pull up Bars",
+    "department": "health-and-fitness",
+    "icon": "💪",
+    "blurb": "Best-of lists and buying advice for pull up bars.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "best-resistance-bands",
+    "title": "Resistance Bands",
+    "department": "health-and-fitness",
+    "icon": "💪",
+    "blurb": "Best-of lists and buying advice for resistance bands.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "rice-cookers",
+    "title": "Rice Cookers",
+    "department": "kitchen-and-dining",
+    "icon": "🍳",
+    "blurb": "Best-of lists and buying advice for rice cookers.",
+    "count": 5,
+    "imported": true
+  },
+  {
+    "slug": "best-robot-lawn-mowers",
+    "title": "Robot Lawn Mowers",
+    "department": "outdoor-and-garden",
+    "icon": "🌿",
+    "blurb": "Best-of lists and buying advice for robot lawn mowers.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "robot-vacuums",
+    "title": "Robot Vacuums",
+    "department": "home-and-living",
+    "icon": "🛋️",
+    "blurb": "Best-of lists and buying advice for robot vacuums.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "best-smart-home",
+    "title": "Smart Home",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for smart home.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "best-sous-vide-machines",
+    "title": "Sous Vide Machines",
+    "department": "kitchen-and-dining",
+    "icon": "🍳",
+    "blurb": "Best-of lists and buying advice for sous vide machines.",
+    "count": 7,
+    "imported": true
+  },
+  {
+    "slug": "best-space-heaters",
+    "title": "Space Heaters",
+    "department": "home-and-living",
+    "icon": "🛋️",
+    "blurb": "Best-of lists and buying advice for space heaters.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "best-string-trimmers",
+    "title": "String Trimmers",
+    "department": "outdoor-and-garden",
+    "icon": "🌿",
+    "blurb": "Best-of lists and buying advice for string trimmers.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "best-strollers",
+    "title": "Strollers",
+    "department": "baby-and-kids",
+    "icon": "🧸",
+    "blurb": "Best-of lists and buying advice for strollers.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "best-travel-adapters",
+    "title": "Travel Adapters",
+    "department": "travel",
+    "icon": "🧳",
+    "blurb": "Best-of lists and buying advice for travel adapters.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "best-travel-backpacks",
+    "title": "Travel Backpacks",
+    "department": "travel",
+    "icon": "🧳",
+    "blurb": "Best-of lists and buying advice for travel backpacks.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "best-neck-pillows",
+    "title": "Neck Pillows",
+    "department": "home-and-living",
+    "icon": "🛋️",
+    "blurb": "Best-of lists and buying advice for neck pillows.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "best-usb-hubs",
+    "title": "USB Hubs",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for usb hubs.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "webcams",
+    "title": "Webcams",
+    "department": "electronics",
+    "icon": "💻",
+    "blurb": "Best-of lists and buying advice for webcams.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "best-weighted-blankets",
+    "title": "Weighted Blankets",
+    "department": "home-and-living",
+    "icon": "🛋️",
+    "blurb": "Best-of lists and buying advice for weighted blankets.",
+    "count": 3,
+    "imported": true
+  },
+  {
+    "slug": "best-window-air-conditioners",
+    "title": "Window Air Conditioners",
+    "department": "home-and-living",
+    "icon": "🛋️",
+    "blurb": "Best-of lists and buying advice for window air conditioners.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "best-wine-coolers",
+    "title": "Wine Coolers",
+    "department": "kitchen-and-dining",
+    "icon": "🍳",
+    "blurb": "Best-of lists and buying advice for wine coolers.",
+    "count": 6,
+    "imported": true
+  },
+  {
+    "slug": "best-yoga-mats",
+    "title": "Yoga Mats",
+    "department": "health-and-fitness",
+    "icon": "💪",
+    "blurb": "Best-of lists and buying advice for yoga mats.",
+    "count": 6,
+    "imported": true
+  }
+]

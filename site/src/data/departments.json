@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "kitchen-and-dining",
+    "title": "Kitchen & Dining",
+    "short": "Kitchen",
+    "icon": "🍳",
+    "blurb": "Appliances, cookware and gear for cooking, coffee, baking and dining."
+  },
+  {
+    "slug": "home-and-living",
+    "title": "Home & Living",
+    "short": "Home",
+    "icon": "🛋️",
+    "blurb": "Cleaning, comfort, sleep and everyday home essentials."
+  },
+  {
+    "slug": "electronics",
+    "title": "Tech & Workspace",
+    "short": "Tech",
+    "icon": "💻",
+    "blurb": "Earbuds, monitors, keyboards and the tech worth paying for."
+  },
+  {
+    "slug": "health-and-fitness",
+    "title": "Health & Fitness",
+    "short": "Fitness",
+    "icon": "💪",
+    "blurb": "Personal care, wellness and workout gear matched to your routine."
+  },
+  {
+    "slug": "outdoor-and-garden",
+    "title": "Outdoor & Garden",
+    "short": "Outdoor",
+    "icon": "🌿",
+    "blurb": "Gear for the yard, the trail and staying hydrated on the go."
+  },
+  {
+    "slug": "tools-and-workshop",
+    "title": "Workshop & Tools",
+    "short": "Workshop",
+    "icon": "🛠️",
+    "blurb": "Power tools, hand tools and workshop gear for DIY projects."
+  },
+  {
+    "slug": "baby-and-kids",
+    "title": "Baby & Kids",
+    "short": "Baby & Kids",
+    "icon": "🧸",
+    "blurb": "Safe, practical gear for babies, toddlers and kids."
+  },
+  {
+    "slug": "pets",
+    "title": "Pets",
+    "short": "Pets",
+    "icon": "🐾",
+    "blurb": "Food, gear and accessories for dogs, cats and other pets."
+  },
+  {
+    "slug": "travel",
+    "title": "Travel",
+    "short": "Travel",
+    "icon": "🧳",
+    "blurb": "Luggage, accessories and gear that make trips easier."
+  },
+  {
+    "slug": "more-topics",
+    "title": "More Topics",
+    "short": "More",
+    "icon": "📦",
+    "blurb": "Everything else we research, from hobbies to specialty gear."
+  }
+]

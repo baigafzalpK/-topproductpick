@@ -1,0 +1,121 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Deep Fryers for Fried Chicken",
+  "h1": "The 4 Best Deep Fryers for Fried Chicken",
+  "metaDescription": "Our 4 picks for deep fryers for fried chicken, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at deep fryers for fried chicken using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-deep-fryers",
+  "related": [
+    "best-deep-fryers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Hamilton Beach Professional Style Electric Deep Fryer 35036",
+        "brand": "Hamilton Beach",
+        "asin": "B00PXAZTKI",
+        "blurb": "Key specs: 4.5-liter / 19-cup oil capacity, 1800W immersed heating element, Two baskets included.",
+        "strengths": [
+          "1800W immersed element recovers heat fast when cold chicken drops the oil temperature",
+          "Two baskets let you fry dark and white meat in separate batches without waiting on cleanup",
+          "4.5-liter capacity fits enough oil to fully submerge 6 to 8 bone-in pieces at once",
+          "Removable heating element and enamel-coated tank are dishwasher safe"
+        ],
+        "limitations": [
+          "Large footprint takes up real counter space compared to compact fryers",
+          "No digital timer, so you're tracking time separately",
+          "Two baskets means two things to store between uses"
+        ],
+        "features": [
+          "4.5-liter / 19-cup oil capacity",
+          "1800W immersed heating element",
+          "Two baskets included",
+          "View-window lid",
+          "Easy-detach magnetic cord"
+        ],
+        "badge": "Best overall",
+        "bestFor": "fried chicken"
+      },
+      {
+        "name": "Presto Dual Daddy Electric Deep Fryer",
+        "brand": "Presto",
+        "asin": "B0000DAZ72",
+        "blurb": "Key specs: Dual-well design with removable divider, 1500W element, Automatic thermostat.",
+        "strengths": [
+          "Removable divider lets you fry two pieces at once without the flavors mixing",
+          "Automatic thermostat holds a steady frying temperature without babysitting",
+          "Nonstick cast aluminum body wipes clean quickly after frying",
+          "Compact enough to store in a cabinet between uses"
+        ],
+        "limitations": [
+          "1500W element is slower to recover than the higher-wattage Hamilton Beach or Cuisinart",
+          "8-cup capacity limits each well to 2 to 3 pieces at a time",
+          "No basket lift, so pieces come out with tongs"
+        ],
+        "features": [
+          "Dual-well design with removable divider",
+          "1500W element",
+          "Automatic thermostat",
+          "Cast aluminum nonstick body",
+          "8-cup total oil capacity"
+        ],
+        "bestFor": "fried chicken"
+      },
+      {
+        "name": "Cuisinart CDF-200P1 Professional Deep Fryer",
+        "brand": "Cuisinart",
+        "asin": "B01JCECNM2",
+        "blurb": "Key specs: 1-gallon removable stainless steel oil container, 1800W immersion heating element, 2.3-pound food capacity.",
+        "strengths": [
+          "2.3-pound food capacity handles a large single batch of bone-in pieces",
+          "1800W element matches the Hamilton Beach for fast temperature recovery",
+          "Removable oil container with a pour spout makes oil changes far less messy",
+          "Viewing window lets you check color without lifting the lid and losing heat"
+        ],
+        "limitations": [
+          "Single basket means sequential batches for a full cut-up bird",
+          "Bulkier housing than a compact dual-well unit"
+        ],
+        "features": [
+          "1-gallon removable stainless steel oil container",
+          "1800W immersion heating element",
+          "2.3-pound food capacity",
+          "Pour-spout container for oil disposal",
+          "Adjustable temperature dial with viewing window"
+        ],
+        "bestFor": "fried chicken"
+      },
+      {
+        "name": "T-fal Ultimate EZ Clean Deep Fryer",
+        "brand": "T-fal",
+        "asin": "B00NQ7QFGM",
+        "blurb": "Key specs: 3.5-liter oil / 2.6-pound food capacity, 1700W element, Built-in oil filtration and drainage system.",
+        "strengths": [
+          "Built-in filtration drains and filters oil through a charcoal filter for up to 10 more uses",
+          "Digital timer removes the guesswork on batch timing",
+          "Locking lid with a viewing window contains splatter during frying",
+          "Dishwasher-safe basket and lid speed up cleanup after a chicken dinner"
+        ],
+        "limitations": [
+          "2.6-pound food capacity is smaller than the Cuisinart's per-batch capacity",
+          "1700W is slightly behind the Hamilton Beach and Cuisinart on recovery speed",
+          "Filtration system adds a few extra minutes to post-fry cleanup versus just wiping down"
+        ],
+        "features": [
+          "3.5-liter oil / 2.6-pound food capacity",
+          "1700W element",
+          "Built-in oil filtration and drainage system",
+          "Digital timer and temperature control",
+          "Dishwasher-safe parts"
+        ],
+        "bestFor": "fried chicken"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

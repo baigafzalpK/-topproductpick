@@ -1,0 +1,133 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Pet Cameras for Multi-Pet Homes",
+  "h1": "The 5 Best Pet Cameras for Multi-Pet Homes",
+  "metaDescription": "Our 5 picks for pet cameras for multi-pet homes, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at pet cameras for multi-pet homes using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-pet-cameras",
+  "related": [
+    "best-pet-cameras"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Wyze Cam Pan v3",
+        "brand": "Wyze",
+        "asin": "B0B9TWY11Q",
+        "blurb": "Key specs: 360° pan / 180° tilt coverage, 1080p color night vision, Pan Scan auto-patrol with 4 waypoints.",
+        "strengths": [
+          "Pan Scan auto-patrol cycles through 4 preset waypoints, useful for checking on pets in different corners of one room",
+          "Full 360°/180° range covers the most total floor area of any camera in this list",
+          "Motion tracking follows whichever pet is currently moving, useful when pets take turns being active",
+          "Lowest price of the pan/tilt options here"
+        ],
+        "limitations": [
+          "Motion tracking follows only one moving subject at a time, not multiple pets simultaneously",
+          "Two-way audio is thinner than the Petcube's 4-microphone array"
+        ],
+        "features": [
+          "360° pan / 180° tilt coverage",
+          "1080p color night vision",
+          "Pan Scan auto-patrol with 4 waypoints",
+          "Motion tracking that follows movement around the room",
+          "No subscription required for live view and basic alerts"
+        ],
+        "badge": "Best overall",
+        "bestFor": "multi pet homes"
+      },
+      {
+        "name": "TP-Link Tapo C210",
+        "brand": "TP-Link",
+        "asin": "B08ZNTM1X1",
+        "blurb": "Key specs: 2K resolution, 360° pan / 114° tilt, Motion detection with tracking, MicroSD storage up to 512GB.",
+        "strengths": [
+          "2K resolution helps distinguish pets more clearly when several are in frame at once",
+          "Local microSD storage means each camera can store its own footage without a shared subscription",
+          "360° pan covers a full room from a single central mounting point"
+        ],
+        "limitations": [
+          "114° tilt range is narrower than the Wyze Cam Pan's full 180°",
+          "Fewer smart home integrations than Ring in households already using Alexa routines"
+        ],
+        "features": [
+          "2K resolution, 360° pan / 114° tilt",
+          "Motion detection with tracking",
+          "MicroSD storage up to 512GB",
+          "Works with Alexa and Google Assistant"
+        ],
+        "bestFor": "multi pet homes"
+      },
+      {
+        "name": "Petcube Bites 2",
+        "brand": "Petcube",
+        "asin": "B07QZ4BWY1",
+        "blurb": "Key specs: 1080p HD video with 160° full-room view, Built-in treat dispenser with adjustable toss distance, 4-microphone array with 2-way audio.",
+        "strengths": [
+          "160° fixed view covers most of an open living room without needing to pan",
+          "4-microphone array picks up barking or meowing from multiple pets more reliably than single-mic cameras",
+          "Treat dispenser adds an enrichment option for pets sharing a space",
+          "Alexa built-in allows hands-free check-ins"
+        ],
+        "limitations": [
+          "Fixed lens, no pan/tilt, so pets outside the 160° arc are missed entirely",
+          "Treat dispenser favors whichever pet reaches it first when multiple pets are present"
+        ],
+        "features": [
+          "1080p HD video with 160° full-room view",
+          "Built-in treat dispenser with adjustable toss distance",
+          "4-microphone array with 2-way audio",
+          "Alexa built-in"
+        ],
+        "bestFor": "multi pet homes"
+      },
+      {
+        "name": "Ring Indoor Cam (2nd Gen)",
+        "brand": "Ring",
+        "asin": "B0B6GJBKRK",
+        "blurb": "Key specs: 1080p HD video with color night vision, 115° horizontal field of view, Two-way talk.",
+        "strengths": [
+          "Consistent, fast motion alerts across each unit",
+          "Compact plug-in body makes it easy to add a second or third unit in different rooms",
+          "Deep Alexa integration if the household already runs Echo devices"
+        ],
+        "limitations": [
+          "115° fixed field of view is the narrowest coverage option in this list",
+          "No pet-specific detection, alerts fire for any pet or person equally",
+          "Ring Protect subscription needed to save and review clips from multiple cameras"
+        ],
+        "features": [
+          "1080p HD video with color night vision",
+          "115° horizontal field of view",
+          "Two-way talk",
+          "Works with Alexa"
+        ],
+        "bestFor": "multi pet homes"
+      },
+      {
+        "name": "Petcube Cam 360 with Bites 2 Lite",
+        "brand": "Petcube",
+        "asin": "B0CNH9ZMR8",
+        "blurb": "",
+        "strengths": [
+          "Two cameras for wider coverage",
+          "Treat flinging",
+          "1080p video with night vision",
+          "Works for cats and dogs"
+        ],
+        "limitations": [
+          "Some features need a subscription",
+          "Two devices to place and power",
+          "App-dependent"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

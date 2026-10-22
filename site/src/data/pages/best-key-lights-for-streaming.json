@@ -1,0 +1,76 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Key Lights for Streaming 2026",
+  "h1": "The 3 Best Key Lights for Streaming 2026",
+  "metaDescription": "Our 3 picks for key lights for streaming 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at key lights for streaming 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "ring-lights",
+  "related": [
+    "ring-lights"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Elgato Key Light Mini",
+        "brand": "Elgato",
+        "asin": "B09PRNHLM7",
+        "blurb": "",
+        "strengths": [
+          "Battery powered and portable",
+          "Adjustable 2900 to 7000K",
+          "App control",
+          "Mounts magnetically or on a tripod"
+        ],
+        "limitations": [
+          "Less bright than full-size panels",
+          "About 4 hours battery at half brightness",
+          "Small light area"
+        ],
+        "features": []
+      },
+      {
+        "name": "Logitech Litra Beam LED Streaming Key Light",
+        "brand": "Logitech",
+        "asin": "B09KGSRY5V",
+        "blurb": "",
+        "strengths": [
+          "Soft, flattering light",
+          "Adjustable brightness and color temperature",
+          "Compact desk stand",
+          "App control on PC and Mac"
+        ],
+        "limitations": [
+          "Not as bright as studio panels",
+          "Desk space for the stand",
+          "USB-powered setup"
+        ],
+        "features": []
+      },
+      {
+        "name": "Neewer 660 LED Video Light Panel",
+        "brand": "Neewer",
+        "asin": "B07QZ369SL",
+        "blurb": "",
+        "strengths": [
+          "Bright 40W output",
+          "Bi-color 3200 to 5600K",
+          "High CRI for accurate color",
+          "Affordable studio light"
+        ],
+        "limitations": [
+          "Needs a light stand and power",
+          "Bulky for small desks",
+          "Hard light without diffusion"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

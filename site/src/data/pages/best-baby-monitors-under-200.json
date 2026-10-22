@@ -1,0 +1,110 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Baby Monitors Under $200",
+  "h1": "The 4 Best Baby Monitors Under $200",
+  "metaDescription": "Our 4 picks for baby monitors under $200, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at baby monitors under $200 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-baby-monitors",
+  "related": [
+    "best-baby-monitors"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Nanit Pro Smart Baby Monitor & Flex Stand",
+        "brand": "Nanit",
+        "asin": "B0BWSLD1LX",
+        "blurb": "Key specs: 1080p Wi-Fi video with night vision, Sensor-free sleep and breathing motion tracking, Two-way audio with sound, motion and cry alerts.",
+        "strengths": [
+          "Sleep tracking reads patterns and delivers nightly insights without a wearable",
+          "1080p video is the sharpest image of any monitor in this list",
+          "Overhead stand angle covers the full crib without a blind spot"
+        ],
+        "limitations": [
+          "Full sleep insights history requires a paid Nanit subscription after the first year",
+          "Needs a stable home Wi-Fi connection, no offline mode"
+        ],
+        "features": [
+          "1080p Wi-Fi video with night vision",
+          "Sensor-free sleep and breathing motion tracking",
+          "Two-way audio with sound, motion and cry alerts",
+          "Optional breathing band for wearable-free monitoring",
+          "Flex stand mounts over the crib or on a wall"
+        ]
+      },
+      {
+        "name": "Infant Optics DXR-8 Video Baby Monitor",
+        "brand": "Infant Optics",
+        "asin": "B00ECHYTBI",
+        "blurb": "Key specs: Non-Wi-Fi FHSS connection, no internet exposure, Interchangeable optical lens system, Pan, tilt and zoom camera.",
+        "strengths": [
+          "No Wi-Fi means no cloud account, no hacking risk, and no subscription",
+          "Interchangeable lenses let you add a zoom or wide-angle lens later"
+        ],
+        "limitations": [
+          "3.5-inch handheld screen is small next to a phone-app view",
+          "480p resolution looks noticeably softer than Wi-Fi competitors",
+          "No app, so you can't check in while away from home"
+        ],
+        "features": [
+          "Non-Wi-Fi FHSS connection, no internet exposure",
+          "Interchangeable optical lens system",
+          "Pan, tilt and zoom camera",
+          "3.5-inch screen with LED sound bar",
+          "Two-way talk and automatic night vision"
+        ]
+      },
+      {
+        "name": "Owlet Cam 2 Smart Baby Monitor",
+        "brand": "Owlet",
+        "asin": "B0B4BPRKGS",
+        "blurb": "Key specs: 1080p HD Wi-Fi video with 4x zoom, Night vision and 130-degree wide-angle lens, Encrypted streaming with two-way talk.",
+        "strengths": [
+          "Pairs with the Owlet Dream Sock for combined vitals and video in one app",
+          "4x zoom gets a closer look at the crib without moving the camera"
+        ],
+        "limitations": [
+          "Smaller ratings base than Nanit despite a similar release window",
+          "Full clip history and extended storage require an Owlet subscription",
+          "Needs steady home Wi-Fi, same dependency as the Nanit"
+        ],
+        "features": [
+          "1080p HD Wi-Fi video with 4x zoom",
+          "Night vision and 130-degree wide-angle lens",
+          "Encrypted streaming with two-way talk",
+          "Sound, motion and cry notifications",
+          "Temperature and humidity sensor"
+        ]
+      },
+      {
+        "name": "VTech VM919HD Video Baby Monitor",
+        "brand": "VTech",
+        "asin": "B08KDHJST3",
+        "blurb": "Key specs: 7-inch 720p screen on a dedicated parent unit, No Wi-Fi, secure FHSS transmission, 360-degree pan, 100-degree tilt, 4x zoom.",
+        "strengths": [
+          "Largest dedicated display in this list at 7 inches",
+          "1000 ft rated range is the longest of any model here, good for big houses",
+          "No subscription, no app, and no recurring cost after purchase"
+        ],
+        "limitations": [
+          "No remote viewing away from home since there's no app",
+          "720p on a dedicated screen looks softer than a 1080p phone-app feed",
+          "Parent unit is bulkier than a smartphone-based setup"
+        ],
+        "features": [
+          "7-inch 720p screen on a dedicated parent unit",
+          "No Wi-Fi, secure FHSS transmission",
+          "360-degree pan, 100-degree tilt, 4x zoom",
+          "Up to 1000 ft open-air range and 15-hour battery",
+          "Automatic infrared night vision"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "page",
+  "title": "About Us",
+  "h1": "About TopProductPick",
+  "metaDescription": "Who we are, how TopProductPick is funded and why we never claim tests we didn't run.",
+  "lede": "TopProductPick is a small independent research site that helps people choose everyday products they won't want to return, across home, tech, health and outdoor gear.",
+  "updatedAt": "2026-10-19",
+  "data": {
+    "sections": [
+      {
+        "h": "What we do",
+        "p": [
+          "We read manufacturer specs and manuals, cross-check independent reviews and owner reports, and turn that into clear recommendations for specific kinds of buyers."
+        ]
+      },
+      {
+        "h": "What we don't do",
+        "p": [
+          "We don't claim our own lab testing, invent ratings, or publish prices that will be out of date tomorrow. When we're unsure, we say so."
+        ]
+      },
+      {
+        "h": "How we're funded",
+        "p": [
+          "We earn a commission when readers buy through some of our links, including as an Amazon Associate. That never decides which products we recommend. See our affiliate disclosure for details."
+        ]
+      }
+    ]
+  }
+}

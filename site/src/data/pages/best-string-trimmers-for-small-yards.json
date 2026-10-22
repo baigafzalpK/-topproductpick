@@ -1,0 +1,134 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best String Trimmers for Small Yards",
+  "h1": "The 5 Best String Trimmers for Small Yards",
+  "metaDescription": "Our 5 picks for string trimmers for small yards, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at string trimmers for small yards using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-string-trimmers",
+  "related": [
+    "best-string-trimmers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Worx WG183 40V String Trimmer",
+        "brand": "Worx",
+        "asin": "B08RW9X1QM",
+        "blurb": "Key specs: 13-inch dual-exit cutting head, 40V PowerShare, 2 x 2.0Ah batteries included, Under 5 pounds.",
+        "strengths": [
+          "Under 5 pounds, the lightest trimmer in this roundup and easiest to maneuver around small beds",
+          "Two included batteries cover a small lot with plenty of runtime to spare",
+          "PowerShare batteries cross over to other Worx yard tools if the collection grows"
+        ],
+        "limitations": [
+          "13-inch swath would be limiting on anything beyond a small lot",
+          "Auto-feed line advance occasionally over-feeds line",
+          "Dual-exit head design is less common, replacement line spools can be pricier"
+        ],
+        "features": [
+          "13-inch dual-exit cutting head",
+          "40V PowerShare, 2 x 2.0Ah batteries included",
+          "Under 5 pounds",
+          "Pivoting head for edging",
+          "Auto-feed line advance"
+        ],
+        "badge": "Top pick",
+        "bestFor": "small yards"
+      },
+      {
+        "name": "Greenworks 40V 12-Inch Cordless String Trimmer",
+        "brand": "Greenworks",
+        "asin": "B01GEW1AJC",
+        "blurb": "Key specs: 12-inch cutting swath, 40V lithium battery, 2.0Ah included, Dual line auto-feed.",
+        "strengths": [
+          "Lowest price in this list while still covering small-yard trimming comfortably",
+          "12-inch swath is proportionate to tight beds and small lots, not a real limitation at this scale",
+          "3-year warranty gives good peace of mind for infrequent use"
+        ],
+        "limitations": [
+          "2.0Ah battery has the shortest runtime here, though it's adequate for a small lot",
+          "Build quality feels a step below the EGO or Worx",
+          "Variable speed trigger takes some practice to modulate smoothly"
+        ],
+        "features": [
+          "12-inch cutting swath",
+          "40V lithium battery, 2.0Ah included",
+          "Dual line auto-feed",
+          "Variable speed trigger",
+          "3-year warranty"
+        ],
+        "bestFor": "small yards"
+      },
+      {
+        "name": "EGO Power+ ST1521S 15-Inch String Trimmer",
+        "brand": "EGO",
+        "asin": "B07BBW8P9Y",
+        "blurb": "Key specs: 15-inch cutting swath, 56V ARC Lithium battery, 2.5Ah included, Carbon fiber split shaft.",
+        "strengths": [
+          "More cutting swath than strictly needed for a small yard, useful if the yard grows or changes",
+          "56V battery shares with EGO mowers, blowers, and other tools if the collection expands",
+          "POWERLOAD auto-feed is a genuine convenience even on light, infrequent use"
+        ],
+        "limitations": [
+          "Heavier and pricier than dedicated compact models on this list",
+          "More capacity than a genuinely small lot needs",
+          "56V battery platform is its own ecosystem, doesn't cross over to 40V tools"
+        ],
+        "features": [
+          "15-inch cutting swath",
+          "56V ARC Lithium battery, 2.5Ah included",
+          "Carbon fiber split shaft",
+          "POWERLOAD auto-feed",
+          "Compatible with EGO's broader 56V tool lineup"
+        ],
+        "bestFor": "small yards"
+      },
+      {
+        "name": "Husqvarna 128LD Gas String Trimmer",
+        "brand": "Husqvarna",
+        "asin": "B004Q0HUYO",
+        "blurb": "Key specs: 28cc 2-cycle gas engine, 17-inch cutting swath, Straight shaft.",
+        "strengths": [
+          "No battery runtime limit, though irrelevant at small-yard scale",
+          "Useful if you already have other gas equipment and mixed fuel on hand"
+        ],
+        "limitations": [
+          "Louder and heavier than any cordless model, a real downside in tight residential settings",
+          "17-inch swath and engine power are wasted capacity on a small lot",
+          "Fuel mixing and carburetor upkeep are unnecessary hassle for light, occasional use"
+        ],
+        "features": [
+          "28cc 2-cycle gas engine",
+          "17-inch cutting swath",
+          "Straight shaft",
+          "Smart Start recoil system"
+        ],
+        "bestFor": "small yards"
+      },
+      {
+        "name": "Greenworks 40V 16\" Cordless String Trimmer (4.0Ah Kit)",
+        "brand": "Greenworks",
+        "asin": "B0BF9ZK3QB",
+        "blurb": "",
+        "strengths": [
+          "Wide 16-inch cutting path",
+          "4.0Ah battery for longer runs",
+          "Shares the Greenworks 40V platform",
+          "Quieter than gas"
+        ],
+        "limitations": [
+          "Heavier than 24V trimmers",
+          "Bump feed needs occasional rewinding",
+          "Not as powerful as 56V+ models"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

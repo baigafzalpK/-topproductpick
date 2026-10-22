@@ -1,0 +1,121 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Pet Cameras Under $60",
+  "h1": "The 5 Best Pet Cameras Under $60",
+  "metaDescription": "Our 5 picks for pet cameras under $60, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at pet cameras under $60 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-pet-cameras",
+  "related": [
+    "best-pet-cameras"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "TP-Link Tapo C210",
+        "brand": "TP-Link",
+        "asin": "B08ZNTM1X1",
+        "blurb": "Key specs: 2K resolution, 360° pan / 114° tilt, Motion detection with tracking, MicroSD storage up to 512GB.",
+        "strengths": [
+          "Sharpest image of any camera in this list at 2K resolution",
+          "Local microSD storage up to 512GB avoids a mandatory subscription",
+          "360° pan covers a full room from a single mounting point"
+        ],
+        "limitations": [
+          "114° tilt range is narrower than the Wyze Cam Pan's full 180°",
+          "App setup has a few more steps than Ring's for first-time users"
+        ],
+        "features": [
+          "2K resolution, 360° pan / 114° tilt",
+          "Motion detection with tracking",
+          "MicroSD storage up to 512GB",
+          "Works with Alexa and Google Assistant"
+        ],
+        "badge": "Best overall"
+      },
+      {
+        "name": "Wyze Cam Pan v3",
+        "brand": "Wyze",
+        "asin": "B0B9TWY11Q",
+        "blurb": "Key specs: 360° pan / 180° tilt coverage, 1080p color night vision, Pan Scan auto-patrol with 4 waypoints.",
+        "strengths": [
+          "Full 180° tilt is the widest vertical range of any camera in this list",
+          "Pan Scan auto-patrol cycles through 4 waypoints automatically",
+          "Motion tracking follows a moving pet without manual adjustment"
+        ],
+        "limitations": [
+          "Two-way audio is thinner than pricier alternatives",
+          "Cloud storage for longer clips needs an optional Cam Plus subscription"
+        ],
+        "features": [
+          "360° pan / 180° tilt coverage",
+          "1080p color night vision",
+          "Pan Scan auto-patrol with 4 waypoints",
+          "No subscription required for live view"
+        ]
+      },
+      {
+        "name": "Ring Indoor Cam (2nd Gen)",
+        "brand": "Ring",
+        "asin": "B0B6GJBKRK",
+        "blurb": "Key specs: 1080p HD video with color night vision, 115° horizontal field of view, Two-way talk.",
+        "strengths": [
+          "Deepest Alexa integration for households already on Echo devices",
+          "Compact plug-in design with a simple swivel mount"
+        ],
+        "limitations": [
+          "115° fixed field of view is the narrowest option in this list",
+          "No pan/tilt, unlike the Wyze and Tapo at a lower price",
+          "Ring Protect subscription needed to save and review clips"
+        ],
+        "features": [
+          "1080p HD video with color night vision",
+          "115° horizontal field of view",
+          "Two-way talk",
+          "Works with Alexa"
+        ]
+      },
+      {
+        "name": "WYZE Cam v4 2.5K Indoor/Outdoor Camera",
+        "brand": "WYZE",
+        "asin": "B0CJ9Z22L5",
+        "blurb": "",
+        "strengths": [
+          "Sharp 2.5K video",
+          "Color night vision with spotlight",
+          "Local microSD recording",
+          "No subscription required for basics"
+        ],
+        "limitations": [
+          "No treat tossing",
+          "Advanced AI alerts need a plan",
+          "Fixed view (not pan-tilt)"
+        ],
+        "features": []
+      },
+      {
+        "name": "Blink Mini 2 Camera with Weather Resistant Adapter",
+        "brand": "Blink",
+        "asin": "B0CRZC2R94",
+        "blurb": "",
+        "strengths": [
+          "Wide field of view",
+          "Color night view with spotlight",
+          "Two-way audio",
+          "Works with Alexa"
+        ],
+        "limitations": [
+          "Person detection and clip history need Blink plan",
+          "1080p, not 2K",
+          "No treat dispenser"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

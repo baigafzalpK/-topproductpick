@@ -1,0 +1,96 @@
+{
+  "type": "review",
+  "title": "Breville Bambino Plus Review: Easy Lattes, Small Footprint",
+  "h1": "Breville Bambino Plus Review",
+  "metaDescription": "Is the Breville Bambino Plus the right first espresso machine? Specs, strengths, limitations and who should skip it.",
+  "lede": "The Bambino Plus is built for people who want café-style milk drinks at home without learning manual steaming. This review is based on manufacturer specs, independent reviews and owner reports.",
+  "updatedAt": "2026-10-19",
+  "category": "coffee-makers",
+  "related": [
+    "best-coffee-makers",
+    "how-to-clean-a-coffee-maker"
+  ],
+  "data": {
+    "product": {
+      "name": "Breville Bambino Plus Espresso Machine",
+      "brand": "Breville",
+      "asin": "B07JVD78TT",
+      "searchQuery": "Breville Bambino Plus espresso machine BES500",
+      "badge": "Best espresso for beginners",
+      "bestFor": "latte and cappuccino lovers starting out",
+      "blurb": "A compact espresso machine with fast heat-up and an automatic steam wand that textures milk for you.",
+      "features": [
+        "ThermoJet heating",
+        "Automatic milk texturing",
+        "54 mm portafilter"
+      ],
+      "strengths": [
+        "Ready to brew in seconds (Breville spec)",
+        "Hands-free milk frothing",
+        "Small footprint"
+      ],
+      "limitations": [
+        "Needs a separate grinder for best results",
+        "Small drip tray needs frequent emptying"
+      ]
+    },
+    "verdict": "If you mainly drink lattes and cappuccinos and want them with little effort, the Bambino Plus is one of the easiest machines to recommend. Budget for a good burr grinder too, or buy fresh pre-ground espresso as a stopgap.",
+    "specs": [
+      {
+        "label": "Heating system",
+        "value": "ThermoJet"
+      },
+      {
+        "label": "Heat-up time",
+        "value": "About 3 seconds (Breville claim)"
+      },
+      {
+        "label": "Portafilter",
+        "value": "54 mm"
+      },
+      {
+        "label": "Milk",
+        "value": "Automatic steam wand with adjustable temperature and texture"
+      },
+      {
+        "label": "Extraction",
+        "value": "Low-pressure pre-infusion"
+      }
+    ],
+    "sections": [
+      {
+        "h": "What it does well",
+        "p": [
+          "The headline feature is the automatic steam wand. You set the milk temperature and froth level, place the jug on the sensor, and the machine stops when the milk is ready. Owner reports consistently mention this as the reason they chose it.",
+          "Fast heat-up means you can go from switching it on to pulling a shot quickly, which matters on busy mornings."
+        ]
+      },
+      {
+        "h": "Where it falls short",
+        "p": [
+          "There is no built-in grinder, and espresso quality depends heavily on the grind. Many owners pair it with a separate burr grinder.",
+          "The drip tray and water tank are small because the machine is compact, so expect to empty and refill them often."
+        ]
+      }
+    ],
+    "whoFor": [
+      "Milk-drink fans who want consistent results",
+      "Small kitchens",
+      "Beginners who don't want to learn manual steaming"
+    ],
+    "notFor": [
+      "Anyone who wants a built-in grinder",
+      "People who mainly drink straight espresso and want deep control"
+    ],
+    "faqs": [
+      {
+        "q": "Does the Bambino Plus come with a grinder?",
+        "a": "No. You need pre-ground coffee or a separate grinder."
+      },
+      {
+        "q": "Can it make black coffee?",
+        "a": "It makes espresso. For a long black or Americano, add hot water to a shot."
+      }
+    ]
+  }
+}

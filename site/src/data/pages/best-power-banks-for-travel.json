@@ -1,0 +1,40 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "Our Top Pick: Power Banks for Travel 2026",
+  "h1": "Our Top Pick: Power Banks for Travel 2026",
+  "metaDescription": "Our top pick for power banks for travel 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at power banks for travel 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "power-banks",
+  "related": [
+    "power-banks"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Anker PowerCore 20100mAh Power Bank",
+        "brand": "Anker",
+        "asin": "B00VJSGT2A",
+        "blurb": "",
+        "strengths": [
+          "Large 20,100mAh capacity",
+          "Two USB-A ports",
+          "Proven reliability",
+          "Affordable"
+        ],
+        "limitations": [
+          "No USB-C fast charging on this classic model",
+          "Slow to recharge",
+          "Heavier"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

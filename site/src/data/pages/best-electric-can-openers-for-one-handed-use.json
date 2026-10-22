@@ -1,0 +1,93 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Electric Can Openers for One-Handed Use",
+  "h1": "The 3 Best Electric Can Openers for One-Handed Use",
+  "metaDescription": "Our 3 picks for electric can openers for one-handed use, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at electric can openers for one-handed use using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-electric-can-openers",
+  "related": [
+    "best-electric-can-openers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Cuisinart Deluxe Electric Can Opener CCO-50N",
+        "brand": "Cuisinart",
+        "asin": "B001D9B2R2",
+        "blurb": "Key specs: Nonslip wide base, Single-touch automatic operation, Automatic stop.",
+        "strengths": [
+          "Nonslip base stays fully put with one hand positioning the can, no bracing needed",
+          "Single-touch start and automatic stop mean nothing needs holding through the cycle",
+          "Detachable lever simplifies one-handed cleaning under the tap"
+        ],
+        "limitations": [
+          "Costs more than the Hamilton Beach at typical pricing",
+          "No magnetic lid lift, so the cut lid still needs to be picked off manually",
+          "Bulkier footprint takes more counter space than a handheld model"
+        ],
+        "features": [
+          "Nonslip wide base",
+          "Single-touch automatic operation",
+          "Automatic stop",
+          "Detachable cutting lever",
+          "Stable footprint"
+        ],
+        "badge": "Top pick",
+        "bestFor": "one handed use"
+      },
+      {
+        "name": "Hamilton Beach Smooth Touch Electric Can Opener",
+        "brand": "Hamilton Beach",
+        "asin": "B000SAS5GI",
+        "blurb": "Key specs: Single push-down lever, Extra-tall opening, Smooth-edge cutting.",
+        "strengths": [
+          "Push-down lever needs just one light press with the same hand placing the can",
+          "Wide base holds position without bracing against the counter or body",
+          "Also opens pop-top cans one-handed, which many electric openers skip"
+        ],
+        "limitations": [
+          "No automatic lid lift, so the lid still needs picking off after the cut",
+          "Permanent countertop footprint rather than a stow-away design",
+          "Requires an outlet within reach"
+        ],
+        "features": [
+          "Single push-down lever",
+          "Extra-tall opening",
+          "Smooth-edge cutting",
+          "Opens pop-tops one-handed",
+          "Wide base"
+        ],
+        "bestFor": "one handed use"
+      },
+      {
+        "name": "Black+Decker Spacemaker EC600 Can Opener",
+        "brand": "Black+Decker",
+        "asin": "B00004SC4X",
+        "blurb": "Key specs: Under-cabinet mounting, One-touch lever, Fixed, permanent installation.",
+        "strengths": [
+          "Fixed mounting means the unit never needs steadying, only the can does",
+          "One-touch lever is a simple, light one-handed action once installed",
+          "Frees the counter, leaving more room to maneuver a can with one hand"
+        ],
+        "limitations": [
+          "Requires a one-time two-handed installation to mount under the cabinet",
+          "Fixed height might not suit every reach comfortably"
+        ],
+        "features": [
+          "Under-cabinet mounting",
+          "One-touch lever",
+          "Fixed, permanent installation",
+          "Built-in cord wrap",
+          "Frees counter space"
+        ],
+        "bestFor": "one handed use"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

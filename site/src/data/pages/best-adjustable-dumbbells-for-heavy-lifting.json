@@ -1,0 +1,105 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Adjustable Dumbbells for Heavy Lifting",
+  "h1": "The 4 Best Adjustable Dumbbells for Heavy Lifting",
+  "metaDescription": "Our 4 picks for adjustable dumbbells for heavy lifting, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at adjustable dumbbells for heavy lifting using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-adjustable-dumbbells",
+  "related": [
+    "best-adjustable-dumbbells"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "PowerBlock Elite EXP Stage 1 Adjustable Dumbbells, 5-50 lb (Pair)",
+        "brand": "PowerBlock",
+        "asin": "B08761WNZR",
+        "blurb": "Key specs: 5 to 50 lb per hand, expandable to 90 lb with Stage 2 and 3 kits, Pin-selector weight system, Steel internals for durability under heavy loads.",
+        "strengths": [
+          "Highest achievable ceiling in this list at 90 lb per hand with full expansion",
+          "Steel internals hold up well under repeated heavy loading",
+          "Staged buying lets you add capacity as your strength grows"
+        ],
+        "limitations": [
+          "Full 90 lb capacity requires buying both expansion kits on top of the base unit",
+          "Pin selector needs deliberate, full seating under heavy loads"
+        ],
+        "features": [
+          "5 to 50 lb per hand, expandable to 90 lb with Stage 2 and 3 kits",
+          "Pin-selector weight system",
+          "Steel internals for durability under heavy loads"
+        ],
+        "bestFor": "heavy lifting"
+      },
+      {
+        "name": "Bowflex SelectTech 552 Adjustable Dumbbells (Pair)",
+        "brand": "Bowflex",
+        "asin": "B001ARYU58",
+        "blurb": "Key specs: 5 to 52.5 lb per hand, 2.5 lb increments, Dial-turn selector, Largest install base in the category.",
+        "strengths": [
+          "52.5 lb ceiling covers most intermediate lifters without any expansion purchase",
+          "Fastest, most proven mechanism for high-frequency heavy sessions",
+          "Widest parts availability if something wears out under heavy use"
+        ],
+        "limitations": [
+          "No official expansion path once you hit 52.5 lb per hand",
+          "Lower total ceiling than a fully expanded PowerBlock"
+        ],
+        "features": [
+          "5 to 52.5 lb per hand, 2.5 lb increments",
+          "Dial-turn selector",
+          "Largest install base in the category"
+        ],
+        "bestFor": "heavy lifting"
+      },
+      {
+        "name": "NordicTrack 55 lb Select-a-Weight Dumbbell",
+        "brand": "NordicTrack",
+        "asin": "B08QD2NPCF",
+        "blurb": "Key specs: Up to 55 lb per hand, 2.5, 5, and 10 lb increments, iFIT connected workout compatibility.",
+        "strengths": [
+          "Slightly higher fixed ceiling than the Bowflex 552 at 55 lb per hand",
+          "iFIT programming includes strength-focused guided sessions",
+          "Dial mechanism remains fast even at higher weight settings"
+        ],
+        "limitations": [
+          "Still well below PowerBlock's expanded 90 lb ceiling",
+          "Plastic shell shows more wear than steel-block designs under heavy, frequent use"
+        ],
+        "features": [
+          "Up to 55 lb per hand",
+          "2.5, 5, and 10 lb increments",
+          "iFIT connected workout compatibility"
+        ],
+        "bestFor": "heavy lifting"
+      },
+      {
+        "name": "Core Home Fitness Adjustable Dumbbell Set & Stand",
+        "brand": "Core Home Fitness",
+        "asin": "B07DYMG9FZ",
+        "blurb": "Key specs: 5 to 50 lb per hand, TwistLock one-hand cradle adjustment, Stand included.",
+        "strengths": [
+          "50 lb ceiling is a meaningful step up for lifters progressing past beginner weights",
+          "Lower price than the true heavy-lifting picks in this list",
+          "TwistLock holds securely once seated for heavier working sets"
+        ],
+        "limitations": [
+          "Lowest ceiling of the four picks here, will be outgrown sooner by serious lifters",
+          "No expansion path once you hit 50 lb per hand"
+        ],
+        "features": [
+          "5 to 50 lb per hand",
+          "TwistLock one-hand cradle adjustment",
+          "Stand included"
+        ],
+        "bestFor": "heavy lifting"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

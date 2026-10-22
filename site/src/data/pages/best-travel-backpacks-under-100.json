@@ -1,0 +1,87 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Travel Backpacks Under $100",
+  "h1": "The 3 Best Travel Backpacks Under $100",
+  "metaDescription": "Our 3 picks for travel backpacks under $100, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at travel backpacks under $100 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-travel-backpacks",
+  "related": [
+    "best-travel-backpacks"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Amazon Basics Convertible Carry-On Backpack",
+        "brand": "Amazon Basics",
+        "asin": "B01J24H2K0",
+        "blurb": "Key specs: 1.55 cubic foot main capacity, expandable for 10% extra space, 13.8 x 21.5 x 9.5 inches, carry-on sized, Convertible backpack and shoulder bag straps.",
+        "strengths": [
+          "Carry-on dimensions clear most domestic airline sizers",
+          "Convertible strap system doubles as a shoulder bag for short trips off the plane"
+        ],
+        "limitations": [
+          "No frame suspension, so a fully packed bag feels heavier on the shoulders than a structured pack",
+          "Zippers are noticeably lighter-duty than premium travel packs",
+          "Padding on the straps is thinner and less comfortable over a full day of walking"
+        ],
+        "features": [
+          "1.55 cubic foot main capacity, expandable for 10% extra space",
+          "13.8 x 21.5 x 9.5 inches, carry-on sized",
+          "Convertible backpack and shoulder bag straps",
+          "Dedicated laptop compartment",
+          "Multiple organizational pockets"
+        ],
+        "badge": "Top pick"
+      },
+      {
+        "name": "High Sierra Fairlead Convertible Duffel",
+        "brand": "High Sierra",
+        "asin": "B0C75RJJ8J",
+        "blurb": "Key specs: 64L capacity, Stowaway quick-release backpack straps, Padded carry handles.",
+        "strengths": [
+          "64L handles longer trips or gear-heavy travel that smaller budget packs can't",
+          "Stowable backpack straps keep the bag flexible between duffel and backpack carry"
+        ],
+        "limitations": [
+          "64L is too large to qualify as a standard carry-on on most airlines",
+          "Backpack straps are a secondary carry option, less comfortable than a dedicated pack's harness",
+          "No structured laptop sleeve like the Amazon Basics or MATEIN packs"
+        ],
+        "features": [
+          "64L capacity",
+          "Stowaway quick-release backpack straps",
+          "Padded carry handles",
+          "Storm flap zip closure",
+          "Compression straps"
+        ]
+      },
+      {
+        "name": "MATEIN Business Laptop Backpack",
+        "brand": "MATEIN",
+        "asin": "B074KV9TT4",
+        "blurb": "Key specs: 15.6-inch laptop compartment, Water-resistant fabric, Anti-theft pocket.",
+        "strengths": [
+          "Personal-item sized, so it rides free under the seat alongside checked or carry-on luggage"
+        ],
+        "limitations": [
+          "Too small to serve as a standalone bag for more than 1 to 2 days of clothing",
+          "Built more as a daily commuter or business bag than a dedicated travel pack",
+          "Laptop compartment padding is adequate but not premium-grade"
+        ],
+        "features": [
+          "15.6-inch laptop compartment",
+          "Water-resistant fabric",
+          "Anti-theft pocket",
+          "Luggage strap to slide over a suitcase handle",
+          "USB charging port pass-through"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

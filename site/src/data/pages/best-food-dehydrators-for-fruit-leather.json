@@ -1,0 +1,122 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Food Dehydrators for Fruit Leather",
+  "h1": "The 4 Best Food Dehydrators for Fruit Leather",
+  "metaDescription": "Our 4 picks for food dehydrators for fruit leather, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at food dehydrators for fruit leather using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-food-dehydrators",
+  "related": [
+    "best-food-dehydrators"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "COSORI Premium 10-Tray Stainless Steel Food Dehydrator",
+        "brand": "COSORI",
+        "asin": "B0BB6PVCJK",
+        "blurb": "Key specs: 10 stainless steel trays, 16.2 square feet of drying space, Fruit preset dials in the right temperature automatically, 95°F to 165°F in 1°F increments.",
+        "strengths": [
+          "Fruit preset removes the guesswork on temperature for first-time leather makers",
+          "10-tray capacity means a full day's fruit haul can go in as leather in one batch",
+          "Horizontal airflow dries sheets evenly without needing to rotate trays",
+          "1°F precision keeps leather from overshooting into a brittle, crackly texture"
+        ],
+        "limitations": [
+          "Fruit roll sheets sold separately from the base unit in some bundles",
+          "Large 10-tray footprint takes real counter space during a long dry",
+          "Higher price than the NESCO for buyers who only want to make leather occasionally"
+        ],
+        "features": [
+          "10 stainless steel trays, 16.2 square feet of drying space",
+          "Fruit preset dials in the right temperature automatically",
+          "95°F to 165°F in 1°F increments",
+          "Rear-mounted horizontal airflow",
+          "48-hour digital timer"
+        ],
+        "badge": "Top pick",
+        "bestFor": "fruit leather"
+      },
+      {
+        "name": "Presto 06301 Dehydro Digital Electric Food Dehydrator",
+        "brand": "Presto",
+        "asin": "B008H2OEKK",
+        "blurb": "Key specs: Includes 2 fruit roll sheets in the box, Digital thermostat and timer, 90°F to 165°F, 6 trays included, expandable to 12.",
+        "strengths": [
+          "Fruit roll sheets included out of the box, no separate purchase needed to start",
+          "Digital thermostat holds the 135°F to 140°F leather range accurately",
+          "Lower price than COSORI or Excalibur for occasional leather makers",
+          "Nesting trays make this easy to store when not drying a batch"
+        ],
+        "limitations": [
+          "Bottom fan dries the lowest tray faster, so rotating trays partway through helps",
+          "6-tray starting capacity limits how much leather you can dry in one run",
+          "Round trays mean cutting rectangular fruit roll sheets to fit isn't always exact"
+        ],
+        "features": [
+          "Includes 2 fruit roll sheets in the box",
+          "Digital thermostat and timer, 90°F to 165°F",
+          "6 trays included, expandable to 12",
+          "Bottom-mounted fan",
+          "Nesting trays for compact storage"
+        ],
+        "bestFor": "fruit leather"
+      },
+      {
+        "name": "NESCO FD-75A Snackmaster Pro Food Dehydrator",
+        "brand": "NESCO",
+        "asin": "B0BRMJDR9R",
+        "blurb": "Key specs: 5 trays included, expandable to 12, 600W top-mounted fan, Adjustable thermostat, 95°F to 160°F.",
+        "strengths": [
+          "Lowest typical price of the four, a low-commitment way to try making leather",
+          "160°F ceiling comfortably covers the 135°F to 140°F leather range",
+          "Compact stackable footprint fits in smaller kitchens between uses",
+          "Large, proven track record with tens of thousands of ratings"
+        ],
+        "limitations": [
+          "Fruit roll sheets are an added purchase, not included with the base unit",
+          "Top-mounted single fan means top trays dry faster than bottom ones",
+          "5-tray starting capacity is limiting for anyone processing a large fruit haul at once"
+        ],
+        "features": [
+          "5 trays included, expandable to 12",
+          "600W top-mounted fan",
+          "Adjustable thermostat, 95°F to 160°F",
+          "Compact stackable design",
+          "Fruit roll sheets available as an accessory"
+        ],
+        "bestFor": "fruit leather"
+      },
+      {
+        "name": "Excalibur D900CDSHD 9-Tray Food Dehydrator",
+        "brand": "Excalibur",
+        "asin": "B00HVJOBC6",
+        "blurb": "Key specs: 9 stainless steel trays, 15 square feet of drying space, Parallex horizontal airflow, no rotation needed, Adjustable thermostat, 105°F to 165°F.",
+        "strengths": [
+          "Horizontal airflow dries every sheet at nearly the same rate across all nine trays",
+          "Largest usable drying area on this list for a full harvest's worth of puree",
+          "Solid trays (with optional flexible sheet inserts) produce clean, even leather",
+          "26-hour timer covers even the longest leather batches without manual restarting"
+        ],
+        "limitations": [
+          "Highest price on this list by a wide margin",
+          "Large footprint is overkill for someone who only makes leather occasionally",
+          "Flexible fruit roll inserts sold separately from the base unit"
+        ],
+        "features": [
+          "9 stainless steel trays, 15 square feet of drying space",
+          "Parallex horizontal airflow, no rotation needed",
+          "Adjustable thermostat, 105°F to 165°F",
+          "26-hour digital timer",
+          "Clear door for checking progress"
+        ],
+        "bestFor": "fruit leather"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

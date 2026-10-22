@@ -1,0 +1,123 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Car Seats Under $300",
+  "h1": "The 5 Best Car Seats Under $300",
+  "metaDescription": "Our 5 picks for car seats under $300, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at car seats under $300 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-car-seats",
+  "related": [
+    "best-car-seats"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Graco 4Ever DLX 4-in-1 Car Seat",
+        "brand": "Graco",
+        "asin": "B07J37RTPG",
+        "blurb": "Key specs: 4-in-1: rear-facing, forward-facing, highback booster, backless booster, Rear-facing 4 to 40 pounds, forward-facing 22 to 65 pounds, 10-year usable lifespan.",
+        "strengths": [
+          "Covers newborn through booster years in a single seat, the widest span in this budget"
+        ],
+        "limitations": [
+          "Bulkier footprint than a dedicated infant seat, less ideal for daily carrying",
+          "No detachable carrier function",
+          "Booster-stage capacity is unused for the first several years of ownership"
+        ],
+        "features": [
+          "4-in-1: rear-facing, forward-facing, highback booster, backless booster",
+          "Rear-facing 4 to 40 pounds, forward-facing 22 to 65 pounds",
+          "10-year usable lifespan",
+          "Simply Safe Adjust harness with integrated buckle lock-off",
+          "Typically $280 to $320, often on sale within this budget"
+        ],
+        "badge": "Top pick"
+      },
+      {
+        "name": "Chicco KeyFit 35 Infant Car Seat",
+        "brand": "Chicco",
+        "asin": "B089HG2QTT",
+        "blurb": "Key specs: Fits infants 4 to 35 pounds, Stay-in-car base with load leg and level indicator, Removable infant head and body support insert.",
+        "strengths": [
+          "One of the best-reviewed infant seats for install accuracy on the first attempt",
+          "Wide stroller compatibility makes it a practical travel-system anchor"
+        ],
+        "limitations": [
+          "Only covers the infant stage, a convertible seat purchase still lies ahead",
+          "Height limit around 30 inches means an earlier switch than some competitors",
+          "A second base for a two-car household adds to the total spend within this budget"
+        ],
+        "features": [
+          "Fits infants 4 to 35 pounds",
+          "Stay-in-car base with load leg and level indicator",
+          "Removable infant head and body support insert",
+          "Compatible with most Chicco strollers",
+          "Typically $200 to $250 with base"
+        ]
+      },
+      {
+        "name": "Evenflo LiteMax 35 Infant Car Seat",
+        "brand": "Evenflo",
+        "asin": "B06VXZG5JH",
+        "blurb": "Key specs: Fits infants 4 to 35 pounds, 8.7-pound carrier shell, Belt lock-off for base-free installation.",
+        "strengths": [
+          "Lightest carrier of the three, easier for daily lifting",
+          "Meets the same federal safety standard as the pricier picks in this list"
+        ],
+        "limitations": [
+          "Fewer premium features than the KeyFit 35 or 4Ever DLX",
+          "Only covers the infant stage, same limitation as the KeyFit 35",
+          "Fabric and padding feel noticeably less premium than the pricier picks"
+        ],
+        "features": [
+          "Fits infants 4 to 35 pounds",
+          "8.7-pound carrier shell",
+          "Belt lock-off for base-free installation",
+          "Typically around $150",
+          "Leaves the most remaining budget of the three picks here"
+        ]
+      },
+      {
+        "name": "Graco Extend2Fit Convertible Car Seat",
+        "brand": "Graco",
+        "asin": "B0DHLSX7GQ",
+        "blurb": "",
+        "strengths": [
+          "Rear-facing to 50 lb, forward-facing harness to 65 lb",
+          "Extension panel lets kids stay rear-facing longer",
+          "No-rethread harness adjusts with the headrest",
+          "InRight LATCH connectors for quick installation"
+        ],
+        "limitations": [
+          "Takes more front-to-back room when the extension is used",
+          "Heavy to move between cars",
+          "Wide for three-across seating"
+        ],
+        "features": []
+      },
+      {
+        "name": "Graco Contender Slim Convertible Car Seat",
+        "brand": "Graco",
+        "asin": "B09NPLTZLR",
+        "blurb": "",
+        "strengths": [
+          "Slim profile saves space",
+          "FAA approved for flights",
+          "No-rethread harness",
+          "Rear-facing to 40 lb"
+        ],
+        "limitations": [
+          "Lower rear-facing limit than Extend2Fit",
+          "Less padding",
+          "Cup holder takes space"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

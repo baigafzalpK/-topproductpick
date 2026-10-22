@@ -1,0 +1,164 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 7 Best Robot Lawn Mowers for Small Yards in 2026",
+  "h1": "The 7 Best Robot Lawn Mowers for Small Yards in 2026",
+  "metaDescription": "Our 7 picks for robot lawn mowers for small yards in 2026, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at robot lawn mowers for small yards in 2026 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-robot-lawn-mowers",
+  "related": [
+    "best-robot-lawn-mowers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Husqvarna Automower 115H",
+        "brand": "Husqvarna",
+        "asin": "B07PGBSGXQ",
+        "blurb": "Key specs: 0.4-acre (17,000 sq ft) coverage, Boundary wire guidance, 2 to 3.6-inch cutting height range.",
+        "strengths": [
+          "Lowest-priced entry point into the Husqvarna Automower lineup",
+          "Simple, well-documented boundary wire installation for straightforward lots",
+          "Runs quietly enough to mow at night without disturbing neighbors",
+          "Long track record and wide dealer network for parts and service"
+        ],
+        "limitations": [
+          "0.4-acre ceiling means it won't scale if you add more lawn later",
+          "Boundary wire installation is more labor upfront than wire-free models",
+          "Fewer multi-zone options than the higher-end Automower tiers"
+        ],
+        "features": [
+          "0.4-acre (17,000 sq ft) coverage",
+          "Boundary wire guidance",
+          "2 to 3.6-inch cutting height range",
+          "4G connectivity with app control",
+          "PIN-protected anti-theft alarm"
+        ],
+        "bestFor": "small yards"
+      },
+      {
+        "name": "Worx Landroid M (WR147)",
+        "brand": "Worx",
+        "asin": "B097NJ37R7",
+        "blurb": "Key specs: 1/4-acre (10,890 sq ft) coverage, AIA narrow-passage navigation, 20V Power Share battery.",
+        "strengths": [
+          "AIA algorithm handles narrow side-yard passages and tight corners well",
+          "Power Share battery is shared with other Worx yard tools",
+          "Noticeably lower price than premium GPS-based competitors",
+          "Floating blade disc reduces scalping on slightly uneven ground"
+        ],
+        "limitations": [
+          "Still requires boundary wire for the main perimeter",
+          "Some owners report needing multiple resets during initial setup",
+          "Smaller coverage ceiling than the Automower 115H"
+        ],
+        "features": [
+          "1/4-acre (10,890 sq ft) coverage",
+          "AIA narrow-passage navigation",
+          "20V Power Share battery",
+          "Floating blade disc for uneven terrain",
+          "App-based scheduling and zone mapping"
+        ],
+        "bestFor": "small yards"
+      },
+      {
+        "name": "Segway Navimow i215 LiDAR Robot Lawn Mower",
+        "brand": "Segway",
+        "asin": "B0G8DDG35Z",
+        "blurb": "",
+        "strengths": [
+          "LiDAR plus vision navigation",
+          "No boundary wire",
+          "Handles slopes up to 45%",
+          "Quiet operation"
+        ],
+        "limitations": [
+          "Coverage limited to smaller yards",
+          "Premium price for its size",
+          "App-dependent setup"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "Segway Navimow i206 AWD Robot Lawn Mower",
+        "brand": "Segway",
+        "asin": "B0G814F6Z4",
+        "blurb": "",
+        "strengths": [
+          "All-wheel drive",
+          "Wire-free auto mapping",
+          "Compact for small lawns",
+          "Built-in connectivity"
+        ],
+        "limitations": [
+          "Small coverage area",
+          "Small battery",
+          "Cellular service terms after first year"
+        ],
+        "features": [],
+        "noImage": true
+      },
+      {
+        "name": "Husqvarna Automower 315X Robotic Lawn Mower",
+        "brand": "Husqvarna",
+        "asin": "B07W6B8BQF",
+        "blurb": "",
+        "strengths": [
+          "Handles complex layouts and 40% slopes",
+          "Automower Connect app and voice control",
+          "Returns to charge automatically",
+          "Proven Husqvarna reliability"
+        ],
+        "limitations": [
+          "Requires boundary wire installation",
+          "Pricier than many wire-free rivals",
+          "Limited cutting height range"
+        ],
+        "features": []
+      },
+      {
+        "name": "WORX Landroid Vision Robot Mower for 1/4 Acre (WR310)",
+        "brand": "WORX",
+        "asin": "B0GNZHMD9Q",
+        "blurb": "",
+        "strengths": [
+          "No boundary wire",
+          "Compact for small yards",
+          "App control",
+          "Uses WORX PowerShare batteries"
+        ],
+        "limitations": [
+          "Limited to about 1/4 acre",
+          "2WD on slopes",
+          "Relies on app connectivity"
+        ],
+        "features": []
+      },
+      {
+        "name": "Segway Navimow i105N Wire-Free Robot Lawn Mower",
+        "brand": "Segway",
+        "asin": "B0CX8LL2PC",
+        "blurb": "",
+        "strengths": [
+          "No boundary wire to install",
+          "App mapping with multiple zones",
+          "Camera obstacle detection",
+          "Quiet operation"
+        ],
+        "limitations": [
+          "Needs clear sky view for RTK",
+          "Small lawns only",
+          "Anti-theft 4G module costs extra"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

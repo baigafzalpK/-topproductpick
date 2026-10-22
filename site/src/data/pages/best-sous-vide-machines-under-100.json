@@ -1,0 +1,89 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Sous Vide Machines Under $100",
+  "h1": "The 3 Best Sous Vide Machines Under $100",
+  "metaDescription": "Our 3 picks for sous vide machines under $100, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at sous vide machines under $100 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-sous-vide-machines",
+  "related": [
+    "best-sous-vide-machines"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Instant Pot Accu Slim Sous Vide Immersion Circulator, 800W",
+        "brand": "Instant Pot",
+        "asin": "B07898VZN9",
+        "blurb": "Key specs: 800W heating element, Typically $70 to $80, Onboard touchscreen, no app required.",
+        "strengths": [
+          "The lowest real-world price of any circulator in this list without sacrificing a usable onboard display",
+          "Clamps directly to an Instant Pot inner pot if you already own one"
+        ],
+        "limitations": [
+          "No app or WiFi features at all",
+          "800W is slower to recover than 1100W competitors on large batches",
+          "203°F max temperature is adequate for sous vide but limits any higher-temp uses"
+        ],
+        "features": [
+          "800W heating element",
+          "Typically $70 to $80",
+          "Onboard touchscreen, no app required",
+          "68°F to 203°F range",
+          "Clamps to 6 or 8-quart Instant Pot inner pot or any stockpot"
+        ]
+      },
+      {
+        "name": "KitchenBoss Sous Vide Cooker G321, 1100W",
+        "brand": "KitchenBoss",
+        "asin": "B08PVNGPF8",
+        "blurb": "Key specs: 1100W brushless DC motor, Typically $75 to $90, Built-in TFT display with preset recipes.",
+        "strengths": [
+          "1100W recovery power for close to the same price as 800W competitors",
+          "Built-in display with recipe presets, no app requirement",
+          "Quiet brushless motor is a genuine upgrade over older-style circulator motors"
+        ],
+        "limitations": [
+          "Smaller brand with less long-term reliability history than Instant Pot or Anova",
+          "Fewer total ratings than the more established competitors",
+          "No app for remote monitoring or saved custom presets"
+        ],
+        "features": [
+          "1100W brushless DC motor",
+          "Typically $75 to $90",
+          "Built-in TFT display with preset recipes",
+          "IPX7 waterproof rating",
+          "Ultra-quiet operation"
+        ]
+      },
+      {
+        "name": "Monoprice Strata Home Sous Vide Immersion Cooker, 1100W",
+        "brand": "Monoprice",
+        "asin": "B07LGFSBT4",
+        "blurb": "Key specs: 1100W brushless motor, Typically $65 to $75, Touch control interface.",
+        "strengths": [
+          "Often the lowest price of any circulator in this list while still hitting 1100W",
+          "Simple touch controls with no learning curve",
+          "IPX7 waterproof rating matches pricier competitors"
+        ],
+        "limitations": [
+          "Least established brand reputation among the picks in this list",
+          "Mixed build-quality feedback compared to Instant Pot or Anova",
+          "No app or smart features"
+        ],
+        "features": [
+          "1100W brushless motor",
+          "Typically $65 to $75",
+          "Touch control interface",
+          "IPX7 waterproof rating",
+          "Adjustable clamp"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

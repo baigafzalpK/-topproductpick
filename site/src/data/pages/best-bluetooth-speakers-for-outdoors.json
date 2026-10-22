@@ -1,0 +1,276 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 10 Best Bluetooth Speakers for Outdoors",
+  "h1": "The 10 Best Bluetooth Speakers for Outdoors",
+  "metaDescription": "Our 10 picks for bluetooth speakers for outdoors, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at bluetooth speakers for outdoors using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "bluetooth-speakers",
+  "related": [
+    "bluetooth-speakers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "JBL Charge 5 Portable Bluetooth Speaker",
+        "brand": "JBL",
+        "asin": "B0F83CBG9Z",
+        "blurb": "Key specs: IP67 dust and water resistance, 20-hour battery life at moderate volume, USB-A output charges phones.",
+        "strengths": [
+          "20 hours of battery covers a full day at a campsite or pool without recharging",
+          "USB-A output doubles as a power bank for phones on multi-day trips",
+          "Bass-forward tuning carries better outdoors where open air absorbs low frequencies",
+          "IP67 handles both submersion and sandy or dusty environments",
+          "PartyBoost links multiple JBL speakers for larger outdoor gatherings"
+        ],
+        "limitations": [
+          "1.76 pounds is heavier than the Flip 6, a real factor on long hikes",
+          "Sinks rather than floats, so a pool drop requires prompt retrieval",
+          "Bass can overwhelm vocals at 80 percent volume and above",
+          "No 3.5mm aux input for wired connections"
+        ],
+        "features": [
+          "IP67 dust and water resistance",
+          "20-hour battery life at moderate volume",
+          "USB-A output charges phones",
+          "JBL PartyBoost multi-speaker pairing",
+          "7,500 mAh battery"
+        ],
+        "badge": "Best Overall Outdoor",
+        "bestFor": "buyers who want the best overall package"
+      },
+      {
+        "name": "Bose SoundLink Flex Bluetooth Speaker",
+        "brand": "Bose",
+        "asin": "B0D6WB7BV6",
+        "blurb": "Key specs: IP67 dust and water resistance, PositionIQ orientation-adaptive EQ, Floats face-up in water.",
+        "strengths": [
+          "PositionIQ keeps sound accurate whether standing, hanging, or lying flat",
+          "Floats face-up, so a pool drop is a retrieval rather than a rescue",
+          "Balanced, clear tuning suits podcasts, acoustic music, and voice better than bass-forward rivals",
+          "Rugged silicone exterior shrugs off drops onto rock or concrete",
+          "Multipoint Bluetooth keeps two devices connected at once"
+        ],
+        "limitations": [
+          "12-hour battery is 8 hours short of the JBL Charge 5",
+          "No USB output to charge a phone in the field",
+          "Bass is noticeably lighter than JBL's outdoor speakers",
+          "At roughly 150 dollars it costs more than most outdoor competitors"
+        ],
+        "features": [
+          "IP67 dust and water resistance",
+          "PositionIQ orientation-adaptive EQ",
+          "Floats face-up in water",
+          "12-hour battery life",
+          "Multipoint Bluetooth pairing"
+        ],
+        "badge": "Best Sound Outdoor",
+        "bestFor": "outdoors"
+      },
+      {
+        "name": "JBL Flip 6 Portable Bluetooth Speaker",
+        "brand": "JBL",
+        "asin": "B09GJZKQ3K",
+        "blurb": "Key specs: IP67 dust and water resistance, 12-hour battery life, Dedicated tweeter for clarity.",
+        "strengths": [
+          "Fits in a water bottle pocket, the best size-to-sound ratio in the outdoor category",
+          "Dedicated tweeter gives clearer highs than JBL's smaller Go and Clip models",
+          "IP67 handles trailhead dust and creek crossings equally well",
+          "PartyBoost pairs with other JBL speakers for group hikes"
+        ],
+        "limitations": [
+          "12-hour battery is half the Charge 5's 20 hours",
+          "Less bass output than the larger Charge 5 at outdoor volume",
+          "No phone-charging output for multi-day trips"
+        ],
+        "features": [
+          "IP67 dust and water resistance",
+          "12-hour battery life",
+          "Dedicated tweeter for clarity",
+          "JBL PartyBoost pairing",
+          "1.2-pound water-bottle-pocket size"
+        ],
+        "bestFor": "outdoors"
+      },
+      {
+        "name": "Ultimate Ears Wonderboom 3 Bluetooth Speaker",
+        "brand": "Ultimate Ears",
+        "asin": "B09KX27KGN",
+        "blurb": "Key specs: IP67 dust and water resistance, 360-degree sound projection, 14-hour battery life.",
+        "strengths": [
+          "No exposed grille means dents and impacts don't damage the driver",
+          "360-degree sound reaches listeners on every side of a campfire or pool",
+          "Outdoor Boost mode noticeably improves vocal clarity in open air",
+          "14-hour battery outlasts the Flip 6 and SoundLink Flex"
+        ],
+        "limitations": [
+          "Bass is thin compared to cylinder speakers with larger drivers",
+          "Max volume is lower than the Boom 3 or Charge 5",
+          "No phone-charging output"
+        ],
+        "features": [
+          "IP67 dust and water resistance",
+          "360-degree sound projection",
+          "14-hour battery life",
+          "Outdoor Boost vocal clarity mode",
+          "Grille-free rubberized barrel design"
+        ],
+        "bestFor": "outdoors"
+      },
+      {
+        "name": "Anker Soundcore Motion Boom Bluetooth Speaker",
+        "brand": "Anker Soundcore",
+        "asin": "B08LQNL42Z",
+        "blurb": "Key specs: IPX7 water resistance, 24-hour battery life, BassUp outdoor bass mode.",
+        "strengths": [
+          "24 hours of battery covers a full weekend trip on one charge",
+          "Titanium driver housing survives drops that crack plastic enclosures",
+          "BassUp mode adds real low end without distorting at outdoor volumes",
+          "Around 100 dollars, undercuts the JBL Charge 5 by roughly 80 dollars"
+        ],
+        "limitations": [
+          "IPX7 only, no dust rating for sandy beach environments",
+          "Bulkier and heavier than cylinder-style outdoor speakers",
+          "App and EQ customization are more limited than JBL's ecosystem"
+        ],
+        "features": [
+          "IPX7 water resistance",
+          "24-hour battery life",
+          "BassUp outdoor bass mode",
+          "Titanium driver housing",
+          "Built-in carry handle"
+        ],
+        "bestFor": "outdoors"
+      },
+      {
+        "name": "Ultimate Ears Boom 3 Bluetooth Speaker",
+        "brand": "Ultimate Ears",
+        "asin": "B07RZ9W2R8",
+        "blurb": "Key specs: IP67 dust and water resistance, 360-degree sound, 15-hour battery life.",
+        "strengths": [
+          "Fuller, deeper bass response than the smaller Wonderboom 3 handles bass-heavy genres better",
+          "15-hour battery beats most cylinder speakers at this price",
+          "Magic Button gives one-touch playlist access without pulling out a phone",
+          "360-degree sound fills a larger campsite or backyard area evenly"
+        ],
+        "limitations": [
+          "Larger and heavier than the Wonderboom 3, less pocketable",
+          "No phone-charging output",
+          "No PartyBoost or JBL Connect+ style multi-brand pairing"
+        ],
+        "features": [
+          "IP67 dust and water resistance",
+          "360-degree sound",
+          "15-hour battery life",
+          "One-touch Magic Button playlist control",
+          "Deeper bass than the Wonderboom 3"
+        ],
+        "bestFor": "outdoors"
+      },
+      {
+        "name": "JBL Go 3 Portable Bluetooth Speaker",
+        "brand": "JBL",
+        "asin": "B08FB2H6Y4",
+        "blurb": "Key specs: IP67 dust and water resistance, 7.6-ounce ultraportable size, 5-hour battery life.",
+        "strengths": [
+          "At 7.6 ounces it is the lightest IP67 speaker on this list, ideal for ounce-counting hikers",
+          "IP67 survives anything a day hike throws at it, from creek splashes to trail dust",
+          "Clips or loops onto a pack strap without added hardware"
+        ],
+        "limitations": [
+          "5-hour battery is the shortest on this list, unsuitable for multi-day trips",
+          "Minimal bass output from its small single driver",
+          "Volume ceiling is too low for group gatherings"
+        ],
+        "features": [
+          "IP67 dust and water resistance",
+          "7.6-ounce ultraportable size",
+          "5-hour battery life",
+          "Built-in loop for clipping to gear",
+          "USB-C charging"
+        ],
+        "bestFor": "outdoors"
+      },
+      {
+        "name": "JBL Clip 4 Portable Bluetooth Speaker",
+        "brand": "JBL",
+        "asin": "B08HRWSYH6",
+        "blurb": "Key specs: IP67 dust and water resistance, Integrated carabiner clip, 10-hour battery life.",
+        "strengths": [
+          "Integrated carabiner is genuinely secure and doesn't rattle loose while hiking",
+          "Clips directly to a backpack strap, tent pole, or belt loop without extra hardware",
+          "IP67 withstands rain, dust, and accidental drops into water",
+          "10-hour battery covers a full day hike"
+        ],
+        "limitations": [
+          "Sound quality and volume drop off noticeably beyond close range",
+          "Bass is minimal given the small single driver",
+          "Not loud enough to anchor a group gathering or campsite"
+        ],
+        "features": [
+          "IP67 dust and water resistance",
+          "Integrated carabiner clip",
+          "10-hour battery life",
+          "Compact close-range sound",
+          "USB-C charging"
+        ],
+        "bestFor": "outdoors"
+      },
+      {
+        "name": "Sony SRS-XB13 Extra Bass Bluetooth Speaker",
+        "brand": "Sony",
+        "asin": "B08ZHCNPMN",
+        "blurb": "Key specs: IP67 dust and water resistance, Extra Bass low-end tuning, 16-hour battery life.",
+        "strengths": [
+          "Extra Bass tuning delivers surprising low-end for a speaker this small",
+          "16-hour battery beats most speakers in its size class",
+          "Built-in strap makes it easy to hang from a pack or tent pole",
+          "IP67 rating matches speakers twice its price"
+        ],
+        "limitations": [
+          "Bass-forward tuning sacrifices vocal clarity on acoustic content",
+          "Max volume is too low for anything beyond a small group",
+          "No app or EQ customization"
+        ],
+        "features": [
+          "IP67 dust and water resistance",
+          "Extra Bass low-end tuning",
+          "16-hour battery life",
+          "Built-in hanging strap",
+          "Palm-sized form factor"
+        ],
+        "bestFor": "outdoors"
+      },
+      {
+        "name": "Tribit XSound Go Bluetooth Speaker",
+        "brand": "Tribit",
+        "asin": "B07594HZ6Y",
+        "blurb": "Key specs: IPX7 water resistance, 24-hour battery life, Compact lightweight build.",
+        "strengths": [
+          "24-hour battery matches speakers costing three times as much",
+          "At roughly 30 dollars, low enough that losing it on a trail is an annoyance, not a loss",
+          "Clean, balanced sound for its price tier",
+          "IPX7 covers pool and rain exposure"
+        ],
+        "limitations": [
+          "No dust rating, so it is riskier at sandy beaches than IP67 rivals",
+          "Bass and max volume trail every other speaker on this list",
+          "Build materials feel noticeably cheaper than JBL or Ultimate Ears"
+        ],
+        "features": [
+          "IPX7 water resistance",
+          "24-hour battery life",
+          "Compact lightweight build",
+          "XBass low-end enhancement",
+          "Roughly $30 price point"
+        ],
+        "bestFor": "outdoors"
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

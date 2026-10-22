@@ -1,0 +1,84 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Baby Monitors Under $100",
+  "h1": "The 3 Best Baby Monitors Under $100",
+  "metaDescription": "Our 3 picks for baby monitors under $100, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at baby monitors under $100 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-baby-monitors",
+  "related": [
+    "best-baby-monitors"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "VTech VM919HD Video Baby Monitor",
+        "brand": "VTech",
+        "asin": "B08KDHJST3",
+        "blurb": "Key specs: 7-inch 720p screen on a dedicated parent unit, No Wi-Fi, secure FHSS transmission, 360-degree pan, 100-degree tilt, 4x zoom.",
+        "strengths": [
+          "1000 ft range is the longest of any monitor in this category's roundups",
+          "No subscription and no app, so the purchase price is the only cost"
+        ],
+        "limitations": [
+          "No remote viewing away from home",
+          "720p resolution is softer than Wi-Fi app-based monitors",
+          "Bulkier handheld parent unit than phone-based systems"
+        ],
+        "features": [
+          "7-inch 720p screen on a dedicated parent unit",
+          "No Wi-Fi, secure FHSS transmission",
+          "360-degree pan, 100-degree tilt, 4x zoom",
+          "Up to 1000 ft open-air range and 15-hour battery",
+          "Automatic infrared night vision"
+        ],
+        "badge": "Top pick"
+      },
+      {
+        "name": "Infant Optics DXR-8 Video Baby Monitor",
+        "brand": "Infant Optics",
+        "asin": "B00ECHYTBI",
+        "blurb": "Key specs: Non-Wi-Fi FHSS connection, Interchangeable optical lens system, Pan, tilt and zoom camera.",
+        "strengths": [
+          "Interchangeable lens system adds long-term flexibility rare at this price"
+        ],
+        "limitations": [
+          "3.5-inch screen is small next to a phone-app view",
+          "480p resolution is the lowest of the monitors covered in this category",
+          "No app or remote access"
+        ],
+        "features": [
+          "Non-Wi-Fi FHSS connection",
+          "Interchangeable optical lens system",
+          "Pan, tilt and zoom camera",
+          "3.5-inch screen with LED sound bar",
+          "Two-way talk and night vision"
+        ]
+      },
+      {
+        "name": "HelloBaby 5-Inch Baby Monitor with 2 Cameras",
+        "brand": "HelloBaby",
+        "asin": "B09WJ562X3",
+        "blurb": "",
+        "strengths": [
+          "No Wi-Fi, app or account needed",
+          "Two cameras included",
+          "Long-lasting parent unit battery",
+          "Pan, tilt, zoom and two-way talk"
+        ],
+        "limitations": [
+          "720p-class screen, not HD-sharp",
+          "Range drops through thick walls",
+          "No phone viewing"
+        ],
+        "features": [],
+        "noImage": true
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

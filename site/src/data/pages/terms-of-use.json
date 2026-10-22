@@ -1,0 +1,30 @@
+{
+  "type": "page",
+  "title": "Terms of Use",
+  "h1": "Terms of Use",
+  "metaDescription": "The terms that apply when you use TopProductPick.",
+  "lede": "By using this site you agree to these terms.",
+  "updatedAt": "2026-10-19",
+  "data": {
+    "sections": [
+      {
+        "h": "Information only",
+        "p": [
+          "Content is for general information. Product details, prices and availability can change; always check the retailer and the manufacturer's instructions before buying or using a product."
+        ]
+      },
+      {
+        "h": "No warranty",
+        "p": [
+          "We work hard to be accurate but provide the site as is, without warranties of any kind."
+        ]
+      },
+      {
+        "h": "Content ownership",
+        "p": [
+          "Text and design on this site belong to TopProductPick. Product names and trademarks belong to their owners."
+        ]
+      }
+    ]
+  }
+}

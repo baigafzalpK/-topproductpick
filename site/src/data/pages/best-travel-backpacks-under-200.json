@@ -1,0 +1,86 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Travel Backpacks Under $200",
+  "h1": "The 3 Best Travel Backpacks Under $200",
+  "metaDescription": "Our 3 picks for travel backpacks under $200, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at travel backpacks under $200 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-travel-backpacks",
+  "related": [
+    "best-travel-backpacks"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Osprey Farpoint 40",
+        "brand": "Osprey",
+        "asin": "B014EBKMMG",
+        "blurb": "Key specs: 40L with removable 11L daypack, LightWire frame suspension, Stowable harness.",
+        "strengths": [
+          "Frame suspension and hipbelt are rare features at this price and comfort level",
+          "Detachable daypack adds real functional value beyond a single-piece bag",
+          "Strong long-term durability track record among frequent travelers"
+        ],
+        "limitations": [
+          "Fixed capacity, no expansion option",
+          "S/M and M/L sizing requires checking torso length before buying"
+        ],
+        "features": [
+          "40L with removable 11L daypack",
+          "LightWire frame suspension",
+          "Stowable harness",
+          "Zip-away hipbelt",
+          "Lockable main compartment"
+        ]
+      },
+      {
+        "name": "Cotopaxi Allpa 35L Travel Pack",
+        "brand": "Cotopaxi",
+        "asin": "B0CQ5L6RV3",
+        "blurb": "Key specs: 35L suitcase-style opening, 1000D TPU-coated polyester, recycled fabrics, Air-mesh back panel.",
+        "strengths": [
+          "Suitcase-style opening packs and unpacks faster than a top-loader",
+          "Recycled fabric build backed by a lifetime warranty"
+        ],
+        "limitations": [
+          "No frame suspension, hip belt is thin compared to the Osprey's harness",
+          "35L is on the smaller side for trips over a week",
+          "Fewer external organization pockets than pricier packs"
+        ],
+        "features": [
+          "35L suitcase-style opening",
+          "1000D TPU-coated polyester, recycled fabrics",
+          "Air-mesh back panel",
+          "Removable hip belt",
+          "Luggage pass-through strap"
+        ]
+      },
+      {
+        "name": "Cotopaxi Allpa 42L Travel Pack",
+        "brand": "Cotopaxi",
+        "asin": "B0CQ5M7LHD",
+        "blurb": "Key specs: 42L suitcase-style opening, 15-inch laptop sleeve, 12.5-inch tablet sleeve, 1000D TPU-coated polyester shell.",
+        "strengths": [
+          "Same fast suitcase-style packing as the 35L version",
+          "Dedicated laptop and tablet sleeves are a genuine upgrade over the 35L"
+        ],
+        "limitations": [
+          "Heavier than the 35L version when fully packed",
+          "No frame suspension for heavier loads carried over long distances"
+        ],
+        "features": [
+          "42L suitcase-style opening",
+          "15-inch laptop sleeve, 12.5-inch tablet sleeve",
+          "1000D TPU-coated polyester shell",
+          "Removable hip belt",
+          "Exterior stretch water bottle pocket"
+        ]
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

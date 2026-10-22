@@ -1,0 +1,84 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 3 Best Deep Fryers Under $50",
+  "h1": "The 3 Best Deep Fryers Under $50",
+  "metaDescription": "Our 3 picks for deep fryers under $50, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at deep fryers under $50 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-deep-fryers",
+  "related": [
+    "best-deep-fryers"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Presto Dual Daddy Electric Deep Fryer",
+        "brand": "Presto",
+        "asin": "B0000DAZ72",
+        "blurb": "Key specs: Dual-well design with removable divider, 1500W element, Automatic thermostat.",
+        "strengths": [
+          "Real deep fry performance at the lowest price point in the category",
+          "Removable divider lets you fry two different foods without mixing flavors",
+          "Automatic thermostat holds temperature without manual adjustment",
+          "Nonstick cast aluminum body cleans up fast, an underrated feature at this price",
+          "Highest customer rating of any fryer in this roundup"
+        ],
+        "limitations": [
+          "1500W element is the slowest to recover of any fryer covered on this site",
+          "8-cup capacity limits batches to small portions per well",
+          "No digital timer or viewing window"
+        ],
+        "features": [
+          "Dual-well design with removable divider",
+          "1500W element",
+          "Automatic thermostat",
+          "Cast aluminum nonstick body",
+          "8-cup total oil capacity",
+          "Typically $40 to $50"
+        ],
+        "badge": "Best overall"
+      },
+      {
+        "name": "Hamilton Beach 35021 Electric Deep Fryer, 8 Cups",
+        "brand": "Hamilton Beach",
+        "asin": "B00ANEKTTA",
+        "blurb": "",
+        "strengths": [
+          "Fry with the lid closed to reduce splatter",
+          "Removable oil tank, lid and heating element for cleaning",
+          "Adjustable temperature and ready light",
+          "Cool-touch sides"
+        ],
+        "limitations": [
+          "2-liter capacity suits small batches",
+          "No oil filtration system",
+          "Oil must be drained by hand"
+        ],
+        "features": []
+      },
+      {
+        "name": "T-fal EZ Clean Compact Deep Fryer, 1.8 L",
+        "brand": "T-fal",
+        "asin": "B0CGMD1VNV",
+        "blurb": "",
+        "strengths": [
+          "Automatic oil filtration and storage",
+          "Dishwasher-safe parts except the heating element",
+          "Locking lid with viewing window",
+          "Compact for small counters"
+        ],
+        "limitations": [
+          "Small 1.8 L oil capacity",
+          "Lower wattage means slower heat recovery",
+          "Takes time to cool before filtering"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Panini Presses and Sandwich Makers Under $60",
+  "h1": "The 4 Best Panini Presses and Sandwich Makers Under $60",
+  "metaDescription": "Our 4 picks for panini presses and sandwich makers under $60, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at panini presses and sandwich makers under $60 using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-panini-presses",
+  "related": [
+    "best-panini-presses"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Hamilton Beach Panini Press 25460A",
+        "brand": "Hamilton Beach",
+        "asin": "B00IWOJRSM",
+        "blurb": "Key specs: Floating hinge opens 180 degrees, 8-inch by 10-inch nonstick grids, Locking latch for storage.",
+        "strengths": [
+          "Floating hinge is the key upgrade at this price, adjusts to thick and unevenly loaded sandwiches",
+          "8x10 grid fits larger sandwiches and tortillas than budget clamshell units",
+          "180-degree opening doubles as a flat grill for burgers, bacon, or vegetables"
+        ],
+        "limitations": [
+          "No temperature dial, still runs at one fixed heat",
+          "Grids aren't removable for deep cleaning"
+        ],
+        "features": [
+          "Floating hinge opens 180 degrees",
+          "8-inch by 10-inch nonstick grids",
+          "Locking latch for storage",
+          "Ready indicator light",
+          "Chrome housing"
+        ]
+      },
+      {
+        "name": "Proctor Silex Deluxe Hot Sandwich Maker",
+        "brand": "Proctor Silex",
+        "asin": "B07RNT1J7S",
+        "blurb": "Key specs: Fits 2 sandwiches at once, Ceramic nonstick plates, 700W element.",
+        "strengths": [
+          "Ceramic nonstick plates perform well for basic sandwiches and quesadillas",
+          "Smaller footprint than the Hamilton Beach if storage space is tight"
+        ],
+        "limitations": [
+          "Fixed clamshell gap, no floating hinge",
+          "Smaller plates than the Hamilton Beach",
+          "No flat-grill secondary mode"
+        ],
+        "features": [
+          "Fits 2 sandwiches at once",
+          "Ceramic nonstick plates",
+          "700W element",
+          "Compact upright storage",
+          "Indicator lights"
+        ]
+      },
+      {
+        "name": "Cuisinart GR-4N 5-in-1 Griddler",
+        "brand": "Cuisinart",
+        "asin": "B002YD99Y4",
+        "blurb": "",
+        "strengths": [
+          "Five cooking modes",
+          "Removable, dishwasher-safe reversible plates",
+          "Floating cover for thick sandwiches",
+          "Adjustable temperature"
+        ],
+        "limitations": [
+          "Plates take up storage space",
+          "Nonstick wears over time",
+          "Drip tray small for fatty foods"
+        ],
+        "features": []
+      },
+      {
+        "name": "Elite Platinum EPN-2811 Panini Press",
+        "brand": "Elite Platinum",
+        "asin": "B087QP3NCQ",
+        "blurb": "",
+        "strengths": [
+          "Floating hinge fits thick sandwiches",
+          "Removable grease tray",
+          "Stainless steel exterior",
+          "Budget price"
+        ],
+        "limitations": [
+          "Plates are not removable",
+          "Smaller cooking area",
+          "No temperature control"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

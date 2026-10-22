@@ -1,0 +1,108 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 4 Best Dog Beds for Chewers",
+  "h1": "The 4 Best Dog Beds for Chewers",
+  "metaDescription": "Our 4 picks for dog beds for chewers, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at dog beds for chewers using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-dog-beds",
+  "related": [
+    "best-dog-beds"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "Kuranda Chewproof Elevated Dog Bed",
+        "brand": "Kuranda",
+        "asin": "B004E2GC2U",
+        "blurb": "Key specs: PVC frame rated to 250 pounds, Ballistic-grade Cordura or vinyl fabric, No foam or stuffing to tear apart.",
+        "strengths": [
+          "No loose foam or stuffing gives a destructive chewer nothing to pull apart and scatter",
+          "PVC frame and ballistic fabric resist scratching and gnawing far better than soft fabric beds",
+          "Replaceable fabric panels extend the bed's life even if a determined dog eventually wears through one",
+          "Elevated platform also keeps dogs off cold or hot floors"
+        ],
+        "limitations": [
+          "No foam means less joint support for senior or arthritic dogs",
+          "Rigid frame takes up more fixed floor space than a soft mat"
+        ],
+        "features": [
+          "PVC frame rated to 250 pounds",
+          "Ballistic-grade Cordura or vinyl fabric",
+          "No foam or stuffing to tear apart",
+          "Elevated platform design",
+          "Made in the USA with replaceable fabric"
+        ],
+        "badge": "Best overall",
+        "bestFor": "chewers"
+      },
+      {
+        "name": "PetFusion Ultimate Dog Bed",
+        "brand": "PetFusion",
+        "asin": "B00TQ47CPW",
+        "blurb": "Key specs: YKK zippers on both foam and bolster compartments, Solid 4-inch memory foam base, 35% cotton breathable cover.",
+        "strengths": [
+          "YKK zippers resist a dog's teeth and paws better than standard plastic zippers",
+          "Solid foam base is harder to pull apart in chunks than loose fiber fill",
+          "Still provides real joint support unlike foam-free elevated beds"
+        ],
+        "limitations": [
+          "Not marketed or built as chew-resistant, a determined chewer can still reach the foam",
+          "Fabric cover itself is still vulnerable to scratching and gnawing"
+        ],
+        "features": [
+          "YKK zippers on both foam and bolster compartments",
+          "Solid 4-inch memory foam base",
+          "35% cotton breathable cover",
+          "Waterproof inner liner"
+        ],
+        "bestFor": "chewers"
+      },
+      {
+        "name": "Furhaven Orthopedic Dog Bed Jumbo/XL",
+        "brand": "Furhaven",
+        "asin": "B00D2VB54O",
+        "blurb": "Key specs: Egg-crate orthopedic foam base, Removable, machine-washable cover, Jumbo/XL size for dogs up to 95 pounds.",
+        "strengths": [
+          "Low enough price that replacing a destroyed bed is not a major loss",
+          "Washable cover handles the mess of a partially chewed bed until replacement",
+          "Large size and soft cover still gives a non-chewing housemate real comfort"
+        ],
+        "limitations": [
+          "Not chew-resistant in any way, a determined chewer will destroy it quickly",
+          "Foam scatters everywhere once a dog gets into it, creating cleanup and a choking risk",
+          "Should not be left unsupervised with a known destructive chewer"
+        ],
+        "features": [
+          "Egg-crate orthopedic foam base",
+          "Removable, machine-washable cover",
+          "Jumbo/XL size for dogs up to 95 pounds"
+        ],
+        "bestFor": "chewers"
+      },
+      {
+        "name": "Coolaroo Original Elevated Cooling Dog Bed",
+        "brand": "Coolaroo",
+        "asin": "B0091E7Q2G",
+        "blurb": "",
+        "strengths": [
+          "Breathable mesh stays cool",
+          "Off-the-ground support",
+          "Easy to hose clean",
+          "Durable steel frame"
+        ],
+        "limitations": [
+          "No cushioning",
+          "Determined chewers can damage edges",
+          "Assembly required"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "buying-guide",
+  "title": "How to Choose an Electric Toothbrush: Oscillating vs Sonic",
+  "h1": "How to Choose an Electric Toothbrush",
+  "metaDescription": "Oscillating or sonic, which features matter and what to ignore: a simple guide to choosing an electric toothbrush.",
+  "lede": "Electric toothbrushes range from simple to very expensive. The features that help most are found on inexpensive models too.",
+  "updatedAt": "2026-10-19",
+  "category": "electric-toothbrushes",
+  "related": ["best-electric-toothbrushes", "electric-toothbrushes"],
+  "data": {
+    "sections": [
+      {
+        "h": "Oscillating vs sonic",
+        "p": [
+          "Oscillating-rotating brushes, mainly from Oral-B, use a small round head that spins back and forth. Sonic brushes, such as Sonicare, use a traditional-shaped head that vibrates very quickly from side to side.",
+          "Both types clean well when used properly. Choose based on feel, noise and the cost of replacement heads."
+        ]
+      },
+      {
+        "h": "Features that matter",
+        "p": ["These help most people brush better:"],
+        "list": ["A two-minute timer, ideally with 30-second prompts to move to the next area", "A pressure sensor, which warns you if you're pressing too hard", "Affordable, easy-to-find replacement heads"]
+      },
+      {
+        "h": "Features you can skip",
+        "p": ["App tracking, many brushing modes and colored handles are nice to have but don't make a big difference for most people."]
+      },
+      {
+        "h": "Count the running cost",
+        "p": ["You'll replace the head about every three months. Over a few years, head prices can matter more than the price of the handle."]
+      }
+    ],
+    "faqs": [
+      { "q": "Can I use an electric toothbrush with braces or sensitive teeth?", "a": "Many people do, and some brushes offer sensitive modes or special heads. Ask your dentist or orthodontist for a recommendation." },
+      { "q": "Can family members share a handle?", "a": "Yes, as long as each person uses their own brush head. Many brands sell colored rings to tell heads apart." }
+    ]
+  }
+}

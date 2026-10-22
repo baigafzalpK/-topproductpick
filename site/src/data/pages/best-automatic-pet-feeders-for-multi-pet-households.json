@@ -1,0 +1,130 @@
+{
+  "type": "roundup",
+  "imported": true,
+  "title": "The 5 Best Automatic Pet Feeders for Multi-Pet Households",
+  "h1": "The 5 Best Automatic Pet Feeders for Multi-Pet Households",
+  "metaDescription": "Our 5 picks for automatic pet feeders for multi-pet households, with key specs, strengths and limitations for each, based on manufacturer specs, independent reviews and owner reports.",
+  "lede": "We looked at automatic pet feeders for multi-pet households using manufacturer specs, independent reviews and owner reports. Each pick lists what it does well and where it falls short, so you can match it to how you'll use it.",
+  "updatedAt": "2026-10-20",
+  "category": "best-automatic-pet-feeders",
+  "related": [
+    "best-automatic-pet-feeders"
+  ],
+  "data": {
+    "products": [
+      {
+        "name": "SureFeed Microchip Pet Feeder Connect",
+        "brand": "SureFeed",
+        "asin": "B07RHZHHGN",
+        "blurb": "Key specs: Opens only for the registered pet's microchip or RFID collar tag, Sealed lid keeps food fresh between visits, Training mode opens the lid gradually for timid pets.",
+        "strengths": [
+          "The only feeder in this list that physically blocks a second pet from opening the bowl",
+          "Sealed lid keeps wet or dry food noticeably fresher than open-bowl feeders",
+          "Long 3-year warranty versus the 1 to 2 years typical of competitors"
+        ],
+        "limitations": [
+          "The Connect app and remote feeding history require a separately sold hub",
+          "Stores one meal at a time rather than a full day's schedule like hopper feeders",
+          "Learning curve during the first week while pets adjust to the lid opening"
+        ],
+        "features": [
+          "Opens only for the registered pet's microchip or RFID collar tag",
+          "Sealed lid keeps food fresh between visits",
+          "Training mode opens the lid gradually for timid pets",
+          "Connect version links to the Sure Petcare app via a separate hub",
+          "3-year manufacturer warranty"
+        ],
+        "badge": "Top pick",
+        "bestFor": "multi pet households"
+      },
+      {
+        "name": "PetSafe Smart Feed Automatic Dog & Cat Feeder",
+        "brand": "PetSafe",
+        "asin": "B073WYP317",
+        "blurb": "Key specs: 24-cup / 6L hopper capacity, Wi-Fi app control with up to 12 scheduled meals per day, Portions from 1/8 cup to 4 cups.",
+        "strengths": [
+          "Large 24-cup hopper covers a multi-pet household for a week or more between refills",
+          "Optional meal-splitter accessory divides one hopper's output into two bowls",
+          "Slow Feed setting slows down a fast eater without buying a separate bowl"
+        ],
+        "limitations": [
+          "No built-in mechanism to stop one pet from eating a second pet's portion",
+          "Meal splitter only divides a single feeding, not different food types",
+          "Wi-Fi dependent for schedule changes and remote feeding"
+        ],
+        "features": [
+          "24-cup / 6L hopper capacity",
+          "Wi-Fi app control with up to 12 scheduled meals per day",
+          "Portions from 1/8 cup to 4 cups",
+          "Slow Feed setting spreads a meal over about 15 minutes",
+          "Backup batteries keep the schedule running through a power outage"
+        ],
+        "bestFor": "multi pet households"
+      },
+      {
+        "name": "PETLIBRO Granary Camera Feeder with AI Multi-Pet Recognition",
+        "brand": "PETLIBRO",
+        "asin": "B0FMRKSXQZ",
+        "blurb": "Key specs: 1080p camera with night vision and 360-degree auto tracking, AI recognition identifies individual cats without a chip or tag, Two-way audio and motion/sound alerts.",
+        "strengths": [
+          "Logs which cat approached and how much it ate without any hardware on the pet",
+          "Camera and two-way audio double as a general pet-monitoring tool",
+          "Daily activity summaries flag feeding pattern changes worth mentioning to a vet"
+        ],
+        "limitations": [
+          "AI recognition doesn't physically stop a pet from eating from the wrong bowl",
+          "Cloud video history requires a paid subscription beyond basic alerts",
+          "Newer product with a smaller review history than the PetSafe or SureFeed"
+        ],
+        "features": [
+          "1080p camera with night vision and 360-degree auto tracking",
+          "AI recognition identifies individual cats without a chip or tag",
+          "Two-way audio and motion/sound alerts",
+          "Daily activity analysis and per-pet feeding summaries in the app",
+          "Granary-style hopper with low-food sensor"
+        ],
+        "bestFor": "multi pet households"
+      },
+      {
+        "name": "PETLIBRO Granary 5L Wi-Fi Automatic Pet Feeder",
+        "brand": "PETLIBRO",
+        "asin": "B09S8WMJY9",
+        "blurb": "",
+        "strengths": [
+          "App scheduling for up to 10 meals a day",
+          "5-liter hopper lasts several days for one cat or small dog",
+          "Low-food alerts in the app",
+          "Battery backup keeps scheduled meals running during power cuts"
+        ],
+        "limitations": [
+          "Dry food only",
+          "Needs a 2.4/5 GHz Wi-Fi setup for remote features",
+          "Portion size varies with kibble shape"
+        ],
+        "features": []
+      },
+      {
+        "name": "PETLIBRO Automatic Cat Feeder for 2 Cats (Dual Bowls)",
+        "brand": "PETLIBRO",
+        "asin": "B0D44QYZ7Z",
+        "blurb": "",
+        "strengths": [
+          "Feeds two cats at once",
+          "Stainless steel bowls",
+          "App scheduling up to 10 meals",
+          "Airtight lid keeps food fresh"
+        ],
+        "limitations": [
+          "Doesn't stop one cat eating both portions",
+          "Dry food only",
+          "Wi-Fi setup required"
+        ],
+        "features": []
+      }
+    ],
+    "howWeChose": [
+      "Picks are based on manufacturer specs, independent reviews and owner reports. We don't claim our own testing.",
+      "We do not list prices or star ratings because they change. Check Amazon for current details."
+    ]
+  }
+}
