@@ -120,21 +120,37 @@ export function ProductCard({ product, rank, id, hubHref, as = "h2" }: { product
             {hubHref ? <Link href={hubHref}>{product.name}</Link> : product.name}
           </H>
           <p className="brand-line">
-            {product.brand}
-            {product.bestFor && <> · Best for {product.bestFor}</>}
+            <strong>Brand:</strong> {product.brand}
+            {product.bestFor && <> · <strong>Best for:</strong> {product.bestFor}</>}
           </p>
+          {product.asin && <p className="small" style={{ margin: "2px 0 0" }}>ASIN: {product.asin}</p>}
         </div>
       </div>
-      {product.blurb && <p>{product.blurb}</p>}
-      {product.features && product.features.length > 0 && (
-        <ul className="features">{product.features.map((f, i) => <li key={i}>{f}</li>)}</ul>
+
+      {product.blurb && (
+        <div className="product-description-block" style={{ margin: "14px 0 8px" }}>
+          <p className="product-blurb-text" style={{ margin: 0 }}>
+            {product.blurb}
+          </p>
+        </div>
       )}
+
+      {product.features && product.features.length > 0 && (
+        <div style={{ margin: "10px 0" }}>
+          <span className="small" style={{ fontWeight: 700, textTransform: "uppercase", letterSpacing: "0.04em", display: "inline-block", marginBottom: "4px" }}>
+            Key Specifications & Features:
+          </span>
+          <ul className="features">{product.features.map((f, i) => <li key={i}>{f}</li>)}</ul>
+        </div>
+      )}
+
       <ProCon product={product} />
+
       <div className="product-actions">
         <AmazonButton product={product} />
         {hubHref && (
           <Link className="btn btn-ghost" href={hubHref}>
-            Product details
+            Full product details & review &rarr;
           </Link>
         )}
       </div>
