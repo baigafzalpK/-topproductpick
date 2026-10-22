@@ -24,3 +24,5 @@ site/.wrangler/
 *.log
 .DS_Store
 Thumbs.db
+AGENTS.md
+site/AGENTS.md
