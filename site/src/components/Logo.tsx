@@ -1,24 +1,30 @@
 import Link from "next/link";
 import { siteConfig } from "@/lib/site";
 
-// Logo files are generated from assets/brand/logo-original.jpg by scripts/make-logo.mjs.
-// Each logo ships a light and a dark version; CSS shows the one that matches the theme.
-export function BrandImage({ variant, height }: { variant: "header" | "full"; height: number }) {
-  const base = variant === "header" ? "/images/brand/logo-header" : "/images/brand/logo";
-  // Both files share one aspect ratio: 640x185 (header) and 800x232 (full).
-  const width = Math.round(height * (variant === "header" ? 640 / 185 : 800 / 232));
+export function BrandLogo() {
   return (
-    <>
-      <img className="brand-light" src={`${base}.png`} alt={siteConfig.name} width={width} height={height} />
-      <img className="brand-dark" src={`${base}-dark.png`} alt="" aria-hidden="true" width={width} height={height} />
-    </>
+    <div className="brand-logo-mark">
+      <svg width="26" height="26" viewBox="0 0 28 28" fill="none" aria-hidden="true">
+        <path d="M14 2L3 7.5V15C3 21.2 7.7 26.8 14 28C20.3 26.8 25 21.2 25 15V7.5L14 2Z" fill="#0f2b48" />
+        <path d="M9.5 14.5L12.5 17.5L18.5 10.5" stroke="#f2a93b" strokeWidth="2.8" strokeLinecap="round" strokeLinejoin="round" />
+      </svg>
+      <span className="brand-logo-text">
+        <strong className="brand-navy">TruePicks</strong>
+        <span className="brand-gold">Daily</span>
+      </span>
+    </div>
   );
 }
 
 export function Logo() {
   return (
-    <Link href="/" className="logo" aria-label={`${siteConfig.name} home`}>
-      <BrandImage variant="header" height={46} />
+    <Link href="/" className="logo-link" aria-label="TruePicksDaily home">
+      <BrandLogo />
     </Link>
   );
+}
+
+// Backward compatibility export if needed elsewhere
+export function BrandImage({ variant, height }: { variant: "header" | "full"; height: number }) {
+  return <BrandLogo />;
 }

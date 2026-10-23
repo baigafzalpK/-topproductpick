@@ -38,84 +38,123 @@ export default function Home() {
 
   return (
     <>
-      <section className="hero-banner">
-        <div className="hero-decorations" aria-hidden="true">
-          <div className="hero-circle hero-circle-1" />
-          <div className="hero-circle hero-circle-2" />
-          <div className="hero-circle hero-circle-3" />
+      <section className="hero-editorial">
+        <div className="hero-editorial-bg" style={{ backgroundImage: "url('/images/hero/hero-watercolor-bg.jpg')" }}>
+          <div className="hero-editorial-overlay" />
         </div>
-        <div className="container hero-grid">
-          <div className="hero-content">
-            <h1 className="hero-title">
-              Find the right product, <span className="hero-highlight">not just the popular one.</span>
+
+        <div className="container hero-editorial-grid">
+          {/* Left Column */}
+          <div className="hero-editorial-content">
+            <h1 className="hero-editorial-title">
+              Every product,<br />
+              honestly<br />
+              researched.
             </h1>
-            <p className="hero-lead">
-              Research-driven best-of lists, head-to-head comparisons and plain-language buying guides, so you can buy once and buy right.
+            <p className="hero-editorial-lead">
+              True Picks Daily reads the manuals, the specs and thousands of owner reports — across kitchen, tech, home, outdoors and every category worth buying in — so you can skip the guesswork and buy with confidence.
             </p>
-            <form className="hero-search-box" action="/search" role="search">
+
+            <form className="hero-editorial-search" action="/search" role="search">
               <label htmlFor="home-q" className="skip">
                 Search
               </label>
-              <svg className="hero-search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
-                <circle cx="11" cy="11" r="8" />
-                <path d="m21 21-4.3-4.3" />
-              </svg>
-              <input id="home-q" name="q" type="search" placeholder="Search 1,800+ guides, reviews & comparisons" />
-              <button className="hero-search-btn" type="submit" aria-label="Search">
-                Search
+              <input
+                id="home-q"
+                name="q"
+                type="search"
+                placeholder="Search products, guides, reviews..."
+                autoComplete="off"
+              />
+              <button type="submit" aria-label="Search">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+                  <circle cx="11" cy="11" r="8" />
+                  <path d="m21 21-4.3-4.3" />
+                </svg>
               </button>
             </form>
-            <div className="hero-popular" aria-label="Popular topics">
-              <span className="hero-popular-label">Popular:</span>
-              <Link href="/air-fryers" className="hero-tag-pill">Air fryers</Link>
-              <Link href="/espresso-machines" className="hero-tag-pill">Espresso machines</Link>
-              <Link href="/robot-vacuums" className="hero-tag-pill">Robot vacuums</Link>
-              <Link href="/standing-desks" className="hero-tag-pill">Standing desks</Link>
-              <Link href="/3d-printers" className="hero-tag-pill">3D printers</Link>
+
+            <div className="hero-editorial-try" aria-label="Popular search topics">
+              <span className="try-label">Try:</span>
+              <Link href="/air-fryers" className="try-pill">Air fryer</Link>
+              <Link href="/best-robot-vacuums" className="try-pill">Robot vacuum</Link>
+              <Link href="/wireless-earbuds" className="try-pill">Wireless earbuds</Link>
+              <Link href="/espresso-machines" className="try-pill">Espresso machine</Link>
+              <Link href="/standing-desks" className="try-pill">Standing desk</Link>
+            </div>
+
+            <div className="hero-editorial-footnote">
+              <span className="footnote-trust">No paid placements · No invented ratings · Research-based picks</span>
+              <span className="footnote-affiliate">As an Amazon Associate I earn from qualifying purchases.</span>
             </div>
           </div>
 
-          <div className="hero-gallery-wrap">
-            <div className="hero-gallery">
-              <div className="hero-img-card hero-img-tall">
-                <img
-                  src="/images/hero/hero-main.jpg"
-                  alt="Reviewing and testing digital camera gear"
-                  width={540}
-                  height={680}
-                  loading="eager"
+          {/* Right Column - Picks of the Week Orbit Widget */}
+          <div className="hero-editorial-widget-wrap">
+            <div className="orbit-constellation">
+              {/* Dashed Connecting Diamond Lines */}
+              <svg className="orbit-lines" viewBox="0 0 440 440" aria-hidden="true">
+                <polygon
+                  points="220,52 388,220 220,388 52,220"
+                  fill="none"
+                  stroke="#c05621"
+                  strokeWidth="1.5"
+                  strokeDasharray="5 5"
+                  opacity="0.45"
                 />
-              </div>
-              <div className="hero-img-card hero-img-top">
-                <img
-                  src="/images/hero/hero-kitchen.jpg"
-                  alt="Testing kitchen espresso machines"
-                  width={460}
-                  height={320}
-                  loading="eager"
-                />
-              </div>
-              <div className="hero-img-card hero-img-bottom">
-                <img
-                  src="/images/hero/hero-desk.jpg"
-                  alt="Ergonomic desk and headphone listening"
-                  width={460}
-                  height={320}
-                  loading="eager"
-                />
-              </div>
-            </div>
+              </svg>
 
-            <div className="hero-trust-badge">
-              <div className="trust-badge-icon">
-                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
-                  <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
-                  <path d="m9 12 2 2 4-4" />
-                </svg>
+              {/* Central Badge */}
+              <div className="orbit-center-card">
+                <span className="orbit-pill">PICKS OF THE WEEK</span>
+                <span className="orbit-title">
+                  4 picks, 4<br />product types
+                </span>
+                <span className="orbit-sub">Hover a product for details</span>
               </div>
-              <div className="trust-badge-text">
-                <strong>No paid placements</strong>
-                <span>Rankings can't be bought</span>
+
+              {/* Top Node: Robot Vacuum */}
+              <div className="orbit-node orbit-node-top">
+                <Link href="/best-robot-vacuums" className="orbit-disc" aria-label="Robot Vacuums Pick">
+                  <img src="/images/hero/product-vacuum.jpg" alt="Robot vacuum" width={80} height={80} />
+                  <div className="orbit-tooltip">
+                    <strong>iRobot Roomba j7+</strong>
+                    <span>Best overall robot vacuum</span>
+                  </div>
+                </Link>
+              </div>
+
+              {/* Left Node: Over-ear Headphones */}
+              <div className="orbit-node orbit-node-left">
+                <Link href="/noise-cancelling-headphones" className="orbit-disc" aria-label="Wireless Headphones Pick">
+                  <img src="/images/hero/product-headphones.jpg" alt="Wireless headphones" width={76} height={76} />
+                  <div className="orbit-tooltip">
+                    <strong>Sony WH-1000XM5</strong>
+                    <span>Top noise cancelling headphones</span>
+                  </div>
+                </Link>
+              </div>
+
+              {/* Right Node: Camping Tent */}
+              <div className="orbit-node orbit-node-right">
+                <Link href="/outdoor-and-garden" className="orbit-disc" aria-label="Camping Tent Pick">
+                  <img src="/images/hero/product-tent.jpg" alt="Camping tent" width={82} height={82} />
+                  <div className="orbit-tooltip">
+                    <strong>Coleman Sundome</strong>
+                    <span>Best starter camping tent</span>
+                  </div>
+                </Link>
+              </div>
+
+              {/* Bottom Node: Espresso Machine */}
+              <div className="orbit-node orbit-node-bottom">
+                <Link href="/espresso-machines" className="orbit-disc" aria-label="Espresso Machine Pick">
+                  <img src="/images/hero/product-espresso.jpg" alt="Espresso machine" width={76} height={76} />
+                  <div className="orbit-tooltip">
+                    <strong>Breville Barista Express</strong>
+                    <span>Best all-in-one espresso</span>
+                  </div>
+                </Link>
               </div>
             </div>
           </div>
