@@ -121,6 +121,37 @@ h3 { font-size: 1.25rem; margin: 1.2em 0 0.4em; }
 }
 
 /* Brand Logo */
+.brand-logo-wrap {
+  display: inline-flex;
+  align-items: center;
+  line-height: 1;
+}
+.brand-logo-img {
+  height: 42px;
+  width: auto;
+  max-width: 220px;
+  object-fit: contain;
+  display: block;
+  transition: opacity 0.2s ease;
+}
+.brand-logo-dark {
+  display: none !important;
+}
+.brand-logo-light {
+  display: block !important;
+}
+:root[data-theme="dark"] .brand-logo-light {
+  display: none !important;
+}
+:root[data-theme="dark"] .brand-logo-dark {
+  display: block !important;
+}
+.brand-icon-img {
+  object-fit: contain;
+  display: inline-block;
+  vertical-align: middle;
+}
+
 .brand-logo-mark {
   display: inline-flex;
   align-items: center;

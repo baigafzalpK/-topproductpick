@@ -81,7 +81,7 @@ export function Header() {
               <div className="nav-dropdown">
                 <div className="nav-dropdown-col">
                   <strong>Editorial Standards</strong>
-                  <Link href="/about">About TruePicksDaily</Link>
+                  <Link href="/about">About TopProductPick</Link>
                   <Link href="/methodology">How We Research</Link>
                   <Link href="/editorial-policy">Editorial Policy</Link>
                   <Link href="/affiliate-disclosure">Affiliate Disclosure</Link>
