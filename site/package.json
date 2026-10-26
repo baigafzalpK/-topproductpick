@@ -8,6 +8,7 @@
     "build:cf": "node scripts/build-index.mjs && next build && node scripts/prune-export.mjs",
     "deploy": "npm run build:cf && npx --yes wrangler@4 deploy",
     "index": "node scripts/build-index.mjs",
+    "indexnow": "node scripts/submit-indexnow.mjs",
     "audit:links": "node scripts/audit-links.mjs",
     "typecheck": "tsc --noEmit"
   },
